@@ -11002,6 +11002,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yosemi-7.com^$document
 ||yoshiblonet.com^$document
 ||yoshiemon-docodemopocket.com^$document
+||yoshigame.com^$document
 ||yoshikazu-komatsu.com^$document
 ||yoshiki01.com^$document
 ||yoshilover.com^$document

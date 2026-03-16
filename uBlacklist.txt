@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://yoshigame.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -26312,6 +26311,7 @@
 *://yosemi-7.com/*
 *://yoshiblonet.com/*
 *://yoshiemon-docodemopocket.com/*
+*://yoshigame.com/*
 *://yoshikazu-komatsu.com/*
 *://yoshiki01.com/*
 *://yoshilover.com/*
