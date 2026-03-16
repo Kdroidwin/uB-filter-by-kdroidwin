@@ -1,32 +1,4 @@
 *://*.000webhostapp.com/*
-*://jp.pogoskill.com/*
-*://utorrent-beta.jp.uptodown.com/*
-*://utorrent.jp.aptoide.com/*
-title/µTorrent®- /
-*://jp.bitcomet.com/*
-*://bitcomet.jp.uptodown.com/*
-title/BitComet Download/
-*://www.bitcomet.io/*
-title/Download BitComet/
-*://members.bitcomet.com/*
-title/BitComet - Download/
-*://bitcomet.kirishimaya.com/*
-*://softaro.jp/bitcomet/*
-*://bitcomet.org.cn/*
-*://bitcomet.jp.malavida.com/*
-*://www.sunvpn.com/*
-*://bitlord-torrent-streamer-and-downloader.jp.uptodown.com/*
-title/BitLord - /
-*://bitlord.jp.malavida.com/*
-*://bitlord.jp.uptodown.com/*
-*://bitspirit.jp.uptodown.com/*
-*://www.softpedia.com/*
-*://softradar.com/*
-*://baixe.net/*
-*://bitspirit.en.uptodown.com/*
-*://bitspirit.en.filerox.com/*
-*://bitspirit.informer.com/*
-title/Download BitSpirit/
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16701,6 +16673,7 @@ title/Download BitSpirit/
 *://baghdadacademydom.com/*
 *://baikal.boats/*
 *://baixarapk.gratis/*
+*://baixe.net/*
 *://bakery-fukufuku.com/*
 *://bakuhou-geinou.net/*
 *://bakujou.com/*
@@ -16835,10 +16808,21 @@ title/Download BitSpirit/
 *://bismillahfoodbd.com/*
 *://bitcash.me/*
 *://bitcoden.com/*
+*://bitcomet.jp.malavida.com/*
+*://bitcomet.jp.uptodown.com/*
+*://bitcomet.kirishimaya.com/*
+*://bitcomet.org.cn/*
 *://bitdefenderantivirus.jp/*
 *://biter.shorrt.live/*
+*://bitlord-torrent-streamer-and-downloader.jp.uptodown.com/*
+*://bitlord.jp.malavida.com/*
+*://bitlord.jp.uptodown.com/*
 *://bitregions.com/*
 *://bitsend.jp/*
+*://bitspirit.en.filerox.com/*
+*://bitspirit.en.uptodown.com/*
+*://bitspirit.informer.com/*
+*://bitspirit.jp.uptodown.com/*
 *://bitubu.blog.jp/*
 *://biturl.top/*
 *://bitwave.showcase-tv.com/*
@@ -19564,9 +19548,11 @@ title/Download BitSpirit/
 *://jp.adlock.com/*
 *://jp.adorable-pet.com/*
 *://jp.bignox.com/appcenter/*
+*://jp.bitcomet.com/*
 *://jp.itopvpn.com/*
 *://jp.ldplayer.net/apps/*
 *://jp.mobile.japex.ru/*
+*://jp.pogoskill.com/*
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
@@ -20578,6 +20564,7 @@ title/Download BitSpirit/
 *://meli-melo.blog.jp/*
 *://meltsold.mydees.com/*
 *://melty-novel.com/*
+*://members.bitcomet.com/*
 *://memememe7526.com/*
 *://memento79.net/*
 *://memomalog.com/*
@@ -23020,8 +23007,10 @@ title/Download BitSpirit/
 *://socius101.com/*
 *://soco-cobo0587.com/*
 *://sofarztp.redeagle-security.com/*
+*://softaro.jp/bitcomet/*
 *://softcake12.xyz/*
 *://softontop.com/*
+*://softradar.com/*
 *://software-on.com/*
 *://software-solution-tec.com/*
 *://soicau88.me/*
@@ -24015,6 +24004,8 @@ title/Download BitSpirit/
 *://utilly.ne.jp/*
 *://utilly.ne.jp/article/*
 *://utina-ketumekko.com/*
+*://utorrent-beta.jp.uptodown.com/*
+*://utorrent.jp.aptoide.com/*
 *://utorrent.jp.uptodown.com/*
 *://utqbffn.cn/*
 *://uu4nfcq.buergerhaus-initiative.de/*
@@ -24590,6 +24581,7 @@ title/Download BitSpirit/
 *://www.biscuit-online.com/*
 *://www.bistro4.fi/*
 *://www.bitcomet.com/*
+*://www.bitcomet.io/*
 *://www.bitlord.com/*
 *://www.bittorrent.com/*
 *://www.bjbnb.cn/*
@@ -25785,6 +25777,7 @@ title/Download BitSpirit/
 *://www.smshero.vip/*
 *://www.so-le.net/*
 *://www.soft222.com/*
+*://www.softpedia.com/*
 *://www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*
 *://www.softproinnovations.com/*
 *://www.softwareskills.eu/*
@@ -25822,6 +25815,7 @@ title/Download BitSpirit/
 *://www.sungrove.co.jp/*
 *://www.sunlounge-go-ya-gym.com/*
 *://www.sunshinecoast.surf/*
+*://www.sunvpn.com/*
 *://www.superdramatv.com/*
 *://www.superstarpledis.jp/*
 *://www.supervpn.net/*
@@ -26623,7 +26617,12 @@ title/AdBlock Pro 広告ブロックアプリ - App Store/
 title/Adblock Browser: Fast & Secure - Apps on Google Play/
 title/Adblock Browser：/
 title/Adblock Plus - free ad blocker - /
+title/BitComet - Download/
+title/BitComet Download/
+title/BitLord - /
 title/Cat VPN -/
+title/Download BitComet/
+title/Download BitSpirit/
 title/FastestVPN - /
 title/Free Adblocker Browser - Adblock /
 title/Free Adblocker Browser:Adblock/
@@ -26655,6 +26654,7 @@ title/static.mercdn.net/
 title/wikiプロ/
 title/wiki風プロ/
 title/wiki風経歴/
+title/µTorrent®- /
 title/☆希少品☆/
 title/』が読める漫画アプリ/
 title/』が読める漫画アプリ7選！お得/

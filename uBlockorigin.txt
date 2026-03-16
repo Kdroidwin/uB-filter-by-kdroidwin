@@ -1026,6 +1026,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||baghdadacademydom.com^$document
 ||baikal.boats^$document
 ||baixarapk.gratis^$document
+||baixe.net^$document
 ||bakery-fukufuku.com^$document
 ||bakuhou-geinou.net^$document
 ||bakujou.com^$document
@@ -1163,10 +1164,21 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bismillahfoodbd.com^$document
 ||bitcash.me^$document
 ||bitcoden.com^$document
+||bitcomet.jp.malavida.com^$document
+||bitcomet.jp.uptodown.com^$document
+||bitcomet.kirishimaya.com^$document
+||bitcomet.org.cn^$document
 ||bitdefenderantivirus.jp^$document
 ||biter.shorrt.live^$document
+||bitlord-torrent-streamer-and-downloader.jp.uptodown.com^$document
+||bitlord.jp.malavida.com^$document
+||bitlord.jp.uptodown.com^$document
 ||bitregions.com^$document
 ||bitsend.jp^$document
+||bitspirit.en.filerox.com^$document
+||bitspirit.en.uptodown.com^$document
+||bitspirit.informer.com^$document
+||bitspirit.jp.uptodown.com^$document
 ||bitubu.blog.jp^$document
 ||bitubu.blog.jp^$document
 ||biturl.top^$document
@@ -3947,9 +3959,11 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp.adlock.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
+||jp.bitcomet.com^$document
 ||jp.itopvpn.com^$document
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
+||jp.pogoskill.com^$document
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
 ||jp.winxmac.com^$document
@@ -4986,6 +5000,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||meli-melo.blog.jp^$document
 ||meltsold.mydees.com^$document
 ||melty-novel.com^$document
+||members.bitcomet.com^$document
 ||memememe7526.com^$document
 ||memento79.net^$document
 ||memomalog.com^$document
@@ -7554,6 +7569,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||socius101.com^$document
 ||soco-cobo0587.com^$document
 ||sofarztp.redeagle-security.com^$document
+||softaro.jp/bitcomet^$document
 ||softcake12.xyz^$document
 ||softmany.com^$document
 ||softonic.cn^$document
@@ -7561,6 +7577,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||softonic.eu^$document
 ||softonic.jp^$document
 ||softontop.com^$document
+||softradar.com^$document
 ||software-on.com^$document
 ||software-solution-tec.com^$document
 ||soicau88.me^$document
@@ -8621,6 +8638,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||utilly.ne.jp/article^$document
 ||utilly.ne.jp^$document
 ||utina-ketumekko.com^$document
+||utorrent-beta.jp.uptodown.com^$document
+||utorrent.jp.aptoide.com^$document
 ||utorrent.jp.uptodown.com^$document
 ||utqbffn.cn^$document
 ||utyatnishna.ru^$document
@@ -9234,6 +9253,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.biscuit-online.com^$document
 ||www.bistro4.fi^$document
 ||www.bitcomet.com^$document
+||www.bitcomet.io^$document
 ||www.bitlord.com^$document
 ||www.bittorrent.com^$document
 ||www.bjbnb.cn^$document
@@ -10431,6 +10451,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.so-le.net^$document
 ||www.soft222.com^$document
 ||www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml^$document
+||www.softpedia.com^$document
 ||www.softproinnovations.com^$document
 ||www.softwareskills.eu^$document
 ||www.sog-rc27.org^$document
@@ -10469,6 +10490,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.sungrove.co.jp^$document
 ||www.sunlounge-go-ya-gym.com^$document
 ||www.sunshinecoast.surf^$document
+||www.sunvpn.com^$document
 ||www.superdramatv.com^$document
 ||www.supergenji.jp^$document
 ||www.superstarpledis.jp^$document
