@@ -1,4 +1,32 @@
 *://*.000webhostapp.com/*
+*://jp.pogoskill.com/*
+*://utorrent-beta.jp.uptodown.com/*
+*://utorrent.jp.aptoide.com/*
+title/µTorrent®- /
+*://jp.bitcomet.com/*
+*://bitcomet.jp.uptodown.com/*
+title/BitComet Download/
+*://www.bitcomet.io/*
+title/Download BitComet/
+*://members.bitcomet.com/*
+title/BitComet - Download/
+*://bitcomet.kirishimaya.com/*
+*://softaro.jp/bitcomet/*
+*://bitcomet.org.cn/*
+*://bitcomet.jp.malavida.com/*
+*://www.sunvpn.com/*
+*://bitlord-torrent-streamer-and-downloader.jp.uptodown.com/*
+title/BitLord - /
+*://bitlord.jp.malavida.com/*
+*://bitlord.jp.uptodown.com/*
+*://bitspirit.jp.uptodown.com/*
+*://www.softpedia.com/*
+*://softradar.com/*
+*://baixe.net/*
+*://bitspirit.en.uptodown.com/*
+*://bitspirit.en.filerox.com/*
+*://bitspirit.informer.com/*
+title/Download BitSpirit/
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
