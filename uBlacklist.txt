@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://warningg.pse.is/*
+*://copperhead.co/*
+*://bittorrent-torrent-app.jp.uptodown.com/*
+title/BitTorrent®/
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
