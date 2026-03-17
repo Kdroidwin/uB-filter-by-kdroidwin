@@ -74,8 +74,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 
 # uBlock Origin用フィルターの購読方法
+下の購読を押してください。
 
-ABP形式のコンテンツブロッカーなどにも対応しています。
 
 # uBlock Origin 用フィルターの種類
 
