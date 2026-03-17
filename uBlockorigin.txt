@@ -1179,6 +1179,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bitspirit.en.uptodown.com^$document
 ||bitspirit.informer.com^$document
 ||bitspirit.jp.uptodown.com^$document
+||bittorrent-torrent-app.jp.uptodown.com^$document
 ||bitubu.blog.jp^$document
 ||bitubu.blog.jp^$document
 ||biturl.top^$document
@@ -1745,6 +1746,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cooptq0u.malaysiainternationalschools.com^$document
 ||copayeoh.jettysuites.com^$document
 ||copilot.6m6c.cn^$document
+||copperhead.co^$document
 ||copress.shop^$document
 ||copyeg.ru^$document
 ||copyprogramming.com^$document
@@ -8865,6 +8867,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||waraiya.jp^$document
 ||warakadochannel.com^$document
 ||waranote.livedoor.biz^$document
+||warningg.pse.is^$document
 ||warriormetalcrafts.com^$document
 ||wasabeafn.com^$document
 ||wasabeafn.com^$document

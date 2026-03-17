@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://warningg.pse.is/*
-*://copperhead.co/*
-*://bittorrent-torrent-app.jp.uptodown.com/*
-title/BitTorrent®/
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -16827,6 +16823,7 @@ title/BitTorrent®/
 *://bitspirit.en.uptodown.com/*
 *://bitspirit.informer.com/*
 *://bitspirit.jp.uptodown.com/*
+*://bittorrent-torrent-app.jp.uptodown.com/*
 *://bitubu.blog.jp/*
 *://biturl.top/*
 *://bitwave.showcase-tv.com/*
@@ -17382,6 +17379,7 @@ title/BitTorrent®/
 *://cooptq0u.malaysiainternationalschools.com/*
 *://copayeoh.jettysuites.com/*
 *://copilot.6m6c.cn/*
+*://copperhead.co/*
 *://copyeg.ru/*
 *://copyprogramming.com/*
 *://coremaji-media.com/*
@@ -24217,6 +24215,7 @@ title/BitTorrent®/
 *://warainotsubo.net/*
 *://waraiya.jp/*
 *://warakadochannel.com/*
+*://warningg.pse.is/*
 *://warriormetalcrafts.com/*
 *://wasabeafn.com/*
 *://wascorrectes.com/*
@@ -26624,6 +26623,7 @@ title/Adblock Plus - free ad blocker - /
 title/BitComet - Download/
 title/BitComet Download/
 title/BitLord - /
+title/BitTorrent®/
 title/Cat VPN -/
 title/Download BitComet/
 title/Download BitSpirit/
