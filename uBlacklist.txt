@@ -1,4 +1,7 @@
 *://*.000webhostapp.com/*
+*://www.reimagines.jp/*
+*://fanmake-blog.com/*
+*://prohack.ooaks.co.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
