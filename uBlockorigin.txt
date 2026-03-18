@@ -4075,6 +4075,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kanazawa-ambi.com^$document
 ||kanazawa-round.jp^$document
 ||kandatasokuho.com^$document
+||kanemotilevel.com^$document
 ||kanesk.cn^$document
 ||kangaerunakanjiro.com^$document
 ||kankokunano.jp^$document
@@ -5129,6 +5130,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mirimari.net^$document
 ||miro2022.jp^$document
 ||miruku.fun^$document
+||mirumi.me/firefox-plugin^$document
 ||mirumiru-honpo.jp^$document
 ||miss-saigon-movie-25.jp^$document
 ||missav-av01.com^$document
@@ -9347,6 +9349,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.chibasanf.online^$document
 ||www.chiyo.site^$document
 ||www.chocopie.site^$document
+||www.choge-blog.com^$document
 ||www.christinacooks.com^$document
 ||www.chromext.xyz^$document
 ||www.churaumi.net^$document

@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://kanemotilevel.com/*
-*://www.choge-blog.com/*
-*://mirumi.me/firefox-plugin/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -19663,6 +19660,7 @@
 *://kanavu.jp/*
 *://kanayamasouken.com/*
 *://kanazawa-ambi.com/*
+*://kanemotilevel.com/*
 *://kanesk.cn/*
 *://kangaerunakanjiro.com/*
 *://kankokunano.jp/*
@@ -20692,6 +20690,7 @@
 *://mirimari.net/*
 *://miro2022.jp/*
 *://miruku.fun/*
+*://mirumi.me/firefox-plugin/*
 *://mirumiru-honpo.jp/*
 *://miss-saigon-movie-25.jp/*
 *://missav-av01.com/*
@@ -24676,6 +24675,7 @@
 *://www.chibasanf.online/*
 *://www.chiyo.site/*
 *://www.chocopie.site/*
+*://www.choge-blog.com/*
 *://www.christinacooks.com/*
 *://www.chromext.xyz/*
 *://www.churaumi.net/*
