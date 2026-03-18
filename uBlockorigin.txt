@@ -5170,6 +5170,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mkm.maturbit.sa.com^$document
 ||mlkm221021.com^$document
 ||mm-smile.net^$document
+||mmake.net^$document
 ||mmexfj.com^$document
 ||mmiimm.net^$document
 ||mmoreshop.com^$document
@@ -5822,6 +5823,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/ikkyu_green^$document
 ||note.com/ikkyu_green^$document
 ||note.com/imyfone_jp^$document
+||note.com/info_review^$document
 ||note.com/investment_happy^$document
 ||note.com/iphone1678^$document
 ||note.com/iphone_air^$document

@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://mmake.net/*
-*://note.com/info_review/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -20732,6 +20730,7 @@
 *://mkm.maturbit.sa.com/*
 *://mlkm221021.com/*
 *://mm-smile.net/*
+*://mmake.net/*
 *://mmexfj.com/*
 *://mmiimm.net/*
 *://mmoreshop.com/*
@@ -21357,6 +21356,7 @@
 *://note.com/ihci_adeki/*
 *://note.com/ikkyu_green/*
 *://note.com/imyfone_jp*
+*://note.com/info_review/*
 *://note.com/investment_happy/*
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
