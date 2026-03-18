@@ -2250,7 +2250,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eleftheria.me^$document
 ||elenasunlandfengshui.com^$document
 ||elescultordecuerpos.com^$document
-||elhacker.info^$document
 ||eliehawi.com^$document
 ||elife-media.jp^$document
 ||elilahook.com^$document
@@ -5265,7 +5264,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||moonflowermarker.com^$document
 ||moonkoradjirecords.bandcamp.com^$document
 ||moosic-lab.com^$document
-||moov.ooo^$document
 ||mopumopu.com^$document
 ||morayb0u.bizandleisure.com^$document
 ||moremoremore888.com^$document
@@ -10697,7 +10695,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.vubfvubf.xyz^$document
 ||www.w3campus.lk^$document
 ||www.wake-up-neo.net^$document
-||www.wallop.tv^$document
 ||www.wandoutv.cn^$document
 ||www.warorince.com^$document
 ||www.waruagake.work^$document
