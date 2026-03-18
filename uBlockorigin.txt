@@ -8,8 +8,8 @@
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
-/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.space(\/|$)/$document
 /^https?:\/\/(?!([^\/]+\.)?(hinode|twic|miyakojima|select-shop)\.pics(?:\/|$))(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.pics(\/|$)/$document
+/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.space(\/|$)/$document
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|biz\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|goodtree\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|pubsure\.)[^\/]+\.[^\/]+\.life(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club(\/|$)/$document
@@ -3023,6 +3023,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/AnthemHorizon453^$document
 ||github.com/NoName-exe/revanced-extended^$document
 ||github.com/revanced-apks/build-apps^$document
+||github.com/Tinumpit02^$document
 ||github.com/YouTube-Premium-APK01^$document
 ||github.com/YoutubePremiummod^$document
 ||github.heheda.top^$document
@@ -9558,6 +9559,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.figures-makaizou.com^$document
 ||www.filehorse.com^$document
 ||www.fileplanet.com^$document
+||www.filepuma.com^$document
 ||www.fileviewpro.com^$document
 ||www.firat.co.ao^$document
 ||www.fire-method.com^$document
