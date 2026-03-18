@@ -2530,6 +2530,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fan.main.jp^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
+||fanmake-blog.com^$document
 ||fanshub.jp^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
@@ -6656,6 +6657,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||programming-door.com^$document
 ||programqa.com^$document
 ||progroup.pt^$document
+||prohack.ooaks.co.jp^$document
 ||projectbackpack.org^$document
 ||projectorrenter.com^$document
 ||projectsunrise.pages.dev^$document
@@ -10314,6 +10316,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.refresh-nexco.jp^$document
 ||www.regimeprojects.co.tz^$document
 ||www.reifuworks.com^$document
+||www.reimagines.jp^$document
 ||www.reinya.jp^$document
 ||www.rembertovaldes.cl^$document
 ||www.renesas.cn^$document
