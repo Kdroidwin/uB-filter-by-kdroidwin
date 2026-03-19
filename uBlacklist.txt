@@ -1,5 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://xdropc.pages.dev/*
+*://shenjpvip.com/*
+*://adown.itself.pics/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
