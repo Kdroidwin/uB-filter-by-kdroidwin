@@ -1204,6 +1204,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||blbrv08v.r.us-east-1.awstrack.me^$document
 ||bleague.bl.kuroco-img.app^$document
 ||blifenavi.com^$document
+||blockchecker.github.io^$document
 ||blog-chiaki.com^$document
 ||blog.almaherbal.com^$document
 ||blog.codecamp.jp^$document
@@ -2280,6 +2281,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||emirinsblog.com^$document
 ||emivehu.veterinatt.sk^$document
 ||emoshare.web.app^$document
+||empty-morning-5199.yuuga-y-0912.workers.dev^$document
 ||emuaikeiai.com^$document
 ||en-ti.com^$document
 ||en.atashmehr.com^$document
