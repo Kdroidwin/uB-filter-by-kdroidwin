@@ -1,7 +1,3 @@
-*://www.lifehacker.jp/*
-*://jimmy-blog.com/*
-*://note.com/noble_myrtle9139/*
-*://hukuhukublog.wordpress.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -19169,6 +19165,7 @@
 *://hujmioly.biz/*
 *://hukugyogyogyo.hatenablog.com/*
 *://hukugyouch.hatenablog.jp/*
+*://hukuhukublog.wordpress.com/*
 *://hukuhukudokohuku.com/*
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
@@ -19497,6 +19494,7 @@
 *://jilstreed.com/*
 *://jimbutsu.jitenon.jp/*
 *://jimjolley.com/*
+*://jimmy-blog.com/*
 *://jimmys-room.com/*
 *://jimtechs.biz/*
 *://jin115.com/*
@@ -21458,6 +21456,7 @@
 *://note.com/nifty_poppy4842/*
 *://note.com/nifty_viper3044/*
 *://note.com/noble_guppy6313/*
+*://note.com/noble_myrtle9139/*
 *://note.com/nommy_465/*
 *://note.com/norito_hiraoka/*
 *://note.com/note_rakuten23/*
@@ -25275,6 +25274,7 @@
 *://www.lexiconnetworks.com/*
 *://www.leybold.cn/*
 *://www.lieyouren.cn/*
+*://www.lifehacker.jp/*
 *://www.lifestorytown.jp/*
 *://www.lighted.hk/*
 *://www.limpin.jp/*

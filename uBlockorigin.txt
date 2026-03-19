@@ -3570,6 +3570,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hujmioly.biz^$document
 ||hukugyogyogyo.hatenablog.com^$document
 ||hukugyouch.hatenablog.jp^$document
+||hukuhukublog.wordpress.com^$document
 ||hukuhukudokohuku.com^$document
 ||human-profile.hatenablog.com^$document
 ||human.happinessisthailand.com^$document
@@ -3904,6 +3905,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jilstreed.com^$document
 ||jimbutsu.jitenon.jp^$document
 ||jimjolley.com^$document
+||jimmy-blog.com^$document
 ||jimmys-room.com^$document
 ||jimtechs.biz^$document
 ||jin115.com^$document
@@ -5925,6 +5927,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/nifty_poppy4842^$document
 ||note.com/nifty_viper3044^$document
 ||note.com/noble_guppy6313^$document
+||note.com/noble_myrtle9139^$document
 ||note.com/nommy_465^$document
 ||note.com/norito_hiraoka^$document
 ||note.com/note_rakuten23^$document
@@ -9948,6 +9951,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.lexiconnetworks.com^$document
 ||www.leybold.cn^$document
 ||www.lieyouren.cn^$document
+||www.lifehacker.jp^$document
 ||www.lifestorytown.jp^$document
 ||www.lighted.hk^$document
 ||www.limpin.jp^$document
