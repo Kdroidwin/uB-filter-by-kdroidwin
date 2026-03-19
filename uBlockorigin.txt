@@ -8982,7 +8982,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wizcase.com^$document
 ||wizy.jp^$document
 ||wkkgq.com^$document
-||wl.co^$document
 ||wlife.xyz^$document
 ||wlrqwnp.art^$document
 ||woads438.almgo.my^$document
@@ -8997,7 +8996,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||work-mama-life.com^$document
 ||work-well.org^$document
 ||worker-blog.com^$document
-||workers.dev^$document
 ||world-entertainment-information.com^$document
 ||world-fusigi.net^$document
 ||world-language-250.com^$document
