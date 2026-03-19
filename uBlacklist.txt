@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://addness.com/*
 *://*.16892.net/*
 *://xdropc.pages.dev/*
 *://shenjpvip.com/*
