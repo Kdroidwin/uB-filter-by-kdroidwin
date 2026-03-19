@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
-*://addness.com/*
 *://*.16892.net/*
-*://xdropc.pages.dev/*
-*://shenjpvip.com/*
-*://adown.itself.pics/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -16068,12 +16064,14 @@
 *://adbpremium.slp-contents.com/*
 *://addchannel.net/*
 *://addness.co.jp/*
+*://addness.com/*
 *://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
 *://addspice.jp/*
 *://ademas0719blog.com/*
 *://aditaishitukaizen.com/*
 *://admailmg.com/*
 *://adonisgreen.jp/*
+*://adown.itself.pics/*
 *://adpeak.net/*
 *://ads.google.cn/*
 *://adspamblock.com/*
@@ -22801,6 +22799,7 @@
 *://shawn620.online/*
 *://sheingivesback.com/*
 *://shenghuobao.net/*
+*://shenjpvip.com/*
 *://sherbatovelite.com/detail*
 *://shiawaseninaritai.com/*
 *://shibutaisai.com/*
@@ -26140,6 +26139,7 @@
 *://x.com/zlib_official/*
 *://x68000.q-e-d.net/*
 *://xdqern.dentist-24.de/*
+*://xdropc.pages.dev/*
 *://xenospectrum.com/*
 *://xera.jp/*
 *://xertinos.com/*

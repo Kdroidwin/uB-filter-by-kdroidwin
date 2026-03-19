@@ -386,12 +386,14 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adbpremium.slp-contents.com^$document
 ||addchannel.net^$document
 ||addness.co.jp^$document
+||addness.com^$document
 ||addons.mozilla.org/ja/firefox/addon/adblock-plus^$document
 ||addspice.jp^$document
 ||ademas0719blog.com^$document
 ||aditaishitukaizen.com^$document
 ||admailmg.com^$document
 ||adonisgreen.jp^$document
+||adown.itself.pics^$document
 ||adpeak.net^$document
 ||ads.google.cn^$document
 ||adspamblock.com^$document
@@ -7352,6 +7354,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||shawn620.online^$document
 ||sheingivesback.com^$document
 ||shenghuobao.net^$document
+||shenjpvip.com^$document
 ||shiawaseninaritai.com^$document
 ||shibutaisai.com^$document
 ||shicony.com^$document
@@ -10818,6 +10821,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||x68000.q-e-d.net^$document
 ||xbuba.com^$document
 ||xdqern.dentist-24.de^$document
+||xdropc.pages.dev^$document
 ||xenospectrum.com^$document
 ||xera.jp^$document
 ||xertinos.com^$document
