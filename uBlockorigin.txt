@@ -2067,6 +2067,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||domkuply.ru^$document
 ||domore.shop-pro.jp^$document
 ||domupn.ru^$document
+||donguri.world^$document
 ||donnamodernaonline.com^$document
 ||door.popzoo.xyz^$document
 ||doragon-rinchan.com^$document
@@ -3702,6 +3703,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||inf.kimama2audio.com^$document
 ||infinico2.sakura.ne.jp^$document
 ||infinitweet.com^$document
+||infinitweet50.com^$document
 ||infinity-agent.co.jp^$document
 ||infinitydigital.shop^$document
 ||infinitytweet.com^$document
@@ -4192,6 +4194,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
 ||kicks-blog.com^$document
+||kigyolog.com^$document
 ||kihachi-log.com^$document
 ||kiiropicks.com^$document
 ||kijitora-chan.com^$document

@@ -1,7 +1,4 @@
 *://*.000webhostapp.com/*
-*://kigyolog.com/*
-*://infinitweet50.com/*
-*://donguri.world/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17698,6 +17695,7 @@
 *://domkuply.ru/*
 *://domore.shop-pro.jp/*
 *://domupn.ru/*
+*://donguri.world/*
 *://donnamodernaonline.com/*
 *://door.popzoo.xyz/*
 *://doragon-rinchan.com/*
@@ -19294,6 +19292,7 @@
 *://inf.kimama2audio.com/*
 *://infinico2.sakura.ne.jp/*
 *://infinitweet.com/*
+*://infinitweet50.com/*
 *://infinity-agent.co.jp/*
 *://infinitydigital.shop/*
 *://infinitytweet.com/*
@@ -19779,6 +19778,7 @@
 *://khbtbfkm.life/*
 *://khoanguyenchuong.com/*
 *://kicks-blog.com/*
+*://kigyolog.com/*
 *://kihachi-log.com/*
 *://kiiropicks.com/*
 *://kijitora-chan.com/*
