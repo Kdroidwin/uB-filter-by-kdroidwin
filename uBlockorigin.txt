@@ -814,6 +814,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||app-story.net^$document
 ||app.famitsu.com/category/android-apps/android-recommend^$document
 ||app.joinin.online^$document
+||app.sendright.jp^$document
 ||app.sensortower.com^$document
 ||appagg.com^$document
 ||appante7.info^$document
@@ -877,6 +878,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||around-topics.net^$document
 ||aroundfortylife.net^$document
 ||arquidiocesisd.org^$document
+||arrow-steel-f4f.notion.site^$document
 ||art.team-lab.cn^$document
 ||artealfonsina.com^$document
 ||arthcamp.jp^$document
@@ -908,6 +910,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aseiouemt.com^$document
 ||asesoreslinra.com^$document
 ||asesoriainvima.com^$document
+||ash-cat07.hatenablog.com^$document
 ||ashikaga-home-church.jimdofree.com^$document
 ||ashine-gr.com^$document
 ||ashitamohare.com^$document
@@ -2863,6 +2866,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gamesblog0.blog63.fc2.com^$document
 ||gamesoku.dreamlog.jp^$document
 ||gaming-select.com^$document
+||gamingpcselect.sakura.ne.jp^$document
 ||gammapoint360.digital^$document
 ||gamoblog.net^$document
 ||gamushara-lab.jp^$document
@@ -4497,6 +4501,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||learn.slot42.online^$document
 ||learnandbless.com^$document
+||learning.shift-ai.co.jp^$document
 ||learnopenoffice.org^$document
 ||leather-no-wabisabi.com^$document
 ||leather-revive.net^$document
@@ -4971,6 +4976,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||md-md-e867c335436d-fc.madewith.cn^$document
 ||md-sass.com^$document
 ||mdksblog.com^$document
+||mdlmake.shop^$document
 ||mdoramafan.com^$document
 ||measurement.slot42.online^$document
 ||meat-kode.com^$document
@@ -5872,6 +5878,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/koishitsu_^$document
 ||note.com/koreaiimono^$document
 ||note.com/koshiki_nakano^$document
+||note.com/kosuke_agos^$document
 ||note.com/kototamashacho^$document
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
@@ -5929,6 +5936,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/nekoyorozu^$document
 ||note.com/nester_sns^$document
 ||note.com/nft_tactics^$document
+||note.com/nice_pony9719^$document
 ||note.com/nicoi_junjun^$document
 ||note.com/nifty_cosmos4076^$document
 ||note.com/nifty_poppy4842^$document
@@ -7362,6 +7370,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||shibutaisai.com^$document
 ||shicony.com^$document
 ||shieryu.com^$document
+||shift-ai.co.jp^$document
 ||shiftchurch.com^$document
 ||shigemaru.info^$document
 ||shiggymania.com^$document
@@ -10565,6 +10574,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.tenryu-site.com^$document
 ||www.tenshoku-antenna.com^$document
 ||www.teppan-tachibana.jp^$document
+||www.teraqol.com^$document
 ||www.tesla.cn^$document
 ||www.tesonline.ru^$document
 ||www.testmart.cn^$document
