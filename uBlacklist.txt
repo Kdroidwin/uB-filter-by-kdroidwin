@@ -1,4 +1,14 @@
 *://*.000webhostapp.com/*
+title/アバスト（Avast）公式 /
+title/アバスト モバイル セキュリティ/
+*://avast.it4win.com/*
+*://www.apksmap.com/*
+*://support.avg.com/*
+title/AVG AntiVirus Free - /
+title/「AVG AntiVirus」/
+title/AVG Protection -/
+*://skyblue-next.com/*
+*://imperialnexus.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
