@@ -975,6 +975,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||avaerocapital.com^$document
 ||avantiegypt.com^$document
 ||avasam.ir^$document
+||avast.it4win.com^$document
 ||aviator-movie.jp^$document
 ||avobild.life^$document
 ||avtonomka-service.online^$document
@@ -3689,6 +3690,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||imitsu.jp^$document
 ||imperiacondos.com^$document
 ||imperial-curse.de^$document
+||imperialnexus.jp^$document
 ||imperva.jp^$document
 ||impotentnomore.com^$document
 ||impression-life.com^$document
@@ -7532,6 +7534,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||skudaddy.com^$document
 ||skulerceines.tk^$document
 ||skyanimeblog.com^$document
+||skyblue-next.com^$document
 ||skyddaskolan.com^$document
 ||skydrive.live.ru^$document
 ||skyfall.co.jp^$document
@@ -7927,6 +7930,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||support.apple.ex1.https.443.ipv6.faw.com.cn^$document
 ||support.apple.ex1.https.443.ipv6.yunfu.gov.cn^$document
 ||support.avast.com^$document
+||support.avg.com^$document
 ||support.caseplay.shop^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
@@ -9198,6 +9202,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.apk3.com^$document
 ||www.apkfiles.com^$document
 ||www.apkrogue.com^$document
+||www.apksmap.com^$document
 ||www.apkturbo.com^$document
 ||www.appbank.net/app-rank/useful/vpn-app^$document
 ||www.appbank.net^$document

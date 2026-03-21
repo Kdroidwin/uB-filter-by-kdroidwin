@@ -1,14 +1,4 @@
 *://*.000webhostapp.com/*
-title/アバスト（Avast）公式 /
-title/アバスト モバイル セキュリティ/
-*://avast.it4win.com/*
-*://www.apksmap.com/*
-*://support.avg.com/*
-title/AVG AntiVirus Free - /
-title/「AVG AntiVirus」/
-title/AVG Protection -/
-*://skyblue-next.com/*
-*://imperialnexus.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16632,6 +16622,7 @@ title/AVG Protection -/
 *://avaerocapital.com/*
 *://avantiegypt.com/*
 *://avasam.ir/*
+*://avast.it4win.com/*
 *://aviator-movie.jp/*
 *://avobild.life/*
 *://avtonomka-service.online/*
@@ -19291,6 +19282,7 @@ title/AVG Protection -/
 *://imitsu.jp/*
 *://imperiacondos.com/*
 *://imperial-curse.de/*
+*://imperialnexus.jp/*
 *://imperva.jp/*
 *://impotentnomore.com/*
 *://impression-life.com/*
@@ -22983,6 +22975,7 @@ title/AVG Protection -/
 *://skudaddy.com/*
 *://skulerceines.tk/*
 *://skyanimeblog.com/*
+*://skyblue-next.com/*
 *://skyddaskolan.com/*
 *://skydrive.live.ru/*
 *://skytouchservices.com/*
@@ -23346,6 +23339,7 @@ title/AVG Protection -/
 *://support.apple.ex1.https.443.ipv6.faw.com.cn/*
 *://support.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
 *://support.avast.com/*
+*://support.avg.com/*
 *://support.caseplay.shop/*
 *://support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
@@ -24537,6 +24531,7 @@ title/AVG Protection -/
 *://www.apk3.com/*
 *://www.apkfiles.com/*
 *://www.apkrogue.com/*
+*://www.apksmap.com/*
 *://www.apkturbo.com/*
 *://www.appbank.net/*
 *://www.appbank.net/app-rank/useful/vpn-app*
@@ -26653,6 +26648,8 @@ title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四�
 title/(プロフ要確認)様/
 title/100%正規品/
 title/ADB Browser - Faster Web/
+title/AVG AntiVirus Free - /
+title/AVG Protection -/
 title/Aazon/
 title/AdBlock - ウェブ上の広告をブロック - /
 title/AdBlock Browser: Fast & Secure - Google Play のアプリ/
@@ -26700,6 +26697,7 @@ title/wiki風プロ/
 title/wiki風経歴/
 title/µTorrent®- /
 title/☆希少品☆/
+title/「AVG AntiVirus」/
 title/』が読める漫画アプリ/
 title/』が読める漫画アプリ7選！お得/
 title/』の漫画・アニメを無料で楽/
@@ -26728,6 +26726,8 @@ title/は何者？年収/
 title/は無料で読める？/
 title/は無料で読める？海賊/
 title/を読む方法！最新刊も読める？/
+title/アバスト モバイル セキュリティ/
+title/アバスト（Avast）公式 /
 title/エポックタイムズ・ジャパン - Google Play /
 title/スキャンダル速報/
 title/スーパーコピー/
