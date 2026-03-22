@@ -7604,6 +7604,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sofarztp.redeagle-security.com^$document
 ||softaro.jp/bitcomet^$document
 ||softcake12.xyz^$document
+||softgeter.it.com^$document
 ||softmany.com^$document
 ||softonic.cn^$document
 ||softonic.com^$document
