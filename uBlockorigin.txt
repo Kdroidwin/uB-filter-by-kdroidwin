@@ -5239,6 +5239,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||moes.taobao.com^$document
 ||moffy-aya-entame.com^$document
 ||mofumofunews.com^$document
+||mogimikan.my.canva.site^$document
 ||mokugeki.hatenablog.com^$document
 ||mollymam.com^$document
 ||molto15z.sarangkkb.com^$document
@@ -6015,6 +6016,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/sim_mobile^$document
 ||note.com/simsmagadget^$document
 ||note.com/sknet_sougou^$document
+||note.com/soh_ainsight^$document
 ||note.com/sorakiba190107^$document
 ||note.com/spiritual_taiken^$document
 ||note.com/startupm^$document
@@ -7816,6 +7818,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||stitchzo.com^$document
 ||stlassh.com^$document
 ||stock-marketech.com^$document
+||stocks.ykoth-pro.com^$document
 ||stonefree130.com^$document
 ||stoneridge-estates.co.uk^$document
 ||stonescollector.com^$document
@@ -9663,6 +9666,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.gevtmmv.cn^$document
 ||www.ggg-channel.com^$document
 ||www.ghibliexpo-aichi.com^$document
+||www.girls-ap.com^$document
 ||www.gitlabhost.cn^$document
 ||www.giuseppegiuliano.org^$document
 ||www.glitter-755.com^$document

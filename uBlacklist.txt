@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/soh_ainsight/*
-*://mogimikan.my.canva.site/*
-*://www.girls-ap.com/*
-*://stocks.ykoth-pro.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -20800,6 +20796,7 @@
 *://moes.taobao.com/*
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
+*://mogimikan.my.canva.site/*
 *://mokugeki.hatenablog.com/*
 *://mollymam.com/*
 *://molto15z.sarangkkb.com/*
@@ -21546,6 +21543,7 @@
 *://note.com/sim_mobile/*
 *://note.com/simsmagadget/*
 *://note.com/sknet_sougou*
+*://note.com/soh_ainsight/*
 *://note.com/sorakiba190107/*
 *://note.com/spiritual_taiken/*
 *://note.com/startupm/*
@@ -23234,6 +23232,7 @@
 *://stitchzo.com/*
 *://stlassh.com/*
 *://stock-marketech.com/*
+*://stocks.ykoth-pro.com/*
 *://stonefree130.com/*
 *://stoneridge-estates.co.uk/*
 *://stonescollector.com/*
@@ -24994,6 +24993,7 @@
 *://www.gevtmmv.cn/*
 *://www.ggg-channel.com/*
 *://www.ghibliexpo-aichi.com/*
+*://www.girls-ap.com/*
 *://www.gitlabhost.cn/*
 *://www.giuseppegiuliano.org/*
 *://www.glitter-755.com/*
