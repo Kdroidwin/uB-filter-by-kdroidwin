@@ -1318,6 +1318,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||books.makianosaihu.com^$document
 ||bookwiz.me^$document
 ||boqxywd.art^$document
+||border-verse.jp^$document
 ||borovena.com^$document
 ||bort85185.spb.ru^$document
 ||boshi-hawaii.com^$document
@@ -1811,6 +1812,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cruiseloyal.com^$document
 ||crurkin.info^$document
 ||crx7601.com^$document
+||csgobetting.jp^$document
 ||cspa79c.jp^$document
 ||cspsacademy.com^$document
 ||css-diner.netlify.app^$document
@@ -3938,6 +3940,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jisedai.me^$document
 ||jishin-yogen.com^$document
 ||jisin.jp^$document
+||jitakukeibi-iphone.com^$document
 ||jitensha-hoken.info^$document
 ||jjg.me^$document
 ||jk-bic.jp^$document
@@ -6661,6 +6664,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ppt.dkgee.online^$document
 ||pr.toriaez.jp^$document
 ||pr0zel.top^$document
+||pragma-life.jp^$document
 ||praxsol.in^$document
 ||prbay.xyz^$document
 ||preaf.jp^$document
@@ -7123,6 +7127,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rueproductions.com^$document
 ||rukaruka7676.online^$document
 ||rukulife.com^$document
+||rum-log.com^$document
 ||rumah-pulsa.shop^$document
 ||rumbiz.ru^$document
 ||ruminousplus.net^$document
@@ -9542,6 +9547,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.dwrexbr.cn^$document
 ||www.e-netcaravan.jp^$document
 ||www.e-onkyo.com^$document
+||www.e-zip.jp^$document
 ||www.ebay.me^$document
 ||www.ebirds.ru^$document
 ||www.ec2instances.info^$document

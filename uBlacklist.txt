@@ -2,12 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://pragma-life.jp/*
-*://www.e-zip.jp/*
-*://jitakukeibi-iphone.com/*
-*://border-verse.jp/*
-*://rum-log.com/*
-*://csgobetting.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16965,6 +16959,7 @@
 *://books.makianosaihu.com/*
 *://bookwiz.me/*
 *://boqxywd.art/*
+*://border-verse.jp/*
 *://borovena.com/*
 *://bort85185.spb.ru/*
 *://boshi-hawaii.com/*
@@ -17446,6 +17441,7 @@
 *://crosscubja60.net/*
 *://cruiseloyal.com/*
 *://crurkin.info/*
+*://csgobetting.jp/*
 *://cspa79c.jp/*
 *://cspsacademy.com/*
 *://css-diner.netlify.app/*
@@ -19532,6 +19528,7 @@
 *://jinsei0826.com/*
 *://jisedai.me/*
 *://jishin-yogen.com/*
+*://jitakukeibi-iphone.com/*
 *://jitensha-hoken.info/*
 *://jjg.me/*
 *://jk-bic.jp/*
@@ -22175,6 +22172,7 @@
 *://ppt.dkgee.online/*
 *://pr.toriaez.jp/*
 *://pr0zel.top/*
+*://pragma-life.jp/*
 *://praxsol.in/*
 *://prbay.xyz/*
 *://preaf.jp/*
@@ -22598,6 +22596,7 @@
 *://rueproductions.com/*
 *://rukaruka7676.online/*
 *://rukulife.com/*
+*://rum-log.com/*
 *://rumah-pulsa.shop/*
 *://rumbiz.ru/*
 *://ruminousplus.net/*
@@ -24876,6 +24875,7 @@
 *://www.dwrexbr.cn/*
 *://www.e-netcaravan.jp/*
 *://www.e-onkyo.com/*
+*://www.e-zip.jp/*
 *://www.ebay.me/*
 *://www.ebirds.ru/*
 *://www.ec2instances.info/*
