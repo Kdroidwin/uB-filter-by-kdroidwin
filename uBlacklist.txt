@@ -1,34 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://b.hatena.ne.jp/entry/s/sumahodigest.com/*
-*://kin5150.com/*
-*://anism.net/*
-*://fodanime.com/*
-*://animetambouki.com/*
-*://kininaru-vod.com/*
-*://vwatcher.com/*
-*://astakatets1.site/*
-*://nyokan.com/*
-*://nobi-blog.com/*
-*://enjoy4-wai.com/*
-*://wawlife7.com/*
-*://mr-hal.com/*
-*://ouchijikantheater.com/*
-*://j-anime-matome.com/*
-*://vodhorizon.com/*
-*://mobattack.com/*
-*://date-dream.com/*
-*://streamsaga.info/*
-*://recommendationvod.com/*
-*://kazutti9065.com/*
-*://kini-are.com/*
-*://vod-paradise.com/*
-*://tramea04.com/*
-*://funfuntanoshii.com/*
-*://q4u.xyz/*
-*://tatami-kyun.com/*
-*://syougeki-utikiri.com/*
-*://anm777.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -16380,12 +16351,15 @@
 *://animenome.jp/*
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
+*://animetambouki.com/*
 *://animonogatari.com/*
 *://anincline.com/*
+*://anism.net/*
 *://anista-maga.com/*
 *://aniwatchtv.to/*
 *://ankoron.com/*
 *://ankororo.com/*
+*://anm777.com/*
 *://annaishimasuyo.com/*
 *://annbiyou.com/*
 *://annneme.net/*
@@ -16613,6 +16587,7 @@
 *://asoworld.com/*
 *://assirobo.com/*
 *://associazionerivieradelconero.com/*
+*://astakatets1.site/*
 *://astran.jp/*
 *://asuneta.com/*
 *://asuoyama.jp/*
@@ -16693,6 +16668,7 @@
 *://b-short.link/*
 *://b-short.link/YN3htW*
 *://b-us.liuhe36.cn/*
+*://b.hatena.ne.jp/entry/s/sumahodigest.com/*
 *://b1a4fc.jp/*
 *://b2b.bohrer.ru/*
 *://b2bherbs.com/*
@@ -17546,6 +17522,7 @@
 *://dashlifefam.com/*
 *://data.shinkenchiku.online/*
 *://datacentre.me/*
+*://date-dream.com/*
 *://datsumo-navi1.com/*
 *://datsumou-madoguchi.com/*
 *://dax-ppc.info/*
@@ -17973,6 +17950,7 @@
 *://enishi-izumo.com/*
 *://enjoy-blog07.com/*
 *://enjoy-life-tomo.com/*
+*://enjoy4-wai.com/*
 *://enjoybox0515.com/*
 *://enjoyhklife.com/*
 *://enjoymediabox.com/*
@@ -18316,6 +18294,7 @@
 *://fmwatasa.com/*
 *://foc.roadel.xyz/*
 *://focus-one.co.jp/*
+*://fodanime.com/*
 *://fogiews2.malaysiainternationalschools.com/*
 *://fokyo.life/*
 *://folk-song.net/*
@@ -18427,6 +18406,7 @@
 *://funbox.wpx.jp/*
 *://fund.lifeplay.co.jp/*
 *://fundacionbuenasemilla.org/*
+*://funfuntanoshii.com/*
 *://funlifehack.com/*
 *://funmodapk.com/*
 *://funnews-cafe.com/*
@@ -19466,6 +19446,7 @@
 *://izumi-w.com/*
 *://izumi0470blog.com/*
 *://izumino.jp/*
+*://j-anime-matome.com/*
 *://j-inagaki.com/*
 *://j-rocklove.com/*
 *://j7p.jp/*
@@ -19755,6 +19736,7 @@
 *://kazuhirog.com/*
 *://kazutobi.com/*
 *://kazutoshinarita.com/*
+*://kazutti9065.com/*
 *://kban.me/*
 *://kbm.slp-contents.com/*
 *://kboard.jp/*
@@ -19837,6 +19819,7 @@
 *://kimitagolf.com/*
 *://kimootoko.net/*
 *://kims-001.com/*
+*://kin5150.com/*
 *://kindai.raku-uru.jp/*
 *://kingbraintech.com/*
 *://kingdom10.jp/*
@@ -19844,9 +19827,11 @@
 *://kingky.site/*
 *://kingmodapk.net/*
 *://kingsasd.com/*
+*://kini-are.com/*
 *://kininaru-journal.info/*
 *://kininaru-koto.com/*
 *://kininaru-saishin-news.com/*
+*://kininaru-vod.com/*
 *://kininaru3.com/*
 *://kininaru365.com/*
 *://kininarukininaru.hatenadiary.jp/*
@@ -20787,6 +20772,7 @@
 *://mnogosdelal.ru/*
 *://mo-mo-town.com/*
 *://moans759.malaysiainternationalschools.com/*
+*://mobattack.com/*
 *://mobilanyheter.net/*
 *://mobile-app.rank-king.jp/*
 *://mobile-yoox.catalogi.ru/*
@@ -20909,6 +20895,7 @@
 *://moxienashville.com/*
 *://moya-trend.com/*
 *://mpznqedu.com/*
+*://mr-hal.com/*
 *://mrandmsreed.com/*
 *://mrisocietyserbia.online/*
 *://mrlmhcx4.r.eu-west-1.awstrack.me/*
@@ -21246,6 +21233,7 @@
 *://no111777666.com/*
 *://noacking.cl/*
 *://noako-style.com/*
+*://nobi-blog.com/*
 *://nobiciro.com/*
 *://nodebt.ws/*
 *://nodesd5l.cvs.com.my/*
@@ -21712,6 +21700,7 @@
 *://nyc-guitars.com/*
 *://nyfco.org/*
 *://nymtest.xyz/*
+*://nyokan.com/*
 *://nypost.com/*
 *://nznsms.jp/*
 *://o-ishimori.com/*
@@ -21906,6 +21895,7 @@
 *://ouchi-media.com/*
 *://ouchi-pan.com/*
 *://ouchi.irotashi.com/*
+*://ouchijikantheater.com/*
 *://ouchiniikou.com/*
 *://ouchitime.com/*
 *://ounelec.com/*
@@ -22256,6 +22246,7 @@
 *://pxle.me/*
 *://pyby.eu/*
 *://pysubschool.net/*
+*://q4u.xyz/*
 *://q5ha1f7z.autosns.app/*
 *://qa-stack.pl/*
 *://qastack.cn/*
@@ -22388,6 +22379,7 @@
 *://recomamadiary.com/*
 *://recomen-erocomi.anicomi3150.com/*
 *://recommend-travel.com/*
+*://recommendationvod.com/*
 *://recovery-power123.com/*
 *://redautumn.art/*
 *://redbarnetungdom.dk/*
@@ -23277,6 +23269,7 @@
 *://strate.biz/*
 *://strategydata.cn/*
 *://streamrental.com/*
+*://streamsaga.info/*
 *://strepgeroki.digital/*
 *://strongcorner.net/*
 *://strufin.in/*
@@ -23412,6 +23405,7 @@
 *://syokusamen.com/*
 *://syosetume.wixsite.com/*
 *://syotiku9910.com/*
+*://syougeki-utikiri.com/*
 *://syouheinouhau.daa.jp/*
 *://syounosukeblog.com/*
 *://syouzyomangalife.com/*
@@ -23520,6 +23514,7 @@
 *://taskr.uk/*
 *://tasukehub.com/*
 *://tat22.com/*
+*://tatami-kyun.com/*
 *://tathykhojak.com/*
 *://tatocrips.xyz/*
 *://tatsujin.ru/*
@@ -23819,6 +23814,7 @@
 *://track.japex.ru/*
 *://trainwithkodi.com/*
 *://tramb.info/*
+*://tramea04.com/*
 *://transformationallinguistics.com/*
 *://translink.et/*
 *://transparencia.coronango.gob.mx/*
@@ -24181,12 +24177,14 @@
 *://vod-guide.com/*
 *://vod-media.com/*
 *://vod-memonet.com/*
+*://vod-paradise.com/*
 *://vod-site.org/*
 *://vod.animegaphone.jp/*
 *://vod.app-liv.jp/*
 *://vod.netoff.co.jp/*
 *://vod365.net/*
 *://vodafone.uk/*
+*://vodhorizon.com/*
 *://vodinsights.com/*
 *://vodmino.net/*
 *://vodnavi.wpx.jp/*
@@ -24230,6 +24228,7 @@
 *://vtubermatomerevival.com/*
 *://vvindows.com/*
 *://vvyrvwb.studio/*
+*://vwatcher.com/*
 *://vyoutuber.com/*
 *://w-chat25.com/*
 *://w-methods-for-success.com/*
@@ -24293,6 +24292,7 @@
 *://watchmoviesz.net/*
 *://watchonlymovies.com/*
 *://waterdropcycle.com/*
+*://wawlife7.com/*
 *://wayofthescreenwriter.com/*
 *://wazzelife.com/*
 *://wcpdq.icu/*
