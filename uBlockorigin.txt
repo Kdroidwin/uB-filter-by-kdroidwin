@@ -1685,6 +1685,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cofure.hatenablog.com^$document
 ||cogl3d.org^$document
 ||coin-media.jp^$document
+||coindcx.pro^$document
 ||cojiyuki.com^$document
 ||cojlqcri.support^$document
 ||coldlab.cn^$document
@@ -6214,6 +6215,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||officejr.jp^$document
 ||official-sites-catalog.ru^$document
 ||officialsteelerslockerroom.com^$document
+||offliberty.net^$document
 ||oftenmoreresilient.mch35.com^$document
 ||oginoiwaki.jp^$document
 ||ogiri.moshimobox.top^$document
@@ -8027,6 +8029,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||taa-channel.com^$document
 ||taakkk.com^$document
 ||tabelog.onelink.me^$document
+||tabi-time.jp^$document
 ||tabichannel.com^$document
 ||tabisaki-blog.com^$document
 ||tabishsaroshassociates.org^$document
