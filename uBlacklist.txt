@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://coindcx.pro/*
+*://tabi-time.jp/*
+*://offliberty.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
