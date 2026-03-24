@@ -8598,6 +8598,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tremania.com^$document
 ||trend--box.com^$document
 ||trend-actors.com^$document
+||trend-answer.com^$document
 ||trend-arrows.co.jp^$document
 ||trend-celeb.com^$document
 ||trend-entertainment-station.com^$document
