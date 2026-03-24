@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://pse.is/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -22350,6 +22349,7 @@
 *://psalmsforkids.com/*
 *://psaunsooksuthi.com/*
 *://psd-drugstore.com/*
+*://pse.is/*
 *://psicoterapieonline.com/*
 *://psikodramatist.com/*
 *://psptorrentcfw.blog115.fc2.com/*

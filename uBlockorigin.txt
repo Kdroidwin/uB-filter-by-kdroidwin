@@ -6841,6 +6841,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||psalmsforkids.com^$document
 ||psaunsooksuthi.com^$document
 ||psd-drugstore.com^$document
+||pse.is^$document
 ||psicoterapieonline.com^$document
 ||psikodramatist.com^$document
 ||psptorrentcfw.blog115.fc2.com^$document
