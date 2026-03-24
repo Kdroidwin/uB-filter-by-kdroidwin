@@ -94,6 +94,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||0y.huobiglobal.online^$document
 ||10-11-23-24.sakura.ne.jp^$document
 ||1000-1noch.ru^$document
+||1000.dmm-mania.com^$document
 ||1024linux.cn^$document
 ||1069boys.xyz^$document
 ||109618.xyz^$document
@@ -355,6 +356,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||absolutezero121.com^$document
 ||abundantia-stone.com^$document
 ||aburemono.com^$document
+||abvweito.com^$document
 ||abxw.xxasj.cn^$document
 ||ac.3ps-ad.online^$document
 ||ac.ellls.net^$document
@@ -399,6 +401,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adspamblock.com^$document
 ||adult-ai.net^$document
 ||adult-hkk.net^$document
+||adult-manga-dojin.com^$document
 ||adult-manga.jp/for-you-free^$document
 ||adult-manga.net^$document
 ||adult.z-z.jp^$document
@@ -411,6 +414,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
 ||aeonculture.info^$document
+||affectionery.jp^$document
 ||affigolrich.com^$document
 ||affiliatebook.net^$document
 ||afghaehego.com^$document
@@ -547,6 +551,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||allcolorful.xsrv.jp^$document
 ||allerotics.online^$document
 ||allmodapk.de^$document
+||allout-anime.com^$document
 ||allowb6z.cvs.com.my^$document
 ||allpcworld.com^$document
 ||alltags.jp^$document
@@ -634,6 +639,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||an1.co.in^$document
 ||analogkaka.com^$document
 ||analytics.slot47.online^$document
+||ananantenna.blog.jp^$document
 ||ananta-systems.com^$document
 ||anatato.jp^$document
 ||and-ace.com^$document
@@ -743,6 +749,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aoiumiblog.com^$document
 ||aokiin.com^$document
 ||aokita-law.com^$document
+||aonatsu.jp^$document
 ||aorus.shop^$document
 ||aoshima-kenta.jp^$document
 ||aoyjpcgu.life^$document
@@ -849,6 +856,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aqreativez.com^$document
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
+||arakure.net^$document
 ||araou.jp^$document
 ||arasa-mama.com^$document
 ||archivando.jp^$document
@@ -884,6 +892,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||arrow-steel-f4f.notion.site^$document
 ||art.team-lab.cn^$document
 ||artealfonsina.com^$document
+||artechweb.pl^$document
 ||arthcamp.jp^$document
 ||artre60.com^$document
 ||artroot.jp^$document
@@ -1302,6 +1311,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bonnychamber.com^$document
 ||booberries.id^$document
 ||book-day.com^$document
+||book.costume-db.com^$document
 ||book.dldlinks.com^$document
 ||book.himepai.com^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
@@ -1422,6 +1432,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||byp.yongjoo.za.com^$document
 ||byqz.uzvkniid.love^$document
 ||byslww.cn^$document
+||byurubyuru.syokusamen.com^$document
 ||bzdiy.taobao.com^$document
 ||bzmm.jp^$document
 ||c-clays.com^$document
@@ -1456,6 +1467,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||capitalizeonconfidence.com^$document
 ||car-buzz.biz^$document
 ||caradel.portal.auone.jp^$document
+||caramel.pochasiko.com^$document
 ||carbanixe.life^$document
 ||carbestone.com^$document
 ||care-telecom.com^$document
@@ -1500,6 +1512,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||centraldetintaspro.com^$document
 ||centralesderiesgo.com^$document
 ||centre.slot42.online^$document
+||centrum-psychoedukacji.pl^$document
 ||ceoraas.com^$document
 ||cercafrasifacebook.altervista.org^$document
 ||cereb-ron.com^$document
@@ -1609,6 +1622,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||chupea-club.jp^$document
 ||churchfront.me^$document
 ||chuzai-china.com^$document
+||ciatr.jp^$document
 ||cicn-mall.com^$document
 ||cikarciadam.online^$document
 ||cimco-us.com^$document
@@ -1623,6 +1637,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cirugiaplasticacbba.com^$document
 ||cityofchix.com^$document
 ||ciyoqprice.com^$document
+||cjda75.jp^$document
 ||ck.jp.ap.valuecommerce.com^$document
 ||ckba.ru^$document
 ||ckcdnhm.cn^$document
@@ -1710,18 +1725,26 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||comic-checker.jp^$document
 ||comic-compass.com^$document
 ||comic-days.net^$document
+||comic-hitomiraw.com^$document
 ||comic-hobby.best^$document
 ||comic-info.jp^$document
 ||comic-mangashelf.com^$document
+||comic.aayaanblog.com^$document
 ||comic.bkrb.net^$document
 ||comic.chiramiru.com^$document
+||comic.dmm-mania.com^$document
 ||comic.enka.work^$document
+||comic.lsrv.jp^$document
 ||comic.manga-mill.com^$document
 ||comic.nan-net.com^$document
 ||comic.nijieromix.com^$document
+||comic.wew.jp^$document
 ||comic104.com^$document
+||comicc.honmadekka-channel.com^$document
 ||comicloop.jp^$document
 ||comics-love.hatenablog.com^$document
+||comics.cfbx.jp^$document
+||comics.the-universe-lab.com^$document
 ||comics.wpx.jp^$document
 ||comikatu.jp^$document
 ||comione.com^$document
@@ -1873,6 +1896,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dailytopic.jp^$document
 ||daimarubb.com^$document
 ||daimatu.seesaa.net^$document
+||daimonji-kk.jp^$document
 ||daisukestrend.com^$document
 ||daisy-times.com^$document
 ||dakimax.com^$document
@@ -1964,6 +1988,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dethein.net^$document
 ||detlilleteater.com^$document
 ||detstomat.ru^$document
+||deux.ero-jungle.cfbx.jp^$document
 ||dev-jpbl.emtg.xyz^$document
 ||dev.bimm.com^$document
 ||developer.android.google.cn^$document
@@ -2027,12 +2052,16 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dl20.myatro.shop^$document
 ||dland-a.com^$document
 ||dlandroid.com^$document
+||dldjdm.nonefree.com^$document
 ||dldshare.net^$document
 ||dlmarket.jp^$document
 ||dlounge.net^$document
 ||dlsite-pro.adult-h.com^$document
 ||dlsite.hrecords.jp^$document
 ||dlvywoutlet.com^$document
+||dmm-fanza-fan.com^$document
+||dmm-fanza.biz^$document
+||dmm-mania.com^$document
 ||dmmdoujinn.com^$document
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
@@ -2064,6 +2093,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dogaentame.net^$document
 ||dogorama.app^$document
 ||doiharu.xsrv.jp^$document
+||dojicco.com^$document
 ||dojin-asedaku.cyou^$document
 ||dojinfanza.com^$document
 ||dojingame.net^$document
@@ -2101,6 +2131,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||douga-sabusuku.com^$document
 ||dougaguild.xsrv.jp^$document
 ||doujin-ai.com^$document
+||doujin-comics.toremani.com^$document
 ||doujin-eromanga.adult-h.com^$document
 ||doujin-ntr.com^$document
 ||doujin-share.com^$document
@@ -2109,18 +2140,24 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin.dldlinks.com^$document
 ||doujin.furukawakan.jp^$document
 ||doujin.himepai.com^$document
+||doujin.makianosaihu.com^$document
+||doujin.moshiero.cfbx.jp^$document
 ||doujin.ton-ton.jp^$document
+||doujin.wtwhd.com^$document
 ||doujin2.makianosaihu.com^$document
 ||doujinbank.com^$document
 ||doujincco-ero.com^$document
 ||doujinfree.com^$document
+||doujinichiba.com^$document
 ||doujinkan.com^$document
 ||doujinnews.com^$document
 ||doujinrepublic.com^$document
+||doujinshi.nekopanchi.org^$document
 ||doujinshiblog.com^$document
 ||doujinshiman.com^$document
 ||doujinsokuhou45.com^$document
 ||doujinsokuhou45.com^$document
+||doujinwiki.com^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
 ||download-new.utorrent.com^$document
@@ -2149,6 +2186,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dream04090129.biz^$document
 ||dream0820.com^$document
 ||dream4you.jp^$document
+||dreamamore.blog^$document
 ||dreamgateway01.com^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
@@ -2201,6 +2239,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ebook.wpx.jp^$document
 ||ebookbrain.net^$document
 ||ebookcrossroads.com^$document
+||ebookjp.net^$document
 ||ebookstore.wpx.jp^$document
 ||ebpocket-free.jp.aptoide.com^$document
 ||ebqsuup.com^$document
@@ -2236,6 +2275,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||educacion.fecolsog.org^$document
 ||educationworlddirector.com^$document
 ||edwardsbike.com^$document
+||eee.attractive69.com^$document
 ||effectivedutchlessons.nl^$document
 ||efire-matome.com^$document
 ||efire-matome.com^$document
@@ -2247,6 +2287,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ego-event.fr^$document
 ||egtspl.com^$document
 ||ehabghoniem.com^$document
+||ehitomi-manga.com^$document
 ||eienno-zero.jp^$document
 ||eiga-mylife.com^$document
 ||eigahitottobi.com^$document
@@ -2401,14 +2442,18 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ero-anime.cfbx.jp^$document
 ||ero-av-manga.xn--3kq96f810a.jp^$document
 ||ero-comic.jp^$document
+||ero-manga-navi.com^$document
 ||ero-manga.cfbx.jp^$document
+||ero-manga.the-universe-lab.com^$document
 ||ero-ny.cfbx.jp^$document
 ||ero-ny.com^$document
+||ero.dis-1983.jp^$document
 ||eroanimelist.com^$document
 ||eroappgame.com^$document
 ||eroazu.com^$document
 ||erobooker.com^$document
 ||erobookjapan.com^$document
+||erocomi.kou-web.com^$document
 ||erocomic-love.net^$document
 ||erocomic-plant.com^$document
 ||erodaizensyu.com^$document
@@ -2420,12 +2465,15 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eroepub.com^$document
 ||eroero-manga.jp^$document
 ||eroero-manga.net^$document
+||eroero.bokuto-watashi.com^$document
 ||eroeroimessaim.com^$document
 ||eroge-maso.com^$document
 ||eroge.dldshare.net^$document
 ||eroge.erodl.cfbx.jp^$document
 ||erogetorrent2.blog.fc2.com^$document
 ||erogumi.net^$document
+||erohon-r18.com^$document
+||eromagazine.wpx.jp^$document
 ||eromancomi.com^$document
 ||eromanga-group.com^$document
 ||eromanga-guts.com^$document
@@ -2442,6 +2490,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eromanga.dl-ero-news.site^$document
 ||eromanga.dojin.com^$document
 ||eromanga.gingin.biz^$document
+||eromanga.oishin.jp^$document
+||eromanga.regalo-net.jp^$document
+||eromanga.un-gluten.jp^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
 ||eromangatankendan.com^$document
@@ -2453,6 +2504,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eronomichishirube.jp^$document
 ||eropapa0808.work^$document
 ||eroring.com^$document
+||erosico.com^$document
 ||erosummary.2chblog.jp^$document
 ||erotiti.com^$document
 ||erp.nexessence.com^$document
@@ -2549,11 +2601,13 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fan.main.jp^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
+||fanfan-comicomi.com^$document
 ||fanmake-blog.com^$document
 ||fanshub.jp^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
 ||fanzabooks.com^$document
+||fanzadensho.com^$document
 ||fanzonetokyo.jp^$document
 ||farsisaz.com^$document
 ||fashion.biglobe.ne.jp^$document
@@ -2660,11 +2714,13 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||flhzjo.com^$document
 ||flix2day.com^$document
 ||float.fun^$document
+||floatcenter.jp^$document
 ||floras.co.in^$document
 ||florencemainstreet.org^$document
 ||florerialasfrecias.com^$document
 ||floridianvacationhomes.com^$document
 ||flour.crurkin.info^$document
+||flower-point.pl^$document
 ||flower1.xyz^$document
 ||flowerh.work^$document
 ||flutterhq.com^$document
@@ -2726,7 +2782,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||free-learn.info^$document
 ||free-workstyle.com^$document
 ||free-your-iphone.co.uk^$document
+||free.dmm-mania.com^$document
 ||freeadblockerbrowser.com^$document
+||freecomic.wew.jp^$document
 ||freeconsul.co.jp^$document
 ||freehentaitorrent.jp^$document
 ||freelife55.net^$document
@@ -2754,6 +2812,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ftp.irbis.su^$document
 ||ftrc.me^$document
 ||ftuapps1.farlad.com^$document
+||ftv-style.com^$document
 ||fu-topi.com^$document
 ||fuelmovie.com^$document
 ||fufeng.xincun666.cn^$document
@@ -2782,6 +2841,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fukushima-kurashi-shigoto2022.jp^$document
 ||fukushima-zekkei.jp^$document
 ||fukushu.jp^$document
+||full-dl.pai-navi.com^$document
 ||full-spec.co.jp^$document
 ||full.pai-navi.com^$document
 ||fullgra.jp^$document
@@ -2810,6 +2870,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||futaba05.com^$document
 ||futae.hungry.jp^$document
 ||futamato.blog.jp^$document
+||futanarist.com^$document
 ||futboltactix.com^$document
 ||futosoku.com^$document
 ||futosoku.com^$document
@@ -3112,6 +3173,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gokigenteikoku.jp^$document
 ||gokyuzuvebalon.com^$document
 ||golang.google.cn^$document
+||goldenevent.pl^$document
 ||goldenheartmediation.com^$document
 ||goldenkings.bl.kuroco-img.app^$document
 ||goldensuccessinvestments.co.zm^$document
@@ -3174,6 +3236,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||granraiz.com^$document
 ||grapee.jp^$document
 ||graphenephone.store^$document
+||gray.pochasiko.com^$document
 ||grayelectricllc.com^$document
 ||greating-job.com^$document
 ||greeglanhind.xyz^$document
@@ -3192,6 +3255,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||grina.info^$document
 ||griselymasajistas.com^$document
 ||grnmaquinarias.com^$document
+||group-ka.de^$document
 ||group.gmo^$document
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
@@ -3330,6 +3394,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||harmose.fr^$document
 ||haro-blog.com^$document
 ||harriet-movie.jp^$document
+||harriseverafter.blog^$document
 ||harrysdial.com^$document
 ||haru-journal.com^$document
 ||haru-lab.jp^$document
@@ -3365,6 +3430,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hbox-webcomic.adult-h.com^$document
 ||hbr-square.com^$document
 ||hcomedian.com^$document
+||hcomic.syokusamen.com^$document
 ||healcipe.com^$document
 ||healingisland3103.com^$document
 ||healthistanbulgroup.com^$document
@@ -3376,6 +3442,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||heibon-heyboom.com^$document
 ||heim.jp^$document
 ||heipowersystem.com^$document
+||heiseibrewing.jp^$document
 ||heliumboss.xyz^$document
 ||hellofuture-inc.com^$document
 ||helloroomies-stkgz.com^$document
@@ -3390,7 +3457,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hemingwaybkk.com^$document
 ||hendamworld.com^$document
 ||hensaidiary.com^$document
+||hentai-covers.site^$document
+||hentai-raw.com^$document
+||hentai.coffee-days.jp^$document
+||hentai.hit-song-ranking.com^$document
 ||hentai.hotel3.jp^$document
+||hentai.humi.jp^$document
 ||her-rose.com^$document
 ||heraldsuites.com^$document
 ||heritagerareantique.com^$document
@@ -3412,6 +3484,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||heyagasuki.com^$document
 ||hf.ru^$document
 ||hhdistributors.com^$document
+||hi-bana.com^$document
 ||hi-mylife15.com^$document
 ||hi-tech.mail.ru^$document
 ||hi-ya-ke.com^$document
@@ -3484,6 +3557,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hitomi--blog.com^$document
 ||hitomi-comic.com^$document
 ||hitomi-official.jp^$document
+||hitomi-raw-eromanga.com^$document
 ||hitomi-raw.cfbx.jp^$document
 ||hitomi-vg.com^$document
 ||hitomila.blog^$document
@@ -3643,6 +3717,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||idol-jolt.com^$document
 ||idol-vr-mania.com^$document
 ||idpssrinagar.in^$document
+||idweb.jp^$document
 ||iecolle.com^$document
 ||ieigsc.org^$document
 ||iepvirgendelaasuncion.com^$document
@@ -3893,6 +3968,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||japan.zdnet.ex1.https.443.ipv6.faw.com.cn^$document
 ||japananimetour.com^$document
 ||japanbaconfestival.jp^$document
+||japancreatorbank.com^$document
 ||japanese-archery.hateblo.jp^$document
 ||japanese.cri.cn^$document
 ||japanknowledge-com-443.webvpn.zisu.edu.cn^$document
@@ -4075,6 +4151,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kailnokankaku.com^$document
 ||kaimanga.info^$document
 ||kainagi.com^$document
+||kairaku-comic.com^$document
 ||kaiten-portal.jp^$document
 ||kaitori-janiyard.jp^$document
 ||kaitouranmei.com^$document
@@ -4214,6 +4291,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||khairpurfoods.com^$document
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
+||kiby.jp^$document
 ||kicks-blog.com^$document
 ||kigyolog.com^$document
 ||kihachi-log.com^$document
@@ -4312,6 +4390,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kodomo.kamakuraborikaikan.jp^$document
 ||koe-voice.jp^$document
 ||kofushingen.jp^$document
+||kohaku.pochasiko.com^$document
 ||kohiyoto.com^$document
 ||kohjiro.jp^$document
 ||kohtaroblog.com^$document
@@ -4452,6 +4531,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kyokyu.net^$document
 ||kyoudailanka.com^$document
 ||kyoukaran.com^$document
+||kyounootomo.com^$document
 ||kyoutei-report.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
@@ -4637,6 +4717,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||loadgames.org^$document
 ||loadpiece.xyz^$document
 ||loan^$document,from=~4en.loan
+||locai.blog^$document
 ||local.jiheishou-e.xyz^$document
 ||locandroll.com^$document
 ||loccevd.com^$document
@@ -4665,6 +4746,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||love-glans.com^$document
 ||lovefortune.zappallas.com^$document
 ||lovegraph.me^$document
+||loveh.st-futaba.jp^$document
 ||lovelive-sif.top^$document
 ||loveliveallstar.top^$document
 ||lovelivematocha.com^$document
@@ -4696,6 +4778,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lunalucasjewel.com^$document
 ||lunch.orders.lfs.bg^$document
 ||lusogamer.com^$document
+||lustyview.com^$document
 ||luuhoo.cn^$document
 ||luupy.net^$document
 ||luvasti.com^$document
@@ -4783,6 +4866,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mahiru-afiri.com^$document
 ||mahoyome-stage.jp^$document
 ||maidoerobooks.com^$document
+||maiko-book.com^$document
 ||maikumo.com^$document
 ||mail.almightyinfra.com^$document
 ||mail.chocolateslacabana.com^$document
@@ -4830,6 +4914,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mametoku.community2.fmworld.net^$document
 ||mamimumemog.com^$document
 ||mamintyu.com^$document
+||man-colle.com^$document
 ||mana-foot.com^$document
 ||manacomicmonster.com^$document
 ||manadia.jp^$document
@@ -4854,10 +4939,17 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga.coideco.jp^$document
 ||manga.dmm-mania.com^$document
 ||manga.dounavi.net^$document
+||manga.hentai-raw.hiraku946.jp^$document
+||manga.honmadekka-channel.com^$document
 ||manga.jimnian.com^$document
+||manga.kiby.jp^$document
 ||manga.kou-web.com^$document
+||manga.okabasyo.com^$document
 ||manga.pai-navi.com^$document
+||manga.pink^$document
+||manga.tengoku-ero.com^$document
 ||manga.tokyo.jp^$document
+||manga.ton-ton.jp^$document
 ||manga.tuber-ch.com^$document
 ||manga1000.su^$document
 ||manga1001.club.atlaq.com^$document
@@ -4872,6 +4964,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mangafan.biz^$document
 ||mangaland.wpx.jp^$document
 ||mangamotomaru.com^$document
+||mangamu.com^$document
 ||mangan1.seesaa.net^$document
 ||manganista.net^$document
 ||mangasokuhou.com^$document
@@ -4941,6 +5034,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||matching-next.jp^$document
 ||matchingdays.com^$document
 ||matchingmesse.hatenadiary.com^$document
+||mate.dmm-mania.com^$document
 ||mathscidk.com^$document
 ||matilda2023.jp^$document
 ||matomake.com^$document
@@ -5002,6 +5096,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||meat-kode.com^$document
 ||mebelim.net^$document
 ||mecha-entame.com^$document
+||mechacomic.biz^$document
 ||mechasiko.com^$document
 ||mechoice.jp^$document
 ||meconnect.ru^$document
@@ -5114,11 +5209,13 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||miki333.com^$document
 ||mikimane.com^$document
 ||mikimaster.moe^$document
+||mikioariga.jp^$document
 ||mikobito.com^$document
 ||mikumori.com^$document
 ||mile22.jp^$document
 ||milf-gloss.doujin-comic.com^$document
 ||military38.com^$document
+||milk-comic.com^$document
 ||milk-key.com^$document
 ||millelog.com^$document
 ||millenvpn.jp^$document
@@ -5135,6 +5232,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||min-ero.jp^$document
 ||mina-trend.com^$document
 ||minabl.com^$document
+||minacle.tokyo^$document
 ||minagu.co.jp^$document
 ||minahina.com^$document
 ||minamikublog.com^$document
@@ -5158,6 +5256,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||miochannel.com^$document
 ||miplghana.com^$document
 ||mira0502.com^$document
+||miragesoft.jp^$document
 ||mirai-guide.com^$document
 ||miraie.org^$document
 ||mirandadeutsch.com^$document
@@ -5170,6 +5269,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||miss-saigon-movie-25.jp^$document
 ||missav-av01.com^$document
 ||missav-downloader.org^$document
+||missav-fc2ppv.jp^$document
 ||missav.com^$document
 ||misuteri-enblog.com^$document
 ||mitemi-n.jp^$document
@@ -5177,6 +5277,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mitene-gps.onelink.me^$document
 ||mitkp.com^$document
 ||mitsubachi-enrai.jp^$document
+||mitsukazu.com^$document
 ||mitsukidayori.com^$document
 ||mitsuowriting.blog.jp^$document
 ||mitylog.jp^$document
@@ -5271,6 +5372,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||momoka20200623-7net-omni7-jp.ariyasumomoka.org^$document
 ||momonga-km.com^$document
 ||momonga-raw.com^$document
+||momonga.hitomi-manga-hentai.com^$document
 ||momonoyakata.com^$document
 ||moms-happylife.com^$document
 ||momsbrk.com^$document
@@ -5295,6 +5397,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||monologue-style.com^$document
 ||monosola.com^$document
 ||monpuran.com^$document
+||monta-blog.net^$document
 ||montblancfa.com^$document
 ||montblues.com^$document
 ||monuke.com^$document
@@ -5345,6 +5448,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mrandmsreed.com^$document
 ||mrisocietyserbia.online^$document
 ||mrlmhcx4.r.eu-west-1.awstrack.me^$document
+||mrs.seven-area.com^$document
 ||msfreeb.com^$document
 ||msfuturestories.ru^$document
 ||msk-radio.com^$document
@@ -5388,6 +5492,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mustadapttosurvive.lcn40.com^$document
 ||musubi10.com^$document
 ||mutonlh0.hghconvention.com^$document
+||mutturimonstaaaa.com^$document
 ||muusan.wpx.jp^$document
 ||muutan.work^$document
 ||muxic.tv^$document
@@ -5446,6 +5551,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nakbrzpv.live^$document
 ||nako12.com^$document
 ||naltupo-movie.work^$document
+||namachacha.com^$document
 ||namaeuranai.biz^$document
 ||namakemono-no-gogai.blog.ss-blog.jp^$document
 ||namakemonoyoshi.com^$document
@@ -5506,6 +5612,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||natsusachi.com^$document
 ||natti404.com^$document
 ||nattoumarket.com^$document
+||natuka.pochasiko.com^$document
 ||naturebeard.com^$document
 ||naturetarou.com^$document
 ||natusma.com^$document
@@ -5518,6 +5625,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nazenazeblog.com^$document
 ||nazo-don.net^$document
 ||nazo-project.com^$document
+||nazuna.pochasiko.com^$document
 ||nbqcfgar.ltd^$document
 ||nbtkoshi.com^$document
 ||nby.stylemap.co.jp^$document
@@ -5709,6 +5817,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nogizaka46.u-ff.com^$document
 ||nogomi.ru^$document
 ||nohosma.com^$document
+||noirselect.com^$document
 ||noisycell.com^$document
 ||nojiblog.com^$document
 ||nokarimazi.com^$document
@@ -5980,6 +6089,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/outdoorlifestyle^$document
 ||note.com/parsonalsecret^$document
 ||note.com/paul1211^$document
+||note.com/penginadaafi^$document
 ||note.com/pet_supply^$document
 ||note.com/pixel8a9^$document
 ||note.com/planetofgori^$document
@@ -6006,6 +6116,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/restruct^$document
 ||note.com/retokyo2025^$document
 ||note.com/rex1234^$document
+||note.com/rich_ferret438^$document
 ||note.com/rich_mole9262^$document
 ||note.com/rich_shark9469^$document
 ||note.com/rin_142356^$document
@@ -6158,6 +6269,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nudge.cards^$document
 ||nudge.works^$document
 ||nufu.online^$document
+||nukeman.ero-wife.com^$document
+||nukicomics.com^$document
 ||nukitashi.xyzapk.com^$document
 ||nukkadusa.com^$document
 ||numaota.jp^$document
@@ -6167,6 +6280,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nuxyanblog.com^$document
 ||nvolanp07de43.xn--d1aby4ah.xn--p1ai^$document
 ||nwaradar.com^$document
+||nwith.jp^$document
 ||nwknews.jp^$document
 ||nxa.cljfncyq.shop^$document
 ||nxbrew.cc^$document
@@ -6308,6 +6422,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||onlyone-blog.com^$document
 ||onmyoji-stage.jp^$document
 ||onsetvzq.formachasia.com^$document
+||onyankopon.jp^$document
 ||onzedesetembre.com^$document
 ||oodoori.com^$document
 ||oomake.com^$document
@@ -6317,6 +6432,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||op1.info^$document
 ||opc3.bandom.info^$document
 ||opensea.io^$document
+||oppai.ryohka.jp^$document
 ||opportunity.linkedin.cn^$document
 ||opticae.online^$document
 ||optionpulsevn.com^$document
@@ -6535,6 +6651,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||picky-s.jp^$document
 ||pico.inc^$document
 ||pictureframeshub.com^$document
+||pierrot-esthe.com^$document
 ||pignon.co.jp^$document
 ||pikamama.com^$document
 ||pikaonline.com^$document
@@ -6601,6 +6718,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pluswood.jp^$document
 ||pmprofi.ru^$document
 ||poap.xyz^$document
+||pochasiko.com^$document
 ||pocketapk.net^$document
 ||pocop0c0.blog.fc2.com^$document
 ||poemsd3j.gabrans.com^$document
@@ -6648,6 +6766,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||posgradounap.com^$document
 ||positive-lab365days.com^$document
 ||positivelog.net^$document
+||possi452.hateblo.jp^$document
 ||postcrux.com^$document
 ||postly.app^$document
 ||pot-blog.com^$document
@@ -6737,6 +6856,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||puppy-stepbystep.com^$document
 ||puralog.com^$document
 ||puranote.net^$document
+||pured.doorblog.jp^$document
 ||purellc.base.shop^$document
 ||puremods.net^$document
 ||purisoku.com^$document
@@ -6821,6 +6941,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||qxlqgdx.studio^$document
 ||qy62ijjz2.benecicios-bancorrientes.online^$document
 ||r-press.su^$document
+||r18.hotel3.jp^$document
 ||r2.community.samsung.com^$document
 ||r25.jp^$document
 ||r27kt256.r.us-east-1.awstrack.me^$document
@@ -6865,12 +6986,17 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||raoesn.co^$document
 ||rapidgators.net^$document
 ||rapportsecurity.com^$document
+||rar.wew.jp^$document
 ||rarbg.to^$document
 ||rarecenter.org^$document
 ||raredoramas.info^$document
 ||rargb.to^$document
 ||rassry.com^$document
 ||ratio.thyshopp.life^$document
+||raw-momonga.com^$document
+||raw.dmm-mania.com^$document
+||raw.wpx.jp^$document
+||raw2.dmm-mania.com^$document
 ||rawapk.com^$document
 ||rawmanga.jp^$document
 ||rawmangaraw.com^$document
@@ -7079,6 +7205,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rockresortrosario.com^$document
 ||rockresortsequinox.com^$document
 ||rockyoupop.com^$document
+||rocomotion.jp^$document
 ||rocs-project.org^$document
 ||rokepan.com^$document
 ||rokitolar.com^$document
@@ -7161,6 +7288,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ryoryokura.com^$document
 ||ryoto-seeking-dailylife.com^$document
 ||ryouteikoujyou-shop.jp^$document
+||ryudos-product-hub.lovable.app^$document
 ||ryuichi-blog.com^$document
 ||ryusoku.com^$document
 ||ryusoku.com^$document
@@ -7203,6 +7331,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||saha.cl^$document
 ||sahuyuki.hatenablog.com^$document
 ||saikyo-jump.com^$document
+||saimin.salonbonte.jp^$document
 ||saisin-news.com^$document
 ||saito-fukuoka.com^$document
 ||saitomo0908.com^$document
@@ -7236,6 +7365,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||salondebeautelani.com^$document
 ||salongmaryamm.online^$document
 ||salvajebynatysilva.com^$document
+||samantha-doll.com^$document
 ||samba8fe.bizits.com^$document
 ||same-eyes-391433.framer.app^$document
 ||samoon-dmd.com^$document
@@ -7247,6 +7377,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sandboxgame.online^$document
 ||sandome-no-honesty.com^$document
 ||sandstoneairportparking.com^$document
+||sangyo-mirai.jp^$document
 ||sanluisobispogasprices.com^$document
 ||sanosemi.info^$document
 ||sanpo19.jp^$document
@@ -7336,6 +7467,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||seedo.augfund.biz^$document
 ||seiai690152.ocnk.me^$document
 ||seidentest.com^$document
+||seifuku-map.jp^$document
 ||seijichishin.com^$document
 ||seijikanews.com^$document
 ||seijikanojoho.com^$document
@@ -7515,6 +7647,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||siihamu.com^$document
 ||sikanosima.jp^$document
 ||sikiroom.com^$document
+||sikosiko.syokusamen.com^$document
 ||silkenfeline.com^$document
 ||silver-allure.com^$document
 ||sim-studio-unify.com^$document
@@ -7537,6 +7670,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||siryou.jp^$document
 ||site.libecity.com^$document
 ||sitecreation.co.jp^$document
+||sittoko.com^$document
 ||sivbp.moonarama.za.com^$document
 ||siwib.org^$document
 ||sixany.com^$document
@@ -7563,6 +7697,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||skorsch.com^$document
 ||skudaddy.com^$document
 ||skulerceines.tk^$document
+||sky-passport.jp^$document
 ||skyanimeblog.com^$document
 ||skyblue-next.com^$document
 ||skyddaskolan.com^$document
@@ -7690,6 +7825,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sozhaatimes.com^$document
 ||sp-link.link^$document
 ||sp.gettersiida.net^$document
+||spa-smo.com^$document
 ||spaceshipearth.jp^$document
 ||spacha2026.com^$document
 ||spang8vz.exoticmods.com^$document
@@ -7878,6 +8014,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sub.yyymeari.com^$document
 ||sub2-30.aairwwq.online^$document
 ||sub2.xn--cckzbc7izeb1c5341c2y2d.jp^$document
+||sub7.gyutora.jp^$document
 ||subarashii.me^$document
 ||subaru71.ru^$document
 ||subculture-flashbacks.com^$document
@@ -8125,6 +8262,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tat22.com^$document
 ||tatami-kyun.com^$document
 ||tathykhojak.com^$document
+||tati-log.com^$document
 ||tatocrips.xyz^$document
 ||tatsujin.ru^$document
 ||tatsutsublog.com^$document
@@ -8382,6 +8520,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||toolbox.app^$document
 ||tools.anquanclub.cn^$document
 ||toorublog.com^$document
+||top.manga-ganma.com^$document
 ||top^$document,from=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~cpolar.top|~doubledouble.top|~edgeless.top|~galge.top|~gdtot.top|~hostingowy.top|~iboxs.top|~imxyz.top|~iwayado.toweb.top|~jp.jtube.top|~loveliveallstar.top|~magocoro.top|~maruiblog.top|~mastodon.top|~mianbeian.top|~miotele.top|~nfmirrorcdn.top|~nicenature.top|~ossme.top|~passt.top|~pdcdn1.top|~pegelinux.top|~polar.top|~pressplay.top|~qwertycxz.top|~reminder.top|~rept.hamakaze.top|~reyhub.top|~rifton.top|~rugaming.top|~saltwood.top|~shucks.top|~sobanomi-ikkanjin.top|~spoilerraw.top|~strims.top|~suiten.top|~t-satoru.top|~thedesk.top|~tokiwasushi.top|~voxel.top|~vsdb.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~kiwami.top|~maguro.top|~golfgear.top|~yoshizuya.top|~kitaqhitorioya.top|~sakura-cl.top|~deen-hachinohe.top|~www.coolsymbol.top|~www.jsdelivr.top|~ja.amatorvideok.top|~ja.pornici.top|~2dfmax.top|~yokohama-shirahata.top|~zeri-m.top|~www.sayafx.top|~toweb.top|~piggparty.top|~jrac.top|~skinsalon-el.top|~www.nandemohonpotakeda.top|~www.7sense.top|~orangeline.top|~www.suiten.top|~mk-mimosa.top|~www.sowelu.top|~www.trickart.top|~mikata.top|~jpn.billxia.top|~u-sky.top|~xn--7br687a6xa056a.top|~xn--u8jxay6nn91xo2n1z1dx3ek5k.top|~www.fujisangyo.top|~www.9tsu.top|~kaien.top|~bullsailor.top|~freemagazines.top|~manhuavn.top|~aigto.top|~yoimiyalove.top|~green-office.top|~newsite.top|~www.xn--kck9c8a7d.top|~mxdj.top|~froghouse.top|~ekubo.top|~fukunoya.top|~zovo2.top|~kokugo-senka.top|~mathify.top|~duckify.top|~www.screensaver.top|~graphonline.top|~cutcut.top|~8kun.top|~www.2z2.top|~brainteaser.top|~hosts.gitcdn.top|~mcservers.top|~addressgenerator.top|~www.flamecho.top|~8kun.top|~lava.top|~laosheng.top|~toptruyen.top|~www.itrack.top|~wceui.top|~yggleak.top
 ||topcasinosdirectory.com^$document
 ||topfifty.uk^$document
@@ -8926,6 +9065,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wami.id^$document
 ||wander-freely.com^$document
 ||wangbaobei.cn^$document
+||wani-digi.com^$document
 ||wansei.com^$document
 ||wanwanwan.co.jp^$document
 ||wapfdzs.cn^$document
@@ -9070,6 +9210,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wp-load.in^$document
 ||wp.cloudprox.com^$document
 ||wp253742.wpx.jp^$document
+||wp391274.wpx.jp^$document
+||wp832847.wpx.jp^$document
 ||wpyi.xxasj.cn^$document
 ||wqamxvhk.xyz^$document
 ||wrapin.org^$document
@@ -9143,6 +9285,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.8mart.jp^$document
 ||www.8web.cc^$document
 ||www.910creatives.digital^$document
+||www.a-moe.com^$document
 ||www.aalhoyr.cn^$document
 ||www.abcclinic.com^$document
 ||www.abcguam.jp^$document
@@ -9593,10 +9736,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.erica-android.jp^$document
 ||www.ermenekturkuaz.com^$document
 ||www.eromanga-muryou-hitomi-26.net^$document
+||www.eromanga-muryou-hitomi-40.net^$document
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document
 ||www.esquire.com^$document
+||www.esthe-lynx-ebisu.com^$document
 ||www.etital.com^$document
 ||www.etsabdelmoula.com^$document
 ||www.eurorvvv.org^$document
@@ -9615,6 +9760,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.farnsworthintelligence.com^$document
 ||www.farsisaz.com^$document
 ||www.farsroid.com^$document
+||www.fc-comi.com^$document
 ||www.fcgyadg.cn^$document
 ||www.fectiv.online^$document
 ||www.federalhiringadvice.com^$document
@@ -9648,6 +9794,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.flymee.info^$document
 ||www.focus123.cn^$document
 ||www.forcard.info^$document
+||www.forest-no1.com^$document
 ||www.foresthilloptical.ca^$document
 ||www.forestway.info^$document
 ||www.fountainyouth.org^$document
@@ -9773,6 +9920,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.he-fumu.com^$document
 ||www.healiness.com^$document
 ||www.heardle.app^$document
+||www.heartbeat-nighter.online^$document
 ||www.heizaemon.jp^$document
 ||www.hellopyeongchang.com^$document
 ||www.herbstowing.ca^$document
@@ -9928,6 +10076,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.jshpjaohn2024.jp^$document
 ||www.judymzungu.com^$document
 ||www.junipercre.com^$document
+||www.justlanyards.ch^$document
 ||www.juxtin.com^$document
 ||www.jvesign.com/shop^$document
 ||www.k-cooking.jp^$document
@@ -10013,6 +10162,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.lexcru.com^$document
 ||www.lexiconnetworks.com^$document
 ||www.leybold.cn^$document
+||www.librio.jp^$document
 ||www.lieyouren.cn^$document
 ||www.lifehacker.jp^$document
 ||www.lifestorytown.jp^$document
@@ -10070,6 +10220,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.maneo.jp^$document
 ||www.mangabiyori.online^$document
 ||www.manganoie.com^$document
+||www.mangaraw-hitomi-dame.cfbx.jp^$document
 ||www.mangataisho.com^$document
 ||www.mantiscentipede.work^$document
 ||www.maoppy.com^$document
@@ -10231,6 +10382,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.nvidia.cn^$document
 ||www.nyc-guitars.com^$document
 ||www.ocgracefulsmiles.com^$document
+||www.office-will.com^$document
 ||www.ohcchomesforsale.com^$document
 ||www.oikocredit.jp^$document
 ||www.oita-gt.jp^$document
@@ -10388,6 +10540,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.reifuworks.com^$document
 ||www.reimagines.jp^$document
 ||www.reinya.jp^$document
+||www.reiya330.jp^$document
 ||www.rembertovaldes.cl^$document
 ||www.renesas.cn^$document
 ||www.renovmobils.com^$document
@@ -10554,6 +10707,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.squareclip.jp^$document
 ||www.srcboat.fi^$document
 ||www.sreemahadevgroup9.com^$document
+||www.st-futaba.jp^$document
 ||www.st-johnfisher.ealing.sch.uk^$document
 ||www.stackfinder.ru^$document
 ||www.standsapp.org^$document
@@ -10563,6 +10717,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.statewaterheatersme.com^$document
 ||www.stc.rarait.com^$document
 ||www.stradvert.com^$document
+||www.studio-yh.jp^$document
 ||www.studioworks.co.in^$document
 ||www.sudzfundraising.com^$document
 ||www.sugudeki-tateshina.jp^$document
@@ -10668,6 +10823,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.tokyomeenfashion.com^$document
 ||www.tokyoroomfashion.com^$document
 ||www.torrent48.com^$document
+||www.toshima-sdgs.jp^$document
 ||www.totalav.com^$document
 ||www.totalexpo.ru^$document
 ||www.tourconnection.travel^$document
@@ -10691,6 +10847,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.tubeninja.net^$document
 ||www.tuberevanced.com^$document
 ||www.tudorwatch.cn^$document
+||www.tuma-no-himitsu.com^$document
 ||www.tungacademy.com^$document
 ||www.tunyafrika.com^$document
 ||www.turncent.com^$document
@@ -10945,6 +11102,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xn--n8j6d907hrs8bj2b2h181k.com^$document
 ||xn--n8jtc6ad0nv19pp9cstj8xjljc.net^$document
 ||xn--n8jyp3b884top8c.net^$document
+||xn--nbkt22gzudwn9b.jp^$document
 ||xn--nckxaw3lrb7by753hi5c.net^$document
 ||xn--o9j0bk7253fj2b.net^$document
 ||xn--o9j0bk7kte4c4a37a172uoe5auxzhl3pa.com^$document
@@ -11010,6 +11168,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xvxv-min.com^$document
 ||xxkaiwai.com^$document
 ||xxx.hotel3.jp^$document
+||xxx.konan-connect.jp^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
 ||xyz-jp.org^$document
@@ -11040,6 +11199,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yancane-shukatsu.com^$document
 ||yang678.xyz^$document
 ||yaoply.com^$document
+||yaoshieijutaku.jp^$document
 ||yappalie.com^$document
 ||yaraktaraki.online^$document
 ||yaraon-blog.com^$document
@@ -11060,6 +11220,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ybe5vxl.madietamoi.fr^$document
 ||ydenki.jp^$document
 ||ydmblog.com^$document
+||ydojin.uncensored.jp^$document
 ||ydxlanhai.taobao.com^$document
 ||yena.jp^$document
 ||yenudesa.com^$document
@@ -11180,6 +11341,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yowlsyhz.malaysiainternationalschools.com^$document
 ||yptnfqth.guru^$document
 ||yrstest.dev-env.xyz^$document
+||yruds.com^$document
 ||ys-interior.biz^$document
 ||ys9cnh3t.r.us-east-1.awstrack.me^$document
 ||ysbdnw.simplerx.sa.com^$document
@@ -11335,6 +11497,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||zerocustom.jp^$document
 ||zeroichi.media^$document
 ||zeroum.co.jp^$document
+||zerozerolove.net^$document
 ||zesty1pk.arcjav.com^$document
 ||zewiyig.live^$document
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^$document
@@ -11348,6 +11511,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||zimplow.co.zw^$document
 ||zinroonline.wiki.fc2.com^$document
 ||zintosuru.com^$document
+||zip.wew.jp^$document
 ||ziperto.me^$document
 ||ziperto.org^$document
 ||zired.net^$document
