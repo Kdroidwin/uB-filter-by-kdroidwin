@@ -132,6 +132,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||1m7z6nzzl.nordic-walking-schule-brita-becker.de^$document
 ||1mcl.xyz^$document
 ||1mmsusumu.com^$document
+||1onepiece.jp^$document
 ||1pack.blog^$document
 ||1passwogd.top^$document
 ||1rrobuy.com^$document
@@ -2786,6 +2787,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||freeadblockerbrowser.com^$document
 ||freecomic.wew.jp^$document
 ||freeconsul.co.jp^$document
+||freedoor.co.jp/blog^$document
 ||freehentaitorrent.jp^$document
 ||freelife55.net^$document
 ||freelifefreetime.com^$document
@@ -3926,6 +3928,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ivantsoi.myds.me^$document
 ||ivepoon.com^$document
 ||ivogijufij.dvereskamat.sk^$document
+||ivolkman.com^$document
 ||iwanami-hall.com^$document
 ||iwatekko.jp^$document
 ||ixamiviboq.obentreprendre.fr^$document
@@ -6220,6 +6223,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/youmadesign^$document
 ||note.com/yubaku^$document
 ||note.com/yubaku^$document
+||note.com/yukarin_english^$document
 ||note.com/yuki_note_1^$document
 ||note.com/yumisnscontents^$document
 ||note.com/yuto_age_gap^$document
@@ -6853,6 +6857,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||publicbarlive.com^$document
 ||pukecco.com^$document
 ||pukesbgu.treasureshotel.com^$document
+||punchtaka.hatenablog.com^$document
 ||puntagordagasprices.com^$document
 ||puppy-stepbystep.com^$document
 ||puralog.com^$document
@@ -7419,6 +7424,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||satsutabato-onsen.com^$document
 ||sattelite.eu^$document
 ||satukiti.com^$document
+||sauda-risa.co.jp^$document
 ||saudi-newsy.com^$document
 ||savethechildren.mx^$document
 ||sayaken.com^$document
@@ -8102,6 +8108,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||support.avast.com^$document
 ||support.avg.com^$document
 ||support.caseplay.shop^$document
+||support.google.com/youtube/thread/258637969^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
 ||support.microsoft.ex1.https.443.g10.ipv6.rongan.gov.cn^$document
@@ -8951,6 +8958,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||vivi-water.com^$document
 ||vividib.com^$document
 ||vjuyzylf.digital^$document
+||vloglabo.com^$document
 ||vls51wg.h-arlt-fotografie.de^$document
 ||vmm0dj30.r.us-west-2.awstrack.me^$document
 ||vn5oqgqo.auslagerung-pastservice.de^$document
@@ -9819,6 +9827,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.gadgetskool.com^$document
 ||www.gaimaki.com^$document
 ||www.gainamatsuri.jp^$document
+||www.gajitime.com^$document
 ||www.gameapkz.com^$document
 ||www.gamegadget.jp^$document
 ||www.gameloop.com^$document
@@ -10287,6 +10296,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.miracle2.jp^$document
 ||www.misaventuresi.com^$document
 ||www.mitsuihightec.com^$document
+||www.mitsukerune.com^$document
 ||www.mixim.site^$document
 ||www.miyamatakeru.com^$document
 ||www.mizaninstitute.com^$document
