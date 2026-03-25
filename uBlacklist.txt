@@ -1,11 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://eromangajiru.com/*
-*://jinkanra.com/*
-*://dlsite.estudiopepa.jp/*
-*://doutera.com/*
-*://boil.yui-cni.cv/*
-*://yui-cni.cv/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -16949,6 +16943,7 @@
 *://boftech.net/*
 *://bohena-made.com/*
 *://bohusbanken.com/*
+*://boil.yui-cni.cv/*
 *://bokoguma.com/*
 *://boku-tabi.com/*
 *://boku-wasa-kina.com/*
@@ -17697,6 +17692,7 @@
 *://dlmarket.jp/*
 *://dlounge.net/*
 *://dlsite-pro.adult-h.com/*
+*://dlsite.estudiopepa.jp/*
 *://dlsite.hrecords.jp/*
 *://dlvywoutlet.com/*
 *://dmm-fanza-fan.com/*
@@ -17797,6 +17793,7 @@
 *://doujinshiman.com/*
 *://doujinsokuhou45.com/*
 *://doujinwiki.com/*
+*://doutera.com/*
 *://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
 *://download-new.utorrent.com/*
@@ -18128,6 +18125,7 @@
 *://eromanga.oishin.jp/*
 *://eromanga.regalo-net.jp/*
 *://eromanga.un-gluten.jp/*
+*://eromangajiru.com/*
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
 *://eromangatankendan.com/*
@@ -19614,6 +19612,7 @@
 *://jimtechs.biz/*
 *://jin115.com/*
 *://jinenbo.info/*
+*://jinkanra.com/*
 *://jinsei-cinema.jp/*
 *://jinsei0826.com/*
 *://jisedai.me/*
@@ -26700,6 +26699,7 @@
 *://yugiohblog.konami.com/*
 *://yuhiko-blog1.com/*
 *://yuhiya1627.com/*
+*://yui-cni.cv/*
 *://yuka-arrgtlife.com/*
 *://yuka222.com/*
 *://yukaiakansyasai.ciao.jp/*

@@ -1297,6 +1297,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||boftech.net^$document
 ||bohena-made.com^$document
 ||bohusbanken.com^$document
+||boil.yui-cni.cv^$document
 ||bokoguma.com^$document
 ||boku-tabi.com^$document
 ||boku-wasa-kina.com^$document
@@ -2058,6 +2059,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dlmarket.jp^$document
 ||dlounge.net^$document
 ||dlsite-pro.adult-h.com^$document
+||dlsite.estudiopepa.jp^$document
 ||dlsite.hrecords.jp^$document
 ||dlvywoutlet.com^$document
 ||dmm-fanza-fan.com^$document
@@ -2159,6 +2161,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujinsokuhou45.com^$document
 ||doujinsokuhou45.com^$document
 ||doujinwiki.com^$document
+||doutera.com^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
 ||download-new.utorrent.com^$document
@@ -2494,6 +2497,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eromanga.oishin.jp^$document
 ||eromanga.regalo-net.jp^$document
 ||eromanga.un-gluten.jp^$document
+||eromangajiru.com^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
 ||eromangatankendan.com^$document
@@ -4014,6 +4018,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jimtechs.biz^$document
 ||jin115.com^$document
 ||jinenbo.info^$document
+||jinkanra.com^$document
 ||jinsei-cinema.jp^$document
 ||jinsei0826.com^$document
 ||jisedai.me^$document
@@ -11377,6 +11382,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yugiohblog.konami.com^$document
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
+||yui-cni.cv^$document
 ||yuka-arrgtlife.com^$document
 ||yuka222.com^$document
 ||yukaiakansyasai.ciao.jp^$document
