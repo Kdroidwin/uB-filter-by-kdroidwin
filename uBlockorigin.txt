@@ -29,7 +29,6 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
-/^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
