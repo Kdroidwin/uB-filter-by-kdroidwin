@@ -1,5 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://eromangajiru.com/*
+*://jinkanra.com/*
+*://dlsite.estudiopepa.jp/*
+*://doutera.com/*
+*://boil.yui-cni.cv/*
+*://yui-cni.cv/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
