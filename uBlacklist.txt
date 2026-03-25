@@ -22914,7 +22914,6 @@
 *://sebastianoarmelibattana.com/*
 *://second.jyoho-library.com/*
 *://second.ux-design.blog/*
-*://secure.taberu.me/*
 *://securitysoftguide.com/*
 *://see-d.jp/*
 *://seed-pocket2.com/*
@@ -23578,7 +23577,6 @@
 *://ta-see.com/*
 *://taa-channel.com/*
 *://taakkk.com/*
-*://tabelog.onelink.me/*
 *://tabi-time.jp/*
 *://tabichannel.com/*
 *://tabisaki-blog.com/*
@@ -25691,7 +25689,6 @@
 *://www.news-postseven.com/*
 *://www.newsroomtransparencytracker.com/*
 *://www.newsunpia.com/*
-*://www.nexusmods.com/*
 *://www.nhrenshou.cn/*
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
