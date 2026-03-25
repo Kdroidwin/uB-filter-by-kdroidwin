@@ -7460,7 +7460,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sebastianoarmelibattana.com^$document
 ||second.jyoho-library.com^$document
 ||second.ux-design.blog^$document
-||secure.taberu.me^$document
 ||securitysoftguide.com^$document
 ||see-d.jp^$document
 ||seebeck.co.jp^$document
@@ -8171,7 +8170,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ta-see.com^$document
 ||taa-channel.com^$document
 ||taakkk.com^$document
-||tabelog.onelink.me^$document
 ||tabi-time.jp^$document
 ||tabichannel.com^$document
 ||tabisaki-blog.com^$document
@@ -10358,7 +10356,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.news-postseven.com^$document
 ||www.newsroomtransparencytracker.com^$document
 ||www.newsunpia.com^$document
-||www.nexusmods.com^$document
 ||www.nhrenshou.cn^$document
 ||www.nhyxmsy.cn^$document
 ||www.nicigas.shop^$document
