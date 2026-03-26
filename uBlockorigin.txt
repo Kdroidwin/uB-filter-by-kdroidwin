@@ -945,6 +945,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||asoboolog.com^$document
 ||asotalk.com^$document
 ||asoworld.com^$document
+||asset-inc.jp^$document
 ||assirobo.com^$document
 ||associazionerivieradelconero.com^$document
 ||astakatets1.site^$document
@@ -998,6 +999,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||avobild.life^$document
 ||avtonomka-service.online^$document
 ||avtuver.com^$document
+||avvr.net^$document
 ||awadhjagaran.com^$document
 ||awais-javed.com^$document
 ||awaisora.com^$document
@@ -1088,6 +1090,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||batoma.com^$document
 ||batonrelay.jp^$document
 ||batterygel.in^$document
+||bau-bau.jp^$document
 ||bauled.com^$document
 ||baumann-disputes.de^$document
 ||baynewser.com^$document
@@ -1334,6 +1337,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||booking.greenleafregalia.com^$document
 ||bookj.jp^$document
 ||bookmate07.jp^$document
+||bookparadise.wew.jp^$document
 ||books.awaisora.com^$document
 ||books.dmm-mania.com^$document
 ||books.makianosaihu.com^$document
@@ -1763,6 +1767,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||comics.cfbx.jp^$document
 ||comics.the-universe-lab.com^$document
 ||comics.wpx.jp^$document
+||comicshiyari.com^$document
 ||comikatu.jp^$document
 ||comione.com^$document
 ||comitoon.sakura.ne.jp^$document
@@ -1874,6 +1879,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||current-one.com^$document
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
+||cute.bau-bau.jp^$document
 ||cuty.jp^$document
 ||cuzzell.com^$document
 ||cva.unecon.ru^$document
@@ -2161,6 +2167,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin-erokyonyu.adult-h.com^$document
 ||doujin-eromanga.adult-h.com^$document
 ||doujin-love.com^$document
+||doujin-maturi.com^$document
 ||doujin-ntr.com^$document
 ||doujin-share.com^$document
 ||doujin-yakata.com^$document
@@ -4295,6 +4302,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kataomoi3.com^$document
 ||kate7.sakura.ne.jp^$document
 ||kato-manga.sakura.ne.jp^$document
+||katrajdairy.com/product^$document
 ||katrinareliefhome.com^$document
 ||katsumoku.net^$document
 ||katuru.com^$document
@@ -4371,6 +4379,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||khairpurfoods.com^$document
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
+||kibikogencountry-golf.jp^$document
 ||kiby.jp^$document
 ||kicks-blog.com^$document
 ||kigyolog.com^$document
@@ -4948,6 +4957,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||magnacartastopinew.com^$document
 ||magucha-blog.com^$document
 ||mahiru-afiri.com^$document
+||mahoyaku.net^$document
 ||mahoyome-stage.jp^$document
 ||maidoerobooks.com^$document
 ||maiko-book.com^$document
@@ -5079,6 +5089,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||marina-school.ru^$document
 ||maririnpoko.com^$document
 ||marketplacetec.com^$document
+||marketresearchblogs.com^$document
 ||marmarton.com^$document
 ||marog01.com^$document
 ||marounghorayeb.com^$document
@@ -7122,6 +7133,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rcp-sfc.com^$document
 ||rcrc3345.com^$document
 ||rdre.me^$document
+||rdsbx.com^$document
 ||re-choineta.com^$document
 ||re-do.jp^$document
 ||re-tabushi.com^$document
@@ -7929,6 +7941,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sorashidodoremi.com^$document
 ||soratake1107.com^$document
 ||soratoburin.com^$document
+||soriolv.com^$document
 ||sorteplus.net^$document
 ||sota-001.com^$document
 ||sotuen.net^$document
@@ -9319,6 +9332,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wlife.xyz^$document
 ||wlrqwnp.art^$document
 ||woads438.almgo.my^$document
+||wolfg.x0.com^$document
 ||wolfsakusaku.net^$document
 ||wonda-onepiece22.jp^$document
 ||wonderful-wife.net^$document
@@ -9533,6 +9547,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.appps.jp^$document
 ||www.appsloveworld.com^$document
 ||www.arakawa-bpc.com^$document
+||www.areus.jp/column^$document
 ||www.ario-fukaya.jp^$document
 ||www.armacelljapan.com^$document
 ||www.aromastyle.info^$document
@@ -9810,6 +9825,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.dosaaf79region.ru^$document
 ||www.doujin-log.com^$document
 ||www.doujinmanga.jp^$document
+||www.doujinonline.com^$document
 ||www.dq-9.info^$document
 ||www.draker-deck.com^$document
 ||www.drbakierdem.com^$document
@@ -9870,6 +9886,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.erba-albania.com^$document
 ||www.erica-android.jp^$document
 ||www.ermenekturkuaz.com^$document
+||www.eromanga-muryou-eroman.net^$document
 ||www.eromanga-muryou-hitomi-26.net^$document
 ||www.eromanga-muryou-hitomi-40.net^$document
 ||www.eskizpsd.com^$document
@@ -11232,6 +11249,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xn--hhr831fjwhg9i.jp^$document
 ||xn--ick3b8eyct505c6fc.net^$document
 ||xn--ickth539fgvd9p8cl5j.com^$document
+||xn--ickth739fone1maw701a.jp^$document
 ||xn--icktho25pytlfkn.com^$document
 ||xn--j9j7hucs457a.com^$document
 ||xn--kentsu-1t4e2n.com^$document
@@ -11283,6 +11301,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xn--u9jy52gr2p5pl0ur6lcz20behl.com^$document
 ||xn--u9jyg9a3a5nxbyc8771bj6d2p3cpe1b34iyp2bgcf.com^$document
 ||xn--uckgyp4c3cw980gi5c.com^$document
+||xn--v8j5erc2dzq151nh8xbs53d.jp^$document
 ||xn--w8j5cwb6a1433a427bijc90wdu1d.com^$document
 ||xn--xyv715c.com^$document
 ||xn--y8jua2at4d.com^$document
@@ -11574,6 +11593,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yuzuemulator.dev^$document
 ||yuzuemulators.com^$document
 ||yuzugon-blog.com^$document
+||yvtznj.com^$document
 ||yxbhtbx.info^$document
 ||yxlvvcabinet.com^$document
 ||yxqljx.com^$document
