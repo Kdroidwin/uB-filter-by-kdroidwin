@@ -10135,6 +10135,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.inspiracionkohler.com^$document
 ||www.insta360.cn^$document
 ||www.instagram.cn^$document
+||www.instagram.com/hianime.official^$document
 ||www.intambwemedia.com^$document
 ||www.intel.cn^$document
 ||www.intel.ru^$document

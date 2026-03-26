@@ -1,4 +1,3 @@
-*://www.instagram.com/hianime.official/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -25474,6 +25473,7 @@
 *://www.inspiracionkohler.com/*
 *://www.insta360.cn/*
 *://www.instagram.cn/*
+*://www.instagram.com/hianime.official/*
 *://www.intambwemedia.com/*
 *://www.intel.cn/*
 *://www.intel.ru/*
