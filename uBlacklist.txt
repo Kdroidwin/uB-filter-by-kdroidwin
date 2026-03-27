@@ -1,13 +1,3 @@
-*://www.kolekitel.com/*
-*://sub.osaru01.jp/*
-*://dmm-fanza.jp/*
-*://www.median-net.jp/*
-*://fortune-wind.com/*
-*://sub1.gyutora.jp/*
-*://dmmdoron.com/*
-*://porn-selection.net/*
-*://adult.asoku.net/*
-*://av-matome.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16111,6 +16101,7 @@
 *://adult-manga-dojin.com/*
 *://adult-manga.jp/for-you-free*
 *://adult-manga.net/*
+*://adult.asoku.net/*
 *://adult.z-z.jp/*
 *://adultemploymentagency.com/*
 *://adultitemstore.com/*
@@ -16664,6 +16655,7 @@
 *://auqotakh.ltd/*
 *://autocosmeticsny.com/*
 *://autodesk.me/*
+*://av-matome.jp/*
 *://av1.manga119.com/*
 *://avaerocapital.com/*
 *://avantiegypt.com/*
@@ -17746,7 +17738,9 @@
 *://dlvywoutlet.com/*
 *://dmm-fanza-fan.com/*
 *://dmm-fanza.biz/*
+*://dmm-fanza.jp/*
 *://dmm-mania.com/*
+*://dmmdoron.com/*
 *://dmmdoujinn.com/*
 *://dmoss-ci.com/*
 *://dmpatent.com/*
@@ -18455,6 +18449,7 @@
 *://forsorgshjemmet.dk/*
 *://fortelske.com/*
 *://fortune-cafe.com/*
+*://fortune-wind.com/*
 *://fortune.ex1.https.443.ipv6.cqust.edu.cn/*
 *://fortune7.co.jp/*
 *://fortunecreators.biz/*
@@ -22414,6 +22409,7 @@
 *://popularahora.com/*
 *://popversemix.com/*
 *://porka.shop/*
+*://porn-selection.net/*
 *://poroshop.online/*
 *://portable4pc.com/*
 *://pos.eapp168.com/*
@@ -23586,8 +23582,10 @@
 *://styleproud-labo.com/*
 *://suava-boutique.com/*
 *://sub.hanae-blog.com/*
+*://sub.osaru01.jp/*
 *://sub.sako-edutech.com/*
 *://sub.yyymeari.com/*
+*://sub1.gyutora.jp/*
 *://sub2-30.aairwwq.online/*
 *://sub2.xn--cckzbc7izeb1c5341c2y2d.jp/*
 *://sub5.gyutora.jp/*
@@ -25631,6 +25629,7 @@
 *://www.kodakalaris.cn/*
 *://www.kokajin-wedding.com/*
 *://www.kokusai-singlemama.com/*
+*://www.kolekitel.com/*
 *://www.komiopera.ru/*
 *://www.konnkatsulsn.com/*
 *://www.koregasiritai.com/*
@@ -25756,6 +25755,7 @@
 *://www.mclarencars.cn/*
 *://www.mculnqe.cn/*
 *://www.mdia.xyz/*
+*://www.median-net.jp/*
 *://www.medicellarcm.com/*
 *://www.medsci.cn/*
 *://www.medsight.uk/*

@@ -406,6 +406,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adult-manga-dojin.com^$document
 ||adult-manga.jp/for-you-free^$document
 ||adult-manga.net^$document
+||adult.asoku.net^$document
 ||adult.z-z.jp^$document
 ||adultemploymentagency.com^$document
 ||adultitemstore.com^$document
@@ -990,6 +991,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||auqotakh.ltd^$document
 ||autocosmeticsny.com^$document
 ||autodesk.me^$document
+||av-matome.jp^$document
 ||av1.manga119.com^$document
 ||avaerocapital.com^$document
 ||avantiegypt.com^$document
@@ -2090,7 +2092,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dlvywoutlet.com^$document
 ||dmm-fanza-fan.com^$document
 ||dmm-fanza.biz^$document
+||dmm-fanza.jp^$document
 ||dmm-mania.com^$document
+||dmmdoron.com^$document
 ||dmmdoujinn.com^$document
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
@@ -2811,6 +2815,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||forsorgshjemmet.dk^$document
 ||fortelske.com^$document
 ||fortune-cafe.com^$document
+||fortune-wind.com^$document
 ||fortune.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||fortune7.co.jp^$document
 ||fortunecreators.biz^$document
@@ -6877,6 +6882,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||popularahora.com^$document
 ||popversemix.com^$document
 ||porka.shop^$document
+||porn-selection.net^$document
 ||poroshop.online^$document
 ||portable4pc.com^$document
 ||pos.eapp168.com^$document
@@ -8145,8 +8151,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||styleproud-labo.com^$document
 ||suava-boutique.com^$document
 ||sub.hanae-blog.com^$document
+||sub.osaru01.jp^$document
 ||sub.sako-edutech.com^$document
 ||sub.yyymeari.com^$document
+||sub1.gyutora.jp^$document
 ||sub2-30.aairwwq.online^$document
 ||sub2.xn--cckzbc7izeb1c5341c2y2d.jp^$document
 ||sub5.gyutora.jp^$document
@@ -10279,6 +10287,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.kodakalaris.cn^$document
 ||www.kokajin-wedding.com^$document
 ||www.kokusai-singlemama.com^$document
+||www.kolekitel.com^$document
 ||www.komiopera.ru^$document
 ||www.konnkatsulsn.com^$document
 ||www.koregasiritai.com^$document
@@ -10401,6 +10410,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.mclarencars.cn^$document
 ||www.mculnqe.cn^$document
 ||www.mdia.xyz^$document
+||www.median-net.jp^$document
 ||www.medicellarcm.com^$document
 ||www.medsci.cn^$document
 ||www.medsight.uk^$document
