@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://quick-binary.vercel.app/*
+*://saitousan.vercel.app/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
