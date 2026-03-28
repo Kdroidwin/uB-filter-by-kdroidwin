@@ -7082,6 +7082,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||question-it.com^$document
 ||questmom.com^$document
 ||questu.ru^$document
+||quick-binary.vercel.app^$document
 ||quick-timez.com^$document
 ||quickget.jp^$document
 ||quitoko.com^$document
@@ -7494,6 +7495,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||saisin-news.com^$document
 ||saito-fukuoka.com^$document
 ||saitomo0908.com^$document
+||saitousan.vercel.app^$document
 ||sak0425.com^$document
 ||sakaagari-blog.com^$document
 ||sakamiwa-freestyle.com^$document

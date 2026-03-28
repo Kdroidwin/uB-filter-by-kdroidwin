@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://quick-binary.vercel.app/*
-*://saitousan.vercel.app/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -22586,6 +22584,7 @@
 *://question-it.com/*
 *://questmom.com/*
 *://questu.ru/*
+*://quick-binary.vercel.app/*
 *://quick-timez.com/*
 *://quickget.jp/*
 *://quitoko.com/*
@@ -22971,6 +22970,7 @@
 *://saisin-news.com/*
 *://saito-fukuoka.com/*
 *://saitomo0908.com/*
+*://saitousan.vercel.app/*
 *://sak0425.com/*
 *://sakaagari-blog.com/*
 *://sakamiwa-freestyle.com/*
