@@ -3323,6 +3323,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||grnmaquinarias.com^$document
 ||group-ka.de^$document
 ||group.gmo^$document
+||group.ureru.co.jp^$document
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
 ||grpasba.xyz^$document
@@ -6987,6 +6988,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||proteamworks.com^$document
 ||protect-honor.hatenablog.com^$document
 ||proyectolibelulaverde.com^$document
+||prtimes.jp^$document
 ||prwireonline.com^$document
 ||psalmsforkids.com^$document
 ||psaunsooksuthi.com^$document
@@ -11067,6 +11069,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.urakyoku555.com^$document
 ||www.uranai-town.net^$document
 ||www.uranai3.com^$document
+||www.ureru.co.jp^$document
 ||www.uruhumidhiamu.com^$document
 ||www.usachan.co.jp^$document
 ||www.ushigomepark-cl.com^$document

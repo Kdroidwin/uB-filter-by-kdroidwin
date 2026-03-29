@@ -1,7 +1,4 @@
 *://*.000webhostapp.com/*
-*://group.ureru.co.jp/*
-*://www.ureru.co.jp/*
-*://prtimes.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -18948,6 +18945,7 @@
 *://grnmaquinarias.com/*
 *://group-ka.de/*
 *://group.gmo/*
+*://group.ureru.co.jp/*
 *://groupbyte.ecstasybox.cfbx.jp/*
 *://groupie55.com/*
 *://grpasba.xyz/*
@@ -22513,6 +22511,7 @@
 *://proteamworks.com/*
 *://protect-honor.hatenablog.com/*
 *://proyectolibelulaverde.com/*
+*://prtimes.jp/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
 *://psaunsooksuthi.com/*
@@ -26411,6 +26410,7 @@
 *://www.urakyoku555.com/*
 *://www.uranai-town.net/*
 *://www.uranai3.com/*
+*://www.ureru.co.jp/*
 *://www.uruhumidhiamu.com/*
 *://www.usachan.co.jp/*
 *://www.ushigomepark-cl.com/*
