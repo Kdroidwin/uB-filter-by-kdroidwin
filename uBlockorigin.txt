@@ -6988,6 +6988,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||proteamworks.com^$document
 ||protect-honor.hatenablog.com^$document
 ||proyectolibelulaverde.com^$document
+||prtimes.co.jp^$document
 ||prtimes.jp^$document
 ||prwireonline.com^$document
 ||psalmsforkids.com^$document

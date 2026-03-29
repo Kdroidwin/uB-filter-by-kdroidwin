@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://prtimes.co.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -22512,6 +22511,7 @@
 *://proteamworks.com/*
 *://protect-honor.hatenablog.com/*
 *://proyectolibelulaverde.com/*
+*://prtimes.co.jp/*
 *://prtimes.jp/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
