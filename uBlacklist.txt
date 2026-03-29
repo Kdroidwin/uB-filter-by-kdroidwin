@@ -1,7 +1,3 @@
-*://www.prerele.com/*
-*://www.atpress.ne.jp/*
-*://www.value-press.com/*
-*://www.dreamnews.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -24956,6 +24952,7 @@
 *://www.at-s.com/*
 *://www.athinamarketing.com/*
 *://www.atmosfera59.ru/*
+*://www.atpress.ne.jp/*
 *://www.atz-industry.com/*
 *://www.autismocoruna.org/*
 *://www.avantiegypt.com/*
@@ -25218,6 +25215,7 @@
 *://www.dq-9.info/*
 *://www.draker-deck.com/*
 *://www.drbakierdem.com/*
+*://www.dreamnews.jp/*
 *://www.dreck-aic.com/*
 *://www.drewmidpvenda.tk/*
 *://www.drmohamedelhaw.com/*
@@ -26019,6 +26017,7 @@
 *://www.pplmw.cn/*
 *://www.praveensivaprasad.com/*
 *://www.premier-enterprisesolutions.com/*
+*://www.prerele.com/*
 *://www.prime-service.info/*
 *://www.primeaudits.com/*
 *://www.prius01.tokyo/*
@@ -26431,6 +26430,7 @@
 *://www.vacheron-constantin.cn/*
 *://www.vaisala.cn/*
 *://www.val-de-cognac.com/*
+*://www.value-press.com/*
 *://www.valueadd.se/*
 *://www.vanced-official.com/*
 *://www.vanced.cloud/*

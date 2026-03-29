@@ -9603,6 +9603,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.at-s.com^$document
 ||www.athinamarketing.com^$document
 ||www.atmosfera59.ru^$document
+||www.atpress.ne.jp^$document
 ||www.atz-industry.com^$document
 ||www.autismocoruna.org^$document
 ||www.avantiegypt.com^$document
@@ -9866,6 +9867,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.dq-9.info^$document
 ||www.draker-deck.com^$document
 ||www.drbakierdem.com^$document
+||www.dreamnews.jp^$document
 ||www.dreck-aic.com^$document
 ||www.drewmidpvenda.tk^$document
 ||www.drmohamedelhaw.com^$document
@@ -10667,6 +10669,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.pplmw.cn^$document
 ||www.praveensivaprasad.com^$document
 ||www.premier-enterprisesolutions.com^$document
+||www.prerele.com^$document
 ||www.prime-service.info^$document
 ||www.primeaudits.com^$document
 ||www.prius01.tokyo^$document
@@ -11086,6 +11089,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.vacheron-constantin.cn^$document
 ||www.vaisala.cn^$document
 ||www.val-de-cognac.com^$document
+||www.value-press.com^$document
 ||www.valueadd.se^$document
 ||www.vanced-official.com^$document
 ||www.vanced.cloud^$document
