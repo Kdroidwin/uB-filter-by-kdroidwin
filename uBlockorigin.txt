@@ -3435,6 +3435,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||happy-life-style.net^$document
 ||happy-mariring.com^$document
 ||happy-partnerlife.com^$document
+||happy69.vercel.app^$document
 ||happyblog.tokyo^$document
 ||happyboatclub.jp^$document
 ||happycock.club^$document

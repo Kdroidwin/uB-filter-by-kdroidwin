@@ -1,4 +1,3 @@
-*://happy69.vercel.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -19055,6 +19054,7 @@
 *://happy-life-style.net/*
 *://happy-mariring.com/*
 *://happy-partnerlife.com/*
+*://happy69.vercel.app/*
 *://happyblog.tokyo/*
 *://happyboatclub.jp/*
 *://happycock.club/*
