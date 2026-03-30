@@ -1048,6 +1048,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||b-short.link^$document
 ||b-us.liuhe36.cn^$document
 ||b.hatena.ne.jp/entry/s/sumahodigest.com^$document
+||b.hatena.ne.jp/site/sumahodigest.com^$document
 ||b1a4fc.jp^$document
 ||b2b.bohrer.ru^$document
 ||b2bherbs.com^$document
@@ -2061,6 +2062,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||digispacestudio.com^$document
 ||digital-mediablo.com^$document
 ||digital-shift.jp^$document
+||digital-trend.reinforz.co.jp^$document
 ||digitrain.ru^$document
 ||digitspring.com^$document
 ||dignicolombia.org^$document
@@ -4037,6 +4039,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||item.woomy.me^$document
 ||itemcube.jp^$document
 ||iti-inc.co.jp^$document
+||itokoichi.hatenadiary.com^$document
 ||itone.co.jp^$document
 ||itopvpn.com^$document
 ||itssicani.it^$document
@@ -5871,6 +5874,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||news30over.com^$document
 ||news4vip.livedoor.biz^$document
 ||news4wide.livedoor.biz^$document
+||newsbrewing.net^$document
 ||newscomic.net^$document
 ||newsee-media.com^$document
 ||newseveryday.jp^$document
@@ -7246,6 +7250,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||reglisse.jp^$document
 ||regmah95.redeagle-security.com^$document
 ||reicherumama.com^$document
+||reinforz.co.jp^$document
 ||reiwabook.blog^$document
 ||rekisiru.com^$document
 ||relationshipannex.com^$document
@@ -9259,6 +9264,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||vvindows.com^$document
 ||vvyrvwb.studio^$document
 ||vwatcher.com^$document
+||vylite.booth.pm^$document
 ||vyoutuber.com^$document
 ||w-chat25.com^$document
 ||w-methods-for-success.com^$document

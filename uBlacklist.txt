@@ -1,13 +1,7 @@
-*://itokoichi.hatenadiary.com/*
-*://digital-trend.reinforz.co.jp/*
-*://reinforz.co.jp/*
-*://b.hatena.ne.jp/site/sumahodigest.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://vylite.booth.pm/*
-*://newsbrewing.net/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16719,6 +16713,7 @@
 *://b-short.link/YN3htW*
 *://b-us.liuhe36.cn/*
 *://b.hatena.ne.jp/entry/s/sumahodigest.com/*
+*://b.hatena.ne.jp/site/sumahodigest.com/*
 *://b1a4fc.jp/*
 *://b2b.bohrer.ru/*
 *://b2bherbs.com/*
@@ -17715,6 +17710,7 @@
 *://digispacestudio.com/*
 *://digital-mediablo.com/*
 *://digital-shift.jp/*
+*://digital-trend.reinforz.co.jp/*
 *://digitrain.ru/*
 *://digitspring.com/*
 *://dignicolombia.org/*
@@ -19653,6 +19649,7 @@
 *://item.woomy.me/*
 *://itemcube.jp/*
 *://iti-inc.co.jp/*
+*://itokoichi.hatenadiary.com/*
 *://itone.co.jp/*
 *://itssicani.it/*
 *://itudemodokodemo.com/*
@@ -21439,6 +21436,7 @@
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
 *://news4vip.livedoor.biz/*
+*://newsbrewing.net/*
 *://newscomic.net/*
 *://newsee-media.com/*
 *://newseveryday.jp/*
@@ -22753,6 +22751,7 @@
 *://reglisse.jp/*
 *://regmah95.redeagle-security.com/*
 *://reicherumama.com/*
+*://reinforz.co.jp/*
 *://reiwabook.blog/*
 *://rekisiru.com/*
 *://relationshipannex.com/*
@@ -24636,6 +24635,7 @@
 *://vvindows.com/*
 *://vvyrvwb.studio/*
 *://vwatcher.com/*
+*://vylite.booth.pm/*
 *://vyoutuber.com/*
 *://w-chat25.com/*
 *://w-methods-for-success.com/*
