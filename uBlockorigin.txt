@@ -1479,7 +1479,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||caltechbd.com^$document
 ||cambridge-india.org^$document
 ||cameronlorenc.com^$document
-||camp-fire.jp^$document
 ||camp.trainocate.co.jp^$document
 ||campanellafishing.shogic.xyz^$document
 ||camplaurelcreek.com^$document
