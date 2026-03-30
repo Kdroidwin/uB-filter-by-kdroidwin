@@ -3122,6 +3122,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||generative-ai.sejuku.net^$document
 ||genfunlife.com^$document
 ||gengmovie.net^$document
+||geniee.co.jp^$document
 ||genkideru.info^$document
 ||genkimorizou.com^$document
 ||genkimura.net^$document
@@ -4758,6 +4759,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||letsmods.com^$document
 ||letxggene.com^$document
 ||leuchtenportal.com^$document
+||levela.co.jp^$document
 ||levitrue.vn^$document
 ||lexcellencediamond.com^$document
 ||lfr.jp^$document
@@ -6722,6 +6724,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pachi-media.com^$document
 ||pachimaga.com^$document
 ||pacific-meta.co.jp^$document
+||page131.blog.2nt.com^$document
 ||pai-navi.com^$document
 ||paidy.onelink.me^$document
 ||painsr96.datingagencyreviews.co.uk^$document
@@ -7206,6 +7209,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rcrc3345.com^$document
 ||rdre.me^$document
 ||rdsbx.com^$document
+||rdy.jp^$document
 ||re-choineta.com^$document
 ||re-do.jp^$document
 ||re-tabushi.com^$document
@@ -7511,6 +7515,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
 ||sa.com^$document,domain=~sfec.sa.com|~sac.sa.com
+||sa.rdy.jp^$document
 ||saabu.ba-koshi.com^$document
 ||sabucaru.com
 ||sabucaru.com^$document
@@ -8946,6 +8951,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||twhite.me^$document
 ||twibuz.com^$document
 ||twik.xxasj.cn^$document
+||twisoku.ldblog.jp^$document
 ||twitresokuho.com^$document
 ||twitter.center^$document
 ||twitter.com/comic_checker^$document

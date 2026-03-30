@@ -1,10 +1,3 @@
-*://geniee.co.jp/*
-*://levela.co.jp/*
-*://sa.rdy.jp/*
-*://rdy.jp/*
-*://*.rdy.jp/*
-*://twisoku.ldblog.jp/*
-*://page131.blog.2nt.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12768,6 +12761,7 @@
 *://*.quabr.com/*
 *://*.quares.ru/*
 *://*.question-it.com/*
+*://*.rdy.jp/*
 *://*.removemalware-jp.com/*
 *://*.renkau.com/*
 *://*.repl.co/*
@@ -18755,6 +18749,7 @@
 *://generative-ai.sejuku.net/*
 *://genfunlife.com/*
 *://gengmovie.net/*
+*://geniee.co.jp/*
 *://genkideru.info/*
 *://genkimorizou.com/*
 *://genkimura.net/*
@@ -20362,6 +20357,7 @@
 *://letsmods.com/*
 *://letxggene.com/*
 *://leuchtenportal.com/*
+*://levela.co.jp/*
 *://levitrue.vn/*
 *://lexcellencediamond.com/*
 *://lfr.jp/*
@@ -22257,6 +22253,7 @@
 *://p7fcbp7.r.ap-northeast-1.awstrack.me/*
 *://pachi-media.com/*
 *://pachimaga.com/*
+*://page131.blog.2nt.com/*
 *://pai-navi.com/*
 *://paidy.onelink.me/*
 *://painsr96.datingagencyreviews.co.uk/*
@@ -22714,6 +22711,7 @@
 *://rcrc3345.com/*
 *://rdre.me/*
 *://rdsbx.com/*
+*://rdy.jp/*
 *://re-choineta.com/*
 *://re-do.jp/*
 *://re-tabushi.com/*
@@ -22998,6 +22996,7 @@
 *://s795530940.websitebuilder.online/*
 *://s8000.works/*
 *://sa-ta-mi.com/*
+*://sa.rdy.jp/*
 *://saabu.ba-koshi.com/*
 *://sabucaru.com/*
 *://saburokuday.jp/*
@@ -24347,6 +24346,7 @@
 *://twhite.me/*
 *://twibuz.com/*
 *://twik.xxasj.cn/*
+*://twisoku.ldblog.jp/*
 *://twitresokuho.com/*
 *://twitter.center/*
 *://twitter.com/comic_checker*
