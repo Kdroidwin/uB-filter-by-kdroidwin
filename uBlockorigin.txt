@@ -3196,6 +3196,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AnthemHorizon453^$document
 ||github.com/NoName-exe/revanced-extended^$document
+||github.com/parth56uygh^$document
 ||github.com/revanced-apks/build-apps^$document
 ||github.com/Tinumpit02^$document
 ||github.com/YouTube-Premium-APK01^$document

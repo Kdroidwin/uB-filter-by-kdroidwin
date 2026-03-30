@@ -1,4 +1,3 @@
-*://github.com/parth56uygh/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18826,6 +18825,7 @@
 *://github.com/Tinumpit02/*
 *://github.com/YouTube-Premium-APK01/*
 *://github.com/YoutubePremiummod/*
+*://github.com/parth56uygh/*
 *://github.com/revanced-apks/build-apps/*
 *://github.heheda.top/*
 *://github.me/*
