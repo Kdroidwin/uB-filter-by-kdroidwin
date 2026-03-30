@@ -1,3 +1,10 @@
+*://geniee.co.jp/*
+*://levela.co.jp/*
+*://sa.rdy.jp/*
+*://rdy.jp/*
+*://*.rdy.jp/*
+*://twisoku.ldblog.jp/*
+*://page131.blog.2nt.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
