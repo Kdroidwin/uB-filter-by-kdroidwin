@@ -3195,7 +3195,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github-readme-stats.vercel.app^$document
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AnthemHorizon453^$document
+||github.com/mrsmiley2008^$document
 ||github.com/NoName-exe/revanced-extended^$document
+||github.com/nutterplayer7093^$document
 ||github.com/parth56uygh^$document
 ||github.com/revanced-apks/build-apps^$document
 ||github.com/Tinumpit02^$document
@@ -4895,6 +4897,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lovepeace-shuchan.com^$document
 ||lovewagonblog.wordpress.com^$document
 ||lowcostoutsource.com^$document
+||lp.buzayookaki.com^$document
 ||lps.nanoartmarket.com^$document
 ||lrkdn.kvjody.biz^$document
 ||ls6z1wg.h-arlt-fotografie.de^$document

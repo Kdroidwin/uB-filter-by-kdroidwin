@@ -1,6 +1,3 @@
-*://lp.buzayookaki.com/*
-*://github.com/nutterplayer7093/*
-*://github.com/mrsmiley2008/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18828,6 +18825,8 @@
 *://github.com/Tinumpit02/*
 *://github.com/YouTube-Premium-APK01/*
 *://github.com/YoutubePremiummod/*
+*://github.com/mrsmiley2008/*
+*://github.com/nutterplayer7093/*
 *://github.com/parth56uygh/*
 *://github.com/revanced-apks/build-apps/*
 *://github.heheda.top/*
@@ -20492,6 +20491,7 @@
 *://lovepeace-shuchan.com/*
 *://lovewagonblog.wordpress.com/*
 *://lowcostoutsource.com/*
+*://lp.buzayookaki.com/*
 *://lps.nanoartmarket.com/*
 *://lrkdn.kvjody.biz/*
 *://ls6z1wg.h-arlt-fotografie.de/*
