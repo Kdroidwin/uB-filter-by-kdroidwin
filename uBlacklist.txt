@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://github.com/hushi01/*
-*://github.com/mrsmiley2008/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -18827,6 +18825,7 @@
 *://github.com/Tinumpit02/*
 *://github.com/YouTube-Premium-APK01/*
 *://github.com/YoutubePremiummod/*
+*://github.com/hushi01/*
 *://github.com/mrsmiley2008/*
 *://github.com/nutterplayer7093/*
 *://github.com/parth56uygh/*

@@ -3195,6 +3195,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github-readme-stats.vercel.app^$document
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AnthemHorizon453^$document
+||github.com/hushi01^$document
 ||github.com/mrsmiley2008^$document
 ||github.com/NoName-exe/revanced-extended^$document
 ||github.com/nutterplayer7093^$document
