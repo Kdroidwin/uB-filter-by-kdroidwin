@@ -51,6 +51,7 @@ audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
 fp.no-sheep.org/services##.main
 himebon.blog##.eye-catch-wrap
+www.grayporn.org##.eye-catch-wrap
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
 nswpedia.com##.file-download-btnn
