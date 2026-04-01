@@ -2203,6 +2203,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin.honmadekka-channel.com^$document
 ||doujin.makianosaihu.com^$document
 ||doujin.moshiero.cfbx.jp^$document
+||doujin.s-resist.jp^$document
 ||doujin.ton-ton.jp^$document
 ||doujin.wtwhd.com^$document
 ||doujin2.makianosaihu.com^$document
@@ -2614,6 +2615,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||esta.visasyst.com^$document
 ||estatesnm.com^$document
 ||estudioedelman.com^$document
+||estudiopepa.jp^$document
 ||esunoentame.com^$document
 ||esuteparfam758.com^$document
 ||etsy.me^$document
@@ -5092,6 +5094,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga.coideco.jp^$document
 ||manga.dmm-mania.com^$document
 ||manga.dounavi.net^$document
+||manga.estudiopepa.jp^$document
 ||manga.guradoruinochi.com^$document
 ||manga.hentai-raw.hiraku946.jp^$document
 ||manga.honmadekka-channel.com^$document
@@ -5739,6 +5742,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nanasepn.com^$document
 ||nancreator.com^$document
 ||nandeyanen-news.com^$document
+||nang.ranmato.com^$document
 ||nanisore77.com^$document
 ||nanjgod.com^$document
 ||nanjolno.app^$document
@@ -6701,6 +6705,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||otomeexpert.com^$document
 ||otona-comic.com^$document
 ||otonakensaku.com^$document
+||otonano-erokatsu.net^$document
 ||otonano-kyouyou.cfbx.jp^$document
 ||ottoproduce.com^$document
 ||ottori-time.com^$document
@@ -7267,6 +7272,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||regmah95.redeagle-security.com^$document
 ||reicherumama.com^$document
 ||reinforz.co.jp^$document
+||reitoratube.com^$document
 ||reiwabook.blog^$document
 ||rekisiru.com^$document
 ||relationshipannex.com^$document
@@ -7555,6 +7561,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||safty-news-information.com^$document
 ||saga-art.jp^$document
 ||sagasite.info^$document
+||sagx.jp^$document
 ||saha.cl^$document
 ||sahuyuki.hatenablog.com^$document
 ||saiko-datta.com^$document
@@ -8922,6 +8929,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||truss.me^$document
 ||trustcellar.com^$document
 ||trx-mkt.com^$document
+||try-manga.manga-ganma.com^$document
 ||try2explore.com^$document
 ||tsubakitaste.com^$document
 ||tsuisoku.com^$document
