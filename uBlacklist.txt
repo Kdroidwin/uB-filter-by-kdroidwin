@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://github.com/hushi01/*
+*://github.com/mrsmiley2008/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
