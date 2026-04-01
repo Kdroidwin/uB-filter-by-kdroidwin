@@ -9390,7 +9390,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||webst8.co.jp^$document
 ||weddingchannell.com^$document
 ||weeblysite.com^$document
-||weibo.cn^$document
 ||weilersce.com^$document
 ||welcometorekall.jp^$document
 ||wellbest-yoga.instatry.jp^$document
