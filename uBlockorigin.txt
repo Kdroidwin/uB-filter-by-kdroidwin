@@ -51,7 +51,6 @@ audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
 fp.no-sheep.org/services##.main
 himebon.blog##.eye-catch-wrap
-www.grayporn.org##.eye-catch-wrap
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
 nswpedia.com##.file-download-btnn
@@ -77,6 +76,7 @@ www.google.com##div.yhQgZb:has-text(HOT ! )
 www.google.com##div.yhQgZb:has-text(HOT !)
 www.google.com##div.yhQgZb:has-text(HOT!)
 www.google.com##div.yhQgZb:has-text(HOT！)
+www.grayporn.org##.eye-catch-wrap
 www.mangalear.blog##.eye-catch-wrap
 www.nijioma.blog##.eye-catch-wrap
 www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
@@ -1994,6 +1994,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||deets.feedreader.com^$document
 ||deeya.sn^$document
 ||degistiraltindag.com^$document
+||dejidownloaddoujin.net^$document
 ||dekunoboh.com^$document
 ||delafosse.immo^$document
 ||delicious-info.com^$document
@@ -2107,6 +2108,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dlsite.store^$document
 ||dlsiteboy.com^$document
 ||dlvywoutlet.com^$document
+||dlzipan.blog.jp^$document
 ||dmm-fanza-fan.com^$document
 ||dmm-fanza.biz^$document
 ||dmm-fanza.jp^$document
@@ -2214,6 +2216,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujinkan.com^$document
 ||doujinmm.dlold.net^$document
 ||doujinnews.com^$document
+||doujinraw.com^$document
 ||doujinrepublic.com^$document
 ||doujinshi.nekopanchi.org^$document
 ||doujinshiblog.com^$document
@@ -2504,6 +2507,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||epson.ru^$document
 ||eqon.app^$document
 ||eraption.com^$document
+||erertic.dojin.com^$document
 ||ericsonmobile.com^$document
 ||erimakee.com^$document
 ||erin-line.com^$document
@@ -2526,6 +2530,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||erobookjapan.com^$document
 ||erocomi.kou-web.com^$document
 ||erocomic-love.net^$document
+||erocomic-navi.com^$document
 ||erocomic-plant.com^$document
 ||erodaizensyu.com^$document
 ||erodayo.com^$document
@@ -2564,6 +2569,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eromanga-storage.jp^$document
 ||eromanga-vision.com^$document
 ||eromanga-yomitai.work^$document
+||eromanga-zone.com^$document
 ||eromanga.dl-ero-news.site^$document
 ||eromanga.dojin.com^$document
 ||eromanga.gingin.biz^$document
@@ -2866,6 +2872,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||free-erobooks.com^$document
 ||free-humanlife23.com^$document
 ||free-learn.info^$document
+||free-manga.net^$document
 ||free-raw.wew.jp^$document
 ||free-workstyle.com^$document
 ||free-your-iphone.co.uk^$document
@@ -5310,6 +5317,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||merasu.jp^$document
 ||meringue-web.com^$document
 ||mero07.com^$document
+||merog2.blog.2nt.com^$document
 ||mertonshinnick.com^$document
 ||mesanacionaldevictimas.org^$document
 ||mesquitaretomados.com^$document
@@ -5836,6 +5844,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||netflixmirrorr.com^$document
 ||nethougaku.com^$document
 ||netmodapk.app^$document
+||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
 ||netouyonews.net^$document
 ||netpeak.me^$document
@@ -6453,6 +6462,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ntfjsip.guru^$document
 ||ntg-guinee.com^$document
 ||ntr-archives.com^$document
+||ntrwife.com^$document
 ||ntryomimono.com^$document
 ||ntvsports.jp^$document
 ||nude.owener.pro^$document
@@ -7521,6 +7531,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||s23.jizokukahojokin.info^$document
 ||s3-us-west-1.amazonaws.com^$document
 ||s4m.xyz^$document
+||s51.attractive69.com^$document
 ||s795530940.websitebuilder.online^$document
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
@@ -10647,6 +10658,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.nvidia.cn^$document
 ||www.nyc-guitars.com^$document
 ||www.ocgracefulsmiles.com^$document
+||www.ochamerider.com^$document
 ||www.office-will.com^$document
 ||www.ohcchomesforsale.com^$document
 ||www.oikocredit.jp^$document
