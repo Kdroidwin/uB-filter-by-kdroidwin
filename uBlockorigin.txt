@@ -1864,6 +1864,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||crass21m.jettysuites.com^$document
 ||create-stmedia.com^$document
 ||creatorcafey.com^$document
+||creatorzz.co.jp^$document
 ||crefan.info^$document
 ||crestedbuttesnowsports.org^$document
 ||criativawip.com^$document

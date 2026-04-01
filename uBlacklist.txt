@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://creatorzz.co.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17518,6 +17517,7 @@
 *://crass21m.jettysuites.com/*
 *://create-stmedia.com/*
 *://creatorcafey.com/*
+*://creatorzz.co.jp/*
 *://crefan.info/*
 *://crestedbuttesnowsports.org/*
 *://criativawip.com/*
