@@ -1,7 +1,3 @@
-title/Nekogram - Google/
-title/Nekogram - Apps on/
-*://m.apkpure.com/nekogram/*
-*://www.youtube.com/shorts/_nx0bbUAwY4*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -20565,6 +20561,7 @@ title/Nekogram - Apps on/
 *://m.4uhd.cn/*
 *://m.amzhoka.top/*
 *://m.apkpure.com/*/nekogram/*
+*://m.apkpure.com/nekogram/*
 *://m.apkpure.net/*
 *://m.apkshub.com/*
 *://m.apksum.com/*
@@ -26648,6 +26645,7 @@ title/Nekogram - Apps on/
 *://www.yoshi-mizumaki.jp/*
 *://www.yoshimasa-hosoya.com/*
 *://www.youki8322.com/*
+*://www.youtube.com/shorts/_nx0bbUAwY4*
 *://www.youtube.com/user/hatimaki73*
 *://www.youtube.com/watch?v=KiHxZnVa0Q0
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
@@ -27232,7 +27230,9 @@ title/Hotspot Shield VPN—/
 title/Hotspot Shield: /
 title/Hotspot Shield:/
 title/HotspotShield VPN & Wifi Proxy - /
+title/Nekogram - Apps on/
 title/Nekogram - Apps/
+title/Nekogram - Google/
 title/OFFでまとめ買/
 title/Official Temu App -/
 title/Pie Adblock - /

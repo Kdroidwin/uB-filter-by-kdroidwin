@@ -4961,6 +4961,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||m.4uhd.cn^$document
 ||m.amzhoka.top^$document
 ||m.apkpure.com/*/nekogram^$document
+||m.apkpure.com/nekogram^$document
 ||m.apkpure.net^$document
 ||m.apkshub.com^$document
 ||m.apksum.com^$document
