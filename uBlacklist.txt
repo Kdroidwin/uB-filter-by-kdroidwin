@@ -1,11 +1,3 @@
-*://tomorrowgate.co.jp/*
-*://note.com/daikore/*
-*://it.apkshub.com/*
-*://apkshub.com/*
-*://*.apkshub.com/*
-*://www.apknougat.com/*
-*://ja.popsilla.com/*
-*://ja.apkbe.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -286,6 +278,7 @@
 *://*.apk.markets/*
 *://*.apkrabi.com/*
 *://*.apkresult.io/*
+*://*.apkshub.com/*
 *://*.apktodo.io/*
 *://*.app/?a=0*
 *://*.app/?a=1*
@@ -19670,6 +19663,7 @@
 *://it-tehnik.ru/*
 *://it-trend.jp/*
 *://it-trend.jp/vpn/article/48-0076*
+*://it.apkshub.com/*
 *://it.it-news-and-events.info/*
 *://itainews.com/*
 *://italkyou.cn/*
@@ -19706,8 +19700,10 @@
 *://j7p.jp/*
 *://ja-beta-reactjs-org.vercel.app/*
 *://ja.all10soft.com/*
+*://ja.apkbe.com/*
 *://ja.copress.shop/*
 *://ja.miki.com/*
+*://ja.popsilla.com/*
 *://ja.safetydetectives.com/*
 *://ja.taiwebs.com/*
 *://ja.vpnmentor.com/*
@@ -21670,6 +21666,7 @@
 *://note.com/cute_ruff6801/*
 *://note.com/cute_stilt636/*
 *://note.com/cutecreaturecli/*
+*://note.com/daikore/*
 *://note.com/daikyo_2026/*
 *://note.com/dapper_boar1528*
 *://note.com/decoboco_sisters/*
@@ -24196,6 +24193,7 @@
 *://tomoblog-life.com/*
 *://tomoki-912.com/*
 *://tomomi22.com/*
+*://tomorrowgate.co.jp/*
 *://tomorrownk.info/*
 *://tomosaki-photo.jp/*
 *://tomosan-blog.com/*
@@ -25032,6 +25030,7 @@
 *://www.apk3.com/*
 *://www.apkfiles.com/*
 *://www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram/*
+*://www.apknougat.com/*
 *://www.apkrogue.com/*
 *://www.apksmap.com/*
 *://www.apkturbo.com/*

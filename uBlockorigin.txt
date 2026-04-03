@@ -4047,6 +4047,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||it-tehnik.ru^$document
 ||it-trend.jp/vpn/article/48-0076^$document
 ||it-trend.jp^$document
+||it.apkshub.com^$document
 ||it.it-news-and-events.info^$document
 ||itainews.com^$document
 ||italkyou.cn^$document
@@ -4084,8 +4085,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||j7p.jp^$document
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
+||ja.apkbe.com^$document
 ||ja.copress.shop^$document
 ||ja.miki.com^$document
+||ja.popsilla.com^$document
 ||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
 ||ja.vpnmentor.com^$document
@@ -6100,6 +6103,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/cute_ruff6801^$document
 ||note.com/cute_stilt636^$document
 ||note.com/cutecreaturecli^$document
+||note.com/daikore^$document
 ||note.com/daikyo_2026^$document
 ||note.com/dapper_boar1528^$document
 ||note.com/decoboco_sisters^$document
@@ -8779,6 +8783,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tomoblog-life.com^$document
 ||tomoki-912.com^$document
 ||tomomi22.com^$document
+||tomorrowgate.co.jp^$document
 ||tomorrownk.info^$document
 ||tomosaki-photo.jp^$document
 ||tomosan-blog.com^$document
@@ -9667,6 +9672,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.apk3.com^$document
 ||www.apkfiles.com^$document
 ||www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram^$document
+||www.apknougat.com^$document
 ||www.apkrogue.com^$document
 ||www.apksmap.com^$document
 ||www.apkturbo.com^$document
