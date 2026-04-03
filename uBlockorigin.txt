@@ -610,6 +610,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ameblo.jp/dodesyoysedod^$document
 ||ameblo.jp/ether213^$document
 ||ameblo.jp/fashionbrandsbibi^$document
+||ameblo.jp/genki-mura^$document
 ||ameblo.jp/hikariai17^$document
 ||ameblo.jp/hothari^$document
 ||ameblo.jp/idleki6^$document
@@ -814,9 +815,11 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||apkoll.com^$document
 ||apkpromaster.com^$document
 ||apkpure.com/*/nekogram^$document
+||apkpure.com/graph-messenger^$document
 ||apkpure.com/nekogram^$document
 ||apkpure.com/revanced-extended^$document
 ||apkpure.com/youtube-revanced^$document
+||apkpure.net/graph-messenger^$document
 ||apkpure.net/youtube-revanced^$document
 ||apkrabi.com^$document
 ||apkrealmania.com^$document
@@ -3347,6 +3350,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||grangrace.jp^$document
 ||granraiz.com^$document
 ||grapee.jp^$document
+||graph-messenger.apponic.com^$document
+||graph-messenger.en.uptodown.com^$document
+||graph-messenger.jp.malavida.com^$document
+||graph-messenger.jp.uptodown.com^$document
 ||graphenephone.store^$document
 ||gray.pochasiko.com^$document
 ||grayelectricllc.com^$document
@@ -6945,6 +6952,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||plus.fm-p.jp^$document
 ||plus.news.gree.net^$document
 ||pluscolorn.sub.jp^$document
+||plusmessenger.org^$document
 ||pluswood.jp^$document
 ||pmprofi.ru^$document
 ||poap.xyz^$document
@@ -7650,6 +7658,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||saru.co.jp^$document
 ||sarugakuchode.com^$document
 ||sasa-blog42.com^$document
+||sasaken1102s.booth.pm^$document
 ||sasakinozomi-ouen.pink^$document
 ||sasamamai.site^$document
 ||sasanohanisuzu.com^$document
@@ -8575,6 +8584,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tekmods.com^$document
 ||tele-play.jp^$document
 ||telegra.ph^$document
+||telegram-plus.jp.uptodown.com^$document
 ||telemarketingmadeeasy.com^$document
 ||telhasimperio.grupomarkat.com^$document
 ||temnonebo.org^$document
@@ -9673,6 +9683,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.apk3.com^$document
 ||www.apkfiles.com^$document
 ||www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram^$document
+||www.apkmirror.com/apk/databite/graph-messenger^$document
 ||www.apknougat.com^$document
 ||www.apkrogue.com^$document
 ||www.apksmap.com^$document
@@ -10175,6 +10186,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.goyard.cn^$document
 ||www.grandhotel.al/products^$document
 ||www.grapheneos.online^$document
+||www.graphmessenger.com^$document
 ||www.gratia-co.jp^$document
 ||www.greatpyramidllc.com^$document
 ||www.greecediscountcard.com^$document
@@ -10994,6 +11006,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.softproinnovations.com^$document
 ||www.softwareskills.eu^$document
 ||www.sog-rc27.org^$document
+||www.sogi.com.tw^$document
 ||www.soltron.jp^$document
 ||www.solveforum.com^$document
 ||www.sonpunoyumeburogu.com^$document
