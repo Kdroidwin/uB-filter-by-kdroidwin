@@ -813,6 +813,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||apkmos.com^$document
 ||apkoll.com^$document
 ||apkpromaster.com^$document
+||apkpure.com/*/nekogram^$document
+||apkpure.com/nekogram^$document
 ||apkpure.com/revanced-extended^$document
 ||apkpure.com/youtube-revanced^$document
 ||apkpure.net/youtube-revanced^$document
@@ -3208,10 +3210,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/AnthemHorizon453^$document
 ||github.com/hushi01^$document
 ||github.com/mrsmiley2008^$document
+||github.com/Nekogram/Nekogram/releases^$document
 ||github.com/NoName-exe/revanced-extended^$document
 ||github.com/nutterplayer7093^$document
 ||github.com/parth56uygh^$document
 ||github.com/revanced-apks/build-apps^$document
+||github.com/tehcneko^$document
 ||github.com/Tinumpit02^$document
 ||github.com/YouTube-Premium-APK01^$document
 ||github.com/YoutubePremiummod^$document
@@ -4953,6 +4957,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||m-view.jp^$document
 ||m.4uhd.cn^$document
 ||m.amzhoka.top^$document
+||m.apkpure.com/*/nekogram^$document
 ||m.apkpure.net^$document
 ||m.apkshub.com^$document
 ||m.apksum.com^$document
@@ -5817,6 +5822,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||neko-ashiato.com^$document
 ||nekoame.com^$document
 ||nekobarado.com^$document
+||nekogram-x.jp.malavida.com^$document
+||nekogram.app^$document
+||nekogram.en.uptodown.com^$document
+||nekogram.infobot.org^$document
+||nekogram.jp.aptoide.com^$document
+||nekogram.jp.uptodown.com^$document
 ||nekojarashi-benihana.com^$document
 ||nekomegane.com^$document
 ||nekoneko-kingdom.com^$document
@@ -8417,6 +8428,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||t.codebug.vip^$document
 ||t.mailinboxes.me^$document
 ||t.me/s/OfficialFTUApps?before=466^$document
+||t.me/sotaproject^$document
 ||t.spnews5.me^$document
 ||t3n.me^$document
 ||ta-see.com^$document
@@ -9654,6 +9666,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.apk20.com^$document
 ||www.apk3.com^$document
 ||www.apkfiles.com^$document
+||www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram^$document
 ||www.apkrogue.com^$document
 ||www.apksmap.com^$document
 ||www.apkturbo.com^$document
