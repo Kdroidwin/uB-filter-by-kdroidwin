@@ -1,3 +1,19 @@
+*://nekogram.app/*
+*://github.com/Nekogram/Nekogram/releases/*
+*://github.com/tehcneko/*
+*://t.me/sotaproject/*
+*://apkpure.com/*/nekogram/*
+*://nekogram.jp.uptodown.com/*
+*://nekogram.en.uptodown.com/*
+*://nekogram-x.jp.malavida.com/*
+title/Nekogram - Apps/
+*://apkpure.com/nekogram/*
+*://t.me/*/nekoupdates*
+*://github.com/Nekogram/Nekogram/releases*
+*://www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram/*
+*://nekogram.jp.aptoide.com/*
+*://nekogram.infobot.org/*
+*://m.apkpure.com/*/nekogram/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
