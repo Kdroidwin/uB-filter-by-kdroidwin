@@ -455,6 +455,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ai.45rina.com^$document
 ||ai.doujin-comic.com^$document
 ||ai.dounavi.net^$document
+||ai4chat.co^$document
 ||aianimal.p2.weblife.me^$document
 ||aiboku-com.vercel.app^$document
 ||aibus.co.uk^$document
@@ -3213,6 +3214,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github-readme-stats.vercel.app^$document
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AnthemHorizon453^$document
+||github.com/arsLan4k1390/Cherrygram/releases^$document
 ||github.com/hushi01^$document
 ||github.com/mrsmiley2008^$document
 ||github.com/Nekogram/Nekogram/releases^$document
@@ -11294,6 +11296,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.wpbackdoor.com^$document
 ||www.wps.com^$document
 ||www.wpscloud.jp^$document
+||www.writecream.com^$document
 ||www.wta.cn^$document
 ||www.wulfeniakino.at^$document
 ||www.xandroadventuretours.com^$document
