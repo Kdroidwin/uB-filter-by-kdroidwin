@@ -2,6 +2,15 @@
 *://m.sugar-style.com/*
 *://www.sugar-style.com/*
 *://sugar-style.com/*
+*://note.com/iswanin2/*
+*://chromewebstore.google.com/detail/i-dont-care-about-cookies/*
+*://www.i-dont-care-about-cookies.eu/*
+*://addons.mozilla.org/*/firefox/addon/i-dont-care-about-cookies/
+*://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/*
+*://h2testw.org/*
+*://czkawka.com/*
+*://rapt-neo.com/*
+*://rapt-plusalpha.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
