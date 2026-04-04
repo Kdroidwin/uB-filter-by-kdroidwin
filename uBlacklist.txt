@@ -1,16 +1,4 @@
 *://*.000webhostapp.com/*
-*://m.sugar-style.com/*
-*://www.sugar-style.com/*
-*://sugar-style.com/*
-*://note.com/iswanin2/*
-*://chromewebstore.google.com/detail/i-dont-care-about-cookies/*
-*://www.i-dont-care-about-cookies.eu/*
-*://addons.mozilla.org/*/firefox/addon/i-dont-care-about-cookies/
-*://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/*
-*://h2testw.org/*
-*://czkawka.com/*
-*://rapt-neo.com/*
-*://rapt-plusalpha.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16106,6 +16094,7 @@
 *://addchannel.net/*
 *://addness.co.jp/*
 *://addness.com/*
+*://addons.mozilla.org/*/firefox/addon/i-dont-care-about-cookies/
 *://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
 *://addspice.jp/*
 *://ademas0719blog.com/*
@@ -17322,6 +17311,7 @@
 *://chrome.google.com/webstore/detail/ublock/*
 *://chrome.zzzmh.cn/*
 *://chromewebstore.google.com/detail/1vpn-free-vpn*
+*://chromewebstore.google.com/detail/i-dont-care-about-cookies/*
 *://chromewebstore.google.com/detail/revanced-extended-latest/*
 *://chronictacos.jp/*
 *://chubushoji.shop-pro.jp/*
@@ -17584,6 +17574,7 @@
 *://cymolb7h.cjfoodmanagement.com.my/*
 *://cyoppaya.com/*
 *://cyteka.com/*
+*://czkawka.com/*
 *://czumtabim.blog72.fc2.com/*
 *://d.excite.co.jp/*
 *://d315.cn/*
@@ -19046,6 +19037,7 @@
 *://h-comi.com/*
 *://h-doujin-books.com/*
 *://h-guidepost.com/*
+*://h2testw.org/*
 *://h30bkhgqo.auslagerung-pastservice.de/*
 *://h4ppy-marriage.jp/*
 *://h5.meruki.cn/*
@@ -20595,6 +20587,7 @@
 *://m.ladymax.cn/*
 *://m.majorgeeks.com/files/details/ccleaner_portable.html*
 *://m.qq241.com/*
+*://m.sugar-style.com/*
 *://m.uechairs.cn/*
 *://m.utoo.cniic.cn/*
 *://m.yuugafas.com/*
@@ -20970,6 +20963,7 @@
 *://microeducate.tech/*
 *://microg.net/*
 *://microphone-global.ru/*
+*://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/*
 *://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog?*
 *://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
@@ -21762,6 +21756,7 @@
 *://note.com/investment_happy/*
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
+*://note.com/iswanin2/*
 *://note.com/j_yuto/*
 *://note.com/japanpromos/*
 *://note.com/jigami/*
@@ -22755,6 +22750,8 @@
 *://raoesn.co/*
 *://rapidgators.net/*
 *://rapportsecurity.com/*
+*://rapt-neo.com/*
+*://rapt-plusalpha.com/*
 *://rar.wew.jp/*
 *://rarbg.to/*
 *://rarecenter.org/*
@@ -23762,6 +23759,7 @@
 *://sug-mag3.com/*
 *://sug-web.jp/*
 *://sugadaira-trail.jp/*
+*://sugar-style.com/*
 *://sugar.technology/*
 *://sugar57.com/*
 *://sugarlink-tukune.com/*
@@ -25650,6 +25648,7 @@
 *://www.hs-partner.hamburg/*
 *://www.hsselite.com/*
 *://www.hybrid-analysis.com/*
+*://www.i-dont-care-about-cookies.eu/*
 *://www.ibaozhen.xyz/*
 *://www.ichigo-macaron.com/*
 *://www.icomu-master.info/*
@@ -26410,6 +26409,7 @@
 *://www.studio-yh.jp/*
 *://www.studioworks.co.in/*
 *://www.sudzfundraising.com/*
+*://www.sugar-style.com/*
 *://www.sugudeki-tateshina.jp/*
 *://www.sungrove.co.jp/*
 *://www.sunlounge-go-ya-gym.com/*
