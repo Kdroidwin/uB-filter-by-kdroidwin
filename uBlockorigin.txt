@@ -7358,6 +7358,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||revanced-extended.en.uptodown.com^$document
 ||revanced-extended.jp.malavida.com^$document
 ||revanced-extended.jp.uptodown.com^$document
+||revanced-manager.en.uptodown.com^$document
 ||revanced-manager.jp.uptodown.com^$document
 ||revanced-mininxd.vercel.app^$document
 ||revanced-mininxd.vercel.app^$document

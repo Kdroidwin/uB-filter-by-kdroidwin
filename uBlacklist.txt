@@ -1,6 +1,3 @@
-title/Revanced - Block Video Ads -/
-*://revanced-manager.en.uptodown.com/*
-title/Nekogram - Google/
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -22864,6 +22861,7 @@ title/Nekogram - Google/
 *://revanced-extended.en.uptodown.com/*
 *://revanced-extended.jp.malavida.com/*
 *://revanced-extended.jp.uptodown.com/*
+*://revanced-manager.en.uptodown.com/*
 *://revanced-manager.jp.uptodown.com/*
 *://revanced-mininxd.vercel.app/*
 *://revanced.apk.watch/*
@@ -27259,6 +27257,7 @@ title/Pie Adblock for Safari - /
 title/Plus Messenger - /
 title/Revanced - Block Video Ads - G/
 title/Revanced - Block Video Ads - Google Play /
+title/Revanced - Block Video Ads -/
 title/SUNLOUNGE/
 title/Sign in - Google Accounts/
 title/Temu: /
