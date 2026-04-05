@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://usdeptreasury-gov.netlify.app/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
