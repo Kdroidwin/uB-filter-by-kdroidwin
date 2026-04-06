@@ -68,13 +68,12 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 <br>
 
-# uBlock Origin用フィルターの購読方法
-下の購読を押してください。
 
 
 # uBlock Origin 用フィルターの種類
 
 
+-購読を押してください。
 - 検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
 
 
