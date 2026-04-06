@@ -6,10 +6,6 @@ uBlacklist＆uBlock Origin用のフィルター　
 - 誤検知やブロックすべきサイトがあれば教えてください。Githubアカウントを持っていない人でも[Twitter](https://x.com/Kdroidwin1)もしくは[アンケートフォーム](https://tally.so/r/wA5brD)からお願いします。
 
 # Changelog(変更履歴)
-重要
-- 2/27 Freenom 系 ccTLD のフィッシングドメイン件数が大幅に減少しているため削除
-- 2/27 国際的な管理・規制側の強化のため多くのccTLD（≒国別TLD）を削除
-- 2/27 pinterest　ルールから削除(以前ほど検索妨害はしなくなったため)※もしブロックしたい場合はpinterest専用のフィルターを購読してください。
 
 [完全な変更履歴](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/commits/main/)
 <br>
