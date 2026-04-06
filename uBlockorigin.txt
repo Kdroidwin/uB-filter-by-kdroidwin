@@ -657,6 +657,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ananta-systems.com^$document
 ||anatato.jp^$document
 ||and-ace.com^$document
+||and-beef.jp^$document
 ||ande.jp^$document
 ||anderbot.com^$document
 ||andoroidoi.spaziotecnoweb.com^$document
@@ -1781,6 +1782,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||comic.manga-mill.com^$document
 ||comic.nan-net.com^$document
 ||comic.nijieromix.com^$document
+||comic.seven-area.com^$document
 ||comic.syumilog-engineer.com^$document
 ||comic.wew.jp^$document
 ||comic104.com^$document
@@ -2208,6 +2210,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin-share.com^$document
 ||doujin-yakata.com^$document
 ||doujin.bkrb.net^$document
+||doujin.chateaucom.jp^$document
 ||doujin.dldlinks.com^$document
 ||doujin.furukawakan.jp^$document
 ||doujin.himepai.com^$document
@@ -2239,6 +2242,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doutera.com^$document
 ||douyasu.blog.jp^$document
 ||douzin-daisuki.com^$document
+||douzin-raw.and-beef.jp^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
 ||download-new.utorrent.com^$document
@@ -2550,6 +2554,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||erodouga-nadonado.com^$document
 ||erodoujin-manman.com^$document
 ||erodoujinlog.com^$document
+||erodoujinmanga.com^$document
 ||erodoujinview.com^$document
 ||eroepub.com^$document
 ||eroero-manga.jp^$document
@@ -2564,6 +2569,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||erogumi.net^$document
 ||erohon-r18.com^$document
 ||eroiai.com^$document
+||eroichi.com^$document
 ||erologz.com^$document
 ||eromagazine.wpx.jp^$document
 ||eroman.honmadekka-channel.com^$document
@@ -2582,6 +2588,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eromanga-vision.com^$document
 ||eromanga-yomitai.work^$document
 ||eromanga-zone.com^$document
+||eromanga.anicomi3150.com^$document
 ||eromanga.dl-ero-news.site^$document
 ||eromanga.dojin.com^$document
 ||eromanga.gingin.biz^$document
@@ -2641,6 +2648,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||event4info.com^$document
 ||eventobrasil.com^$document
 ||eventoscqcr.com^$document
+||ever-garden.jp^$document
 ||everfree01.com^$document
 ||evergreenwoodhouse.hu^$document
 ||everyday-1pozutu.com^$document
@@ -2838,6 +2846,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fmovieus.com^$document
 ||fmwa.app^$document
 ||fmwatasa.com^$document
+||fnzdojin.com^$document
 ||foc.roadel.xyz^$document
 ||focus-one.co.jp^$document
 ||fodanime.com^$document
@@ -3030,6 +3039,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||galaxydesign.site^$document
 ||galeriaorquideas.online^$document
 ||galilexpress.com^$document
+||gallery-tamamo.jp^$document
 ||game-creators.camp^$document
 ||game.boom-app.com^$document
 ||gameapp-labo.jp^$document
@@ -4011,6 +4021,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||iodkdti.life^$document
 ||iolingjapan.netlify.app^$document
 ||iorieightrsa.xyz^$document
+||ioritenrsa.xyz^$document
 ||iowadotlandsales.com^$document
 ||iphglobal.com^$document
 ||iphone-displayreparatur.eu^$document
@@ -4349,6 +4360,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kangaerunakanjiro.com^$document
 ||kankokunano.jp^$document
 ||kannao3939.com^$document
+||kanpoucyayonchiyu.com^$document
 ||kansai-u.tameshiyo.me^$document
 ||kansuke.doorblog.jp^$document
 ||kantaiki0219.com^$document
@@ -4566,6 +4578,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||koimousagi.com^$document
 ||koisnap.com^$document
 ||kokemomo55.com^$document
+||koko.dorineo.jp^$document
 ||kokogakininaru.com^$document
 ||kokohorenyann.com^$document
 ||kokopyon.net^$document
@@ -4659,6 +4672,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ktaj.jp^$document
 ||ktwoblog.com^$document
 ||kualumtech.com^$document
+||kubire351.livedoor.blog^$document
 ||kubis.ru^$document
 ||kuchima.com^$document
 ||kuchukuchu-tube.com^$document
@@ -4698,6 +4712,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kxvfelo.cn^$document
 ||kyiy.xxasj.cn^$document
 ||kyokyu.net^$document
+||kyonyu-review.xyz^$document
 ||kyonyumanga.wpx.jp^$document
 ||kyoudailanka.com^$document
 ||kyoukaran.com^$document
@@ -5106,6 +5121,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga-ebookservice.com^$document
 ||manga-ganma.com^$document
 ||manga-heaven.net^$document
+||manga-hitomi.jp^$document
 ||manga-legend.com^$document
 ||manga-library.com^$document
 ||manga-mill.com^$document
@@ -5113,6 +5129,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga-raw.blog.jp^$document
 ||manga-style.jp^$document
 ||manga-tachiyomi.com^$document
+||manga-teacher.com^$document
 ||manga-world.me^$document
 ||manga.aoyama-zero.com^$document
 ||manga.chateaucom.jp^$document
@@ -5605,6 +5622,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||morayb0u.bizandleisure.com^$document
 ||moremoremore888.com^$document
 ||mori08.com^$document
+||morihaku.jp^$document
 ||morikaemeijin.com^$document
 ||moriken0801.com^$document
 ||morimo2.info^$document
@@ -6516,6 +6534,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||numaota.jp^$document
 ||numberthirteen.jp^$document
 ||nunnun-father.hatenablog.com^$document
+||nurse-ms.com^$document
 ||nutrizionisti-online.com^$document
 ||nuxyanblog.com^$document
 ||nvolanp07de43.xn--d1aby4ah.xn--p1ai^$document
@@ -6771,6 +6790,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||oyayubi-trend.com^$document
 ||oybenimkafam.online^$document
 ||oyogitai25m.net^$document
+||oz-bread.com^$document
 ||ozakisagashite.jp^$document
 ||ozawaren.com^$document
 ||ozmrvgov.com^$document
@@ -10059,6 +10079,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.eroerocomic.net^$document
 ||www.erohimedoujin.com^$document
 ||www.eromanga-muryou-eroman.net^$document
+||www.eromanga-muryou-hitomi-1999.net^$document
 ||www.eromanga-muryou-hitomi-26.net^$document
 ||www.eromanga-muryou-hitomi-40.net^$document
 ||www.eskizpsd.com^$document
@@ -11407,6 +11428,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xn--5ckrfnq2nla.xyz^$document
 ||xn--5cktamn1e3cza4749gkla.com^$document
 ||xn--7ck4axdc4icb0947dwse.com^$document
+||xn--7frp6a51ujmfxo1adfzuzk37c.com^$document
 ||xn--98jxb5dua6581cp0kbh0h.com^$document
 ||xn--b9jtjxa7aj6131e.com^$document
 ||xn--blog-pb4czf.com^$document
@@ -11513,6 +11535,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xxkaiwai.com^$document
 ||xxx.hotel3.jp^$document
 ||xxx.konan-connect.jp^$document
+||xxx.oz-bread.com^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
 ||xyz-jp.org^$document

@@ -1,28 +1,3 @@
-*://morihaku.jp/*
-*://eroichi.com/*
-*://fnzdojin.com/*
-*://ioritenrsa.xyz/*
-*://ever-garden.jp/*
-*://erodoujinmanga.com/*
-*://xxx.oz-bread.com/*
-*://*.oz-bread.com/*
-*://oz-bread.com/*
-*://comic.seven-area.com/*
-*://kubire351.livedoor.blog/*
-*://koko.dorineo.jp/*
-*://manga-teacher.com/*
-*://www.eromanga-muryou-hitomi-1999.net/*
-*://doujin.chateaucom.jp/*
-*://nurse-ms.com/*
-*://eromanga.anicomi3150.com/*
-*://gallery-tamamo.jp/*
-*://manga-hitomi.jp/*
-*://douzin-raw.and-beef.jp/*
-*://*.and-beef.jp/*
-*://and-beef.jp/*
-*://kyonyu-review.xyz/*
-*://kanpoucyayonchiyu.com/*
-*://xn--7frp6a51ujmfxo1adfzuzk37c.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -296,6 +271,7 @@
 *://*.am/?z=8*
 *://*.am/?z=9*
 *://*.ambiify.cards/*
+*://*.and-beef.jp/*
 *://*.andro.io/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
@@ -11720,6 +11696,7 @@
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
 *://*.oxyain.fit/*
+*://*.oz-bread.com/*
 *://*.ozawaren.com/*
 *://*.paridom.wiki/*
 *://*.pl/?*.html
@@ -16370,6 +16347,7 @@
 *://ananta-systems.com/*
 *://anatato.jp/*
 *://and-ace.com/*
+*://and-beef.jp/*
 *://ande.jp/*
 *://anderbot.com/*
 *://andoroidoi.spaziotecnoweb.com/*
@@ -17462,6 +17440,7 @@
 *://comic.manga-mill.com/*
 *://comic.nan-net.com/*
 *://comic.nijieromix.com/*
+*://comic.seven-area.com/*
 *://comic.syumilog-engineer.com/*
 *://comic.wew.jp/*
 *://comic104.com/*
@@ -17887,6 +17866,7 @@
 *://doujin-share.com/*
 *://doujin-yakata.com/*
 *://doujin.bkrb.net/*
+*://doujin.chateaucom.jp/*
 *://doujin.dldlinks.com/*
 *://doujin.furukawakan.jp/*
 *://doujin.himepai.com/*
@@ -17917,6 +17897,7 @@
 *://doutera.com/*
 *://douyasu.blog.jp/*
 *://douzin-daisuki.com/*
+*://douzin-raw.and-beef.jp/*
 *://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
 *://download-new.utorrent.com/*
@@ -18224,6 +18205,7 @@
 *://erodouga-nadonado.com/*
 *://erodoujin-manman.com/*
 *://erodoujinlog.com/*
+*://erodoujinmanga.com/*
 *://erodoujinview.com/*
 *://eroepub.com/*
 *://eroero-manga.jp/*
@@ -18238,6 +18220,7 @@
 *://erogumi.net/*
 *://erohon-r18.com/*
 *://eroiai.com/*
+*://eroichi.com/*
 *://erologz.com/*
 *://eromagazine.wpx.jp/*
 *://eroman.honmadekka-channel.com/*
@@ -18256,6 +18239,7 @@
 *://eromanga-vision.com/*
 *://eromanga-yomitai.work/*
 *://eromanga-zone.com/*
+*://eromanga.anicomi3150.com/*
 *://eromanga.dl-ero-news.site/*
 *://eromanga.dojin.com/*
 *://eromanga.gingin.biz/*
@@ -18313,6 +18297,7 @@
 *://event4info.com/*
 *://eventobrasil.com/*
 *://eventoscqcr.com/*
+*://ever-garden.jp/*
 *://everfree01.com/*
 *://evergreenwoodhouse.hu/*
 *://everyday-1pozutu.com/*
@@ -18506,6 +18491,7 @@
 *://fmovieus.com/*
 *://fmwa.app/*
 *://fmwatasa.com/*
+*://fnzdojin.com/*
 *://foc.roadel.xyz/*
 *://focus-one.co.jp/*
 *://fodanime.com/*
@@ -18692,6 +18678,7 @@
 *://galaxydesign.site/*
 *://galeriaorquideas.online/*
 *://galilexpress.com/*
+*://gallery-tamamo.jp/*
 *://game-creators.camp/*
 *://game.boom-app.com/*
 *://gameapp-labo.jp/*
@@ -19652,6 +19639,7 @@
 *://iodkdti.life/*
 *://iolingjapan.netlify.app/*
 *://iorieightrsa.xyz/*
+*://ioritenrsa.xyz/*
 *://iot.dxhub.co.jp/articles/14_pr76tg5
 *://iowadotlandsales.com/*
 *://iphglobal.com/*
@@ -19986,6 +19974,7 @@
 *://kangaerunakanjiro.com/*
 *://kankokunano.jp/*
 *://kannao3939.com/*
+*://kanpoucyayonchiyu.com/*
 *://kansai-u.tameshiyo.me/*
 *://kansuke.doorblog.jp/*
 *://kantaiki0219.com/*
@@ -20201,6 +20190,7 @@
 *://koimousagi.com/*
 *://koisnap.com/*
 *://kokemomo55.com/*
+*://koko.dorineo.jp/*
 *://kokogakininaru.com/*
 *://kokohorenyann.com/*
 *://kokopyon.net/*
@@ -20293,6 +20283,7 @@
 *://ktaj.jp/*
 *://ktwoblog.com/*
 *://kualumtech.com/*
+*://kubire351.livedoor.blog/*
 *://kubis.ru/*
 *://kuchima.com/*
 *://kuchukuchu-tube.com/*
@@ -20331,6 +20322,7 @@
 *://kxvfelo.cn/*
 *://kyiy.xxasj.cn/*
 *://kyokyu.net/*
+*://kyonyu-review.xyz/*
 *://kyonyumanga.wpx.jp/*
 *://kyoudailanka.com/*
 *://kyoukaran.com/*
@@ -20727,6 +20719,7 @@
 *://manga-ebookservice.com/*
 *://manga-ganma.com/*
 *://manga-heaven.net/*
+*://manga-hitomi.jp/*
 *://manga-legend.com/*
 *://manga-library.com/*
 *://manga-mill.com/*
@@ -20734,6 +20727,7 @@
 *://manga-raw.blog.jp/*
 *://manga-style.jp/*
 *://manga-tachiyomi.com/*
+*://manga-teacher.com/*
 *://manga-world.me/*
 *://manga.aoyama-zero.com/*
 *://manga.chateaucom.jp/*
@@ -21216,6 +21210,7 @@
 *://morayb0u.bizandleisure.com/*
 *://moremoremore888.com/*
 *://mori08.com/*
+*://morihaku.jp/*
 *://morikaemeijin.com/*
 *://moriken0801.com/*
 *://morimo2.info/*
@@ -22088,6 +22083,7 @@
 *://numaota.jp/*
 *://numberthirteen.jp/*
 *://nunnun-father.hatenablog.com/*
+*://nurse-ms.com/*
 *://nutrizionisti-online.com/*
 *://nuxyanblog.com/*
 *://nvolanp07de43.xn--d1aby4ah.xn--p1ai/*
@@ -22335,6 +22331,7 @@
 *://oyayubi-trend.com/*
 *://oybenimkafam.online/*
 *://oyogitai25m.net/*
+*://oz-bread.com/*
 *://ozakisagashite.jp/*
 *://ozmrvgov.com/*
 *://ozycrbx.work/*
@@ -25444,6 +25441,7 @@
 *://www.eroerocomic.net/*
 *://www.erohimedoujin.com/*
 *://www.eromanga-muryou-eroman.net/*
+*://www.eromanga-muryou-hitomi-1999.net/*
 *://www.eromanga-muryou-hitomi-26.net/*
 *://www.eromanga-muryou-hitomi-40.net/*
 *://www.eskizpsd.com/*
@@ -26783,6 +26781,7 @@
 *://xn--5ckrfnq2nla.xyz/*
 *://xn--5cktamn1e3cza4749gkla.com/*
 *://xn--7ck4axdc4icb0947dwse.com/*
+*://xn--7frp6a51ujmfxo1adfzuzk37c.com/*
 *://xn--98jxb5dua6581cp0kbh0h.com/*
 *://xn--b9jtjxa7aj6131e.com/*
 *://xn--blog-pb4czf.com/*
@@ -26886,6 +26885,7 @@
 *://xxkaiwai.com/*
 *://xxx.hotel3.jp/*
 *://xxx.konan-connect.jp/*
+*://xxx.oz-bread.com/*
 *://xxx.report/*
 *://xxxyuxxxka.com/*
 *://xyz-jp.org/*
