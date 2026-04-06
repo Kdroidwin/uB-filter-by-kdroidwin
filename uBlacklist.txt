@@ -1,8 +1,4 @@
 *://*.000webhostapp.com/*
-*://tetsuya-cpa.com/*
-*://*.manga-ganma.com/*
-*://7-zip.opensource.jp/*
-*://usdeptreasury-gov.netlify.app/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -9611,6 +9607,7 @@
 *://*.ma/?z=7*
 *://*.ma/?z=8*
 *://*.ma/?z=9*
+*://*.manga-ganma.com/*
 *://*.mangasokuhou.com/*
 *://*.match-mote.jp/*
 *://*.md-sass.com/*
@@ -15973,6 +15970,7 @@
 *://6sc6sh.cn/*
 *://6xz1gd.cn/*
 *://6yfik268.r.us-east-1.awstrack.me/*
+*://7-zip.opensource.jp/*
 *://7063762596.pngseza.gov.pg/*
 *://7227125.slot47.online/*
 *://73569.gatecoin.online/*
@@ -24057,6 +24055,7 @@
 *://testwebsite.ejcoms.co.jp/*
 *://tet7224.com/*
 *://tetsunandemo.club/*
+*://tetsuya-cpa.com/*
 *://tetsuya-next.com/*
 *://tetu-hop.com/*
 *://tevetamw.com/*
@@ -24535,6 +24534,7 @@
 *://usamaru-kurashi.com/*
 *://usamofu-blog.com/*
 *://usaponn.com/*
+*://usdeptreasury-gov.netlify.app/*
 *://usern.me/*
 *://usj-joho.blog.ss-blog.jp/*
 *://uslifeblog.com/*

@@ -27,7 +27,6 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.saitama\.vip|koei\.dolshipmaker\.vip|tr\.orjinalbetoffice\.vip)[^\/]+\.[^\/]+\.vip(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
-h2testw.org##.entry-content::before { content: "これは偽サイト　Fake Site"; position: fixed !important; top: 10px !important; left: 10px !important; z-index: 999999 !important; font-size: 32px !important; color: #fff !important; background: #c00 !important; font-weight: 900 !important; padding: 8px 12px !important; border-radius: 6px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.5) !important; }
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
@@ -51,6 +50,7 @@ audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
 audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
 fp.no-sheep.org/services##.main
+h2testw.org##.entry-content::before { content: "これは偽サイト　Fake Site"; position: fixed !important; top: 10px !important; left: 10px !important; z-index: 999999 !important; font-size: 32px !important; color: #fff !important; background: #c00 !important; font-weight: 900 !important; padding: 8px 12px !important; border-radius: 6px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.5) !important; }
 himebon.blog##.eye-catch-wrap
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
@@ -267,6 +267,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||6sc6sh.cn^$document
 ||6xz1gd.cn^$document
 ||6yfik268.r.us-east-1.awstrack.me^$document
+||7-zip.opensource.jp^$document
 ||7063762596.pngseza.gov.pg^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
@@ -8630,6 +8631,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tet7224.com^$document
 ||tetramedia.co.jp^$document
 ||tetsunandemo.club^$document
+||tetsuya-cpa.com^$document
 ||tetsuya-next.com^$document
 ||tetu-hop.com^$document
 ||tevetamw.com^$document
@@ -9134,6 +9136,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||usamaru-kurashi.com^$document
 ||usamofu-blog.com^$document
 ||usaponn.com^$document
+||usdeptreasury-gov.netlify.app^$document
 ||usern.me^$document
 ||usersuper.ru^$document
 ||usj-joho.blog.ss-blog.jp^$document
