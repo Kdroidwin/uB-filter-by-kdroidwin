@@ -1,26 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/kuroneko_mikoo/*
-*://erodoujin-navi.com/*
-*://scrumtakatsuki07.com/*
-*://4u-care.jp/*
-*://ani-chat.net/*
-*://fs-on-line.com/*
-*://eromangarev.blog/*
-*://kakegawacastle30.jp/*
-*://shinya-no-ippon.com/*
-*://fanfanza.com/*
-*://ai-doujin-navi.com/*
-*://zoaname1300.com/*
-*://sumaho-susume.jp/*
-*://thiplog.pondya.com/*
-*://alpha-box.jp/*
-*://oldexpo.com/*
-*://intelli-bet.com/*
-*://manmarudo.jp/*
-*://aboutablonde.blog/*
-*://shsb-siddessen.de/*
-*://buhidoh.blog.fc2.com/*
-*://xn--28jxbe2h2bw243g.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -15955,6 +15933,7 @@
 *://4kidsmamahokenshi.com/*
 *://4nttl65.mam-cocktail.fr/*
 *://4tgqv5c.hautnah-wellnessundbodyforming.de/*
+*://4u-care.jp/*
 *://51.158.113.15/*
 *://51with.cn/*
 *://520vr.com/*
@@ -16084,6 +16063,7 @@
 *://abjp6579.tokyo/*
 *://abnb.me/*
 *://about-the-person.com/*
+*://aboutablonde.blog/*
 *://abs7.ru/*
 *://absolutezero121.com/*
 *://abundantia-stone.com/*
@@ -16173,6 +16153,7 @@
 *://ahoa3iet.woslx.xyz/*
 *://ahozura.kasu.me/*
 *://ahplk.kglyrifg.top/*
+*://ai-doujin-navi.com/*
 *://ai-ffiliate.net/*
 *://ai-l.net/*
 *://ai-lab-jp.com/*
@@ -16286,6 +16267,7 @@
 *://almadinaalmonwra.com/*
 *://almoosahomehealthcare.org/*
 *://alnaimistudios.com/*
+*://alpha-box.jp/*
 *://alpinearagon.com/*
 *://alprazolamfaq.com/*
 *://alps-stech.jp/products/*
@@ -16392,6 +16374,7 @@
 *://angelnews.net/*
 *://angolanoar.online/*
 *://angular-ja.netlify.app/*
+*://ani-chat.net/*
 *://anianitarou.com/*
 *://aniberuu.fc2.net/*
 *://anicomi-ntr.com/*
@@ -17113,6 +17096,7 @@
 *://budgetworld.ru/*
 *://budou-bowl.com/*
 *://budurl.me/*
+*://buhidoh.blog.fc2.com/*
 *://buibuidesu.jpn.org/*
 *://bullbull11.com/*
 *://bulleteercustoms.in/*
@@ -17416,6 +17400,11 @@
 *://code-examples.net/*
 *://code.ooaks.co.jp/*
 *://codeacademyug.org/*
+*://codeberg.com/*
+*://codederg.cm/*
+*://codederg.com/*
+*://codederg.org/*
+*://codeerg.com/*
 *://codegrepr.com/*
 *://codeguides.site/*
 *://coderoad.ru/*
@@ -18226,6 +18215,7 @@
 *://erodojin.ero-info-antena.site/*
 *://erodouga-nadonado.com/*
 *://erodoujin-manman.com/*
+*://erodoujin-navi.com/*
 *://erodoujinlog.com/*
 *://erodoujinmanga.com/*
 *://erodoujinview.com/*
@@ -18273,6 +18263,7 @@
 *://eromangajukujo.com/*
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
+*://eromangarev.blog/*
 *://eromangatankendan.com/*
 *://eromangawiki.com/*
 *://eromannga.net/*
@@ -18383,6 +18374,7 @@
 *://fanblogs.jp/*
 *://fandane.com/*
 *://fanfan-comicomi.com/*
+*://fanfanza.com/*
 *://fanmake-blog.com/*
 *://fanshub.jp/*
 *://fanza-com.mystrikingly.com/*
@@ -18587,6 +18579,7 @@
 *://front-back.net/*
 *://frostshaper.solutions/*
 *://fruit727.com/*
+*://fs-on-line.com/*
 *://fstec.ru/*
 *://fstopics.com/*
 *://ftbooks.xyz/*
@@ -19639,6 +19632,7 @@
 *://instatool.nu/*
 *://int-stroy.ru/*
 *://int64.me/*
+*://intelli-bet.com/*
 *://intellipaat.com/*
 *://interactionbrand.com/*
 *://interconnect.cc/*
@@ -19971,6 +19965,7 @@
 *://kaiuntrip.co.jp/*
 *://kaji-amehare.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
+*://kakegawacastle30.jp/*
 *://kakeizunotobira.denshishosekidaio.com/*
 *://kakusa.info/*
 *://kamabokoworks.jp/*
@@ -20793,6 +20788,7 @@
 *://mangazuki-314159.com/*
 *://mangetsu-maruche.jp/*
 *://mankaikana.com/*
+*://manmarudo.jp/*
 *://manpukubiyori.com/*
 *://manpukunews.blog.jp/*
 *://manzana40.com/*
@@ -21842,6 +21838,7 @@
 *://note.com/kouichi_0703/*
 *://note.com/kuma_ai_studio/*
 *://note.com/kumakuma3desu/*
+*://note.com/kuroneko_mikoo/*
 *://note.com/kurono1gou/*
 *://note.com/kyari_mon/*
 *://note.com/labo_rainbow/*
@@ -22197,6 +22194,7 @@
 *://olcv2z3.neurofaszia-therapie.de/*
 *://old-movie.jp/*
 *://old.appnee.com/*
+*://oldexpo.com/*
 *://oldnavy.gap.cn/*
 *://olertwsi.com/*
 *://oll42z3.neurofaszia-therapie.de/*
@@ -23249,6 +23247,7 @@
 *://scotthel.me/*
 *://scrap-shop.online/*
 *://screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android/*
+*://scrumtakatsuki07.com/*
 *://scspuc.in/*
 *://sdouga.com/*
 *://se.fc-review.com/*
@@ -23369,6 +23368,7 @@
 *://shinshu-premium.jp/*
 *://shintrend.com/*
 *://shinya-channel.com/*
+*://shinya-no-ippon.com/*
 *://shinyu-clinic.com/*
 *://shirabemushi.com/*
 *://shiraberukininaru.com/*
@@ -23426,6 +23426,7 @@
 *://shoyablog.net/*
 *://shreeramandco.com/*
 *://shrine-carine.com/*
+*://shsb-siddessen.de/*
 *://shufu-run.net/*
 *://shufuwork.com/*
 *://shuhu-tomo-blog.com/*
@@ -23832,6 +23833,7 @@
 *://sukyauto.com/*
 *://sumaho-okayama.com/*
 *://sumaho-susume.com/*
+*://sumaho-susume.jp/*
 *://sumahodigest.com/*
 *://sumaholife-plus.jp/*
 *://sumahomangayomi.com/*
@@ -24176,6 +24178,7 @@
 *://theylive30.com/*
 *://theytpremium.com/*
 *://thijsvandenhaak.com/*
+*://thiplog.pondya.com/*
 *://thirdeye24.com/*
 *://thisav.com/*
 *://thuexethanhnhan.com/*
@@ -26796,6 +26799,7 @@
 *://xn----38t5a3hwaai9exc5960ewf9f.akhbara24.news/*
 *://xn----48t2a3iraai7f5b9360fwf9f.akhbara24.news/*
 *://xn----fbu3m1a9ht54z82i5kp2u4g.nogomi.ru/*
+*://xn--28jxbe2h2bw243g.com/*
 *://xn--28jyap6d.com/*
 *://xn--4gq072e7scpvq.com/*
 *://xn--50-1b4aw96k5ha316ch7kyz1e0do.com/*
@@ -27267,6 +27271,7 @@
 *://zlibrary.lol/*
 *://zlibrary.to/*
 *://zlmmafzfeb.xyz/*
+*://zoaname1300.com/*
 *://zofe-warszawa.com/*
 *://zoro-shop.jp/*
 *://zoroastrian.net/*
