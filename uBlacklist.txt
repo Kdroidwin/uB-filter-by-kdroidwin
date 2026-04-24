@@ -1,24 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://earth-c.jp/*
-*://utsuru.jp/*
-*://ryohka.jp/*
-*://playio.jp/*
-*://hon-de-bokin.jp/*
-*://x11x.attractive69.com/*
-*://moeeroge.livedoor.blog/*
-*://*.rdsbx.com/*
-*://doujin-erogazou.com/*
-*://www.eromanga-muryou-matome-hentai.net/*
-*://moetataiken.com/*
-*://www.uchina-farm.jp/*
-*://www.eromangadoujin.com/*
-*://oresize.com/*
-*://eromanga-hiroba.com/*
-*://emd2nd.blog.jp/*
-*://dokopon.com/*
-*://comikets.com/*
-*://yumemiru-club.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -12789,6 +12770,7 @@
 *://*.quabr.com/*
 *://*.quares.ru/*
 *://*.question-it.com/*
+*://*.rdsbx.com/*
 *://*.rdy.jp/*
 *://*.removemalware-jp.com/*
 *://*.renkau.com/*
@@ -17516,6 +17498,7 @@
 *://comicshiyari.com/*
 *://comicsr18.com/*
 *://comikatu.jp/*
+*://comikets.com/*
 *://comione.com/*
 *://comitoon.sakura.ne.jp/*
 *://common-topics.com/*
@@ -17898,6 +17881,7 @@
 *://dokdok2023.jp/*
 *://dokidoki-info.com/*
 *://dokodekau.hatenablog.com/*
+*://dokopon.com/*
 *://dokushoaoki.com/*
 *://dokusyoka2narou.com/*
 *://dolarkacpara.xyz/*
@@ -17933,6 +17917,7 @@
 *://doujin-comics.toremani.com/*
 *://doujin-ero-manga.com/*
 *://doujin-erofutanari.adult-h.com/*
+*://doujin-erogazou.com/*
 *://doujin-erokyonyu.adult-h.com/*
 *://doujin-eromanga.adult-h.com/*
 *://doujin-hive.com/*
@@ -18059,6 +18044,7 @@
 *://e849001b-b592-4312-ada6-f359392cf4f0.ct0.app/*
 *://earbuds.aspsv.com/*
 *://earnie-frogs.jp/*
+*://earth-c.jp/*
 *://eat.badate.work/*
 *://ebisu-selection.com/*
 *://ebook-house.com/*
@@ -18156,6 +18142,7 @@
 *://emangablog.com/*
 *://embarrassed-bridge.com/*
 *://emcz4ecubs.com/*
+*://emd2nd.blog.jp/*
 *://emerald-energies.com/*
 *://emery.me.uk/*
 *://emi-life.net/*
@@ -18324,6 +18311,7 @@
 *://eromanga-dojin.net/*
 *://eromanga-group.com/*
 *://eromanga-guts.com/*
+*://eromanga-hiroba.com/*
 *://eromanga-house.com/*
 *://eromanga-island.com/*
 *://eromanga-library.com/*
@@ -19529,6 +19517,7 @@
 *://homeparty-select.com/*
 *://hometechgglab.com/*
 *://homl.info/*
+*://hon-de-bokin.jp/*
 *://honcierge.jp/*
 *://hondastjohns.com/*
 *://honey82.com/*
@@ -21326,7 +21315,9 @@
 *://modzozo.com/*
 *://moedigi.com/*
 *://moeeeani.blog.jp/*
+*://moeeroge.livedoor.blog/*
 *://moes.taobao.com/*
+*://moetataiken.com/*
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
 *://mogimikan.my.canva.site/*
@@ -22448,6 +22439,7 @@
 *://orenburg.ko-snegiri.ru/*
 *://oreno-nijigen.com/*
 *://oresatsu.com/*
+*://oresize.com/*
 *://oretrieve.monster/*
 *://orichansblog.com/*
 *://oricoma.com/*
@@ -22716,6 +22708,7 @@
 *://playapks.com/*
 *://playcreativelab.com/*
 *://playforparkinsons.org/*
+*://playio.jp/*
 *://playkull.com/*
 *://playma.jp/*
 *://playmods.net/*
@@ -23281,6 +23274,7 @@
 *://rxxlvhj.cn/*
 *://ryo-ishikawa.fun/*
 *://ryocuu.hatenablog.com/*
+*://ryohka.jp/*
 *://ryoko-rta.com/*
 *://ryomemoblog.com/*
 *://ryoryokura.com/*
@@ -24813,6 +24807,7 @@
 *://utorrent.jp.aptoide.com/*
 *://utorrent.jp.uptodown.com/*
 *://utqbffn.cn/*
+*://utsuru.jp/*
 *://uu4nfcq.buergerhaus-initiative.de/*
 *://uugwidnrfbb.com/*
 *://uwmadisonpoker.com/*
@@ -25693,6 +25688,8 @@
 *://www.eromanga-muryou-hitomi-1999.net/*
 *://www.eromanga-muryou-hitomi-26.net/*
 *://www.eromanga-muryou-hitomi-40.net/*
+*://www.eromanga-muryou-matome-hentai.net/*
+*://www.eromangadoujin.com/*
 *://www.eskizpsd.com/*
 *://www.espacesarana.fr/*
 *://www.espacioagro.com/*
@@ -26839,6 +26836,7 @@
 *://www.twitscoop.com/*
 *://www.twlrnet.tw/*
 *://www.tyo2l.uk/*
+*://www.uchina-farm.jp/*
 *://www.uchina-web.co.jp/*
 *://www.uhrcgeneva.org/*
 *://www.underconnection.com/*
@@ -27021,6 +27019,7 @@
 *://x.com/natsukifjngero5*
 *://x.com/yuugafas*
 *://x.com/zlib_official/*
+*://x11x.attractive69.com/*
 *://x68000.q-e-d.net/*
 *://xdqern.dentist-24.de/*
 *://xdropc.pages.dev/*
@@ -27382,6 +27381,7 @@
 *://yumeijin-genzai.com/*
 *://yumeijinhensachi.com/*
 *://yumelab3.com/*
+*://yumemiru-club.com/*
 *://yumemiru.click/*
 *://yumemirumama.com/*
 *://yumenoblog.com/*

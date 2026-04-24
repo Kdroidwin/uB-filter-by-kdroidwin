@@ -1824,6 +1824,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||comicshiyari.com^$document
 ||comicsr18.com^$document
 ||comikatu.jp^$document
+||comikets.com^$document
 ||comione.com^$document
 ||comitoon.sakura.ne.jp^$document
 ||common-topics.com^$document
@@ -2208,6 +2209,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dokdok2023.jp^$document
 ||dokidoki-info.com^$document
 ||dokodekau.hatenablog.com^$document
+||dokopon.com^$document
 ||dokushoaoki.com^$document
 ||dokusyoka2narou.com^$document
 ||dolarkacpara.xyz^$document
@@ -2243,6 +2245,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin-comics.toremani.com^$document
 ||doujin-ero-manga.com^$document
 ||doujin-erofutanari.adult-h.com^$document
+||doujin-erogazou.com^$document
 ||doujin-erokyonyu.adult-h.com^$document
 ||doujin-eromanga.adult-h.com^$document
 ||doujin-hive.com^$document
@@ -2369,6 +2372,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||e849001b-b592-4312-ada6-f359392cf4f0.ct0.app^$document
 ||earbuds.aspsv.com^$document
 ||earnie-frogs.jp^$document
+||earth-c.jp^$document
 ||eat.badate.work^$document
 ||ebisu-selection.com^$document
 ||ebook-house.com^$document
@@ -2467,6 +2471,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||emangablog.com^$document
 ||embarrassed-bridge.com^$document
 ||emcz4ecubs.com^$document
+||emd2nd.blog.jp^$document
 ||emerald-energies.com^$document
 ||emery.me.uk^$document
 ||emi-life.net^$document
@@ -2636,6 +2641,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eromanga-dojin.net^$document
 ||eromanga-group.com^$document
 ||eromanga-guts.com^$document
+||eromanga-hiroba.com^$document
 ||eromanga-house.com^$document
 ||eromanga-island.com^$document
 ||eromanga-library.com^$document
@@ -3850,6 +3856,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||homeparty-select.com^$document
 ||hometechgglab.com^$document
 ||homl.info^$document
+||hon-de-bokin.jp^$document
 ||honcierge.jp^$document
 ||hondastjohns.com^$document
 ||honey82.com^$document
@@ -5673,7 +5680,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||modzozo.com^$document
 ||moedigi.com^$document
 ||moeeeani.blog.jp^$document
+||moeeroge.livedoor.blog^$document
 ||moes.taobao.com^$document
+||moetataiken.com^$document
 ||moffy-aya-entame.com^$document
 ||mofumofunews.com^$document
 ||mogimikan.my.canva.site^$document
@@ -6811,6 +6820,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||orenburg.ko-snegiri.ru^$document
 ||oreno-nijigen.com^$document
 ||oresatsu.com^$document
+||oresize.com^$document
 ||oretrieve.monster^$document
 ||orichansblog.com^$document
 ||oricoma.com^$document
@@ -7078,6 +7088,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||playapks.com^$document
 ||playcreativelab.com^$document
 ||playforparkinsons.org^$document
+||playio.jp^$document
 ||playkull.com^$document
 ||playma.jp^$document
 ||playmods.net^$document
@@ -7683,6 +7694,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rxxlvhj.cn^$document
 ||ryo-ishikawa.fun^$document
 ||ryocuu.hatenablog.com^$document
+||ryohka.jp^$document
 ||ryoko-rta.com^$document
 ||ryomemoblog.com^$document
 ||ryoryokura.com^$document
@@ -9302,6 +9314,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||utorrent.jp.aptoide.com^$document
 ||utorrent.jp.uptodown.com^$document
 ||utqbffn.cn^$document
+||utsuru.jp^$document
 ||utyatnishna.ru^$document
 ||uu4nfcq.buergerhaus-initiative.de^$document
 ||uugwidnrfbb.com^$document
@@ -10217,6 +10230,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.eromanga-muryou-hitomi-1999.net^$document
 ||www.eromanga-muryou-hitomi-26.net^$document
 ||www.eromanga-muryou-hitomi-40.net^$document
+||www.eromanga-muryou-matome-hentai.net^$document
+||www.eromangadoujin.com^$document
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document
@@ -11370,6 +11385,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.twitscoop.com^$document
 ||www.twlrnet.tw^$document
 ||www.tyo2l.uk^$document
+||www.uchina-farm.jp^$document
 ||www.uchina-web.co.jp^$document
 ||www.uhrcgeneva.org^$document
 ||www.underconnection.com^$document
@@ -11552,6 +11568,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||x.com/natsukifjngero5^$document
 ||x.com/yuugafas^$document
 ||x.com/zlib_official^$document
+||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
 ||xbuba.com^$document
 ||xdqern.dentist-24.de^$document
@@ -11920,6 +11937,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yumeijin-genzai.com^$document
 ||yumeijinhensachi.com^$document
 ||yumelab3.com^$document
+||yumemiru-club.com^$document
 ||yumemiru.click^$document
 ||yumemirumama.com^$document
 ||yumenoblog.com^$document
