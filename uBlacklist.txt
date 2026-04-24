@@ -2124,6 +2124,7 @@
 *://*.ch/?z=9*
 *://*.chaos2ch.com/*
 *://*.chinesedialectgeography.jp/*
+*://*.cjda75.jp/*
 *://*.cl/?a=0*
 *://*.cl/?a=1*
 *://*.cl/?a=2*
@@ -15815,6 +15816,7 @@
 *://120152.huobiglobal.online/*
 *://1211092.slot19.online/*
 *://1234arontoren.blog.fc2.com/*
+*://123store.jp/*
 *://1294736.slot19.online/*
 *://129katsublog.com/*
 *://130344193.slot26.online/*
@@ -15994,6 +15996,7 @@
 *://833d.cn/*
 *://839844.slot47.online/*
 *://839967.bitgetexchange.online/*
+*://840mail.jp/*
 *://844869420.xyz/*
 *://848888.bubit.online/*
 *://8490106.slot27.online/*
@@ -16025,7 +16028,6 @@
 *://9qh8qcxb.r.us-east-1.awstrack.me/*
 *://9to5answer.com/*
 *://9yfwmoisk.melanie-reinecke.de/*
-*://I.instagram.com/*
 *://a-1construction.com/*
 *://a-coop.jp/*
 *://a-e-c.jp/*
@@ -16046,6 +16048,7 @@
 *://aa-educare.com/*
 *://aaanews.net/*
 *://aalhoyr.cn/*
+*://aap.skr.jp/*
 *://aasc.or.jp/*
 *://abc-co.ru/*
 *://abc.us.org/*
@@ -16080,12 +16083,14 @@
 *://account.antispy.shop/*
 *://accounts.millenvpn.jp/*
 *://accounts.recustomer.xyz/*
+*://ace.enetprint.jp/*
 *://acer.onerise.info/*
 *://acgi.jp/*
 *://acl-2022.jp/*
 *://acn-perf.ciostage.accenture.cn/*
 *://acn-release.ciostage.accenture.cn/*
 *://acoco0084.com/*
+*://acomi-acomi.com/*
 *://acros-shoutengai.com/*
 *://actartcom.com/*
 *://activation.unity.cn/*
@@ -16117,8 +16122,10 @@
 *://adult-manga-japan.com/*
 *://adult-manga.jp/for-you-free*
 *://adult-manga.net/*
+*://adult-select.com/*
 *://adult.asoku.net/*
 *://adult.z-z.jp/*
+*://adultdojin.jp/*
 *://adultemploymentagency.com/*
 *://adultitemstore.com/*
 *://adultmm.jp/*
@@ -16192,12 +16199,14 @@
 *://airoiseisaku.base.shop/*
 *://aisaika2022.com/*
 *://aisanponn.com/*
+*://aiseifukusikai.com/*
 *://aistageup777.com/*
 *://aiuemam-new.com/*
 *://aiyyfu.com/*
 *://ajansdiaspora.com/*
 *://ajaxhispano.com/*
 *://ajesonbansnk-loans-jp.com/*
+*://ajien.net/*
 *://ak.akhbara24.news/*
 *://akaczute.com/*
 *://akaitasuki.com/*
@@ -16251,6 +16260,8 @@
 *://alicepatinvestments.com/*
 *://alife-lalala.com/*
 *://alisonn.blog106.fc2.com/*
+*://all-dojin.com/*
+*://all-doujin.com/*
 *://all-genre.net/*
 *://all.jiheishou-e.xyz/*
 *://allaboutbelgaum.com/*
@@ -16303,6 +16314,7 @@
 *://ameblo.jp/aniroom*
 *://ameblo.jp/ann-ogura/entry-12872686061.html
 *://ameblo.jp/cheongdambyeol/*
+*://ameblo.jp/chihaya0425/*
 *://ameblo.jp/darwinblog/*
 *://ameblo.jp/direscare/*
 *://ameblo.jp/dodesyoysedod/*
@@ -16458,6 +16470,7 @@
 *://aokiin.com/*
 *://aonatsu.jp/*
 *://aoshima-kenta.jp/*
+*://aoyama-zero.com/*
 *://aoyjpcgu.life/*
 *://ap.sakuraweb.com/*
 *://apaie.org/*
@@ -16503,6 +16516,7 @@
 *://apkoll.com/*
 *://apkpromaster.com/*
 *://apkpure.com/*/nekogram/*
+*://apkpure.com/cherrygram/*
 *://apkpure.com/graph-messenger/*
 *://apkpure.com/nekogram/*
 *://apkpure.com/revanced-extended/*
@@ -16548,6 +16562,7 @@
 *://appollo.jp/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
+*://apps.apple.com/*/app/expressvpn-secure-fast-vpn/id886492891*
 *://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
 *://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
@@ -16599,6 +16614,7 @@
 *://arquidiocesisd.org/*
 *://arrow-steel-f4f.notion.site/*
 *://art.team-lab.cn/*
+*://art2020.jp/*
 *://artealfonsina.com/*
 *://artechweb.pl/*
 *://arthcamp.jp/*
@@ -16644,6 +16660,7 @@
 *://askcodez.com/*
 *://askmrcoupon.com/*
 *://asobell.jp/*
+*://asobi-sozo-labo.com/*
 *://asobiba777.biz/*
 *://asoboolog.com/*
 *://asotalk.com/*
@@ -16687,11 +16704,13 @@
 *://autocosmeticsny.com/*
 *://autodesk.me/*
 *://av-matome.jp/*
+*://av.matohub.net/*
 *://av1.manga119.com/*
 *://avaerocapital.com/*
 *://avantiegypt.com/*
 *://avasam.ir/*
 *://avast.it4win.com/*
+*://avcatalog.jp/*
 *://aviator-movie.jp/*
 *://avobild.life/*
 *://avtonomka-service.online/*
@@ -16753,6 +16772,7 @@
 *://baikal.boats/*
 *://baixarapk.gratis/*
 *://baixe.net/*
+*://baked-strontium.jpn.org/*
 *://bakery-fukufuku.com/*
 *://bakuhou-geinou.net/*
 *://bakujou.com/*
@@ -17019,6 +17039,7 @@
 *://bonnychamber.com/*
 *://booberries.id/*
 *://book-day.com/*
+*://book-gain.com/*
 *://book.costume-db.com/*
 *://book.dldlinks.com/*
 *://book.himepai.com/*
@@ -17118,6 +17139,7 @@
 *://business.slot42.online/*
 *://businessgiftdepot.com/*
 *://bustabitseller.com/*
+*://butai-gengo-danshi.com/*
 *://butter-delimmo.jp/*
 *://butylfm6.thepines-melaka.com/*
 *://buukosensei.com/*
@@ -17200,6 +17222,7 @@
 *://catchmove.net/*
 *://catmiimi.com/*
 *://catorce.jp/*
+*://cbkeiei-con.jp/*
 *://cbsllc.me/*
 *://cc-mayu.com/*
 *://cccrecord.com/*
@@ -17249,6 +17272,7 @@
 *://chanceman.work/*
 *://chandraveerniwas.com/*
 *://changcoroom.com/*
+*://chanko-shiki.com/*
 *://chanmii.com/*
 *://channel-rei.com/*
 *://chaonoheya.com/*
@@ -17276,6 +17300,8 @@
 *://cherish-media.jp/*
 *://cherri.jp/*
 *://cherry0704.com/*
+*://cherrygram.en.aptoide.com/*
+*://cherrygram.en.uptodown.com/*
 *://cherryonline.online/*
 *://chesbayresort.com/*
 *://chfs.me/*
@@ -17346,6 +17372,7 @@
 *://cirugiaplasticacbba.com/*
 *://cityofchix.com/*
 *://ciyoqprice.com/*
+*://cjda74.jp/*
 *://cjda75.jp/*
 *://ck.jp.ap.valuecommerce.com/*
 *://ckba.ru/*
@@ -17411,6 +17438,7 @@
 *://codeutility.org/*
 *://codevia.io/*
 *://coetas.jp/*
+*://coffee-days.jp/*
 *://cofure.hatenablog.com/*
 *://cogl3d.org/*
 *://coin-media.jp/*
@@ -17446,6 +17474,8 @@
 *://comic.chiramiru.com/*
 *://comic.dmm-mania.com/*
 *://comic.enka.work/*
+*://comic.hentai-raw.hiraku946.jp/*
+*://comic.hiraku946.jp/*
 *://comic.kotobanote.com/*
 *://comic.lsrv.jp/*
 *://comic.manga-mill.com/*
@@ -17454,9 +17484,12 @@
 *://comic.seven-area.com/*
 *://comic.syumilog-engineer.com/*
 *://comic.wew.jp/*
+*://comic0yen.com/*
+*://comic1.lsv.jp/*
 *://comic104.com/*
 *://comicc.honmadekka-channel.com/*
 *://comicloop.jp/*
+*://comicraw.jp/*
 *://comics-love.hatenablog.com/*
 *://comics.cfbx.jp/*
 *://comics.the-universe-lab.com/*
@@ -17594,6 +17627,7 @@
 *://cyteka.com/*
 *://czkawka.com/*
 *://czumtabim.blog72.fc2.com/*
+*://d-pv.jp/*
 *://d.excite.co.jp/*
 *://d315.cn/*
 *://d4d.online/*
@@ -17648,6 +17682,7 @@
 *://daybuyday.info/*
 *://daylightwindowshop.com/*
 *://daylink0425.com/*
+*://db-pr.com/*
 *://dbaudit.ru/*
 *://dbefree.com/*
 *://dblog.jp/*
@@ -17730,6 +17765,7 @@
 *://dhotiib0.tambuntuition.com/*
 *://di-academy.org/*
 *://diadozer.my1.ru/*
+*://dialcafe.tokyo/*
 *://dialhello.com/*
 *://diamondsrental.com/*
 *://diary.ponkichi01.com/*
@@ -17748,6 +17784,7 @@
 *://digitrain.ru/*
 *://digitspring.com/*
 *://dignicolombia.org/*
+*://digot.jp/*
 *://digtopi.com/*
 *://dijkveer.nl/*
 *://dikegllelove.com/*
@@ -17767,6 +17804,7 @@
 *://divxland.org/*
 *://diy44taku.com/*
 *://diysoy.hatenablog.com/*
+*://django-jp.com/*
 *://djewelonline.com/*
 *://djsouljah.com/*
 *://djziy.com/*
@@ -17829,11 +17867,15 @@
 *://dojicco.com/*
 *://dojin-asedaku.cyou/*
 *://dojin-db.com/*
+*://dojin-pick.jp/*
+*://dojin-review-navi.com/*
+*://dojin.holito-kouso.jp/*
 *://dojinfanza.com/*
 *://dojingame.net/*
 *://dojinmanga.net/*
 *://dojinmanga55.com/*
 *://dojinparadiso.jp/*
+*://dojinrd.com/*
 *://dokdok2023.jp/*
 *://dokidoki-info.com/*
 *://dokodekau.hatenablog.com/*
@@ -17842,6 +17884,7 @@
 *://dolarkacpara.xyz/*
 *://dolbacco.com/*
 *://dolcevitaminebe.com/*
+*://dollynoire.jp/*
 *://domkuply.ru/*
 *://domore.shop-pro.jp/*
 *://domupn.ru/*
@@ -17867,12 +17910,17 @@
 *://douga-sabusuku.com/*
 *://dougaguild.xsrv.jp/*
 *://doujin-ai.com/*
+*://doujin-archive.com/*
 *://doujin-comics.toremani.com/*
+*://doujin-ero-manga.com/*
 *://doujin-erofutanari.adult-h.com/*
 *://doujin-erokyonyu.adult-h.com/*
 *://doujin-eromanga.adult-h.com/*
+*://doujin-hive.com/*
+*://doujin-library.com/*
 *://doujin-love.com/*
 *://doujin-maturi.com/*
+*://doujin-mitsukeru.com/*
 *://doujin-ntr.com/*
 *://doujin-share.com/*
 *://doujin-yakata.com/*
@@ -17881,6 +17929,7 @@
 *://doujin.dldlinks.com/*
 *://doujin.furukawakan.jp/*
 *://doujin.himepai.com/*
+*://doujin.hiraku946.jp/*
 *://doujin.honmadekka-channel.com/*
 *://doujin.makianosaihu.com/*
 *://doujin.moshiero.cfbx.jp/*
@@ -17890,16 +17939,20 @@
 *://doujin2.makianosaihu.com/*
 *://doujinbank.com/*
 *://doujincco-ero.com/*
+*://doujinclub.net/*
 *://doujindayo.com/*
 *://doujineroman.wpx.jp/*
 *://doujinevent.com/*
 *://doujinfree.com/*
+*://doujingpt.com/*
+*://doujinhook.net/*
 *://doujinichiba.com/*
 *://doujinkan.com/*
 *://doujinmm.dlold.net/*
 *://doujinnews.com/*
 *://doujinraw.com/*
 *://doujinrepublic.com/*
+*://doujinshi-library.moistairlab.com/*
 *://doujinshi.nekopanchi.org/*
 *://doujinshiblog.com/*
 *://doujinshiman.com/*
@@ -17917,6 +17970,7 @@
 *://download.cnet.com/ccleaner/3000-18512_4-10315544.html*
 *://download.it/*
 *://download.juxia.com/*
+*://dozin.net/*
 *://dozin30.com/*
 *://dpoint.onelink.me/*
 *://dq6p60xb.r.us-east-1.awstrack.me/*
@@ -17954,6 +18008,7 @@
 *://dubs.ru/*
 *://due.italiago-dokugaku.com/*
 *://dulinscafe.com/*
+*://dungeon.jp/*
 *://duracof.xyz/*
 *://dwasfve.cn/*
 *://dwdinteriors.com/*
@@ -17976,6 +18031,7 @@
 *://e-books.shuminavi.net/*
 *://e-faso.com/*
 *://e-fugu.jp/*
+*://e-gst.jp/*
 *://e-news67.com/*
 *://e-pin.jp/*
 *://e-reikinet.jp/*
@@ -18019,6 +18075,7 @@
 *://ecsanseito.square.site/*
 *://ecssc17.com/*
 *://ecsuchi.cn/*
+*://eded-magazin.com/*
 *://eden-emulator.com/*
 *://ediflights.co.uk/*
 *://edisontae.com/*
@@ -18092,6 +18149,8 @@
 *://emoshare.web.app/*
 *://empty-morning-5199.yuuga-y-0912.workers.dev/*
 *://emuaikeiai.com/*
+*://en-cuculu.jp/*
+*://en-gift.jp/*
 *://en-ti.com/*
 *://en.atashmehr.com/*
 *://en.taiwebs.com/*
@@ -18194,13 +18253,16 @@
 *://ero-av-manga.xn--3kq96f810a.jp/*
 *://ero-comic.jp/*
 *://ero-dojin.net/*
+*://ero-manga-japan.com/*
 *://ero-manga-navi.com/*
 *://ero-manga-wilds.blog.jp/*
 *://ero-manga.cfbx.jp/*
+*://ero-manga.fanzafanza.com/*
 *://ero-manga.the-universe-lab.com/*
 *://ero-ny.cfbx.jp/*
 *://ero-ny.com/*
 *://ero.dis-1983.jp/*
+*://ero.dogeza3-in-game.net/*
 *://eroanimelist.com/*
 *://eroappgame.com/*
 *://eroazu.com/*
@@ -18224,6 +18286,7 @@
 *://eroero-manga.net/*
 *://eroero.bokuto-watashi.com/*
 *://eroeroimessaim.com/*
+*://erof.jp/*
 *://eroge-maso.com/*
 *://eroge.dldshare.net/*
 *://eroge.erodl.cfbx.jp/*
@@ -18232,9 +18295,11 @@
 *://erogumi.net/*
 *://erohon-r18.com/*
 *://eroiai.com/*
+*://eroiblog.wpx.jp/*
 *://eroichi.com/*
 *://erologz.com/*
 *://eromagazine.wpx.jp/*
+*://eroman-lab.com/*
 *://eroman.honmadekka-channel.com/*
 *://eromancomi.com/*
 *://eromanga-dojin.net/*
@@ -18251,12 +18316,15 @@
 *://eromanga-vision.com/*
 *://eromanga-yomitai.work/*
 *://eromanga-zone.com/*
+*://eromanga-zukan.com/*
 *://eromanga.anicomi3150.com/*
 *://eromanga.dl-ero-news.site/*
 *://eromanga.dojin.com/*
 *://eromanga.gingin.biz/*
+*://eromanga.mixh.jp/*
 *://eromanga.oishin.jp/*
 *://eromanga.regalo-net.jp/*
+*://eromanga.syukujono-mori.com/*
 *://eromanga.un-gluten.jp/*
 *://eromangagaga.wpx.jp/*
 *://eromangajiru.com/*
@@ -18264,6 +18332,7 @@
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
 *://eromangarev.blog/*
+*://eromangasensei.jp/*
 *://eromangatankendan.com/*
 *://eromangawiki.com/*
 *://eromannga.net/*
@@ -18332,12 +18401,16 @@
 *://excesssecurity.com/recommended-vpn/*
 *://exchangetuts.com/*
 *://excite-matome.com/*
+*://exellentforyoustart.com/*
 *://exmachina4649.com/*
 *://exmple.cn/*
+*://expanet.jp/*
 *://exploring4ever.com/*
 *://expomap.ru/*
+*://express-vpn.jp.uptodown.com/*
 *://expressbox.nl/*
 *://expression-of-gratitude.com/*
+*://expressvpn.jp.uptodown.com/*
 *://extendedrevanced.com/*
 *://extendedrevanced.org/*
 *://extra-newspaper.com/*
@@ -18345,6 +18418,7 @@
 *://eylamermer.5bweb.com/*
 *://f-f-shukatsu.jp/*
 *://f-shirushi.com/*
+*://f-workstyle.com/*
 *://f10r.com/*
 *://f11.jp/*
 *://f1pro.sub.jp/*
@@ -18379,9 +18453,11 @@
 *://fanshub.jp/*
 *://fanza-com.mystrikingly.com/*
 *://fanza.coideco.jp/*
+*://fanza.hentai-raw.com/*
 *://fanzabooks.com/*
 *://fanzadensho.com/*
 *://fanzonetokyo.jp/*
+*://fapi.lsv.jp/*
 *://farsisaz.com/*
 *://fashion.biglobe.ne.jp/*
 *://fashon.xyz/*
@@ -18396,8 +18472,10 @@
 *://fba.azurewebsites.net/*
 *://fbfcmt27.autosns.app/*
 *://fbfcmt27.autosns.app//*
+*://fbooks-doujin.com/*
 *://fcvt-sale.com/*
 *://fd.5201961.xyz/*
+*://fdj.pia-shiratori.jp/*
 *://fe30a5b4.xyz/*
 *://fearless-fitness.uk/*
 *://feeb.jp/*
@@ -18409,6 +18487,7 @@
 *://fesoku.net/*
 *://festy.jp/*
 *://feteenfolie.com/*
+*://fetish-tokyo.jp/*
 *://fetishp.com/*
 *://feynman.co.jp/*
 *://fezyygqo.auslagerung-pastservice.de/*
@@ -18537,6 +18616,7 @@
 *://fpfjzjvxtbf.com/*
 *://fphrc.groupzu.com/*
 *://fqw45966.site/*
+*://fragrance-miyazaki.com/*
 *://franchiseconnect.us/*
 *://fratermusic.com/*
 *://fratitude.in/*
@@ -18571,6 +18651,7 @@
 *://freeworkroom.com/*
 *://freiermann.com/*
 *://fresco-salon.amebaownd.com/*
+*://fresh-memories.com/*
 *://freshgreenxcoatl.com/*
 *://froebel-kan.tameshiyo.me/*
 *://frog-kero.com/*
@@ -18632,6 +18713,7 @@
 *://funfuntanoshii.com/*
 *://funlifehack.com/*
 *://funmodapk.com/*
+*://funmovelearn.com/*
 *://funnews-cafe.com/*
 *://funnyfunnynews.com/*
 *://funontheark.com/*
@@ -18639,6 +18721,7 @@
 *://funwayroad.com/*
 *://furamu4568.com/*
 *://furusato3.xsrv.jp/*
+*://fushigiadult.jp/*
 *://fusil1of.mydclimate.org/*
 *://fusionflicks.com/*
 *://futaba-en.jp/*
@@ -18689,6 +18772,7 @@
 *://gaiman.jp/*
 *://gainoheya.com/*
 *://gaito666.blog.fc2.com/*
+*://gajin.sakura.ne.jp/*
 *://gal.cocoloni.jp/*
 *://galaxydesign.site/*
 *://galeriaorquideas.online/*
@@ -18759,6 +18843,7 @@
 *://gdkfvgwhxjyk.xyz/*
 *://ge-noumatome.com/*
 *://ge999c62.muragon.com/*
+*://gedsx.com/*
 *://gegege-sensei.jp/*
 *://geikosai2022.jp/*
 *://geinininfo.com/*
@@ -18798,6 +18883,7 @@
 *://gemala.me/*
 *://gemandisuo.digital/*
 *://gen-shun.com/*
+*://gen-zai.com/*
 *://gen51.net/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
@@ -18859,6 +18945,7 @@
 *://girl-express.com/*
 *://girl-movie.com/*
 *://girl.co.jp/*
+*://girlest.com/*
 *://girls-movie.com/*
 *://girlsgundan.com/*
 *://girlshour.net/*
@@ -19022,6 +19109,7 @@
 *://gray.pochasiko.com/*
 *://grayelectricllc.com/*
 *://greating-job.com/*
+*://greeeenshop.jp/*
 *://greeglanhind.xyz/*
 *://greeklightshop.com/*
 *://green.foxapi.xyz/*
@@ -19029,6 +19117,7 @@
 *://greencar-eco.com/*
 *://greencol.net/*
 *://greencube.gallery/*
+*://greenhelp.jp/*
 *://greenpepper-news.com/*
 *://greenshop-aroma.com/*
 *://greenvilla.kg/*
@@ -19246,8 +19335,11 @@
 *://hentai-mangahitomi.com/*
 *://hentai-momo.com/*
 *://hentai-online.com/*
+*://hentai-raw-manga.jp/*
 *://hentai-raw.com/*
+*://hentai-raw.net/*
 *://hentai.coffee-days.jp/*
+*://hentai.gger.jp/*
 *://hentai.hit-song-ranking.com/*
 *://hentai.hotel3.jp/*
 *://hentai.humi.jp/*
@@ -19287,7 +19379,9 @@
 *://hideyoshi123.com/*
 *://hieloprisma.com/*
 *://hien-rt.net/*
+*://hieron-lab.com/*
 *://higaoka.com/*
+*://higashinari-mono.com/*
 *://highendtopics.com/*
 *://highheel-association.jp/*
 *://highlandsofdurhamgames.com/*
@@ -19351,16 +19445,23 @@
 *://hitomi-doujin.com/*
 *://hitomi-eromanga.net/*
 *://hitomi-hentai-mangaraw.wew.jp/*
+*://hitomi-laa.net/*
 *://hitomi-manga-hentai.com/*
 *://hitomi-nhentai.com/*
 *://hitomi-official.jp/*
 *://hitomi-raw-eromanga.com/*
 *://hitomi-raw.cfbx.jp/*
+*://hitomi-raw.lsrv.jp/*
 *://hitomi-vg.com/*
+*://hitomi.momonga-raw.com/*
+*://hitomia.com/*
 *://hitomibook.com/*
 *://hitomila.blog/*
+*://hitomila.co.jp/*
 *://hitomiland.com/*
+*://hitomilla.com/*
 *://hitomin.wpx.jp/*
+*://hitomisiri.com/*
 *://hitononeko.com/*
 *://hitorisanfan.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
@@ -19377,7 +19478,9 @@
 *://hkmarathon.jp/*
 *://hlelrse.com/*
 *://hm.info/*
+*://hmanganavi.com/*
 *://hmd.site/*
+*://hmfes.com/*
 *://hmoeta.com/*
 *://hngez.dottoremiascolti.it/*
 *://hnt.co.jp/*
@@ -19392,6 +19495,8 @@
 *://hokanko-alt.com/*
 *://hokkaidougurashi.com/*
 *://hokudai-biocomp.jp/*
+*://hokulani-intl.jp/*
+*://hokutosakeguru.com/*
 *://hola.org/*
 *://holabeauty.center/*
 *://holidaymelon.com/*
@@ -19415,6 +19520,7 @@
 *://honokaworld.com/*
 *://honsoku.com/*
 *://hontai.jp/*
+*://honyeah.jp/*
 *://hoopers.jp/*
 *://hop.online/*
 *://hoper4em.styr.solutions/*
@@ -19430,6 +19536,7 @@
 *://hosoho.jp/*
 *://hostapk.com/*
 *://hosyusokuhou.jp/*
+*://hosyuushop.jp/*
 *://hot-koshigaya.jp/*
 *://hot-topic-trends.com/*
 *://hot-tsushin.com/*
@@ -19482,6 +19589,7 @@
 *://hy-fi.jp/*
 *://hyakkalog.com/*
 *://hybridmx.net/*
+*://hyogo-miryoku.com/*
 *://hyper-shoyu.com/*
 *://hyuga-blog.com/*
 *://hyundai-kaskad.ru/*
@@ -19490,7 +19598,6 @@
 *://i-koka.jp/*
 *://i-th.ru/*
 *://i.amgradio.ru/*
-*://i.instagram.com/*
 *://i2ibycitipost.com/*
 *://i711.com/*
 *://iasbanenge.co.in/*
@@ -19576,6 +19683,7 @@
 *://img.lighted.hk/*
 *://imitochigai.com/*
 *://imitsu.jp/*
+*://imizubunka-rapport.jp/*
 *://imperiacondos.com/*
 *://imperial-curse.de/*
 *://imperialnexus.jp/*
@@ -19609,6 +19717,7 @@
 *://infojoho-library.org/*
 *://infolab.buyer-direct.com/*
 *://infomalco.net/*
+*://infomation-sytem-security.hatenablog.com/*
 *://infomero.com/*
 *://informed-man.ru/*
 *://inforsalexpress.com/*
@@ -19739,7 +19848,9 @@
 *://izumi0470blog.com/*
 *://izumino.jp/*
 *://j-anime-matome.com/*
+*://j-green-sakai.jp/*
 *://j-inagaki.com/*
+*://j-internship.jp/*
 *://j-rocklove.com/*
 *://j7p.jp/*
 *://ja-beta-reactjs-org.vercel.app/*
@@ -19766,6 +19877,7 @@
 *://janotraining.com/*
 *://japamart.com/*
 *://japan-0-cnet-0-com.proxy.guilin.gov.cn/*
+*://japan-expressvpn.com/*
 *://japan-gyouji.com/*
 *://japan-newslounge.com/*
 *://japan-travel-guide.jp/*
@@ -19888,12 +20000,14 @@
 *://jpkanon.com/*
 *://jpsecengineer.com/*
 *://jpsoku.blog.jp/*
+*://jr-bentenhiroba.jp/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
 *://jsmjapan.com/*
 *://jtb-hotspringtickets.vip/*
 *://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
 *://jtuto.com/*
+*://juanitomx.com/*
 *://judymzungu.com/*
 *://jufusion.com/*
 *://jujumaru-website.com/*
@@ -19946,6 +20060,7 @@
 *://kae.me/*
 *://kaeln.net/*
 *://kafaco.co.tz/*
+*://kagawaumigomi.jp/*
 *://kagelife.com/*
 *://kagerou-kazoku.com/*
 *://kaigaiceleb.com/*
@@ -19971,9 +20086,12 @@
 *://kamabokoworks.jp/*
 *://kamaenitachiyoru.com/*
 *://kamana-black.jp/*
+*://kamei93-recruit.jp/*
 *://kameshiba1212.com/*
 *://kamieromanga.com/*
+*://kamijutte.com/*
 *://kamisama-anime.jp/*
+*://kamogawa-jc.jp/*
 *://kan8oskar.com/*
 *://kanagawa-yc.jp/*
 *://kanagawacc.com/*
@@ -20013,6 +20131,7 @@
 *://karikari.xyz/*
 *://karin-zakki.com/*
 *://karlovackagimnazija.rs/*
+*://kart-ccf.jp/*
 *://kashimayunohana.jp/*
 *://kasiiyuyu.com/*
 *://kasimakadar.online/*
@@ -20101,6 +20220,7 @@
 *://kibikogencountry-golf.jp/*
 *://kiby.jp/*
 *://kicks-blog.com/*
+*://kifvx.com/*
 *://kigyolog.com/*
 *://kihachi-log.com/*
 *://kiiropicks.com/*
@@ -20110,6 +20230,7 @@
 *://kikikom.com/*
 *://kikkakeblog40.com/*
 *://kikomas.online/*
+*://kikuchi-craft.com/*
 *://kilimas.online/*
 *://kimagure-diary.com/*
 *://kimama2audio.com/*
@@ -20130,6 +20251,7 @@
 *://kingbraintech.com/*
 *://kingdom10.jp/*
 *://kingdomlegacyministries.org/*
+*://kinghaxcomic.com/*
 *://kingky.site/*
 *://kingmodapk.net/*
 *://kingsasd.com/*
@@ -20193,6 +20315,7 @@
 *://ko-ima.com/*
 *://ko-pu.com/*
 *://kochubeymedia.ru/*
+*://kodaira-gym.jp/*
 *://kodomama.com/*
 *://kodomo.kamakuraborikaikan.jp/*
 *://koe-voice.jp/*
@@ -20351,7 +20474,6 @@
 *://kzen.dev/*
 *://l-kyojin01.jp/*
 *://l-ma.info/*
-*://l.instagram.com/*
 *://l3melb-taxi.com/*
 *://la-boulette.com/*
 *://la-mere-poulard.jp/*
@@ -20452,6 +20574,7 @@
 *://libote.jp/*
 *://librabewindvoering.nl/*
 *://library.ucclm.org/*
+*://licklink.net/*
 *://liemu669.com/*
 *://life-long-friend-ship.net/*
 *://life-mens.com/*
@@ -20484,9 +20607,11 @@
 *://line-howtouse.net/*
 *://line-kiwami.com/*
 *://lineblog.me/*
+*://linematchapp.com/*
 *://lingualeo.com/*
 *://linguistic.global/*
 *://link-card.online/cards/*
+*://link-card.site/*
 *://link.fmkorea.org/*
 *://link.gevents.cn/*
 *://link.photoprism.app/*
@@ -20505,6 +20630,7 @@
 *://littleprince.jp/*
 *://littlepsx.com/*
 *://liupanlove.me/*
+*://liv-futsal.jp/*
 *://live-happily-blog.com/*
 *://live-pq.cc/*
 *://live.doneru.jp/*
@@ -20518,6 +20644,7 @@
 *://ljla.uk/*
 *://ljnrtnuf.life/*
 *://lk-life.net/*
+*://llnm1-ticketcp.jp/*
 *://lmhfxdp.life/*
 *://lms.learningbox.online/*
 *://lms.medreseti.com/*
@@ -20652,6 +20779,7 @@
 *://mafumafu-fan.com/*
 *://mag.app-liv.jp/*
 *://magazine-k.jp/*
+*://magazine-list.com/*
 *://magazine.techacademy.jp/*
 *://magazine.voicenote.jp/*
 *://magazinehack.com/*
@@ -20741,7 +20869,9 @@
 *://manga-library.com/*
 *://manga-mill.com/*
 *://manga-mura.com/*
+*://manga-nukicomi.com/*
 *://manga-raw.blog.jp/*
+*://manga-saiyasune.com/*
 *://manga-style.jp/*
 *://manga-tachiyomi.com/*
 *://manga-teacher.com/*
@@ -20749,6 +20879,7 @@
 *://manga.aoyama-zero.com/*
 *://manga.chateaucom.jp/*
 *://manga.coideco.jp/*
+*://manga.comicraw.jp/*
 *://manga.dmm-mania.com/*
 *://manga.dounavi.net/*
 *://manga.estudiopepa.jp/*
@@ -20756,8 +20887,10 @@
 *://manga.hentai-raw.hiraku946.jp/*
 *://manga.honmadekka-channel.com/*
 *://manga.jimnian.com/*
+*://manga.kanjukujoshi.com/*
 *://manga.kiby.jp/*
 *://manga.kou-web.com/*
+*://manga.nukitto.com/*
 *://manga.okabasyo.com/*
 *://manga.pai-navi.com/*
 *://manga.pink/*
@@ -20778,6 +20911,8 @@
 *://mangachuuu.jp/*
 *://mangacomic.wpx.jp/*
 *://mangafan.biz/*
+*://mangakaiwai.com/*
+*://mangakaiwai.wpx.jp/*
 *://mangaland.wpx.jp/*
 *://mangamotomaru.com/*
 *://mangamu.com/*
@@ -20860,7 +20995,6 @@
 *://matome-entame.info/*
 *://matome-plus.com/*
 *://matome-plus.net/*
-*://matome.eternalcollegest.com/*
 *://matomeantena.com/*
 *://matomedaka.com/*
 *://matomedane.jp/*
@@ -20893,6 +21027,7 @@
 *://mayu-roro.com/*
 *://mayuchat.com/*
 *://mayuhke.com/*
+*://mayuhotel.jp/*
 *://mayuponstyle.com/*
 *://mayuri.hatenadiary.com/*
 *://mayutan.com/*
@@ -20919,6 +21054,7 @@
 *://media-athlete.com/*
 *://media.brain-market.com/*
 *://media.mar-cari.jp/*
+*://media.princess-series.com/*
 *://media.yamatop.com/*
 *://mediacitytaxgroup.com/*
 *://mediafrap.com/*
@@ -21087,6 +21223,7 @@
 *://missav-downloader.org/*
 *://missav-fc2ppv.jp/*
 *://missav.com/*
+*://missav2026-doujin.com/*
 *://missav39.jp/*
 *://misuteri-enblog.com/*
 *://mitemi-n.jp/*
@@ -21181,6 +21318,7 @@
 *://momed.work/*
 *://mommy-kitchen.com/*
 *://momo-admin.net/*
+*://momo-duma.jp/*
 *://momoka20200214-www-softbank-jp.ariyasumomoka.org/*
 *://momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org/*
 *://momoka20200623-7net-omni7-jp.ariyasumomoka.org/*
@@ -21188,6 +21326,7 @@
 *://momonga-raw.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momongasan.com/*
+*://momongasan.wpx.jp/*
 *://momonoyakata.com/*
 *://momoon-ga.com/*
 *://moms-happylife.com/*
@@ -21235,6 +21374,7 @@
 *://morimorimoritto.com/*
 *://moripi.com/*
 *://morisakis-room.com/*
+*://morishige-kikai.jp/*
 *://moritaka.wpx.jp/*
 *://morlaine.fr/*
 *://mormonchamber.com/*
@@ -21317,6 +21457,7 @@
 *://mwdentistry.com/*
 *://mwtossxuwcgz.xkescgb.cn/*
 *://my-best.com/*
+*://my-life-work.com/*
 *://my-own-pace.com/*
 *://my-site-102068-108917.square.site/*
 *://my.ai-li.xyz/*
@@ -21360,6 +21501,8 @@
 *://nailsavenuepenrith.com/*
 *://naito-bc.com/*
 *://naju555.com/*
+*://naka-yan.com/*
+*://nakadori.yokohama/*
 *://nakamo.top/*
 *://nakanoman.net/*
 *://nakasuga13.com/*
@@ -21507,6 +21650,7 @@
 *://new-hibianime.com/*
 *://new.artecpractice.com/*
 *://new.cdsm.cl/*
+*://new.seven-area.com/*
 *://newbalanlife.com/*
 *://newbedev.com/*
 *://newdays-fresh.com/*
@@ -21589,6 +21733,7 @@
 *://nijiholo-local.jp/*
 *://nijihorosokuvtubermatome.com/*
 *://nijiironosakana.com/*
+*://nijipaco.com/*
 *://nijtbsupply.com/*
 *://nikkan-shufu.com/*
 *://nikkantyomeijin.com/*
@@ -21622,6 +21767,7 @@
 *://no111777666.com/*
 *://noacking.cl/*
 *://noako-style.com/*
+*://noaversex.com/*
 *://nobi-blog.com/*
 *://nobiciro.com/*
 *://nodebt.ws/*
@@ -21673,6 +21819,7 @@
 *://note.com/accha123/*
 *://note.com/acehaoreda11/n/n5b5727be25e2*
 *://note.com/addness_recruit/*
+*://note.com/afy2525/*
 *://note.com/agile_pika4626/*
 *://note.com/ai_business_navi/*
 *://note.com/ai_zap/*
@@ -21894,6 +22041,7 @@
 *://note.com/nayoshi_engineer/*
 *://note.com/nekoyorozu/*
 *://note.com/nester_sns/*
+*://note.com/nexsyn/*
 *://note.com/nft_tactics/*
 *://note.com/nge555/*
 *://note.com/nice_pony9719/*
@@ -21901,6 +22049,7 @@
 *://note.com/nifty_cosmos4076/*
 *://note.com/nifty_poppy4842/*
 *://note.com/nifty_viper3044/*
+*://note.com/nippon_ukuraina/*
 *://note.com/noble_guppy6313/*
 *://note.com/noble_myrtle9139/*
 *://note.com/nommy_465/*
@@ -21984,6 +22133,7 @@
 *://note.com/super_whale4189/*
 *://note.com/syashinsuki/*
 *://note.com/syuroriiman/*
+*://note.com/szk2025re/*
 *://note.com/t1944h/*
 *://note.com/taka_matsu1/*
 *://note.com/takayanagi_koi/*
@@ -22000,6 +22150,7 @@
 *://note.com/tenorsharejp/*
 *://note.com/teraweb/*
 *://note.com/thase70/*
+*://note.com/thug_business/*
 *://note.com/tiger_stlv/*
 *://note.com/tmg500/*
 *://note.com/tmobile_kevin/*
@@ -22034,6 +22185,7 @@
 *://note.com/yasuda_forceai/*
 *://note.com/yokatorock/*
 *://note.com/yoki0119/*
+*://note.com/yokichi_note7/*
 *://note.com/yolohealth/*
 *://note.com/yoro1/*
 *://note.com/yoro2/*
@@ -22052,6 +22204,7 @@
 *://note.com/zenipen/*
 *://note.com/zerozero_x/*
 *://note.com/zonzonzonmo_chan/*
+*://notebookers.jp/*
 *://notepm.jp/*
 *://notsu08.com/*
 *://noudoofees.net/*
@@ -22086,6 +22239,7 @@
 *://ntfjsip.guru/*
 *://ntg-guinee.com/*
 *://ntr-archives.com/*
+*://ntr-doujin.com/*
 *://ntrwife.com/*
 *://ntryomimono.com/*
 *://ntvsports.jp/*
@@ -22097,6 +22251,7 @@
 *://nukeman.ero-wife.com/*
 *://nuki-dokoro.com/*
 *://nukicomics.com/*
+*://nukipi.com/*
 *://nukitashi.xyzapk.com/*
 *://nukkadusa.com/*
 *://numaota.jp/*
@@ -22120,6 +22275,7 @@
 *://nyaa9.tromajan.xyz/*
 *://nyanko-days.com/*
 *://nyanpararism.xyz/*
+*://nyansoku.jp/*
 *://nyanyako.xyz/*
 *://nyaotaro.com/*
 *://nyarunuko.com/*
@@ -22129,6 +22285,7 @@
 *://nyokan.com/*
 *://nypost.com/*
 *://nznsms.jp/*
+*://nzpp-tl.com/*
 *://o-ishimori.com/*
 *://o0o0o0.info/*
 *://o1.liuhe36.cn/*
@@ -22165,6 +22322,7 @@
 *://ogiri.moshimobox.top/*
 *://ohanasi-blog.com/*
 *://ohisamaso.com/*
+*://oidon-cup.com/*
 *://oioi-min.com/*
 *://oip.yongjoo.za.com/*
 *://oishiimomlife.com/*
@@ -22178,6 +22336,7 @@
 *://okaeriblog.com/*
 *://okaimono-navigation.com/*
 *://okannoyomeiri-stage.jp/*
+*://okazu-navi.net/*
 *://okboook.com/*
 *://okdebrid.com/*
 *://oki-itsmylife.com/*
@@ -22185,6 +22344,7 @@
 *://okichan.site/*
 *://okigourmet.com/*
 *://okikunonichijyou.com/*
+*://okinawakaigo.xsrv.jp/*
 *://okinawameguri.com/*
 *://okomechan6.com/*
 *://okomerium.com/*
@@ -22253,6 +22413,7 @@
 *://op1.info/*
 *://opc3.bandom.info/*
 *://opensea.io/*
+*://oppai-sand.com/*
 *://oppai.ryohka.jp/*
 *://opportunity.linkedin.cn/*
 *://opticae.online/*
@@ -22272,6 +22433,7 @@
 *://orichansblog.com/*
 *://oricoma.com/*
 *://oriental-hobbies.online/*
+*://oripa.jpn.org/*
 *://orqykth.biz/*
 *://osaboo.info/*
 *://osaka-breakfast.com/*
@@ -22312,12 +22474,14 @@
 *://otisnature.com/*
 *://oto-planet.com/*
 *://otoginemui.com/*
+*://otoko-no-magazine.com/*
 *://otoku-channel.com/*
 *://otoku-mirar.com/*
 *://otokucafe.com/*
 *://otokujouhou.org/*
 *://otomeexpert.com/*
 *://otona-comic.com/*
+*://otonaclub.mixh.jp/*
 *://otonakensaku.com/*
 *://otonano-erokatsu.net/*
 *://otonano-kyouyou.cfbx.jp/*
@@ -22327,6 +22491,7 @@
 *://ouchi-media.com/*
 *://ouchi-pan.com/*
 *://ouchi.irotashi.com/*
+*://ouchigreen.com/*
 *://ouchijikantheater.com/*
 *://ouchiniikou.com/*
 *://ouchitime.com/*
@@ -22397,6 +22562,7 @@
 *://partner.kkday.me/*
 *://partshufu.com/*
 *://parupunte-life.com/*
+*://pas-pol-shop.com/*
 *://pasinta.com/*
 *://pasmo10.jp/*
 *://pass.workhub.site/*
@@ -22455,6 +22621,7 @@
 *://philka.ru/*
 *://phisix-next.com/*
 *://phl-wp-3ekxbwgmwq-an.a.run.app/*
+*://phn.jp/*
 *://phoenixglass.co.th/*
 *://phortaub.com/*
 *://photo-app.online/*
@@ -22499,6 +22666,7 @@
 *://pittsburghdancexplosion.com/*
 *://pixabay.com/*
 *://pixel-leaker.com/*
+*://pixibank.com/*
 *://pixls.jp/*
 *://pixt.me/*
 *://piyokogame.com/*
@@ -22520,7 +22688,10 @@
 *://play.google.com/store/apps/details?id=hotspotshield.android.vpn*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl=ja*
+*://play.google.com/store/apps/details?id=tw.nekomimi.nekogram*
 *://play.google.com/store/apps/details?id=us.videolite*
+*://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram*
+*://play.google.com/store/apps/dev?id=5484883858708006786*
 *://play.google.com/store/apps/dev?id=6891936352065498609&hl=ja*
 *://play.suitsme.xyz/*
 *://playapks.com/*
@@ -22682,6 +22853,7 @@
 *://pukecco.com/*
 *://pukesbgu.treasureshotel.com/*
 *://punchtaka.hatenablog.com/*
+*://punipuku.com/*
 *://puntagordagasprices.com/*
 *://puppy-stepbystep.com/*
 *://puralog.com/*
@@ -22695,6 +22867,7 @@
 *://purulife.site/*
 *://putti-pet.com/*
 *://pvidx.com/*
+*://pvmew.com/*
 *://pxle.me/*
 *://pyby.eu/*
 *://pysubschool.net/*
@@ -22806,6 +22979,7 @@
 *://rassry.com/*
 *://rasu-t.jp/*
 *://ratio.thyshopp.life/*
+*://rausu-daiichi-hotel.jp/*
 *://raw-momonga.com/*
 *://raw.dmm-mania.com/*
 *://raw.wpx.jp/*
@@ -22906,7 +23080,6 @@
 *://resteid.com/*
 *://restore-beauty.work/*
 *://resumedia.jp/*
-*://retty.me/*
 *://retwyia.com/*
 *://reussitescolairesn.com/*
 *://revanced-apks.github.io/*
@@ -22987,6 +23160,7 @@
 *://rinboowyaboow.com/*
 *://rinchantrend.com/*
 *://rinda-tokyo.com/*
+*://rine-n.jp/*
 *://ringomagazine.com/*
 *://ringono-kimochi.com/*
 *://rinovation10.xsrv.jp/*
@@ -23042,6 +23216,7 @@
 *://rose-channel.net/*
 *://rosyblog.com/*
 *://rotae.bike/*
+*://rouet.jp/*
 *://rouge-letter.com/*
 *://roundyearfun.org/*
 *://routinepanic.com/*
@@ -23092,6 +23267,7 @@
 *://ryoryokura.com/*
 *://ryoto-seeking-dailylife.com/*
 *://ryouteikoujyou-shop.jp/*
+*://ryu3918.wpx.jp/*
 *://ryudos-product-hub.lovable.app/*
 *://ryuichi-blog.com/*
 *://ryusoku.com/*
@@ -23100,6 +23276,7 @@
 *://ryuuutamiblog.com/*
 *://ryzon-solutions.com/*
 *://s-direct.online/*
+*://s-street.jp/*
 *://s.id/*
 *://s.newscafe.ne.jp/*
 *://s0ft4pc.com/*
@@ -23126,12 +23303,15 @@
 *://safewebtalk.com/check-site/infinitytweet-me-reviews*
 *://safty-news-information.com/*
 *://saga-art.jp/*
+*://sagashiko.com/*
 *://sagasite.info/*
 *://sagx.jp/*
 *://saha.cl/*
 *://sahuyuki.hatenablog.com/*
 *://saiko-datta.com/*
 *://saimin.salonbonte.jp/*
+*://saimu-off.com/*
+*://saiohgama.s336.xrea.com/dmm/*
 *://saisin-news.com/*
 *://saito-fukuoka.com/*
 *://saitomo0908.com/*
@@ -23144,6 +23324,7 @@
 *://sakeno-maeda.jp/*
 *://sakerm8l.bizits.com/*
 *://sakesake.info/*
+*://saki-miru.com/*
 *://sakidori.co/*
 *://sakku.info/*
 *://sakshay.com/*
@@ -23267,6 +23448,7 @@
 *://seiai690152.ocnk.me/*
 *://seidentest.com/*
 *://seifuku-map.jp/*
+*://seifukuero.com/*
 *://seijichishin.com/*
 *://seijikanews.com/*
 *://seijikanojoho.com/*
@@ -23467,6 +23649,7 @@
 *://site.libecity.com/*
 *://sites.google.com/view/mullvadd-vpn/rapidvpn-vs-%E4%BB%96%E3%81%AEvpn%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%AF%E3%81%A9%E3%82%8C
 *://sittoko.com/*
+*://situation-eromaga.com/*
 *://sivbp.moonarama.za.com/*
 *://sixany.com/*
 *://sizaroyl.afibrake.com/*
@@ -23814,6 +23997,7 @@
 *://sugarlink-tukune.com/*
 *://sugggest.com/*
 *://sugimoto-movie.com/*
+*://sugiura-seikan.com/*
 *://sugoihentai.work/*
 *://sugoitokyo.com/*
 *://suigeneric00001728.imweb.me/*
@@ -23830,6 +24014,7 @@
 *://sukimayomi.com/*
 *://sukinara.com/*
 *://sukita-movie.com/*
+*://sukosukomanga.link/*
 *://sukyauto.com/*
 *://sumaho-okayama.com/*
 *://sumaho-susume.com/*
@@ -24017,6 +24202,7 @@
 *://tanosiiseikatu.com/*
 *://tantanmen.shop/*
 *://tantwn2122.com/*
+*://tanumaya.com/*
 *://tanwa-eromanga.jp/*
 *://taosfoundationrepair.com/*
 *://tapedv6a.proremedyphysio.com/*
@@ -24186,6 +24372,7 @@
 *://tianrbxbx.com/*
 *://tiara-inc.jp/*
 *://tibettibet.com/*
+*://ticket-dx.com/*
 *://tiebukurojinsei.com/*
 *://tienda-smattcom.com/*
 *://tiendinhnamviet.com/*
@@ -24251,10 +24438,12 @@
 *://tokyo-dance.jp/*
 *://tokyo-dd-clinic.com/*
 *://tokyo-flavor.com/*
+*://tokyo-innerharbor.com/*
 *://tokyo-marry.com/*
 *://tokyocraftmap.jp/*
 *://tokyodream.jp/*
 *://tokyojapanzip.blog.fc2.com/*
+*://tolove6-fma.tokyo/*
 *://tom-tom11.com/*
 *://tomaiv-an0428.com/*
 *://tomami.net/*
@@ -24416,6 +24605,7 @@
 *://tricicloeco.com/*
 *://tricompany.ru/*
 *://triedp0s.ev0lverinc.com/*
+*://trinity-box.com/*
 *://trip-italy.com/*
 *://trivia-and-know-how-notes.com/*
 *://trivialicious.online/*
@@ -24493,6 +24683,7 @@
 *://tyerukun.com/*
 *://tyubetyube.com/*
 *://tyunntyunn1988.hatenadiary.jp/*
+*://u-kaihatsu.jp/*
 *://u-mindmap.com/*
 *://u-nature.jp/*
 *://uaeninjawarriors.com/*
@@ -24511,6 +24702,7 @@
 *://uchino-kazoku321.com/*
 *://uchiyakeiblog.com/*
 *://ucla-seis.vercel.app/*
+*://ucwjg.com/*
 *://udemy.benesse.co.jp/*
 *://uelog.com/*
 *://ueno-tokyo.com/*
@@ -24530,8 +24722,10 @@
 *://umi-darwn.jp/*
 *://umiyuri-b.com/*
 *://umnikizdes.ru/*
+*://umnyd.com/*
 *://uncensored.jp/*
 *://unconditional777.com/*
+*://undead-movie.jp/*
 *://under-the-veil.jp/*
 *://unicen.americancouncils.org/*
 *://unicode.bstage.in/*
@@ -24595,6 +24789,7 @@
 *://utilly.ne.jp/*
 *://utilly.ne.jp/article/*
 *://utina-ketumekko.com/*
+*://utopia.tokyo/*
 *://utorrent-beta.jp.uptodown.com/*
 *://utorrent.jp.aptoide.com/*
 *://utorrent.jp.uptodown.com/*
@@ -24722,6 +24917,7 @@
 *://vodnavi.wpx.jp/*
 *://vog.agvol.com/*
 *://voguevisionsshop.com/*
+*://voice-security.jp/*
 *://voice.hnt.co.jp/*
 *://vooe.ru/*
 *://vook.vc/*
@@ -24734,6 +24930,7 @@
 *://vpn-magazine.com/*
 *://vpn-sensei.com/*
 *://vpn.hikakusite.co.jp/*
+*://vpn.jpn.com/*
 *://vpn.nsspirt-cashf2.com/*
 *://vpn.ooaks.co.jp/*
 *://vpn1.xsrv.jp/*
@@ -24834,6 +25031,7 @@
 *://wazzelife.com/*
 *://wcpdq.icu/*
 *://wcrr2019.org/*
+*://wdsounds.jp/*
 *://wearer.jp/*
 *://weatherthestormapparel.com/*
 *://web-cache.stream.ne.jp/*
@@ -24928,6 +25126,8 @@
 *://wowdm.taobao.com/*
 *://wp-load.in/*
 *://wp.cloudprox.com/*
+*://wp0001.wpx.jp/*
+*://wp198939.wpx.jp/*
 *://wp253742.wpx.jp/*
 *://wp391274.wpx.jp/*
 *://wp626441.wpx.jp/*
@@ -24940,6 +25140,7 @@
 *://wtmpresents.com/*
 *://wtrmkmky.hatenablog.com/*
 *://wts.jp/*
+*://wtwhd.com/*
 *://wuseshenguang.taobao.com/*
 *://wuuwst.top/*
 *://wuzuibon.com/*
@@ -25279,6 +25480,7 @@
 *://www.chenarco.com/*
 *://www.chibamarathon.jp/*
 *://www.chibasanf.online/*
+*://www.chichi-pui.com/fanza/products/d_*
 *://www.chiyo.site/*
 *://www.chocopie.site/*
 *://www.choge-blog.com/*
@@ -25399,6 +25601,7 @@
 *://www.dope-salon.com/*
 *://www.dosaaf79region.ru/*
 *://www.doujin-log.com/*
+*://www.doujin-today.shop/*
 *://www.doujinmanga.jp/*
 *://www.doujinonline.com/*
 *://www.dounyan.com/*
@@ -25451,6 +25654,7 @@
 *://www.enigmasoftware.jp/*
 *://www.enshadower.me/*
 *://www.entame-disco.com/*
+*://www.entameplus.jp/*
 *://www.entamesnap.com/*
 *://www.entertainment-topics.jp/*
 *://www.epicdigitalhub.com/*
@@ -25465,6 +25669,7 @@
 *://www.ermenekturkuaz.com/*
 *://www.eroerocomic.net/*
 *://www.erohimedoujin.com/*
+*://www.eromanga-erocomic-matome.net/*
 *://www.eromanga-muryou-eroman.net/*
 *://www.eromanga-muryou-hitomi-1999.net/*
 *://www.eromanga-muryou-hitomi-26.net/*
@@ -25647,6 +25852,8 @@
 *://www.haruyukiworld.com/*
 *://www.hashi-okiraku.top/*
 *://www.haydarpasamun.org/*
+*://www.hb-consulting.jp/*
+*://www.hdojinkan.com/*
 *://www.he-fumu.com/*
 *://www.healiness.com/*
 *://www.heardle.app/*
@@ -25701,6 +25908,7 @@
 *://www.hqbcghl.cn/*
 *://www.hs-partner.hamburg/*
 *://www.hsselite.com/*
+*://www.hube.jp/*
 *://www.hybrid-analysis.com/*
 *://www.i-dont-care-about-cookies.eu/*
 *://www.ibaozhen.xyz/*
@@ -25837,6 +26045,7 @@
 *://www.kenko-to-bijin.com/*
 *://www.kenmori.jp/*
 *://www.kenn-primary.devon.sch.uk/*
+*://www.kentoushi-furusatokan.jp/*
 *://www.ketochow.xyz/*
 *://www.kicks-blog.com/*
 *://www.kickstarter.love/*
@@ -26058,6 +26267,7 @@
 *://www.motivai.me/*
 *://www.mountwittenbergorca.com/mangabankgamirenai*
 *://www.moutamine.com/*
+*://www.move-inc.jp/*
 *://www.mqfdgqc.cn/*
 *://www.msdmanuals.cn/*
 *://www.mskanak.com/*
@@ -26080,6 +26290,7 @@
 *://www.namimonogatari.com/*
 *://www.nanbyo.online/*
 *://www.nanimokamogakokkei.com/*
+*://www.nankou-kenkyukai.com/*
 *://www.nanotec-systems.jp/*
 *://www.napha.org/*
 *://www.narumiya-catalog.com/*
@@ -26094,6 +26305,7 @@
 *://www.nekojirushi11.tokyo/*
 *://www.nelpur.shop/*
 *://www.nesabamedia.com/*
+*://www.netoraseclub.com/*
 *://www.networkmoaleji2024.online/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
@@ -26120,6 +26332,7 @@
 *://www.nrowbyu.cn/*
 *://www.nttpc.co.jp/column/network/vpn_service.html*
 *://www.nuddlifetokyo.com/*
+*://www.nukistream.com/*
 *://www.nuplas-uae.com/*
 *://www.nvidia.cn/*
 *://www.nyc-guitars.com/*
@@ -26136,10 +26349,12 @@
 *://www.okichizuru.com/*
 *://www.olioclemente.shop/*
 *://www.olympichp.com/*
+*://www.omigotopress.jp/*
 *://www.onamae-desktop.com/*
 *://www.onamae-server.com/*
 *://www.onedrop-cafe.com/*
 *://www.onetrickpony.jp/*
+*://www.oomae.jp/*
 *://www.optadvocats.com/*
 *://www.orbitxtechnologiesllc.com/*
 *://www.orchidlifestyle.com/*
@@ -26195,6 +26410,7 @@
 *://www.pixgenie.net/*
 *://www.planetpixmedia.com/*
 *://www.playstation.ru/*
+*://www.plinst.jp/*
 *://www.pluselectro.ru/*
 *://www.pmeasuring.com/*
 *://www.pnjuuvs.cn/*
@@ -26262,6 +26478,7 @@
 *://www.rangelexpress.online/*
 *://www.rapid-response.org/*
 *://www.raptorvision.us/*
+*://www.rare-rec.jp/*
 *://www.rarescandals.xyz/*
 *://www.rasies.com/*
 *://www.rastanhealth.com/*
@@ -26343,6 +26560,7 @@
 *://www.samacharvichar.in/*
 *://www.sammyexpresslive.com/item/*
 *://www.samurai-stage.jp/*
+*://www.san24.jp/*
 *://www.sanbio.online/*
 *://www.sandvik.coromant.cn/*
 *://www.sanko-metal.cn/*
@@ -26409,6 +26627,7 @@
 *://www.skidrowcodex.net/*
 *://www.skylin3s.jp/*
 *://www.skylonairporthotel.com/*
+*://www.sl-nagoya.com/*
 *://www.slingbox.jp/*
 *://www.slolita.com/*
 *://www.slope-media.jp/*
@@ -26459,6 +26678,7 @@
 *://www.starjohomagazine.com/*
 *://www.statewaterheatersme.com/*
 *://www.stc.rarait.com/*
+*://www.store-zao.com/*
 *://www.stradvert.com/*
 *://www.studio-yh.jp/*
 *://www.studioworks.co.in/*
@@ -26515,6 +26735,7 @@
 *://www.telurumall.jp/*
 *://www.temu.com/*
 *://www.tenryu-site.com/*
+*://www.tensecondcomic.com/*
 *://www.tenshoku-antenna.com/*
 *://www.teppan-tachibana.jp/*
 *://www.teraqol.com/*
@@ -26689,6 +26910,7 @@
 *://www.wifisoon.com/*
 *://www.wildwaadi.com/*
 *://www.win-rar.ru/*
+*://www.wing-five.com/*
 *://www.winrarcrack.pro/*
 *://www.wirtschaftlicher-verband.de/*
 *://www.wish.com/*
@@ -26749,6 +26971,7 @@
 *://www.yuruazabu.com/*
 *://www.yurunoblog.com/*
 *://www.yurusupo.com/*
+*://www.yuushikai.jp/*
 *://www.yxssp.com/*
 *://www.yzw6.top/*
 *://www.zak.jp/*
@@ -26842,7 +27065,9 @@
 *://xn--n5qw51hglao82h.com/*
 *://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*
 *://xn--n8j6d907hrs8bj2b2h181k.com/*
+*://xn--n8jp1dzg352nqxguyjbwdy31bkf1alt3c.com/*
 *://xn--n8jtc6ad0nv19pp9cstj8xjljc.net/*
+*://xn--n8jtcxe5c344rqxguyj4o1dj8yb.com/*
 *://xn--n8jyp3b884top8c.net/*
 *://xn--nbkt22gzudwn9b.jp/*
 *://xn--nckxaw3lrb7by753hi5c.net/*
@@ -26884,6 +27109,7 @@
 *://xn--u9jyg9a3a5nxbyc8771bj6d2p3cpe1b34iyp2bgcf.com/*
 *://xn--uckgyp4c3cw980gi5c.com/*
 *://xn--v8j5erc2dzq151nh8xbs53d.jp/*
+*://xn--w8j2jlh648lkma978ho4i.com/*
 *://xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 *://xn--xyv715c.com/*
 *://xn--y8jua2at4d.com/*
@@ -26920,6 +27146,7 @@
 *://yachilog.com/*
 *://yagiasako.com/*
 *://yaguchi39.com/*
+*://yahahai.sakura.ne.jp/*
 *://yaho.jpgoodbuy.com/*
 *://yaimamalife.com/*
 *://yajiblog12150619.com/*
@@ -26991,6 +27218,7 @@
 *://yoki-travel.com/*
 *://yokkoi.com/*
 *://yokomaru.blog/*
+*://yokonori.jp/*
 *://yokotablog.com/*
 *://yokubari-okan.com/*
 *://yolo-world.com/*
@@ -27129,7 +27357,9 @@
 *://yularihappysmile.com/*
 *://yumagasprices.com/*
 *://yume-ringo.com/*
+*://yume-spa.com/*
 *://yume1117.com/*
+*://yumecomi.com/*
 *://yumeijin-genzai.com/*
 *://yumeijinhensachi.com/*
 *://yumelab3.com/*
@@ -27166,6 +27396,7 @@
 *://yuyamatsushita.com/*
 *://yuyu7.blog/*
 *://yuyufirst.com/*
+*://yuza-brand.jp/*
 *://yuzen-ichiba.jp/*
 *://yuzu-emulator.com/*
 *://yuzuemulator.dev/*
@@ -27232,6 +27463,7 @@
 *://zenn-news.net/*
 *://zenn.dev/ktg/articles/e9a24adf14e8bc*
 *://zennnews.com/*
+*://zenpenkoukai.com/*
 *://zensyaren.net/*
 *://zenterret.com/*
 *://zephyreden.com/*
@@ -27277,6 +27509,7 @@
 *://zoroastrian.net/*
 *://zqye.aztgxvrd.biz/*
 *://zsa9q04de98.xn--d1aby4ah.xn--p1ai/*
+*://zubnile.com/*
 *://zuboraaa-64.com/*
 *://zuckyzczc.com/*
 *://zuhair-studios.com/*
@@ -27309,6 +27542,8 @@ title/Cat VPN -/
 title/Cherrygram - A/
 title/Download BitComet/
 title/Download BitSpirit/
+title/ExpressVPN - /
+title/ExpressVPN:/
 title/FastestVPN - /
 title/Free Adblocker Browser - Adblock /
 title/Free Adblocker Browser:Adblock/
