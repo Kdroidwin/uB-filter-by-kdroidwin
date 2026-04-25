@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://10-10-10.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15804,6 +15803,7 @@
 *://09bd5a69.xyz/*
 *://0mfoyu8wr.onlinetanke.de/*
 *://0y.huobiglobal.online/*
+*://10-10-10.jp/*
 *://10-11-23-24.sakura.ne.jp/*
 *://1000-1noch.ru/*
 *://1000.dmm-mania.com/*

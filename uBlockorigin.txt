@@ -90,6 +90,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||09bd5a69.xyz^$document
 ||0mfoyu8wr.onlinetanke.de^$document
 ||0y.huobiglobal.online^$document
+||10-10-10.jp^$document
 ||10-11-23-24.sakura.ne.jp^$document
 ||1000-1noch.ru^$document
 ||1000.dmm-mania.com^$document
