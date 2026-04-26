@@ -2,15 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://tenkoushoujo.com/*
-*://hitomi-hentairaw.lsrv.jp/*
-*://sub14.gyutora.jp/*
-*://*.gyutora.jp/*
-*://gyutora.jp/*
-*://r18books.yogamotto.com/*
-*://*.kiby.jp/*
-*://mitsuyajujutsukaisen.com/*
-*://kzcobra.co.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -6700,6 +6691,7 @@
 *://*.gt/?z=7*
 *://*.gt/?z=8*
 *://*.gt/?z=9*
+*://*.gyutora.jp/*
 *://*.health/?*
 *://*.hnt.co.jp/*
 *://*.honmadekka-channel.com/*
@@ -9100,6 +9092,7 @@
 *://*.kanazawa-round.jp/*
 *://*.kandatasokuho.com/*
 *://*.katsumoku.net/*
+*://*.kiby.jp/*
 *://*.kimuta1105.livedoor.blog/*
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
@@ -19171,6 +19164,7 @@
 *://gyouza-yamatani.jp/*
 *://gypsoo.com/*
 *://gyroflow.xyz/*
+*://gyutora.jp/*
 *://h-comi.com/*
 *://h-doujin-books.com/*
 *://h-guidepost.com/*
@@ -19462,6 +19456,7 @@
 *://hitomi-doujin.com/*
 *://hitomi-eromanga.net/*
 *://hitomi-hentai-mangaraw.wew.jp/*
+*://hitomi-hentairaw.lsrv.jp/*
 *://hitomi-laa.net/*
 *://hitomi-manga-hentai.com/*
 *://hitomi-nhentai.com/*
@@ -20489,6 +20484,7 @@
 *://kyozon.net/list/vpn-recommended/*
 *://kyun2-girls.com/*
 *://kyushuoen-yahoo.co/*
+*://kzcobra.co.jp/*
 *://kzen.dev/*
 *://l-kyojin01.jp/*
 *://l-ma.info/*
@@ -21252,6 +21248,7 @@
 *://mitsukazu.com/*
 *://mitsukidayori.com/*
 *://mitsuowriting.blog.jp/*
+*://mitsuyajujutsukaisen.com/*
 *://mitylog.jp/*
 *://miuki556happy.com/*
 *://miuprierre.com/*
@@ -22948,6 +22945,7 @@
 *://r-press.su/*
 *://r18-ai.com/*
 *://r18.hotel3.jp/*
+*://r18books.yogamotto.com/*
 *://r2.community.samsung.com/*
 *://r25.jp/*
 *://r27kt256.r.us-east-1.awstrack.me/*
@@ -23990,6 +23988,7 @@
 *://sub.sako-edutech.com/*
 *://sub.yyymeari.com/*
 *://sub1.gyutora.jp/*
+*://sub14.gyutora.jp/*
 *://sub2-30.aairwwq.online/*
 *://sub2.xn--cckzbc7izeb1c5341c2y2d.jp/*
 *://sub5.gyutora.jp/*
@@ -24289,6 +24288,7 @@
 *://tendo-ayumifarm.jp/*
 *://tenis.hotsport.rs/*
 *://tenkahyakken-zan.jp/*
+*://tenkoushoujo.com/*
 *://tennisblog.org/*
 *://tennisevery.com/*
 *://tensei-shinai.com/*

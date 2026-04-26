@@ -3499,6 +3499,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gyouza-yamatani.jp^$document
 ||gypsoo.com^$document
 ||gyroflow.xyz^$document
+||gyutora.jp^$document
 ||h-comi.com^$document
 ||h-doujin-books.com^$document
 ||h-guidepost.com^$document
@@ -3792,6 +3793,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hitomi-doujin.com^$document
 ||hitomi-eromanga.net^$document
 ||hitomi-hentai-mangaraw.wew.jp^$document
+||hitomi-hentairaw.lsrv.jp^$document
 ||hitomi-laa.net^$document
 ||hitomi-manga-hentai.com^$document
 ||hitomi-nhentai.com^$document
@@ -4832,6 +4834,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
 ||kyushuoen-yahoo.co^$document
+||kzcobra.co.jp^$document
 ||kzen.dev^$document
 ||l-kyojin01.jp^$document
 ||l-ma.info^$document
@@ -5607,6 +5610,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mitsukazu.com^$document
 ||mitsukidayori.com^$document
 ||mitsuowriting.blog.jp^$document
+||mitsuyajujutsukaisen.com^$document
 ||mitylog.jp^$document
 ||miuki556happy.com^$document
 ||miuprierre.com^$document
@@ -7344,6 +7348,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||r-press.su^$document
 ||r18-ai.com^$document
 ||r18.hotel3.jp^$document
+||r18books.yogamotto.com^$document
 ||r2.community.samsung.com^$document
 ||r25.jp^$document
 ||r27kt256.r.us-east-1.awstrack.me^$document
@@ -8449,6 +8454,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sub.sako-edutech.com^$document
 ||sub.yyymeari.com^$document
 ||sub1.gyutora.jp^$document
+||sub14.gyutora.jp^$document
 ||sub2-30.aairwwq.online^$document
 ||sub2.xn--cckzbc7izeb1c5341c2y2d.jp^$document
 ||sub5.gyutora.jp^$document
@@ -8761,6 +8767,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tendo-ayumifarm.jp^$document
 ||tenis.hotsport.rs^$document
 ||tenkahyakken-zan.jp^$document
+||tenkoushoujo.com^$document
 ||tennisblog.org^$document
 ||tennisevery.com^$document
 ||tenorshare.jp^$document
