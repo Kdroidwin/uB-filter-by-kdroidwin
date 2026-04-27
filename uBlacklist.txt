@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://wo.seven-area.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -25301,6 +25300,7 @@
 *://wkkgq.com/*
 *://wlife.xyz/*
 *://wlrqwnp.art/*
+*://wo.seven-area.com/*
 *://woads438.almgo.my/*
 *://wolfg.x0.com/*
 *://wolfsakusaku.net/*

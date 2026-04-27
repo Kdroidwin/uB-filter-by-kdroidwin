@@ -38,41 +38,6 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
-||ipcgames.com/ocean-of-games/*
-||massgrave.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
-||massgrav.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
-||massgraves.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
-||microsoftactivationscripts.*^$all
-||*kmspico*.*^$all,domain=~forums.mydigitallife.net
-||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
-||github.com/*/*KMS*pico*$all
-||raw.githubusercontent.com/*/*KMS*pico*$all
-||github.com/*/*KMS*auto*$all
-||raw.githubusercontent.com/*/*KMS*auto*$all
-||github.com/bluemods$all
-||raw.githubusercontent.com/bluemods$all
-||kmsauto.*^$all
-||kms-auto.*^$all
-||kmsmatrix.*^$all
-||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
-||steamunlocked.*^$all
-||igg-games.*^$all
-||igggames.*^$all
-||aimhaven.*^$all
-||oceanofgames.*^$all
-||crackingpatching.*^$all
-||*cracked-games.*^$all
-||*getintopc.com^$all
-||*softonic.*^$all
-||*kickasstorrents.*^$all
-thepiratebay.org##main::before:style(content: 'Do NOT download any software or a game from The Pirate Bay, all the content is user generated and could (very likely) include malware in it.' !important; font-size: 30px !important; color: red !important; font-weight: bold !important;)
-thepiratebay.org##p
-thepiratebay.org##label:has-text(/Applications/)
-thepiratebay.org##label:has-text(/Games/)
-thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
-thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
-thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
-thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
 /index\.php\?shop\/items\/[^\/]+/$document
 1link.jp##a[href*="b-short.link"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
@@ -102,6 +67,14 @@ romsns.com##.idb-btn
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
 switch-roms.org##.code-block-1.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
 switchrom.net##.code-block-4.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
+thepiratebay.org##label:has-text(/Applications/)
+thepiratebay.org##label:has-text(/Games/)
+thepiratebay.org##main::before:style(content: 'Do NOT download any software or a game from The Pirate Bay, all the content is user generated and could (very likely) include malware in it.' !important; font-size: 30px !important; color: red !important; font-weight: bold !important;)
+thepiratebay.org##p
+thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
+thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
+thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
+thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
 www.gadget2ch.com###main > div.article-text-rss-box
 www.gadget2ch.com###page > .posts-inner
 www.gadget2ch.com###page > div.article-text-rss-box
@@ -116,6 +89,12 @@ www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
 www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
+||*cracked-games.*^$all
+||*getintopc.com^$all
+||*kickasstorrents.*^$all
+||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
+||*kmspico*.*^$all,domain=~forums.mydigitallife.net
+||*softonic.*^$all
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -523,6 +502,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aikru.com^$document
 ||aikure.com^$document
 ||aikuwabaratrio.com^$document
+||aimhaven.*^$all
 ||aimii.jp^$document
 ||aimstoinnovatein.xjow7.com^$document
 ||aimyong-joho.com^$document
@@ -1957,6 +1937,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cpstyle.jp^$document
 ||cracked-games.org^$document
 ||crackingcity.com^$document
+||crackingpatching.*^$all
 ||crackingpatching.com^$document
 ||crackingpatching.org^$document
 ||cracklemovie.org^$document
@@ -2943,6 +2924,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fishinfortrimm.com^$document
 ||fit4u-training.com^$document
 ||fiteasy.jp^$document
+||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
 ||fitgirl-repack.com^$document
 ||fitgirl-repack.net^$document
 ||fitgirl-repack.org^$document
@@ -3394,9 +3376,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||git.miem.hse.ru^$document
 ||gitas.si^$document
 ||github-readme-stats.vercel.app^$document
+||github.com/*/*KMS*auto*$all
+||github.com/*/*KMS*pico*$all
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AnthemHorizon453^$document
 ||github.com/arsLan4k1390/Cherrygram/releases^$document
+||github.com/bluemods$all
 ||github.com/hushi01^$document
 ||github.com/mrsmiley2008^$document
 ||github.com/Nekogram/Nekogram/releases^$document
@@ -4084,8 +4069,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||igadhsx.cn^$document
 ||igbasanfoodsllc.com^$document
 ||igetintopc.com^$document
+||igg-games.*^$all
 ||igg-games.cc^$document
 ||igg-games.com^$document
+||igggames.*^$all
 ||igu3.com^$document
 ||ihst.csd.auth.gr^$document
 ||ihtiyacisoa.online^$document
@@ -4218,6 +4205,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||iorieightrsa.xyz^$document
 ||ioritenrsa.xyz^$document
 ||iowadotlandsales.com^$document
+||ipcgames.com/ocean-of-games/*
 ||iphglobal.com^$document
 ||iphone-displayreparatur.eu^$document
 ||iphone-mania.jp/news-490014^$document
@@ -4765,17 +4753,20 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||klogex.com^$document
 ||km-spico.ru^$document
 ||kms-activator.net^$document
+||kms-auto.*^$all
 ||kms-auto.net^$document
 ||kms-auto.site^$document
 ||kms-full.com^$document
 ||kms-pc.com^$document
 ||kms-pico-download.com^$document
 ||kms-tool.com^$document
+||kmsauto.*^$all
 ||kmsauto.biz^$document
 ||kmsauto.net.ru^$document
 ||kmsauto.org^$document
 ||kmsauto.su^$document
 ||kmsautoplus.su^$document
+||kmsmatrix.*^$all
 ||kmsmatrix.com^$document
 ||kmspico-activator-crack.com^$document
 ||kmspico-activator-free.com^$document
@@ -5487,9 +5478,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mashiqur.xyz^$document
 ||masquevinilo.com^$document
 ||massartcon.buzz^$document
+||massgrav.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgrav.shop^$document
 ||massgrav.zapto.org^$document
+||massgrave.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgrave.hopto.org^$document
+||massgraves.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgraves.online^$document
 ||masshunblog.com^$document
 ||massunchannel.com^$document
@@ -5661,6 +5655,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||microeducate.tech^$document
 ||microg.net^$document
 ||microphone-global.ru^$document
+||microsoftactivationscripts.*^$all
 ||microsoftactivationscripts.com^$document
 ||microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie^$document
 ||microsoftstore.ru^$document
@@ -6842,6 +6837,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||oceanmemo.com^$document
 ||oceanofapks.com^$document
 ||oceanofgame.cc^$document
+||oceanofgames.*^$all
 ||oceanofgames.com^$document
 ||oceanofgames.me^$document
 ||oceanofgamesu.com^$document
@@ -7583,6 +7579,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rausu-daiichi-hotel.jp^$document
 ||raw-momonga.com^$document
 ||raw.dmm-mania.com^$document
+||raw.githubusercontent.com/*/*KMS*auto*$all
+||raw.githubusercontent.com/*/*KMS*pico*$all
+||raw.githubusercontent.com/bluemods$all
 ||raw.wpx.jp^$document
 ||raw2.dmm-mania.com^$document
 ||rawapk.com^$document
@@ -8589,6 +8588,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||steamrip.buzz^$document
 ||steamrip.link^$document
 ||steamrip.me.uk^$document
+||steamunlocked.*^$all
 ||steamunlocked.net^$document
 ||steckdosenessen.com^$document
 ||stellamoderu.com^$document
@@ -9873,6 +9873,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wkkgq.com^$document
 ||wlife.xyz^$document
 ||wlrqwnp.art^$document
+||wo.seven-area.com^$document
 ||woads438.almgo.my^$document
 ||wolfg.x0.com^$document
 ||wolfsakusaku.net^$document
