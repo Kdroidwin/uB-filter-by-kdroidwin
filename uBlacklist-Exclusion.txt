@@ -1118,4 +1118,14 @@
 @*://mypolycc.edu.my/*
 @*://www.purina.com.my/*
 @*://*.edu.my/*
+@*://sekibiyousitu1984.click/*
+@*://bernhair.click/*
+@*://yururisora.click/*
+@*://kotake.click/*
+@*://kaito.click/*
+@*://onecall.click/*
+@*://mishimaekimae.click/*
+@*://kyokuto-k.click/*
+@*://koriyama-kankyobokin.click/*
+@*://istep.click/*
 @*://*.chenx221.cyou/*
