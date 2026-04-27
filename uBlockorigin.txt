@@ -1,5 +1,7 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin
+||wpadmngr.com^
+||iconcardinal.com^
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
