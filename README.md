@@ -174,3 +174,8 @@ https://github.com/DandelionSprout/adfilt
 
 License: Dandelicence v1.4  
 https://github.com/DandelionSprout/Dandelicence
+
+This project is based on FMHYFilterlist (https://github.com/fmhy/FMHYFilterlist
+).
+It has been significantly extended with additional filters and modifications.
+This project is licensed under the GNU GPL-3.0.
