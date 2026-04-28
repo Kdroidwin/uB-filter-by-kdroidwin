@@ -92,8 +92,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||*cracked-games.*^$all
 ||*getintopc.com^$all
 ||*kickasstorrents.*^$all
-||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
-||*kmspico*.*^$all,domain=~forums.mydigitallife.net
+||*kms-pico*.*^$all,to=~forums.mydigitallife.net
+||*kmspico*.*^$all,to=~forums.mydigitallife.net
 ||*softonic.*^$all
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
@@ -2924,7 +2924,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fishinfortrimm.com^$document
 ||fit4u-training.com^$document
 ||fiteasy.jp^$document
-||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
+||fitgirl*repack*.*^$all,to=~fitgirl-repacks.site
 ||fitgirl-repack.com^$document
 ||fitgirl-repack.net^$document
 ||fitgirl-repack.org^$document
@@ -5478,12 +5478,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mashiqur.xyz^$document
 ||masquevinilo.com^$document
 ||massartcon.buzz^$document
-||massgrav.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
+||massgrav.*^$all,to=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgrav.shop^$document
 ||massgrav.zapto.org^$document
-||massgrave.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
+||massgrave.*^$all,to=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgrave.hopto.org^$document
-||massgraves.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
+||massgraves.*^$all,to=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgraves.online^$document
 ||masshunblog.com^$document
 ||massunchannel.com^$document
