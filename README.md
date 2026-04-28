@@ -105,7 +105,6 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 - いかがでしたか系（デマ・芸能ゴシップ）
   - 根拠なしのセンセーショナル見出し
-  - 一次情報へのリンクがない
 
 - 悪質アフィリエイトサイト（報酬優先ランキング）
   - 商品比較が曖昧
