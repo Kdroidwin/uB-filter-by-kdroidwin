@@ -127,6 +127,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||13666.bitgetexchange.online^$document
 ||1377x.to^$document
 ||150-ichigozero.com^$document
+||150000yen.com^$document
 ||153.127.78.99^$document
 ||155.co.il^$document
 ||15819920326.slot47.online^$document
@@ -496,6 +497,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aifuku5.com^$document
 ||aigamo8.com^$document
 ||aigazo.com^$document
+||aigazou.blog.jp^$document
 ||aiiku3.com^$document
 ||aijobs.app^$document
 ||aikiu.online^$document
@@ -1706,6 +1708,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||chocochico.net^$document
 ||choice.ameba.jp^$document
 ||chomangasokuho.blog.jp^$document
+||chomin-shop.jp^$document
 ||chops.chips.jp^$document
 ||chops.xsrv.jp^$document
 ||chordal-modal.com^$document
@@ -2240,6 +2243,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dodongmynghesaigon.com^$document
 ||doga.hikakujoho.com^$document
 ||dogaentame.net^$document
+||dogeza3-in-game.net^$document
 ||dogorama.app^$document
 ||doiharu.xsrv.jp^$document
 ||dojicco.com^$document
@@ -2302,6 +2306,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujin-maturi.com^$document
 ||doujin-mitsukeru.com^$document
 ||doujin-ntr.com^$document
+||doujin-select.net^$document
 ||doujin-share.com^$document
 ||doujin-yakata.com^$document
 ||doujin.bkrb.net^$document
@@ -4196,6 +4201,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||intuit.me^$document
 ||inuneko-media.com^$document
 ||inutomo11.com^$document
+||invest.sakeworld.jp^$document
 ||investor-350z.com^$document
 ||investor-u.net^$document
 ||inzak.jp^$document
@@ -5825,6 +5831,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||modzmania.com^$document
 ||modzod.com^$document
 ||modzozo.com^$document
+||moecomic18.blog^$document
 ||moedigi.com^$document
 ||moeeeani.blog.jp^$document
 ||moeeroge.livedoor.blog^$document
@@ -6278,6 +6285,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nikkantyomeijin.com^$document
 ||nikke.onelink.me^$document
 ||nikkeimatome.com^$document
+||nikonikostudio.jp^$document
 ||nilebasin.org^$document
 ||ninnintrends.com^$document
 ||nipponnowadai.com^$document
@@ -6806,6 +6814,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nxbrew.fit^$document
 ||nxbrew.games^$document
 ||nxbrew.me^$document
+||nxbrew.uk^$document
 ||nxeegjt.cn^$document
 ||ny-excited.com^$document
 ||nyaa9.tromajan.xyz^$document
@@ -6957,6 +6966,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||onlinecampus.lk^$document
 ||onlineclass-gets.jp^$document
 ||onlinesalon-mania.com^$document
+||onlineshop.jcom.co.jp^$document
 ||onlyone-blog.com^$document
 ||onmyoji-stage.jp^$document
 ||onsetvzq.formachasia.com^$document
@@ -9023,6 +9033,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||thekingoflimbs.jp^$document
 ||thelioninwinter.jp^$document
 ||themagisk.com^$document
+||thematch2022-photobook.com^$document
 ||themepark.o-u-ma.com^$document
 ||thenewlifehospitals.com^$document
 ||thenhawk.xyz^$document
@@ -9049,6 +9060,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||therarbg.com^$document
 ||thercb.org^$document
 ||therockstarworld.com^$document
+||therorom.com^$document
 ||thesalvatorianschool.com^$document
 ||thesilentforest-jp.com^$document
 ||thesimsgetalife.com^$document
@@ -10448,6 +10460,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.ermenekturkuaz.com^$document
 ||www.eroerocomic.net^$document
 ||www.erohimedoujin.com^$document
+||www.eromanga-attack2000.net^$document
 ||www.eromanga-erocomic-matome.net^$document
 ||www.eromanga-muryou-eroman.net^$document
 ||www.eromanga-muryou-hitomi-1999.net^$document
@@ -11455,6 +11468,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.spotiguru.app^$document
 ||www.spotiwaves.com^$document
 ||www.springsummerautumn.com^$document
+||www.sprint50.jp^$document
 ||www.squareclip.jp^$document
 ||www.srcboat.fi^$document
 ||www.sreemahadevgroup9.com^$document

@@ -1,20 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://nxbrew.uk/*
-*://onlineshop.jcom.co.jp/*
-*://dogeza3-in-game.net/*
-*://www.eromanga-attack2000.net/*
-*://thematch2022-photobook.com/*
-*://chomin-shop.jp/*
-*://doujin-select.net/*
-*://aigazou.blog.jp/*
-*://nikonikostudio.jp/*
-*://therorom.com/*
-*://moecomic18.blog/*
-*://www.sprint50.jp/*
-*://150000yen.com/*
-*://invest.sakeworld.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15842,6 +15828,7 @@
 *://13666.bitgetexchange.online/*
 *://1377x.to/*
 *://150-ichigozero.com/*
+*://150000yen.com/*
 *://153.127.78.99/*
 *://155.co.il/*
 *://15819920326.slot47.online/*
@@ -16205,6 +16192,7 @@
 *://aieromanga-aierocomic.com/*
 *://aifuku5.com/*
 *://aigamo8.com/*
+*://aigazou.blog.jp/*
 *://aiiku3.com/*
 *://aikiu.online/*
 *://aikru.com/*
@@ -17383,6 +17371,7 @@
 *://chocochico.net/*
 *://choice.ameba.jp/*
 *://chomangasokuho.blog.jp/*
+*://chomin-shop.jp/*
 *://chops.chips.jp/*
 *://chops.xsrv.jp/*
 *://chordal-modal.com/*
@@ -17912,6 +17901,7 @@
 *://dodongmynghesaigon.com/*
 *://doga.hikakujoho.com/*
 *://dogaentame.net/*
+*://dogeza3-in-game.net/*
 *://dogorama.app/*
 *://doiharu.xsrv.jp/*
 *://dojicco.com/*
@@ -17974,6 +17964,7 @@
 *://doujin-maturi.com/*
 *://doujin-mitsukeru.com/*
 *://doujin-ntr.com/*
+*://doujin-select.net/*
 *://doujin-share.com/*
 *://doujin-yakata.com/*
 *://doujin.bkrb.net/*
@@ -19845,6 +19836,7 @@
 *://intuit.me/*
 *://inuneko-media.com/*
 *://inutomo11.com/*
+*://invest.sakeworld.jp/*
 *://investor-350z.com/*
 *://investor-u.net/*
 *://inzak.jp/*
@@ -21445,6 +21437,7 @@
 *://modzmania.com/*
 *://modzod.com/*
 *://modzozo.com/*
+*://moecomic18.blog/*
 *://moedigi.com/*
 *://moeeeani.blog.jp/*
 *://moeeroge.livedoor.blog/*
@@ -21884,6 +21877,7 @@
 *://nikkantyomeijin.com/*
 *://nikke.onelink.me/*
 *://nikkeimatome.com/*
+*://nikonikostudio.jp/*
 *://nilebasin.org/*
 *://ninnintrends.com/*
 *://nipponnowadai.com/*
@@ -22415,6 +22409,7 @@
 *://nxbrew.fit/*
 *://nxbrew.games/*
 *://nxbrew.me/*
+*://nxbrew.uk/*
 *://nxeegjt.cn/*
 *://ny-excited.com/*
 *://nyaa9.tromajan.xyz/*
@@ -22561,6 +22556,7 @@
 *://onlinecampus.lk/*
 *://onlineclass-gets.jp/*
 *://onlinesalon-mania.com/*
+*://onlineshop.jcom.co.jp/*
 *://onlyone-blog.com/*
 *://onmyoji-stage.jp/*
 *://onsetvzq.formachasia.com/*
@@ -24521,6 +24517,7 @@
 *://thekingoflimbs.jp/*
 *://thelioninwinter.jp/*
 *://themagisk.com/*
+*://thematch2022-photobook.com/*
 *://themepark.o-u-ma.com/*
 *://thenewlifehospitals.com/*
 *://thenhawk.xyz/*
@@ -24546,6 +24543,7 @@
 *://theprogs.ru/*
 *://therarbg.com/*
 *://therockstarworld.com/*
+*://therorom.com/*
 *://thesalvatorianschool.com/*
 *://thesilentforest-jp.com/*
 *://thesimsgetalife.com/*
@@ -25886,6 +25884,7 @@
 *://www.ermenekturkuaz.com/*
 *://www.eroerocomic.net/*
 *://www.erohimedoujin.com/*
+*://www.eromanga-attack2000.net/*
 *://www.eromanga-erocomic-matome.net/*
 *://www.eromanga-muryou-eroman.net/*
 *://www.eromanga-muryou-hitomi-1999.net/*
@@ -26893,6 +26892,7 @@
 *://www.spotiguru.app/*
 *://www.spotiwaves.com/*
 *://www.springsummerautumn.com/*
+*://www.sprint50.jp/*
 *://www.srcboat.fi/*
 *://www.sreemahadevgroup9.com/*
 *://www.st-futaba.jp/*
