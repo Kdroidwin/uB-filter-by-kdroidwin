@@ -1,4 +1,4 @@
-! Title: Block malicious websites by Kdroidwin
+! uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
