@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://aurora-store.jp.uptodown.com/*
+*://apkpure.com/*/aurora-store/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
