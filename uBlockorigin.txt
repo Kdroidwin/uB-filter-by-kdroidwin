@@ -1938,6 +1938,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cpr74.ru^$document
 ||cpslzfdv.qpon^$document
 ||cpstyle.jp^$document
+||cracierge.co.jp^$document
 ||cracked-games.org^$document
 ||crackingcity.com^$document
 ||crackingpatching.*^$all
@@ -3580,6 +3581,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gypsoo.com^$document
 ||gyroflow.xyz^$document
 ||gyutora.jp^$document
+||gzfgbmft.com^$document
 ||h-comi.com^$document
 ||h-doujin-books.com^$document
 ||h-guidepost.com^$document
@@ -9773,6 +9775,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||warakadochannel.com^$document
 ||waranote.livedoor.biz^$document
 ||wararis.com^$document
+||wararuuy.com^$document
 ||warningg.pse.is^$document
 ||warriormetalcrafts.com^$document
 ||wasabeafn.com^$document

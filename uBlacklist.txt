@@ -1,8 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://cracierge.co.jp/*
-*://gzfgbmft.com/*
-*://wararuuy.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -17601,6 +17598,7 @@
 *://cpr74.ru/*
 *://cpslzfdv.qpon/*
 *://cpstyle.jp/*
+*://cracierge.co.jp/*
 *://cracked-games.org/*
 *://crackingcity.com/*
 *://crackingpatching.com/*
@@ -19228,6 +19226,7 @@
 *://gypsoo.com/*
 *://gyroflow.xyz/*
 *://gyutora.jp/*
+*://gzfgbmft.com/*
 *://h-comi.com/*
 *://h-doujin-books.com/*
 *://h-guidepost.com/*
@@ -25218,6 +25217,7 @@
 *://waraiya.jp/*
 *://warakadochannel.com/*
 *://wararis.com/*
+*://wararuuy.com/*
 *://warningg.pse.is/*
 *://warriormetalcrafts.com/*
 *://wasabeafn.com/*
