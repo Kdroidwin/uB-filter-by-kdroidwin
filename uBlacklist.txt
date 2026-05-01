@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://aurora-store.jp.uptodown.com/*
-*://apkpure.com/*/aurora-store/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16529,6 +16527,7 @@
 *://apkmos.com/*
 *://apkoll.com/*
 *://apkpromaster.com/*
+*://apkpure.com/*/aurora-store/*
 *://apkpure.com/*/nekogram/*
 *://apkpure.com/cherrygram/*
 *://apkpure.com/graph-messenger/*
@@ -16719,6 +16718,7 @@
 *://auditexpert.net/*
 *://augma.fandom.com/*
 *://auqotakh.ltd/*
+*://aurora-store.jp.uptodown.com/*
 *://autocosmeticsny.com/*
 *://autodesk.me/*
 *://av-matome.jp/*

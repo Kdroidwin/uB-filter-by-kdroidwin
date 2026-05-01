@@ -853,6 +853,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||apkmos.com^$document
 ||apkoll.com^$document
 ||apkpromaster.com^$document
+||apkpure.com/*/aurora-store^$document
 ||apkpure.com/*/nekogram^$document
 ||apkpure.com/cherrygram^$document
 ||apkpure.com/graph-messenger^$document
@@ -1046,6 +1047,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||auditexpert.net^$document
 ||augma.fandom.com^$document
 ||auqotakh.ltd^$document
+||aurora-store.jp.uptodown.com^$document
 ||autocosmeticsny.com^$document
 ||autodesk.me^$document
 ||av-matome.jp^$document
