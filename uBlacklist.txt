@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/geoscience16/*
-*://mag2.comm/0001699298/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -20907,6 +20905,7 @@
 *://maeharablog.com/*
 *://mafumafu-fan.com/*
 *://mag.app-liv.jp/*
+*://mag2.comm/0001699298/*
 *://magazine-k.jp/*
 *://magazine-list.com/*
 *://magazine.techacademy.jp/*
@@ -22050,6 +22049,7 @@
 *://note.com/gamer_zundamon/*
 *://note.com/gekiatu777/*
 *://note.com/genial_okapi1028/*
+*://note.com/geoscience16/*
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
 *://note.com/gifted_dietes453/*
