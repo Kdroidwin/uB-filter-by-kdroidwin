@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://note.com/geoscience16/*
+*://mag2.comm/0001699298/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
