@@ -1425,6 +1425,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||border-verse.jp^$document
 ||borovena.com^$document
 ||bort85185.spb.ru^$document
+||bosailab.jp^$document
 ||boshi-hawaii.com^$document
 ||botebil.com^$document
 ||boticaorganica.com^$document
@@ -2545,6 +2546,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||emirinsblog.com^$document
 ||emivehu.veterinatt.sk^$document
 ||emoshare.web.app^$document
+||emplusn.seesaa.net^$document
 ||empty-morning-5199.yuuga-y-0912.workers.dev^$document
 ||emuaikeiai.com^$document
 ||en-cuculu.jp^$document
@@ -10799,6 +10801,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.jechavarria.com^$document
 ||www.jeha-maroc.com^$document
 ||www.jeld-wen.ch^$document
+||www.jesea.co.jp^$document
 ||www.jesleague.jp^$document
 ||www.jesus-diez.com^$document
 ||www.jhyyw.top^$document

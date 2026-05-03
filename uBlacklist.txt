@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://www.jesea.co.jp/*
-*://bosailab.jp/*
-*://emplusn.seesaa.net/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17097,6 +17094,7 @@
 *://border-verse.jp/*
 *://borovena.com/*
 *://bort85185.spb.ru/*
+*://bosailab.jp/*
 *://boshi-hawaii.com/*
 *://botebil.com/*
 *://boticaorganica.com/*
@@ -18205,6 +18203,7 @@
 *://emirinsblog.com/*
 *://emivehu.veterinatt.sk/*
 *://emoshare.web.app/*
+*://emplusn.seesaa.net/*
 *://empty-morning-5199.yuuga-y-0912.workers.dev/*
 *://emuaikeiai.com/*
 *://en-cuculu.jp/*
@@ -26221,6 +26220,7 @@
 *://www.jechavarria.com/*
 *://www.jeha-maroc.com/*
 *://www.jeld-wen.ch/*
+*://www.jesea.co.jp/*
 *://www.jesleague.jp/*
 *://www.jesus-diez.com/*
 *://www.jhyyw.top/*
