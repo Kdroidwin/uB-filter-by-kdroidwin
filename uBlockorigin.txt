@@ -198,6 +198,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||3.211.208.96^$document
 ||3.76.59.141^$document
 ||3.cn^$document
+||mag2.com/m/0001699298^$document
 ||3016941.slot19.online^$document
 ||30first-time-experience.com^$document
 ||3168274.slot47.online^$document
