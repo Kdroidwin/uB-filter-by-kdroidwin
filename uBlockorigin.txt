@@ -6440,6 +6440,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/fit_quince2164^$document
 ||note.com/fuku_chie^$document
 ||note.com/fukuzou^$document
+||note.com/fumiura^$document
 ||note.com/futamen^$document
 ||note.com/gad_hammocchi^$document
 ||note.com/gadget8^$document
@@ -6711,6 +6712,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02^$document
 ||note.com/unique_chimp63^$document
+||note.com/unique_vole4285^$document
 ||note.com/ura_okuribito^$document
 ||note.com/ushi_sd^$document
 ||note.com/vast_arnica5001^$document
@@ -6880,6 +6882,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||officialkmspico.net^$document
 ||officials-kmspico.com^$document
 ||officialsteelerslockerroom.com^$document
+||officiao.com^$document
 ||offliberty.net^$document
 ||oficial-kmspico.com^$document
 ||oftenmoreresilient.mch35.com^$document
@@ -11756,6 +11759,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.yacco.cc^$document
 ||www.yadomado.com^$document
 ||www.yamabukisaaya.cn^$document
+||www.yamada-denkiweb.com/media/24368^$document
 ||www.yamadamanblog.com^$document
 ||www.yamaushiblog.com^$document
 ||www.yasdl.com^$document
