@@ -649,6 +649,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ameblo.jp/ether213^$document
 ||ameblo.jp/fashionbrandsbibi^$document
 ||ameblo.jp/genki-mura^$document
+||ameblo.jp/healingmango^$document
 ||ameblo.jp/hikariai17^$document
 ||ameblo.jp/hothari^$document
 ||ameblo.jp/idleki6^$document
@@ -2064,6 +2065,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||date-dream.com^$document
 ||datsumo-navi1.com^$document
 ||datsumou-madoguchi.com^$document
+||davidicke.com^$document
 ||dax-ppc.info^$document
 ||daybuyday.info^$document
 ||daylightwindowshop.com^$document
@@ -3989,6 +3991,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hotelluxmidreamz.com^$document
 ||hotelparkcity.ru^$document
 ||hotnfill.com^$document
+||hotpersons.com^$document
 ||hotspot-shield-vpn.jp.uptodown.com^$document
 ||hotword-coolword.com^$document
 ||houkan-cuore.jp^$document
@@ -4310,6 +4313,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||j-inagaki.com^$document
 ||j-internship.jp^$document
 ||j-rocklove.com^$document
+||j-seiji.blog.jp^$document
 ||j7p.jp^$document
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
@@ -7688,6 +7692,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rennairon.com^$document
 ||reno-la.net^$document
 ||renovmobils.com^$document
+||rense.com^$document
 ||rent-journal.com^$document
 ||rent.autozqa.com^$document
 ||renthouseinlagos.com^$document
@@ -8317,6 +8322,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||siryou.jp^$document
 ||site.libecity.com^$document
 ||sitecreation.co.jp^$document
+||sites.google.com/view/yamatoq^$document
 ||sittoko.com^$document
 ||situation-eromaga.com^$document
 ||sivbp.moonarama.za.com^$document
@@ -10067,6 +10073,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.ajcybersecurity.com^$document
 ||www.ajog.org^$document
 ||www.aka.live^$document
+||www.akahigedo.com^$document
 ||www.akb48matomemory.com^$document
 ||www.akhbar-tibiya-iq.shop^$document
 ||www.akhbar-tibiyaa.shop^$document
@@ -11778,6 +11785,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.yamabukisaaya.cn^$document
 ||www.yamada-denkiweb.com/media/24368^$document
 ||www.yamadamanblog.com^$document
+||www.yamatoq.net^$document
 ||www.yamaushiblog.com^$document
 ||www.yasdl.com^$document
 ||www.yauslife.com/vpn^$document

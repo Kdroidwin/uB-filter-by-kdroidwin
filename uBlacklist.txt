@@ -1,12 +1,4 @@
 *://*.000webhostapp.com/*
-*://rense.com/*
-*://davidicke.com/*
-*://j-seiji.blog.jp/*
-*://www.yamatoq.net/*
-*://sites.google.com/view/yamatoq/*
-*://hotpersons.com/*
-*://ameblo.jp/healingmango/*
-*://www.akahigedo.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16341,6 +16333,7 @@
 *://ameblo.jp/ether213*
 *://ameblo.jp/fashionbrandsbibi/*
 *://ameblo.jp/genki-mura/*
+*://ameblo.jp/healingmango/*
 *://ameblo.jp/hikariai17/*
 *://ameblo.jp/hothari*
 *://ameblo.jp/idleki6/*
@@ -17728,6 +17721,7 @@
 *://date-dream.com/*
 *://datsumo-navi1.com/*
 *://datsumou-madoguchi.com/*
+*://davidicke.com/*
 *://dax-ppc.info/*
 *://daybuyday.info/*
 *://daylightwindowshop.com/*
@@ -19639,6 +19633,7 @@
 *://hotelluxmidreamz.com/*
 *://hotelparkcity.ru/*
 *://hotnfill.com/*
+*://hotpersons.com/*
 *://hotspot-shield-vpn.jp.uptodown.com/*
 *://hotword-coolword.com/*
 *://houkan-cuore.jp/*
@@ -19951,6 +19946,7 @@
 *://j-inagaki.com/*
 *://j-internship.jp/*
 *://j-rocklove.com/*
+*://j-seiji.blog.jp/*
 *://j7p.jp/*
 *://ja-beta-reactjs-org.vercel.app/*
 *://ja.all10soft.com/*
@@ -23253,6 +23249,7 @@
 *://rennairon.com/*
 *://reno-la.net/*
 *://renovmobils.com/*
+*://rense.com/*
 *://rent-journal.com/*
 *://rent.autozqa.com/*
 *://renthouseinlagos.com/*
@@ -23851,6 +23848,7 @@
 *://siryou.jp/*
 *://site.libecity.com/*
 *://sites.google.com/view/mullvadd-vpn/rapidvpn-vs-%E4%BB%96%E3%81%AEvpn%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%AF%E3%81%A9%E3%82%8C
+*://sites.google.com/view/yamatoq/*
 *://sittoko.com/*
 *://situation-eromaga.com/*
 *://sivbp.moonarama.za.com/*
@@ -25496,6 +25494,7 @@
 *://www.ajcybersecurity.com/*
 *://www.ajog.org/*
 *://www.aka.live/*
+*://www.akahigedo.com/*
 *://www.akb48matomemory.com/*
 *://www.akhbar-tibiya-iq.shop/*
 *://www.akhbar-tibiyaa.shop/*
@@ -27200,6 +27199,7 @@
 *://www.yamabukisaaya.cn/*
 *://www.yamada-denkiweb.com/media/24368/*
 *://www.yamadamanblog.com/*
+*://www.yamatoq.net/*
 *://www.yamaushiblog.com/*
 *://www.yamazenusa.com/*.phtml
 *://www.yasdl.com/*
