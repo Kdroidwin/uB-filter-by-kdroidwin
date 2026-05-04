@@ -1,4 +1,12 @@
 *://*.000webhostapp.com/*
+*://rense.com/*
+*://davidicke.com/*
+*://j-seiji.blog.jp/*
+*://www.yamatoq.net/*
+*://sites.google.com/view/yamatoq/*
+*://hotpersons.com/*
+*://ameblo.jp/healingmango/*
+*://www.akahigedo.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
