@@ -23863,7 +23863,6 @@
 *://skapalinkoping.se/*
 *://skardnieks.id.lv/*
 *://ske48-audition-11th.jp/*
-*://sketchfab.com/*
 *://skets.jp/*
 *://skill-hacks.co.jp/*
 *://skillhub.jp/*
