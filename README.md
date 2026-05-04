@@ -122,8 +122,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 - サポート詐欺／不正リダイレクト
 
-- 役に立たないランキングサイト
+- SEOスパム
   - 評価基準がアフィリエイトや報酬重視
+  - 役に立たないランキングサイトなど
 
 - フィッシングサイト（偽サイト）
 
