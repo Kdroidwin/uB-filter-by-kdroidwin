@@ -604,6 +604,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||alltags.jp^$document
 ||alltube.online^$document
 ||allwarrior.site^$document
+||allwin-suiso.co.jp^$document
 ||almadinaalmonwra.com^$document
 ||almoosahomehealthcare.org^$document
 ||alnaimistudios.com^$document
@@ -2291,6 +2292,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doraprojects.net^$document
 ||doraraku.com^$document
 ||dorischasen.com^$document
+||doromamaplus.moluta.com^$document
 ||dorukoma.online^$document
 ||dotapps.jp^$document
 ||dou-archive.com^$document
@@ -5684,6 +5686,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||microsoftactivationscripts.com^$document
 ||microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie^$document
 ||microsoftstore.ru^$document
+||midacy.jp^$document
 ||midorikiryu-navi.com^$document
 ||midt.me^$document
 ||miduno.bandcamp.com^$document
@@ -6014,6 +6017,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||my.ai-li.xyz^$document
 ||my.avira.com^$document
 ||my.hintup.io^$document
+||my90p.com^$document
 ||my^$document,to=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my|~frdl.my|~nunflix.my|~ypmaidam.my|~mcplus.my|~compasia.my|~sooka.my|~www.amway.my|~www.mudah.my|~radioonline.my|~bjak.my|~cathaypacific.com.my|~starplanet.com.my|~radio-online.my|~unifi.com.my|~rfi.my|~sysar.my|~www.lovisa.my|~www.ismiledental.my|~spx.com.my|~era.syok.my|~ecentral.my|~curtin.edu.my|~zakatpahang.my|~uec.dongzong.my|~mytownkl.com.my|~nyxcosmetics.com.my|~khatam.com.my|~www.unipin.my|~habra.com.my|~shinzushi.my|~www.thestar.com.my|~www.hmetro.com.my|~www.maybank2u.com.my|~www.sinarharian.com.my|~www.sinchew.com.my|~www.myeg.com.my|~www.cimbclicks.com.my|~iprice.my|~ch.ucsiuniversity.edu.my|~lib.ucsiuniversity.edu.my|~www.ssm4u.com.my|~astrogo.astro.com.my|~ipgkik.moe.edu.my|~library.apu.edu.my|~www.shinjiru.com.my|~ipgkba.moe.edu.my|~www.ecentral.my|~www.napei.org.my|~apcore.apu.edu.my|~ipgki.moe.edu.my|~forms.sites.apiit.edu.my|~enterprise.sites.apiit.edu.my|~shopee.com.my|~siakapkeli.my|~ticket2u.com.my|~apspace.sites.apiit.edu.my|~studentaffairs.apu.edu.my|~thesun.my|~my.utm.my|~sites.apiit.edu.my|~ezbiz.ssm.com.my|~masjidnetwork.my|~www.carlist.my|~mypolycc.edu.my|~www.purina.com.my|~edu.my
 ||mybestblog1.com^$document
 ||mybloganik26.com^$document
@@ -7813,6 +7817,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rinx-mens.com^$document
 ||rio2016-live.com^$document
 ||riptutorial.com^$document
+||riraku-life.com^$document
 ||risazoo.com^$document
 ||rise-story.jp^$document
 ||risposta.org^$document
@@ -9817,6 +9822,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||watchmoviesz.net^$document
 ||watchonlymovies.com^$document
 ||waterdropcycle.com^$document
+||waterone.jp^$document
+||waterstand.jp^$document
 ||wawlife7.com^$document
 ||wayofthescreenwriter.com^$document
 ||wazzelife.com^$document
@@ -10392,6 +10399,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.delorean.co.jp^$document
 ||www.demetravillas.com^$document
 ||www.dendentown.online^$document
+||www.denjiha-honpo.com^$document
 ||www.dennys.id^$document
 ||www.denshi-comic.com^$document
 ||www.dentalassistanttraininginlasvegasnv.com^$document
@@ -10466,6 +10474,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.elora.com^$document
 ||www.elsabtiya.com^$document
 ||www.emetry.io^$document
+||www.emf110.com^$document
 ||www.enavmshop.com^$document
 ||www.endocrincentr.ru^$document
 ||www.endpointcorporation.com^$document

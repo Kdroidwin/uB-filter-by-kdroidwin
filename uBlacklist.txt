@@ -1,13 +1,3 @@
-*://doromamaplus.moluta.com/*
-*://midacy.jp/*
-*://my90p.com/*
-*://allwin-suiso.co.jp/*
-*://waterstand.jp/*
-*://www.misumigeka.info/hydrogen-water*
-*://waterone.jp/*
-*://www.denjiha-honpo.com/*
-*://www.emf110.com/*
-*://riraku-life.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16297,6 +16287,7 @@
 *://alltags.jp/*
 *://alltube.online/*
 *://allwarrior.site/*
+*://allwin-suiso.co.jp/*
 *://almadinaalmonwra.com/*
 *://almoosahomehealthcare.org/*
 *://alnaimistudios.com/*
@@ -17958,6 +17949,7 @@
 *://doraprojects.net/*
 *://doraraku.com/*
 *://dorischasen.com/*
+*://doromamaplus.moluta.com/*
 *://dorukoma.online/*
 *://dotapps.jp/*
 *://dou-archive.com/*
@@ -21303,6 +21295,7 @@
 *://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog?*
 *://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
+*://midacy.jp/*
 *://midorikiryu-navi.com/*
 *://midt.me/*
 *://miduno.bandcamp.com/*
@@ -21628,6 +21621,7 @@
 *://my.ai-li.xyz/*
 *://my.avira.com/*
 *://my.hintup.io/*
+*://my90p.com/*
 *://mybestblog1.com/*
 *://mybloganik26.com/*
 *://mybouzu.info/*
@@ -23375,6 +23369,7 @@
 *://rins-rin-mei.blog.ss-blog.jp/*
 *://rinx-mens.com/*
 *://rio2016-live.com/*
+*://riraku-life.com/*
 *://risazoo.com/*
 *://rise-story.jp/*
 *://risshikaikan.jp/*
@@ -25267,6 +25262,8 @@
 *://watchmoviesz.net/*
 *://watchonlymovies.com/*
 *://waterdropcycle.com/*
+*://waterone.jp/*
+*://waterstand.jp/*
 *://wawlife7.com/*
 *://wayofthescreenwriter.com/*
 *://wazzelife.com/*
@@ -25825,6 +25822,7 @@
 *://www.delorean.co.jp/*
 *://www.demetravillas.com/*
 *://www.dendentown.online/*
+*://www.denjiha-honpo.com/*
 *://www.dennys.id/*
 *://www.denshi-comic.com/*
 *://www.dentalassistanttraininginlasvegasnv.com/*
@@ -25899,6 +25897,7 @@
 *://www.elora.com/*
 *://www.elsabtiya.com/*
 *://www.emetry.io/*
+*://www.emf110.com/*
 *://www.enavmshop.com/*
 *://www.endocrincentr.ru/*
 *://www.endpointcorporation.com/*
@@ -26499,6 +26498,7 @@
 *://www.miraakindia.com/*
 *://www.miracle2.jp/*
 *://www.misaventuresi.com/*
+*://www.misumigeka.info/hydrogen-water*
 *://www.mitsuihightec.com/*
 *://www.mitsukerune.com/*
 *://www.mixim.site/*
