@@ -125,6 +125,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 - SEOスパム
   - 評価基準がアフィリエイトや報酬重視
   - 役に立たないランキングサイトなど
+  - 「〇〇 おすすめ」「〇〇 比較」
 
 - フィッシングサイト（偽サイト）
 
