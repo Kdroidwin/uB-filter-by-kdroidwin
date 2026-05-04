@@ -5291,7 +5291,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||maeharablog.com^$document
 ||mafumafu-fan.com^$document
 ||mag.app-liv.jp^$document
-||mag2.comm/0001699298^$document
+||mag2.com/m/0001699298^$document
 ||magazine-k.jp^$document
 ||magazine-list.com^$document
 ||magazine.techacademy.jp^$document
