@@ -8338,7 +8338,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||skapalinkoping.se^$document
 ||skardnieks.id.lv^$document
 ||ske48-audition-11th.jp^$document
-||sketchfab.com^$document
 ||skets.jp^$document
 ||skill-hacks.co.jp^$document
 ||skillhub.jp^$document
