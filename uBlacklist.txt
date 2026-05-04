@@ -1,15 +1,3 @@
-*://webfree-official.com/*
-*://kmiki.web.fc2.com/*
-*://ameblo.jp/jishinyochi/*
-*://m.earthquakenet.jp/*
-*://earthquakenet.jp/*
-*://regimag.jp/*
-*://e-pisco.geo.jp/*
-*://qr.paps.jp/*
-*://ameblo.jp/king-tarot/*
-*://earthquake.esy.es/*
-*://www.jisinyosoku.com/*
-*://www.yosoku.website/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16349,10 +16337,12 @@
 *://ameblo.jp/hothari*
 *://ameblo.jp/idleki6/*
 *://ameblo.jp/jeda11/*
+*://ameblo.jp/jishinyochi/*
 *://ameblo.jp/jyoagold/*
 *://ameblo.jp/kashima1564*
 *://ameblo.jp/keepstreams/*
 *://ameblo.jp/kimetu-manga*
+*://ameblo.jp/king-tarot/*
 *://ameblo.jp/kkawapy/entry-12938691207.html*
 *://ameblo.jp/komochi333/*
 *://ameblo.jp/kusowii*
@@ -18100,6 +18090,7 @@
 *://e-gst.jp/*
 *://e-news67.com/*
 *://e-pin.jp/*
+*://e-pisco.geo.jp/*
 *://e-reikinet.jp/*
 *://e025-subsc-bm.xyz/*
 *://e1ns.jp/*
@@ -18107,6 +18098,8 @@
 *://earbuds.aspsv.com/*
 *://earnie-frogs.jp/*
 *://earth-c.jp/*
+*://earthquake.esy.es/*
+*://earthquakenet.jp/*
 *://eat.badate.work/*
 *://ebisu-selection.com/*
 *://ebook-house.com/*
@@ -20404,6 +20397,7 @@
 *://kkwing.jp/*
 *://klogex.com/*
 *://km-spico.ru/*
+*://kmiki.web.fc2.com/*
 *://kms-activator.net/*
 *://kms-auto.net/*
 *://kms-auto.site/*
@@ -20888,6 +20882,7 @@
 *://m.cocobrandshop.jp/*
 *://m.cosprpr.com/*
 *://m.costsukuri.com/*
+*://m.earthquakenet.jp/*
 *://m.epochtimes.jp/*
 *://m.hu60.cn/*
 *://m.ladymax.cn/*
@@ -23099,6 +23094,7 @@
 *://qqlink.ru/*
 *://qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net/*
 *://qr.io/*
+*://qr.paps.jp/*
 *://qrfy.com/*
 *://qte.me/*
 *://qualist.jp/*
@@ -23224,6 +23220,7 @@
 *://refrr.app/*
 *://regalaccoutre.online/*
 *://regame0628.com/*
+*://regimag.jp/*
 *://registrations.habanos.com/*
 *://reglisse.jp/*
 *://regmah95.redeagle-security.com/*
@@ -25272,6 +25269,7 @@
 *://webdevask.com/*
 *://webdevdesigner.com/*
 *://webdienstleistung.com/*
+*://webfree-official.com/*
 *://webku.jp/*
 *://websites.milonic.com/*
 *://websmart.zappallas.com/*
@@ -26238,6 +26236,7 @@
 *://www.jhyyw.top/*
 *://www.jiaqingli.cn/*
 *://www.jinguhanabi.info/*
+*://www.jisinyosoku.com/*
 *://www.jiyugaoka-tokyo.com/*
 *://www.jiyuunablog.com/*
 *://www.jma2-jp.org/*
@@ -27203,6 +27202,7 @@
 *://www.yoko123.com/*
 *://www.yoshi-mizumaki.jp/*
 *://www.yoshimasa-hosoya.com/*
+*://www.yosoku.website/*
 *://www.youki8322.com/*
 *://www.youtube.com/shorts/_nx0bbUAwY4*
 *://www.youtube.com/user/hatimaki73*

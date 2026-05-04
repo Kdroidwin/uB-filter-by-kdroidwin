@@ -4,7 +4,6 @@
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
-/^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
@@ -30,6 +29,7 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
+/^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
@@ -199,7 +199,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||3.211.208.96^$document
 ||3.76.59.141^$document
 ||3.cn^$document
-||mag2.com/m/0001699298^$document
 ||3016941.slot19.online^$document
 ||30first-time-experience.com^$document
 ||3168274.slot47.online^$document
@@ -654,10 +653,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ameblo.jp/hothari^$document
 ||ameblo.jp/idleki6^$document
 ||ameblo.jp/jeda11^$document
+||ameblo.jp/jishinyochi^$document
 ||ameblo.jp/jyoagold^$document
 ||ameblo.jp/kashima1564^$document
 ||ameblo.jp/keepstreams^$document
 ||ameblo.jp/kimetu-manga^$document
+||ameblo.jp/king-tarot^$document
 ||ameblo.jp/komochi333^$document
 ||ameblo.jp/kusowii^$document
 ||ameblo.jp/mangarawzip^$document
@@ -2430,6 +2431,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||e-gst.jp^$document
 ||e-news67.com^$document
 ||e-pin.jp^$document
+||e-pisco.geo.jp^$document
 ||e-reikinet.jp^$document
 ||e-Tax.com^$document
 ||e-Tax.net^$document
@@ -2439,6 +2441,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||earbuds.aspsv.com^$document
 ||earnie-frogs.jp^$document
 ||earth-c.jp^$document
+||earthquake.esy.es^$document
+||earthquakenet.jp^$document
 ||eat.badate.work^$document
 ||ebisu-selection.com^$document
 ||ebook-house.com^$document
@@ -4766,6 +4770,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kkwing.jp^$document
 ||klogex.com^$document
 ||km-spico.ru^$document
+||kmiki.web.fc2.com^$document
 ||kms-activator.net^$document
 ||kms-auto.*^$all
 ||kms-auto.net^$document
@@ -5259,6 +5264,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||m.cocobrandshop.jp^$document
 ||m.cosprpr.com^$document
 ||m.costsukuri.com^$document
+||m.earthquakenet.jp^$document
 ||m.epochtimes.jp^$document
 ||m.hu60.cn^$document
 ||m.ladymax.cn^$document
@@ -5292,6 +5298,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mafumafu-fan.com^$document
 ||mag.app-liv.jp^$document
 ||mag2.com/m/0001699298^$document
+||mag2.com/m/0001699298^$document
+||mag2.comm/0001699298^$document
 ||magazine-k.jp^$document
 ||magazine-list.com^$document
 ||magazine.techacademy.jp^$document
@@ -7521,6 +7529,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||qqlink.ru^$document
 ||qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net^$document
 ||qr.io^$document
+||qr.paps.jp^$document
 ||qrfy.com^$document
 ||qte.me^$document
 ||quabr.com^$document
@@ -7654,6 +7663,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||refrr.app^$document
 ||regalaccoutre.online^$document
 ||regame0628.com^$document
+||regimag.jp^$document
 ||registrations.habanos.com^$document
 ||reglisse.jp^$document
 ||regmah95.redeagle-security.com^$document
@@ -9827,6 +9837,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||webdevdesigner.com^$document
 ||webdevqa.jp.net^$document
 ||webdienstleistung.com^$document
+||webfree-official.com^$document
 ||webku.jp^$document
 ||webpuroguramingu-zhi-wen-ying-dashisutemu.com^$document
 ||websites.milonic.com^$document
@@ -10809,6 +10820,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.jhyyw.top^$document
 ||www.jiaqingli.cn^$document
 ||www.jinguhanabi.info^$document
+||www.jisinyosoku.com^$document
 ||www.jiyugaoka-tokyo.com^$document
 ||www.jiyuunablog.com^$document
 ||www.jma2-jp.org^$document
@@ -11777,6 +11789,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.yoko123.com^$document
 ||www.yoshi-mizumaki.jp^$document
 ||www.yoshimasa-hosoya.com^$document
+||www.yosoku.website^$document
 ||www.youki8322.com^$document
 ||www.youtube.com/user/hatimaki73^$document
 ||www.youtube.com/watch?v=PMw5r4-4lhc^$document
