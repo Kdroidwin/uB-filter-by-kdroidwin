@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://moluta.com/*
-*://zenn.dev/watab2000/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21473,6 +21471,7 @@
 *://mollymam.com/*
 *://molto15z.sarangkkb.com/*
 *://molulabo.com/*
+*://moluta.com/*
 *://momed.work/*
 *://mommy-kitchen.com/*
 *://momo-admin.net/*
@@ -27738,6 +27737,7 @@
 *://zenmate.jp.uptodown.com/*
 *://zenn-news.net/*
 *://zenn.dev/ktg/articles/e9a24adf14e8bc*
+*://zenn.dev/watab2000/*
 *://zennnews.com/*
 *://zenpenkoukai.com/*
 *://zensyaren.net/*

@@ -5866,6 +5866,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mollymam.com^$document
 ||molto15z.sarangkkb.com^$document
 ||molulabo.com^$document
+||moluta.com^$document
 ||momed.work^$document
 ||mommy-kitchen.com^$document
 ||momo-admin.net^$document
@@ -12326,6 +12327,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||zenmate.com^$document
 ||zenmate.jp.uptodown.com^$document
 ||zenn-news.net^$document
+||zenn.dev/watab2000^$document
 ||zennnews.com^$document
 ||zenpenkoukai.com^$document
 ||zensyaren.net^$document
