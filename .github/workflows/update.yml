@@ -1,193 +1,127 @@
 name: Update uBlockorigin.txt & Brave_safari.txt & uBlacklist.txt
 
 on:
-push:
-paths:
-- "uBlacklist.txt"
+  push:
+    paths:
+      - "uBlacklist.txt"
 
 jobs:
-update-files:
-runs-on: ubuntu-latest
+  update-files:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
-    with:
-      persist-credentials: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.x"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-  - name: Run update script
-    run: |
-      python - <<'EOF'
-      import os
+      - name: Run update script
+        run: |
+          python - <<'EOF'
+          import os
 
-      ublack_path = "uBlacklist.txt"
-      base_path = "uBlockorigin.txt"
+          ublack_path = "uBlacklist.txt"
+          ublockorigin_path = "uBlockorigin.txt"
+          brave_path = "Brave_safari.txt"
 
-      # 出力対象（ここが今回のポイント）
-      output_files = ["uBlockorigin.txt", "Brave_safari.txt"]
+          # 出力対象
+          output_files = [ublockorigin_path, brave_path]
 
-      # uBlacklist.txt 読み込み
-      with open(ublack_path, "r", encoding="utf-8") as f:
-          ublack_lines = [line.strip() for line in f if line.strip()]
+          # uBlacklist.txt 読み込み
+          with open(ublack_path, "r", encoding="utf-8") as f:
+              ublack_lines = [line.strip() for line in f if line.strip()]
 
-      # 重複削除・ソート
-      ublack_unique = sorted(set(ublack_lines))
+          # 重複削除・ソート
+          ublack_unique = sorted(set(ublack_lines))
 
-      # ベース（uBlockorigin.txt）読み込み
-      ublock_lines = []
-      if os.path.exists(base_path):
-          with open(base_path, "r", encoding="utf-8") as f:
-              ublock_lines = [line.rstrip("\n") for line in f]
+          # ベースファイル読み込み
+          ublock_lines = []
+          if os.path.exists(ublockorigin_path):
+              with open(ublockorigin_path, "r", encoding="utf-8") as f:
+                  ublock_lines = [line.rstrip("\n") for line in f]
 
-      new_lines = []
-      for line in ublack_unique:
-          if line.startswith("*://*.") and line.endswith("/*"):
-              continue
-          elif line.startswith("*://") and line.endswith("/*"):
-              domain = line[4:-2]
-
-              # 除外ドメイン
-              if domain == "no-sheep.org":
+          new_lines = []
+          for line in ublack_unique:
+              if line.startswith("*://*.") and line.endswith("/*"):
+                  # *://*. 形式は無視
                   continue
+              elif line.startswith("*://") and line.endswith("/*"):
+                  domain = line[4:-2]
 
-              ublock_line = f"||{domain}^$document"
-              if ublock_line not in ublock_lines:
-                  new_lines.append(ublock_line)
+                  # 除外ドメイン
+                  if domain == "no-sheep.org":
+                      continue
 
-      # 追加
-      ublock_lines.extend(new_lines)
+                  ublock_line = f"||{domain}^$document"
+                  if ublock_line not in ublock_lines:
+                      new_lines.append(ublock_line)
 
-      # 分類
-      title_comments = []
-      homepage_comments = []
-      other_comments = []
-      exclude_comment = []
-      rules = []
-      exceptions = []
+          # 追加
+          ublock_lines.extend(new_lines)
 
-      for line in ublock_lines:
-          if line.startswith("! Title:"):
-              title_comments.append(line)
-          elif line.startswith("! Homepage:"):
-              homepage_comments.append(line)
-          elif line.startswith("! 除外"):
-              exclude_comment.append(line)
-          elif line.startswith("!"):
-              other_comments.append(line)
-          elif line.startswith("@@"):
-              exceptions.append(line)
-          else:
-              rules.append(line)
+          # 分類
+          title_comments = []
+          homepage_comments = []
+          other_comments = []
+          exclude_comment = []
+          rules = []
+          exceptions = []
 
-      # ソート
-      rules.sort(key=lambda x: x.lower())
-      exceptions.sort(key=lambda x: x.lower())
+          for line in ublock_lines:
+              if line.startswith("! Title:"):
+                  title_comments.append(line)
+              elif line.startswith("! Homepage:"):
+                  homepage_comments.append(line)
+              elif line.startswith("! 除外"):
+                  exclude_comment.append(line)
+              elif line.startswith("!"):
+                  other_comments.append(line)
+              elif line.startswith("@@"):
+                  exceptions.append(line)
+              else:
+                  rules.append(line)
 
-      # 最終構成
-      final_lines = []
-      final_lines.extend(title_comments)
-      final_lines.extend(homepage_comments)
-      final_lines.extend(other_comments)
-      final_lines.extend(rules)
-      if exclude_comment:
-          final_lines.extend(exclude_comment)
-      final_lines.extend(exceptions)
+          # ソート
+          rules.sort(key=lambda x: x.lower())
+          exceptions.sort(key=lambda x: x.lower())
 
-      # ★ ここで2ファイル同時出力
-      for path in output_files:
-          with open(path, "w", encoding="utf-8") as f:
-              f.write("\n".join(final_lines) + "\n")
+          # 最終構成
+          final_lines = []
+          final_lines.extend(title_comments)
+          final_lines.extend(homepage_comments)
+          final_lines.extend(other_comments)
+          final_lines.extend(rules)
+          if exclude_comment:
+              final_lines.extend(exclude_comment)
+          final_lines.extend(exceptions)
 
-      # uBlacklist.txt 上書き
-      with open(ublack_path, "w", encoding="utf-8") as f:
-          f.write("\n".join(ublack_unique) + "\n")
+          # uBlockorigin.txt / Brave_safari.txt を同時出力
+          for path in output_files:
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write("\n".join(final_lines) + "\n")
 
-      print("uBlacklist / uBlockorigin / Brave_safari を更新しました")
-      EOF
+          # uBlacklist.txt 上書き
+          with open(ublack_path, "w", encoding="utf-8") as f:
+              f.write("\n".join(ublack_unique) + "\n")
 
-  - name: Commit and push changes
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt
-      git diff --cached --quiet || git commit -m "Auto-update filter lists"
-      git push --force
+          print("uBlacklist / uBlockorigin / Brave_safari を更新しました")
+          EOF
 
-      new_lines = []
-      for line in ublack_unique:
-          if line.startswith("*://*.") and line.endswith("/*"):
-              continue
-          elif line.startswith("*://") and line.endswith("/*"):
-              domain = line[4:-2]
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt
 
-              # 除外ドメイン
-              if domain == "no-sheep.org":
-                  continue
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
-              ublock_line = f"||{domain}^$document"
-              if ublock_line not in ublock_lines:
-                  new_lines.append(ublock_line)
-
-      # 追加
-      ublock_lines.extend(new_lines)
-
-      # 分類
-      title_comments = []
-      homepage_comments = []
-      other_comments = []
-      exclude_comment = []
-      rules = []
-      exceptions = []
-
-      for line in ublock_lines:
-          if line.startswith("! Title:"):
-              title_comments.append(line)
-          elif line.startswith("! Homepage:"):
-              homepage_comments.append(line)
-          elif line.startswith("! 除外"):
-              exclude_comment.append(line)
-          elif line.startswith("!"):
-              other_comments.append(line)
-          elif line.startswith("@@"):
-              exceptions.append(line)
-          else:
-              rules.append(line)
-
-      # ソート
-      rules.sort(key=lambda x: x.lower())
-      exceptions.sort(key=lambda x: x.lower())
-
-      # 最終構成
-      final_lines = []
-      final_lines.extend(title_comments)
-      final_lines.extend(homepage_comments)
-      final_lines.extend(other_comments)
-      final_lines.extend(rules)
-      if exclude_comment:
-          final_lines.extend(exclude_comment)
-      final_lines.extend(exceptions)
-
-      # ★ ここで2ファイル同時出力
-      for path in output_files:
-          with open(path, "w", encoding="utf-8") as f:
-              f.write("\n".join(final_lines) + "\n")
-
-      # uBlacklist.txt 上書き
-      with open(ublack_path, "w", encoding="utf-8") as f:
-          f.write("\n".join(ublack_unique) + "\n")
-
-      print("uBlacklist / uBlockorigin / Brave_safari を更新しました")
-      EOF
-
-  - name: Commit and push changes
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt
-      git diff --cached --quiet || git commit -m "Auto-update filter lists"
-      git push --force
+          git commit -m "Auto-update filter lists"
+          git push
