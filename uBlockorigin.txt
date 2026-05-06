@@ -1,5 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
-! Homepage: https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin
+! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
