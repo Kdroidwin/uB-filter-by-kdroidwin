@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://sours.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -23997,6 +23996,7 @@
 *://source.android.google.cn/*
 *://sourceforge.net/projects/revanced-extended-byie/*
 *://sourl.cn/*
+*://sours.jp/*
 *://soutennoblog.blog.fc2.com/*
 *://southglow.co.jp/*
 *://southseasgallery.com/*

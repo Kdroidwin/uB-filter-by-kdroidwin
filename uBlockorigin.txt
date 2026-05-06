@@ -8482,6 +8482,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||source.android.google.cn^$document
 ||sourceforge.net/projects/revanced-extended-byie^$document
 ||sourl.cn^$document
+||sours.jp^$document
 ||soutennoblog.blog.fc2.com^$document
 ||southglow.co.jp^$document
 ||southseasgallery.com^$document
