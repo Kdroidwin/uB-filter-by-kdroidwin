@@ -10693,6 +10693,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.harrywinston.cn^$document
 ||www.haruyukiworld.com^$document
 ||www.hashi-okiraku.top^$document
+||www.haute-c.jp^$document
 ||www.haydarpasamun.org^$document
 ||www.hb-consulting.jp^$document
 ||www.hdojinkan.com^$document

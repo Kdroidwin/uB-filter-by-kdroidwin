@@ -4,7 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://www.haute-c.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -26113,6 +26112,7 @@
 *://www.harrywinston.cn/*
 *://www.haruyukiworld.com/*
 *://www.hashi-okiraku.top/*
+*://www.haute-c.jp/*
 *://www.haydarpasamun.org/*
 *://www.hb-consulting.jp/*
 *://www.hdojinkan.com/*
