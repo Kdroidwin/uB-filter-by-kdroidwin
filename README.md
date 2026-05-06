@@ -108,6 +108,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 
 <br>
 <br>
+
 # 対象サイト
 
 - いかがでしたか系（デマ・芸能ゴシップ）
