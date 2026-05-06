@@ -11,6 +11,9 @@
 @*://minnadesonicmachisagashi.z11.web.core.windows.net/*
 @*://browserpicker.z13.web.core.windows.net/*
 @*://stkarteai1763705952.z11.web.core.windows.net/*
+@*://pcjisyo.z11.web.core.windows.net/*
+@*://koaladbstorage.z31.web.core.windows.net/*
+@*://soundgarden.z11.web.core.windows.net/*
 @*://jjya.xyz/*
 @*://ghostpia.xyz/*
 @*://xiaoron.xyz/*
