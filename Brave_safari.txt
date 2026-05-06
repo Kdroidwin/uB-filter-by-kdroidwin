@@ -1,5 +1,5 @@
-! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
-! Homepage: https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin
+! Title: uB-filter-by-kdroidwin(BraveShields&Safari)
+! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
