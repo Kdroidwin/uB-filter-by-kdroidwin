@@ -87,7 +87,7 @@ jobs:
           rules.sort(key=lambda x: x.lower())
           exceptions.sort(key=lambda x: x.lower())
 
-          # 最終構成（共通ベース）
+          # 共通の並び順を作る
           final_lines = []
           final_lines.extend(title_comments)
           final_lines.extend(homepage_comments)
@@ -98,8 +98,8 @@ jobs:
           final_lines.extend(exceptions)
 
           # 出力先ごとの変換
-          # uBlockorigin.txt は ,domain= を ,to= に変換
-          # Brave_safari.txt は ,domain= のまま
+          # uBlockorigin.txt はそのまま
+          # Brave_safari.txt は ,to= を ,domain= に変換
           ublock_output = []
           brave_output = []
 
@@ -108,8 +108,8 @@ jobs:
                   ublock_output.append(line)
                   brave_output.append(line)
               else:
-                  ublock_output.append(line.replace(",domain=", ",to="))
-                  brave_output.append(line)
+                  ublock_output.append(line)
+                  brave_output.append(line.replace(",to=", ",domain="))
 
           # 書き込み
           with open(ublockorigin_path, "w", encoding="utf-8") as f:
