@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 <br>
 
-- Block malicious websites by Kdroidwin
+- uB-filter-by-kdroidwin(uBO&AdGuard)
 [購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt&title=Block%20malicious%20websites%20by%20Kdroidwin)
 
 ```
@@ -101,6 +101,13 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 <br>
 
+# Brave Shields &Safariコンテンツブロッカー 用フィルターの種類
+```
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/Brave_safari.txt
+```
+
+<br>
+<br>
 # 対象サイト
 
 - いかがでしたか系（デマ・芸能ゴシップ）
