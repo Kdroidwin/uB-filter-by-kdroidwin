@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://makianosaihu.com/*
-*://manga.milk-key.com/*
-*://shefkihysa.com/*
-*://douzin-q.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -18018,6 +18014,7 @@
 *://doutera.com/*
 *://douyasu.blog.jp/*
 *://douzin-daisuki.com/*
+*://douzin-q.com/*
 *://douzin-raw.and-beef.jp/*
 *://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
@@ -20975,6 +20972,7 @@
 *://make.powerautomate.cn/*
 *://makemiracle-blog.com/*
 *://makeyourbenefit.com/*
+*://makianosaihu.com/*
 *://makito.me/*
 *://makoto5711.blog.jp/*
 *://makpro.cl/*
@@ -21038,6 +21036,7 @@
 *://manga.kanjukujoshi.com/*
 *://manga.kiby.jp/*
 *://manga.kou-web.com/*
+*://manga.milk-key.com/*
 *://manga.nukitto.com/*
 *://manga.okabasyo.com/*
 *://manga.pai-navi.com/*
@@ -23716,6 +23715,7 @@
 *://shauncafe.com/*
 *://shaunkentarme-zakkiblog.com/*
 *://shawn620.online/*
+*://shefkihysa.com/*
 *://sheingivesback.com/*
 *://shenghuobao.net/*
 *://shenjpvip.com/*

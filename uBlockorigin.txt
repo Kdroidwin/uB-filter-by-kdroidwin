@@ -2357,6 +2357,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doutera.com^$document
 ||douyasu.blog.jp^$document
 ||douzin-daisuki.com^$document
+||douzin-q.com^$document
 ||douzin-raw.and-beef.jp^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
@@ -5355,6 +5356,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||make.powerautomate.cn^$document
 ||makemiracle-blog.com^$document
 ||makeyourbenefit.com^$document
+||makianosaihu.com^$document
 ||makito.me^$document
 ||makoto5711.blog.jp^$document
 ||makpro.cl^$document
@@ -5420,6 +5422,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga.kanjukujoshi.com^$document
 ||manga.kiby.jp^$document
 ||manga.kou-web.com^$document
+||manga.milk-key.com^$document
 ||manga.nukitto.com^$document
 ||manga.okabasyo.com^$document
 ||manga.pai-navi.com^$document
@@ -8183,6 +8186,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||shauncafe.com^$document
 ||shaunkentarme-zakkiblog.com^$document
 ||shawn620.online^$document
+||shefkihysa.com^$document
 ||sheingivesback.com^$document
 ||shenghuobao.net^$document
 ||shenjpvip.com^$document
