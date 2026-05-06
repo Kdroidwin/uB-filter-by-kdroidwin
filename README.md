@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 <br>
 
-# Brave Shields &Safariコンテンツブロッカー 用フィルターの種類
+# Brave Shields &Safariコンテンツブロッカー&1DM 用フィルターの種類
 ```
 https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/Brave_safari.txt
 ```
