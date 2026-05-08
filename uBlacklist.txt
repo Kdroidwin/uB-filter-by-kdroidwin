@@ -1,4 +1,11 @@
 *://*.000webhostapp.com/*
+*://cg.hnt.co.jp/*
+*://*.en-cuculu.jp/*
+*://goku-tsuma.net/*
+*://erobooks.makianosaihu.com/*
+*://*.makianosaihu.com/*
+*://makianosaihu.com/*
+*://docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw/*
 *://p-puy.net/*
 *://note.com/otosan_creation/*
 *://otosan-dayo.booth.pm/*
