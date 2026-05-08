@@ -1,4 +1,13 @@
 *://*.000webhostapp.com/*
+*://p-puy.net/*
+*://note.com/otosan_creation/*
+*://otosan-dayo.booth.pm/*
+*://fdaerjioa.booth.pm/*
+*://adv.tokyo-np.co.jp/prtimes/*
+*://btc-savior.co.jp/*
+*://note.com/l_mrk/*
+*://www.iwaki-shinkumi.shinkumi.net/*
+*://www.iwaki-shinkumi.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
