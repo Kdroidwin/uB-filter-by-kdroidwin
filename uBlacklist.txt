@@ -1,20 +1,4 @@
 *://*.000webhostapp.com/*
-*://cg.hnt.co.jp/*
-*://*.en-cuculu.jp/*
-*://goku-tsuma.net/*
-*://erobooks.makianosaihu.com/*
-*://*.makianosaihu.com/*
-*://makianosaihu.com/*
-*://docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw/*
-*://p-puy.net/*
-*://note.com/otosan_creation/*
-*://otosan-dayo.booth.pm/*
-*://fdaerjioa.booth.pm/*
-*://adv.tokyo-np.co.jp/prtimes/*
-*://btc-savior.co.jp/*
-*://note.com/l_mrk/*
-*://www.iwaki-shinkumi.shinkumi.net/*
-*://www.iwaki-shinkumi.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -5134,6 +5118,7 @@
 *://*.ec/?z=8*
 *://*.ec/?z=9*
 *://*.echicosplay.com/*
+*://*.en-cuculu.jp/*
 *://*.epochtimes.jp/*
 *://*.eromanga-yomitai.work/*
 *://*.es/comment.php?n=*
@@ -9627,6 +9612,7 @@
 *://*.ma/?z=7*
 *://*.ma/?z=8*
 *://*.ma/?z=9*
+*://*.makianosaihu.com/*
 *://*.manga-ganma.com/*
 *://*.mangasokuhou.com/*
 *://*.match-mote.jp/*
@@ -16156,6 +16142,7 @@
 *://adultportal.jp/*
 *://adultvideomihoudai.com/*
 *://adusasan.com/*
+*://adv.tokyo-np.co.jp/prtimes/*
 *://advancecommunity.org/*
 *://advancedgloskinclinicpune.com/*
 *://advansteadily2310.com/*
@@ -17165,6 +17152,7 @@
 *://bs5.redwoodjs.cn/*
 *://bsrqulvlx.marcel-geht-garnicht.de/*
 *://bstk.me/*
+*://btc-savior.co.jp/*
 *://btslove7.com/*
 *://bucky-blog.com/*
 *://budgetworld.ru/*
@@ -17916,6 +17904,7 @@
 *://docs.aws.amazon.ex1.https.443.ipv6.faw.com.cn/*
 *://docs.demo.mschool.cn/*
 *://docs.getquicker.cn/*
+*://docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw/*
 *://docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn/*
 *://docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
 *://docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
@@ -18351,6 +18340,7 @@
 *://eroazu.com/*
 *://erobooker.com/*
 *://erobookjapan.com/*
+*://erobooks.makianosaihu.com/*
 *://erocomi.kou-web.com/*
 *://erocomic-love.net/*
 *://erocomic-navi.com/*
@@ -18560,6 +18550,7 @@
 *://fbooks-doujin.com/*
 *://fcvt-sale.com/*
 *://fd.5201961.xyz/*
+*://fdaerjioa.booth.pm/*
 *://fdj.pia-shiratori.jp/*
 *://fe30a5b4.xyz/*
 *://fearless-fitness.uk/*
@@ -19137,6 +19128,7 @@
 *://gogunlocked.online/*
 *://gohantublog.com/*
 *://gokigenteikoku.jp/*
+*://goku-tsuma.net/*
 *://gokyuzuvebalon.com/*
 *://golang.google.cn/*
 *://goldenevent.pl/*
@@ -22171,6 +22163,7 @@
 *://note.com/kuroneko_mikoo/*
 *://note.com/kurono1gou/*
 *://note.com/kyari_mon/*
+*://note.com/l_mrk/*
 *://note.com/labo_rainbow/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
@@ -22245,6 +22238,7 @@
 *://note.com/open_fennel6445/*
 *://note.com/open_hare4661/*
 *://note.com/orisusarusan/*
+*://note.com/otosan_creation/*
 *://note.com/outdoorlifestyle/*
 *://note.com/oyvn/*
 *://note.com/parsonalsecret/*
@@ -22688,6 +22682,7 @@
 *://otonakensaku.com/*
 *://otonano-erokatsu.net/*
 *://otonano-kyouyou.cfbx.jp/*
+*://otosan-dayo.booth.pm/*
 *://ottoproduce.com/*
 *://ottori-time.com/*
 *://oucedonc.com/*
@@ -22725,6 +22720,7 @@
 *://ozycrbx.work/*
 *://p-any.net/*
 *://p-cipher.store/*
+*://p-puy.net/*
 *://p30download.ir/*
 *://p6li1chk.r.us-east-1.awstrack.me/*
 *://p7fcbp7.r.ap-northeast-1.awstrack.me/*
@@ -26246,6 +26242,8 @@
 *://www.ivisa.com/*
 *://www.ivlim.ru/*
 *://www.iwachu.info/*
+*://www.iwaki-shinkumi.com/*
+*://www.iwaki-shinkumi.shinkumi.net/*
 *://www.iwako-light.com/*
 *://www.j-bronze.jp/*
 *://www.j-love.info/*

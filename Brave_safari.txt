@@ -1,10 +1,11 @@
-! Title: uB-filter-by-kdroidwin(BraveShields&Safari)
-! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
+! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
+/^.*(qr-topayday).*\.com(/[a-z0-9_-]?.*)?$/$doc
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
@@ -30,7 +31,12 @@
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
 /^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
+/^https?:\/\/[a-z0-9]{25,}\.[a-z0-9.-]*\.br\//$document
+/^https?:\/\/[a-z0-9]{25,}\.[a-z0-9.-]*\.online\//$document
+/^https?:\/\/[a-z0-9]{30,}\.[a-z0-9.-]*\.su\//$document
+/^https?:\/\/[a-z0-9]{32,}\.[a-z0-9.-]*\.au\//$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
+/https?:\/\/(?=[^.]{16,}\.)(?=.*[a-z])(?=.*[0-9])[a-z0-9-]+\.[a-z0-9-]{1,60}\.[a-z0-9-]{1,60}\.amazonaws\.com(\/|$)/$document
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
 /https?:\/\/[a-z0-9-]+-co-jp\.mobi/
@@ -444,6 +450,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adultportal.jp^$document
 ||adultvideomihoudai.com^$document
 ||adusasan.com^$document
+||adv.tokyo-np.co.jp/prtimes^$document
 ||advancecommunity.org^$document
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
@@ -1483,6 +1490,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bs5.redwoodjs.cn^$document
 ||bsrqulvlx.marcel-geht-garnicht.de^$document
 ||bstk.me^$document
+||btc-savior.co.jp^$document
 ||btslove7.com^$document
 ||bucky-blog.com^$document
 ||budgetworld.ru^$document
@@ -2243,6 +2251,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||docs.aws.amazon.ex1.https.443.ipv6.faw.com.cn^$document
 ||docs.demo.mschool.cn^$document
 ||docs.getquicker.cn^$document
+||docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw^$document
 ||docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn^$document
 ||docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
 ||docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
@@ -2680,6 +2689,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||eroazu.com^$document
 ||erobooker.com^$document
 ||erobookjapan.com^$document
+||erobooks.makianosaihu.com^$document
 ||erocomi.kou-web.com^$document
 ||erocomic-love.net^$document
 ||erocomic-navi.com^$document
@@ -2891,6 +2901,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fbooks-doujin.com^$document
 ||fcvt-sale.com^$document
 ||fd.5201961.xyz^$document
+||fdaerjioa.booth.pm^$document
 ||fdj.pia-shiratori.jp^$document
 ||fe30a5b4.xyz^$document
 ||fearless-fitness.uk^$document
@@ -3477,6 +3488,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gogunlocked.online^$document
 ||gohantublog.com^$document
 ||gokigenteikoku.jp^$document
+||goku-tsuma.net^$document
 ||gokyuzuvebalon.com^$document
 ||golang.google.cn^$document
 ||goldenevent.pl^$document
@@ -6561,6 +6573,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/kuroneko_mikoo^$document
 ||note.com/kurono1gou^$document
 ||note.com/kyari_mon^$document
+||note.com/l_mrk^$document
 ||note.com/labo_rainbow^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
@@ -6635,6 +6648,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/open_fennel6445^$document
 ||note.com/open_hare4661^$document
 ||note.com/orisusarusan^$document
+||note.com/otosan_creation^$document
 ||note.com/outdoorlifestyle^$document
 ||note.com/oyvn^$document
 ||note.com/parsonalsecret^$document
@@ -7085,6 +7099,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||otonakensaku.com^$document
 ||otonano-erokatsu.net^$document
 ||otonano-kyouyou.cfbx.jp^$document
+||otosan-dayo.booth.pm^$document
 ||ottoproduce.com^$document
 ||ottori-time.com^$document
 ||oucedonc.com^$document
@@ -7123,6 +7138,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ozycrbx.work^$document
 ||p-any.net^$document
 ||p-cipher.store^$document
+||p-puy.net^$document
 ||p30download.ir^$document
 ||p6li1chk.r.us-east-1.awstrack.me^$document
 ||p7fcbp7.r.ap-northeast-1.awstrack.me^$document
@@ -10812,6 +10828,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.ivisa.com^$document
 ||www.ivlim.ru^$document
 ||www.iwachu.info^$document
+||www.iwaki-shinkumi.com^$document
+||www.iwaki-shinkumi.shinkumi.net^$document
 ||www.iwako-light.com^$document
 ||www.j-bronze.jp^$document
 ||www.j-love.info^$document
