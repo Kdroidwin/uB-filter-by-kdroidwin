@@ -2,6 +2,11 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://ur16.jp/*
+*://rakuc.co/*
+*://raku.fyi/*
+*://ln.run/*
+*://ur38.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
