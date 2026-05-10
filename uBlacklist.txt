@@ -1,15 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://japanlivestream.com/*
-*://note.com/naoki_35/*
-*://www.xuchengmodel.com/*
-*://p-pey.net/*
-*://p-poy.net/*
-*://okaponseo.me/*
-*://info.okaponseo.me/*
-*://mobinc.jp/*
-*://golfsgp.com/*
-*://shelikes.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -19151,6 +19141,7 @@
 *://goldmedalget.com/*
 *://golfclinic.jp/*
 *://golfgimon.info/*
+*://golfsgp.com/*
 *://gomaanko.com/*
 *://gomagoma-blog.com/*
 *://gomagomacute.com/*
@@ -19825,6 +19816,7 @@
 *://influencer-news.com/*
 *://influmemo.com/*
 *://info-melody.com/*
+*://info.okaponseo.me/*
 *://info.securesamba.com/*
 *://infojoho-library.org/*
 *://infolab.buyer-direct.com/*
@@ -20005,6 +19997,7 @@
 *://japanese-archery.hateblo.jp/*
 *://japanese.cri.cn/*
 *://japanknowledge-com-443.webvpn.zisu.edu.cn/*
+*://japanlivestream.com/*
 *://japannewsnavi.com/*
 *://japanshopping.org/*
 *://japarazzi.jp/*
@@ -21455,6 +21448,7 @@
 *://mobile-app.rank-king.jp/*
 *://mobile-yoox.catalogi.ru/*
 *://mobilltna.org/*
+*://mobinc.jp/*
 *://moca0313blog.com/*
 *://moccosnoon.com/*
 *://mochiomochi-life.com/*
@@ -22228,6 +22222,7 @@
 *://note.com/mymonolab/*
 *://note.com/nakanaka_2025/*
 *://note.com/nanopapa_world11/*
+*://note.com/naoki_35/*
 *://note.com/naoki_iphone/*
 *://note.com/natsssssuki/*
 *://note.com/nayoshi_engineer/*
@@ -22548,6 +22543,7 @@
 *://okaeriblog.com/*
 *://okaimono-navigation.com/*
 *://okannoyomeiri-stage.jp/*
+*://okaponseo.me/*
 *://okazu-navi.net/*
 *://okboook.com/*
 *://okdebrid.com/*
@@ -22738,6 +22734,8 @@
 *://ozycrbx.work/*
 *://p-any.net/*
 *://p-cipher.store/*
+*://p-pey.net/*
+*://p-poy.net/*
 *://p-puy.net/*
 *://p30download.ir/*
 *://p6li1chk.r.us-east-1.awstrack.me/*
@@ -23750,6 +23748,7 @@
 *://shawn620.online/*
 *://shefkihysa.com/*
 *://sheingivesback.com/*
+*://shelikes.jp/*
 *://shenghuobao.net/*
 *://shenjpvip.com/*
 *://sherbatovelite.com/detail*
@@ -27250,6 +27249,7 @@
 *://www.xn--u9j5h4aofc9l3j1081ad69aw3n.jp/*
 *://www.xn--u9jy52gkffn9q8qbux6ab4xi9c4wsx57a.com/*
 *://www.xpertit.co.nz/*
+*://www.xuchengmodel.com/*
 *://www.xxyzy8910.xyz/*
 *://www.y-ichikawa.net/*
 *://www.yacco.cc/*

@@ -1,5 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
+
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -2011,7 +2012,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
 ||cute.bau-bau.jp^$document
-||cutt.ly^$document
 ||cuty.jp^$document
 ||cuzzell.com^$document
 ||cva.unecon.ru^$document
@@ -3511,6 +3511,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||goldmedalget.com^$document
 ||golfclinic.jp^$document
 ||golfgimon.info^$document
+||golfsgp.com^$document
 ||gomaanko.com^$document
 ||gomagoma-blog.com^$document
 ||gomagomacute.com^$document
@@ -4195,6 +4196,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||influencer-news.com^$document
 ||influmemo.com^$document
 ||info-melody.com^$document
+||info.okaponseo.me^$document
 ||info.securesamba.com^$document
 ||infojoho-library.org^$document
 ||infolab.buyer-direct.com^$document
@@ -4376,6 +4378,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||japanese-archery.hateblo.jp^$document
 ||japanese.cri.cn^$document
 ||japanknowledge-com-443.webvpn.zisu.edu.cn^$document
+||japanlivestream.com^$document
 ||japannewsnavi.com^$document
 ||japanshopping.org^$document
 ||japarazzi.jp^$document
@@ -5854,6 +5857,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mobile-app.rank-king.jp^$document
 ||mobile-yoox.catalogi.ru^$document
 ||mobilltna.org^$document
+||mobinc.jp^$document
 ||moca0313blog.com^$document
 ||moccosnoon.com^$document
 ||mochiomochi-life.com^$document
@@ -6639,6 +6643,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/mymonolab^$document
 ||note.com/nakanaka_2025^$document
 ||note.com/nanopapa_world11^$document
+||note.com/naoki_35^$document
 ||note.com/naoki_iphone^$document
 ||note.com/natsssssuki^$document
 ||note.com/nayoshi_engineer^$document
@@ -6961,6 +6966,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||okaimono-navigation.com^$document
 ||okaimonoclub.jp^$document
 ||okannoyomeiri-stage.jp^$document
+||okaponseo.me^$document
 ||okazu-navi.net^$document
 ||okboook.com^$document
 ||okdebrid.com^$document
@@ -7157,6 +7163,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ozycrbx.work^$document
 ||p-any.net^$document
 ||p-cipher.store^$document
+||p-pey.net^$document
+||p-poy.net^$document
 ||p-puy.net^$document
 ||p30download.ir^$document
 ||p6li1chk.r.us-east-1.awstrack.me^$document
@@ -8226,6 +8234,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||shawn620.online^$document
 ||shefkihysa.com^$document
 ||sheingivesback.com^$document
+||shelikes.jp^$document
 ||shenghuobao.net^$document
 ||shenjpvip.com^$document
 ||shiawaseninaritai.com^$document
@@ -10155,6 +10164,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.alqalmouninstitute.com^$document
 ||www.alqfvxf.cn^$document
 ||www.amazon.bygg199.top^$document
+||www.amazon.co.jp/shop/influencer-2b79c26a$document
 ||www.amigolibreria.com^$document
 ||www.amjad.xyz^$document
 ||www.amourinteriors.in^$document
@@ -11840,6 +11850,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.xn--u9j5h4aofc9l3j1081ad69aw3n.jp^$document
 ||www.xn--u9jy52gkffn9q8qbux6ab4xi9c4wsx57a.com^$document
 ||www.xpertit.co.nz^$document
+||www.xuchengmodel.com^$document
 ||www.xxyzy8910.xyz^$document
 ||www.y-ichikawa.net^$document
 ||www.yacco.cc^$document
