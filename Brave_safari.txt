@@ -6054,6 +6054,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
+||mydocomo.$document
 ||myfavoritetopics.net^$document
 ||myfreesoft.ru^$document
 ||myhobby.tech^$document
