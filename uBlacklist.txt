@@ -2,14 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://ur16.jp/*
-*://jp.workoutloghub.com/*
-*://workoutloghub.com/*
-*://lqvaqpeq.com/*
-*://rakuc.co/*
-*://raku.fyi/*
-*://ln.run/*
-*://ur38.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -20109,6 +20101,7 @@
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
+*://jp.workoutloghub.com/*
 *://jp24h.com/*
 *://jpbitgetwallet.com/*
 *://jpkanon.com/*
@@ -20807,6 +20800,7 @@
 *://lms.learningbox.online/*
 *://lms.medreseti.com/*
 *://ln-news.com/*
+*://ln.run/*
 *://lnovbsbw.digital/*
 *://loadgames.org/*
 *://loadpiece.xyz/*
@@ -20853,6 +20847,7 @@
 *://lowcostoutsource.com/*
 *://lp.buzayookaki.com/*
 *://lps.nanoartmarket.com/*
+*://lqvaqpeq.com/*
 *://lrkdn.kvjody.biz/*
 *://ls6z1wg.h-arlt-fotografie.de/*
 *://lsanaqz.live/*
@@ -23179,6 +23174,8 @@
 *://rakeruma.com/*
 *://rakiam.com/*
 *://rakko.cc/*
+*://raku.fyi/*
+*://rakuc.co/*
 *://rakuenta.com/*
 *://rakuten-viki.hatenablog.com/*
 *://rakuten.tameshiyo.me/*
@@ -25017,6 +25014,8 @@
 *://uprobrocher.ucoz.ru/*
 *://upteck.cl/*
 *://uquum.com/*
+*://ur16.jp/*
+*://ur38.jp/*
 *://urajyouhou.com/*
 *://uranai-mugen.jp/*
 *://uranai.nosv.org/*
@@ -25394,6 +25393,7 @@
 *://work-mama-life.com/*
 *://work-well.org/*
 *://worker-blog.com/*
+*://workoutloghub.com/*
 *://world-entertainment-information.com/*
 *://world-language-250.com/*
 *://world.taobao.com/*

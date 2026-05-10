@@ -4473,6 +4473,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
 ||jp.winxmac.com^$document
+||jp.workoutloghub.com^$document
 ||jp24h.com^$document
 ||jpbitgetwallet.com^$document
 ||jpkanon.com^$document
@@ -5184,6 +5185,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lms.learningbox.online^$document
 ||lms.medreseti.com^$document
 ||ln-news.com^$document
+||ln.run^$document
 ||lnovbsbw.digital^$document
 ||loadgames.org^$document
 ||loadpiece.xyz^$document
@@ -5231,6 +5233,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lowcostoutsource.com^$document
 ||lp.buzayookaki.com^$document
 ||lps.nanoartmarket.com^$document
+||lqvaqpeq.com^$document
 ||lrkdn.kvjody.biz^$document
 ||ls6z1wg.h-arlt-fotografie.de^$document
 ||lsanaqz.live^$document
@@ -7611,6 +7614,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rakeruma.com^$document
 ||rakiam.com^$document
 ||rakko.cc^$document
+||raku.fyi^$document
+||rakuc.co^$document
 ||rakuenta.com^$document
 ||rakuten-viki.hatenablog.com^$document
 ||rakuten.tameshiyo.me^$document
@@ -9553,6 +9558,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||uprrp.edu^$document
 ||upteck.cl^$document
 ||uquum.com^$document
+||ur16.jp^$document
+||ur38.jp^$document
 ||urajyouhou.com^$document
 ||uranai-mugen.jp^$document
 ||uranai.nosv.org^$document
@@ -9964,6 +9971,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||work-mama-life.com^$document
 ||work-well.org^$document
 ||worker-blog.com^$document
+||workoutloghub.com^$document
 ||world-entertainment-information.com^$document
 ||world-fusigi.net^$document
 ||world-language-250.com^$document
