@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://jpccc.net/*
-*://cutt.ly/*
-*://t2m.io/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -17658,6 +17655,7 @@
 *://curta.online/*
 *://cuskst9p.ganis.co.uk/*
 *://cute.bau-bau.jp/*
+*://cutt.ly/*
 *://cuty.jp/*
 *://cuzzell.com/*
 *://cva.unecon.ru/*
@@ -20107,6 +20105,7 @@
 *://jp.workoutloghub.com/*
 *://jp24h.com/*
 *://jpbitgetwallet.com/*
+*://jpccc.net/*
 *://jpkanon.com/*
 *://jpsecengineer.com/*
 *://jpsoku.blog.jp/*
@@ -24365,6 +24364,7 @@
 *://t.me/s/OfficialFTUApps?before=466*
 *://t.me/sotaproject/*
 *://t.spnews5.me/*
+*://t2m.io/*
 *://t3n.me/*
 *://ta-see.com/*
 *://taa-channel.com/*

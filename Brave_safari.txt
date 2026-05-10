@@ -28,6 +28,15 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.saitama\.vip|koei\.dolshipmaker\.vip|tr\.orjinalbetoffice\.vip)[^\/]+\.[^\/]+\.vip(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
+/^https?:\/\/([^\/]+\.)?(ur|url)\d+\.jp\//
+/^https?:\/\/([^\/]+\.)?qc-\d+\.cc\//
+/^https?:\/\/([^\/]+\.)?qc\d{2}\.jp\//
+/^https?:\/\/([^\/]+\.)?ql\d+\.jp\//
+/^https?:\/\/([^\/]+\.)?qr-\d+\.cc\//
+/^https?:\/\/([^\/]+\.)?qr-\d+\.cc\//
+/^https?:\/\/([^\/]+\.)?qr-\d+\.cc\//
+/^https?:\/\/([^\/]+\.)?ur\d{2}\.jp\//
+/^https?:\/\/([^\/]+\.)?ur\d{3}\.jp\//
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
 /^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
@@ -2002,6 +2011,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
 ||cute.bau-bau.jp^$document
+||cutt.ly^$document
 ||cuty.jp^$document
 ||cuzzell.com^$document
 ||cva.unecon.ru^$document
@@ -4476,6 +4486,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp.workoutloghub.com^$document
 ||jp24h.com^$document
 ||jpbitgetwallet.com^$document
+||jpccc.net^$document
 ||jpkanon.com^$document
 ||jpsecengineer.com^$document
 ||jpsoku.blog.jp^$document
@@ -8873,6 +8884,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||t.me/s/OfficialFTUApps?before=466^$document
 ||t.me/sotaproject^$document
 ||t.spnews5.me^$document
+||t2m.io^$document
 ||t3n.me^$document
 ||ta-see.com^$document
 ||taa-channel.com^$document
