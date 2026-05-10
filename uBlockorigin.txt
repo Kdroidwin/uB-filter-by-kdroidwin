@@ -2011,7 +2011,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
 ||cute.bau-bau.jp^$document
-||cutt.ly^$document
+||www.amazon.co.jp/shop/influencer-2b79c26a$document
+
 ||cuty.jp^$document
 ||cuzzell.com^$document
 ||cva.unecon.ru^$document
