@@ -1,13 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/pocketstudio/*
-*://master.tech-camp.in/*
-*://tech-camp.in/*
-*://techcamp40.myshopify.com/*
-*://oripaone.jp/*
-*://warofcarp.hu/*
-*://note.com/hakuou_ai/*
-*://revanced-extended.blogspot.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -21146,6 +21138,7 @@
 *://master--boxdevjp.netlify.app/*
 *://master--endoflife-date.netlify.app/*
 *://master--helm-dev.netlify.app/*
+*://master.tech-camp.in/*
 *://masyuo.com/*
 *://mata-ashita.com/*
 *://matce.cn/*
@@ -22100,6 +22093,7 @@
 *://note.com/hachiojiiphone/*
 *://note.com/haitenjp/*
 *://note.com/haken_se_30manen/*
+*://note.com/hakuou_ai/*
 *://note.com/hakushiki_san/*
 *://note.com/hakutoumomo/*
 *://note.com/hama_zaitaku/*
@@ -22255,6 +22249,7 @@
 *://note.com/pet_supply/*
 *://note.com/pixel8a9/*
 *://note.com/planetofgori/*
+*://note.com/pocketstudio/*
 *://note.com/ponta0921/*
 *://note.com/poppson/*
 *://note.com/powertanishi*
@@ -22639,6 +22634,7 @@
 *://oricoma.com/*
 *://oriental-hobbies.online/*
 *://oripa.jpn.org/*
+*://oripaone.jp/*
 *://orqykth.biz/*
 *://osaboo.info/*
 *://osaka-breakfast.com/*
@@ -23310,6 +23306,7 @@
 *://revanced-apks.github.io/*
 *://revanced-apks.pages.dev/*
 *://revanced-auto-apk.pages.dev/*
+*://revanced-extended.blogspot.com/*
 *://revanced-extended.com/*
 *://revanced-extended.en.uptodown.com/*
 *://revanced-extended.jp.malavida.com/*
@@ -24472,7 +24469,9 @@
 *://tearoomneko.com/*
 *://teatrodelamemoria.com/*
 *://teatrsobytie.ru/*
+*://tech-camp.in/*
 *://techacademy.jp/*
+*://techcamp40.myshopify.com/*
 *://techcoheights.com/*
 *://techgym.jp/*
 *://techhelpnotes.com/*
@@ -25273,6 +25272,7 @@
 *://wararis.com/*
 *://wararuuy.com/*
 *://warningg.pse.is/*
+*://warofcarp.hu/*
 *://warriormetalcrafts.com/*
 *://wasabeafn.com/*
 *://wascorrectes.com/*

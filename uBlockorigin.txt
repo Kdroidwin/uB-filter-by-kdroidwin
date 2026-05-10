@@ -5533,6 +5533,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||master--boxdevjp.netlify.app^$document
 ||master--endoflife-date.netlify.app^$document
 ||master--helm-dev.netlify.app^$document
+||master.tech-camp.in^$document
 ||masyuo.com^$document
 ||mata-ashita.com^$document
 ||matce.cn^$document
@@ -6503,6 +6504,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/hachiojiiphone^$document
 ||note.com/haitenjp^$document
 ||note.com/haken_se_30manen^$document
+||note.com/hakuou_ai^$document
 ||note.com/hakushiki_san^$document
 ||note.com/hakutoumomo^$document
 ||note.com/hama_zaitaku^$document
@@ -6657,6 +6659,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/pet_supply^$document
 ||note.com/pixel8a9^$document
 ||note.com/planetofgori^$document
+||note.com/pocketstudio^$document
 ||note.com/ponta0921^$document
 ||note.com/poppson^$document
 ||note.com/powertanishi^$document
@@ -7047,6 +7050,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||oricoma.com^$document
 ||oriental-hobbies.online^$document
 ||oripa.jpn.org^$document
+||oripaone.jp^$document
 ||orqykth.biz^$document
 ||oryouri.2chblog.jp^$document
 ||osaboo.info^$document
@@ -7752,6 +7756,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||revanced-apks.github.io^$document
 ||revanced-apks.pages.dev^$document
 ||revanced-auto-apk.pages.dev^$document
+||revanced-extended.blogspot.com^$document
 ||revanced-extended.com^$document
 ||revanced-extended.en.uptodown.com^$document
 ||revanced-extended.jp.malavida.com^$document
@@ -8979,10 +8984,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||teatrodelamemoria.com^$document
 ||teatrsobytie.ru^$document
 ||tecahe.za.com^$document
+||tech-camp.in^$document
 ||tech-in-japan.github.io^$document
 ||tech-ja.netlify.app^$document
 ||techacademy.jp^$document
 ||techbigs.com^$document
+||techcamp40.myshopify.com^$document
 ||techcoheights.com^$document
 ||techfeed.net^$document
 ||techgym.jp^$document
@@ -9828,6 +9835,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wararis.com^$document
 ||wararuuy.com^$document
 ||warningg.pse.is^$document
+||warofcarp.hu^$document
 ||warriormetalcrafts.com^$document
 ||wasabeafn.com^$document
 ||wascorrectes.com^$document
