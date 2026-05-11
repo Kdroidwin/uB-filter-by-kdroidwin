@@ -1,6 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
-
+||rakut*.co^
+/^https?:\/\/[^\/]*pay(?=[^\/]*\d[^\/]*\d[^\/]*\d)[^\/]*\.com(?:[/?#]|$)/
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
