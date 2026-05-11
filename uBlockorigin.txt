@@ -1,7 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
-||rakut*.co^
-/^https?:\/\/[^\/]*pay(?=[^\/]*\d[^\/]*\d[^\/]*\d)[^\/]*\.com(?:[/?#]|$)/
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -41,6 +39,7 @@
 /^https?:\/\/([^\/]+\.)?ur\d{3}\.jp\//
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
+/^https?:\/\/[^\/]*pay(?=[^\/]*\d[^\/]*\d[^\/]*\d)[^\/]*\.com(?:[/?#]|$)/
 /^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
 /^https?:\/\/[a-z0-9]{25,}\.[a-z0-9.-]*\.br\//$document
 /^https?:\/\/[a-z0-9]{25,}\.[a-z0-9.-]*\.online\//$document
@@ -3775,6 +3774,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hayito.com^$document
 ||hbox-webcomic.adult-h.com^$document
 ||hbr-square.com^$document
+||hbtwnq.com^$document
 ||hcomedian.com^$document
 ||hcomic.syokusamen.com^$document
 ||healcipe.com^$document
@@ -6006,6 +6006,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mrkmspico.com^$document
 ||mrlmhcx4.r.eu-west-1.awstrack.me^$document
 ||mrs.seven-area.com^$document
+||ms-engineer.jp^$document
 ||msfreeb.com^$document
 ||msfuturestories.ru^$document
 ||msk-radio.com^$document
@@ -7190,6 +7191,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ozycrbx.work^$document
 ||p-any.net^$document
 ||p-cipher.store^$document
+||p-jp.co^$document
 ||p-pey.net^$document
 ||p-poy.net^$document
 ||p-puy.net^$document
@@ -7248,6 +7250,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pauleetmikevape.fr^$document
 ||paultodd.com^$document
 ||pawsandpower.hatenablog.com^$document
+||pay-5t.com^$document
 ||payment.on.your.account.rangdeindia.jp^$document
 ||pblc.me^$document
 ||pc-consultant.ru^$document
@@ -7666,6 +7669,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||raku.fyi^$document
 ||rakuc.co^$document
 ||rakuenta.com^$document
+||rakut*.co^
 ||rakuten-viki.hatenablog.com^$document
 ||rakuten.tameshiyo.me^$document
 ||rakutens-jp.shop^$document
@@ -9351,6 +9355,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tosa-k-style.org^$document
 ||tosidensetu-story.com^$document
 ||totalav.com^$document
+||totallyaboutweather.com^$document
 ||totalnewsjp.com^$document
 ||totalnewsworld.theletter.jp^$document
 ||totalpolitik.com^$document
