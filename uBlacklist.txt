@@ -1,38 +1,4 @@
 *://*.000webhostapp.com/*
-*://skillboosthub.link/*
-*://pokeca.com/*
-*://play.google.com/store/apps/details?id=com.pokeca*
-*://hobbyjinsei.com/*
-*://esports-ekichika.net/*
-*://oripalette.jp/*
-*://kogane-games.hatenablog.com/*
-*://pokepa365.com/*
-*://oripa-hikaku.jp/*
-*://growdeco.co.jp/*
-*://youvic.jp/*
-*://irodoricard.base.shop/*
-*://jp.norton.com/*
-*://store.shopping.yahoo.co.jp/norton/*
-*://item.rakuten.co.jp/norton/*
-*://www.amazon.co.jp/Norton-%E3%80%90Amazon-co-jp*
-*://bluejewel.base.shop/*
-*://note.com/sane_cedum9353/*
-*://orikuji.com/*
-*://oripa.co.jp/*
-*://onlineoripa.jp/*
-*://onlineoripa-mania.jp/*
-*://note.com/japan_cio_info/*
-*://oripa-g-men.com/*
-*://akihabara-cardshop.com/*
-*://note.com/oripa_kensyo/*
-*://www.pokeca-zanmai.jp/*
-*://oripacard.com/*
-*://oripa-online8.com/*
-*://dragongame.jp/*
-*://oripa.ex-toreca.com/*
-*://oripa-osusume.jp/*
-*://note.com/onlineoripa/*
-*://online-oripa.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16266,6 +16232,7 @@
 *://akhbar-tibiya.shop/*
 *://akibablog.blog.jp/*
 *://akieabe.jp/*
+*://akihabara-cardshop.com/*
 *://akihirog.net/*
 *://akikaipp.com/*
 *://akiko-fukuoka.com/*
@@ -17066,6 +17033,7 @@
 *://bluehawke.com/*
 *://bluehorizon-yachting.com/*
 *://bluehornettheband.com/*
+*://bluejewel.base.shop/*
 *://bluekik.pro/*
 *://bluelabel.jp/*
 *://bluelement.in/*
@@ -18078,6 +18046,7 @@
 *://dragomquesi.com/*
 *://dragon-quest.me/*
 *://dragon-risinghigh2024.com/*
+*://dragongame.jp/*
 *://drama-morningfun.com/*
 *://drama-reel.com/*
 *://dramaru.net/*
@@ -18464,6 +18433,7 @@
 *://esdg.org/*
 *://espacioapk.com/*
 *://espacioapk.com/youtube-revanced/*
+*://esports-ekichika.net/*
 *://esportsplayer-pc.com/*
 *://espotimod.pro/*
 *://espritpress.com/*
@@ -19259,6 +19229,7 @@
 *://group.ureru.co.jp/*
 *://groupbyte.ecstasybox.cfbx.jp/*
 *://groupie55.com/*
+*://growdeco.co.jp/*
 *://grpasba.xyz/*
 *://gsepn.net/*
 *://gshade.org/*
@@ -19620,6 +19591,7 @@
 *://hnv.jp/*
 *://hoalanfoods.vn/*
 *://hobby-band-association.com/*
+*://hobbyjinsei.com/*
 *://hoccorito.com/*
 *://hodacieus.com/*
 *://hodgkinvzw.be/*
@@ -19928,6 +19900,7 @@
 *://irodori-cafeblog.com/*
 *://irodori3.com/*
 *://irodori365.com/*
+*://irodoricard.base.shop/*
 *://irodorich.com/*
 *://irohanihohoho.com/*
 *://iroiro-hassin-blog.com/*
@@ -19966,6 +19939,7 @@
 *://itecnote.com/*
 *://itecnotes.com/*
 *://itectec.com/*
+*://item.rakuten.co.jp/norton/*
 *://item.woomy.me/*
 *://itemcube.jp/*
 *://iti-inc.co.jp/*
@@ -20134,6 +20108,7 @@
 *://jp.itopvpn.com/*
 *://jp.ldplayer.net/apps/*
 *://jp.mobile.japex.ru/*
+*://jp.norton.com/*
 *://jp.pogoskill.com/*
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
@@ -20507,6 +20482,7 @@
 *://kodomo.kamakuraborikaikan.jp/*
 *://koe-voice.jp/*
 *://kofushingen.jp/*
+*://kogane-games.hatenablog.com/*
 *://kohaku.pochasiko.com/*
 *://kohiyoto.com/*
 *://kohjiro.jp/*
@@ -22166,6 +22142,7 @@
 *://note.com/iphone_air/*
 *://note.com/iswanin2/*
 *://note.com/j_yuto/*
+*://note.com/japan_cio_info/*
 *://note.com/japanpromos/*
 *://note.com/jigami/*
 *://note.com/jikenwo_kaimei/*
@@ -22280,8 +22257,10 @@
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
 *://note.com/omochi0014/*
+*://note.com/onlineoripa/*
 *://note.com/open_fennel6445/*
 *://note.com/open_hare4661/*
+*://note.com/oripa_kensyo/*
 *://note.com/orisusarusan/*
 *://note.com/otosan_creation/*
 *://note.com/outdoorlifestyle/*
@@ -22329,6 +22308,7 @@
 *://note.com/saa617/*
 *://note.com/safe_panda2627/*
 *://note.com/sagihantai_note/*
+*://note.com/sane_cedum9353/*
 *://note.com/sane_pothos8184/*
 *://note.com/sato_c117127/*
 *://note.com/sawai100/*
@@ -22640,8 +22620,11 @@
 *://onitsukatigerdeal.com/*
 *://onitsukatigersell.shop/*
 *://onlee.jp/*
+*://online-oripa.jp/*
 *://onlinecampus.lk/*
 *://onlineclass-gets.jp/*
+*://onlineoripa-mania.jp/*
+*://onlineoripa.jp/*
 *://onlinesalon-mania.com/*
 *://onlineshop.jcom.co.jp/*
 *://onlyone-blog.com/*
@@ -22677,7 +22660,16 @@
 *://orichansblog.com/*
 *://oricoma.com/*
 *://oriental-hobbies.online/*
+*://orikuji.com/*
+*://oripa-g-men.com/*
+*://oripa-hikaku.jp/*
+*://oripa-online8.com/*
+*://oripa-osusume.jp/*
+*://oripa.co.jp/*
+*://oripa.ex-toreca.com/*
 *://oripa.jpn.org/*
+*://oripacard.com/*
+*://oripalette.jp/*
 *://oripaone.jp/*
 *://orqykth.biz/*
 *://osaboo.info/*
@@ -22945,6 +22937,7 @@
 *://play-video-84.blogspot.com/*
 *://play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced*
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
+*://play.google.com/store/apps/details?id=com.pokeca*
 *://play.google.com/store/apps/details?id=com.truecaller*
 *://play.google.com/store/apps/details?id=hotspotshield.android.vpn*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
@@ -22990,7 +22983,9 @@
 *://poke-m.com/*
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
+*://pokeca.com/*
 *://pokemon-matome.net/*
+*://pokepa365.com/*
 *://pokesalear.live/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
 *://polarusso.com/*
@@ -23941,6 +23936,7 @@
 *://ske48-audition-11th.jp/*
 *://skets.jp/*
 *://skill-hacks.co.jp/*
+*://skillboosthub.link/*
 *://skillhub.jp/*
 *://skinvy.in/*
 *://skipnpk.top/*
@@ -24227,6 +24223,7 @@
 *://store.azki-official.com/*
 *://store.breguet.cn/*
 *://store.makuake.com/*
+*://store.shopping.yahoo.co.jp/norton/*
 *://stores.chaumet.cn/*
 *://storyoffilm-japan.com/*
 *://storypick.net/*
@@ -25605,6 +25602,7 @@
 *://www.alqfvxf.cn/*
 *://www.amazon.bygg199.top/*
 *://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84-JP18BK-%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/dp/B0FR8LHL36
+*://www.amazon.co.jp/Norton-%E3%80%90Amazon-co-jp*
 *://www.amazon.co.jp/dp/B0FR8LHL36*
 *://www.amigolibreria.com/*
 *://www.amjad.xyz/*
@@ -26763,6 +26761,7 @@
 *://www.pmeasuring.com/*
 *://www.pnjuuvs.cn/*
 *://www.pointtown.com/*
+*://www.pokeca-zanmai.jp/*
 *://www.poliacero.com/*
 *://www.pollapolly.com/*
 *://www.polybandas.cl/*
@@ -27663,6 +27662,7 @@
 *://youtubpremiummodapk.com/*
 *://youtubvanced.org/*
 *://youtupeople.com/*
+*://youvic.jp/*
 *://yowlsyhz.malaysiainternationalschools.com/*
 *://yptnfqth.guru/*
 *://yrstest.dev-env.xyz/*

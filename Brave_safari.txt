@@ -558,6 +558,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||akhbara24.news^$document
 ||akibablog.blog.jp^$document
 ||akieabe.jp^$document
+||akihabara-cardshop.com^$document
 ||akihirog.net^$document
 ||akikaipp.com^$document
 ||akiko-fukuoka.com^$document
@@ -1377,6 +1378,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bluehawke.com^$document
 ||bluehorizon-yachting.com^$document
 ||bluehornettheband.com^$document
+||bluejewel.base.shop^$document
 ||bluekik.pro^$document
 ||bluelabel.jp^$document
 ||bluelement.in^$document
@@ -2401,6 +2403,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dragomquesi.com^$document
 ||dragon-quest.me^$document
 ||dragon-risinghigh2024.com^$document
+||dragongame.jp^$document
 ||drama-morningfun.com^$document
 ||drama-reel.com^$document
 ||dramaru.net^$document
@@ -2791,6 +2794,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||esdg.org^$document
 ||espacioapk.com/youtube-revanced^$document
 ||espacioapk.com^$document
+||esports-ekichika.net^$document
 ||esportsplayer-pc.com^$document
 ||espotimod.pro^$document
 ||espritpress.com^$document
@@ -3595,6 +3599,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||group.ureru.co.jp^$document
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
+||growdeco.co.jp^$document
 ||grpasba.xyz^$document
 ||gsepn.net^$document
 ||gshade.org^$document
@@ -3958,6 +3963,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hnv.jp^$document
 ||hoalanfoods.vn^$document
 ||hobby-band-association.com^$document
+||hobbyjinsei.com^$document
 ||hoccorito.com^$document
 ||hodacieus.com^$document
 ||hodgkinvzw.be^$document
@@ -4274,6 +4280,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||irodori-cafeblog.com^$document
 ||irodori3.com^$document
 ||irodori365.com^$document
+||irodoricard.base.shop^$document
 ||irodorich.com^$document
 ||irohanihohoho.com^$document
 ||iroiro-hassin-blog.com^$document
@@ -4312,6 +4319,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||itecnote.com^$document
 ||itecnotes.com^$document
 ||itectec.com^$document
+||item.rakuten.co.jp/norton^$document
 ||item.woomy.me^$document
 ||itemcube.jp^$document
 ||iti-inc.co.jp^$document
@@ -4482,6 +4490,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp.itopvpn.com^$document
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
+||jp.norton.com^$document
 ||jp.pogoskill.com^$document
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
@@ -4863,6 +4872,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kodomo.kamakuraborikaikan.jp^$document
 ||koe-voice.jp^$document
 ||kofushingen.jp^$document
+||kogane-games.hatenablog.com^$document
 ||kohaku.pochasiko.com^$document
 ||kohiyoto.com^$document
 ||kohjiro.jp^$document
@@ -6553,6 +6563,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/iphone_air^$document
 ||note.com/iswanin2^$document
 ||note.com/j_yuto^$document
+||note.com/japan_cio_info^$document
 ||note.com/japanpromos^$document
 ||note.com/jigami^$document
 ||note.com/jikenwo_kaimei^$document
@@ -6667,8 +6678,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/ojirolian^$document
 ||note.com/okinisezu^$document
 ||note.com/omochi0014^$document
+||note.com/onlineoripa^$document
 ||note.com/open_fennel6445^$document
 ||note.com/open_hare4661^$document
+||note.com/oripa_kensyo^$document
 ||note.com/orisusarusan^$document
 ||note.com/otosan_creation^$document
 ||note.com/outdoorlifestyle^$document
@@ -6716,6 +6729,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/saa617^$document
 ||note.com/safe_panda2627^$document
 ||note.com/sagihantai_note^$document
+||note.com/sane_cedum9353^$document
 ||note.com/sane_pothos8184^$document
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
@@ -7032,8 +7046,11 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||onitsukatigerdeal.com^$document
 ||onitsukatigersell.shop^$document
 ||onlee.jp^$document
+||online-oripa.jp^$document
 ||onlinecampus.lk^$document
 ||onlineclass-gets.jp^$document
+||onlineoripa-mania.jp^$document
+||onlineoripa.jp^$document
 ||onlinesalon-mania.com^$document
 ||onlineshop.jcom.co.jp^$document
 ||onlyone-blog.com^$document
@@ -7070,7 +7087,16 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||orichansblog.com^$document
 ||oricoma.com^$document
 ||oriental-hobbies.online^$document
+||orikuji.com^$document
+||oripa-g-men.com^$document
+||oripa-hikaku.jp^$document
+||oripa-online8.com^$document
+||oripa-osusume.jp^$document
+||oripa.co.jp^$document
+||oripa.ex-toreca.com^$document
 ||oripa.jpn.org^$document
+||oripacard.com^$document
+||oripalette.jp^$document
 ||oripaone.jp^$document
 ||orqykth.biz^$document
 ||oryouri.2chblog.jp^$document
@@ -7382,7 +7408,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||poke-m.com^$document
 ||poke0418hobbyblog.com^$document
 ||pokebras.jp^$document
+||pokeca.com^$document
 ||pokemon-matome.net^$document
+||pokepa365.com^$document
 ||pokesalear.live^$document
 ||pokmon-tcg-pocket-mod.latestmodapks.com^$document
 ||polarusso.com^$document
@@ -8397,6 +8425,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ske48-audition-11th.jp^$document
 ||skets.jp^$document
 ||skill-hacks.co.jp^$document
+||skillboosthub.link^$document
 ||skillhub.jp^$document
 ||skinvy.in^$document
 ||skipnpk.top^$document
@@ -8708,6 +8737,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||store.azki-official.com^$document
 ||store.breguet.cn^$document
 ||store.makuake.com^$document
+||store.shopping.yahoo.co.jp/norton^$document
 ||stores.chaumet.cn^$document
 ||storyoffilm-japan.com^$document
 ||storypick.net^$document
@@ -11319,6 +11349,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.pmeasuring.com^$document
 ||www.pnjuuvs.cn^$document
 ||www.pointtown.com^$document
+||www.pokeca-zanmai.jp^$document
 ||www.poliacero.com^$document
 ||www.pollapolly.com^$document
 ||www.polybandas.cl^$document
@@ -12233,6 +12264,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||youtubpremiummodapk.com^$document
 ||youtubvanced.org^$document
 ||youtupeople.com^$document
+||youvic.jp^$document
 ||yowlsyhz.malaysiainternationalschools.com^$document
 ||yptnfqth.guru^$document
 ||yrstest.dev-env.xyz^$document
