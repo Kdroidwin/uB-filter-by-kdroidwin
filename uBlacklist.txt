@@ -4,6 +4,7 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
+*://note.com/toyoshi_y1126/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
