@@ -8,6 +8,12 @@
 *://note.com/hokanobeat/*
 *://note.com/left/*
 *://comic2026.wew.jp/*
+*://kirishima-live.jpn.org/*
+*://doujiiin.com/*
+*://konan-connect.jp/*
+*://doujinshinsaku.com/*
+*://nozokix.info/*
+*://www.sslake.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
