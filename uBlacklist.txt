@@ -1,25 +1,9 @@
 *://*.000webhostapp.com/*
-*://note.com/saraveendran/*
-*://note.com/my_creator2/*
-*://note.com/bright_stilt607/*
-*://note.com/relaxmax/*
-*://note.com/ekokosu/*
-*://note.com/horus_eyes/*
-*://note.com/hokanobeat/*
-*://note.com/left/*
-*://comic2026.wew.jp/*
-*://kirishima-live.jpn.org/*
-*://doujiiin.com/*
-*://konan-connect.jp/*
-*://doujinshinsaku.com/*
-*://nozokix.info/*
-*://www.sslake.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://note.com/toyoshi_y1126/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -17549,6 +17533,7 @@
 *://comic0yen.com/*
 *://comic1.lsv.jp/*
 *://comic104.com/*
+*://comic2026.wew.jp/*
 *://comicc.honmadekka-channel.com/*
 *://comicloop.jp/*
 *://comicraw.jp/*
@@ -17983,6 +17968,7 @@
 *://douga-man.hatenablog.com/*
 *://douga-sabusuku.com/*
 *://dougaguild.xsrv.jp/*
+*://doujiiin.com/*
 *://doujin-ai.com/*
 *://doujin-archive.com/*
 *://doujin-comics.toremani.com/*
@@ -18032,6 +18018,7 @@
 *://doujinshi.nekopanchi.org/*
 *://doujinshiblog.com/*
 *://doujinshiman.com/*
+*://doujinshinsaku.com/*
 *://doujinsokuhou45.com/*
 *://doujinwiki.com/*
 *://doutera.com/*
@@ -20419,6 +20406,7 @@
 *://kirari-n.com/*
 *://kirarinaruto.jp/*
 *://kireinotane.jp/*
+*://kirishima-live.jpn.org/*
 *://kiritoblog.com/*
 *://kirovskuiraion.ru/*
 *://kiset-season.com/*
@@ -20528,6 +20516,7 @@
 *://komine-gangu.jp/*
 *://komono.me/*
 *://komugi-web.site/*
+*://konan-connect.jp/*
 *://konbun.jp/*
 *://konf.me/*
 *://kongodo.online/*
@@ -22060,6 +22049,7 @@
 *://note.com/bostonmio/*
 *://note.com/brave_borage2759/*
 *://note.com/bright_llama373/*
+*://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*
 *://note.com/chawanwabita/*
 *://note.com/chizuru1122/*
@@ -22093,6 +22083,7 @@
 *://note.com/drneurosur/*
 *://note.com/duppyclub/*
 *://note.com/egao_no_care_nao/*
+*://note.com/ekokosu/*
 *://note.com/eru1881/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/fair_godwit545/*
@@ -22144,10 +22135,12 @@
 *://note.com/hit_ranking/*
 *://note.com/hitobashira_/*
 *://note.com/hitotsu_ai/*
+*://note.com/hokanobeat/*
 *://note.com/holy_beetle811
 *://note.com/holy_beetle811/*
 *://note.com/holy_pony5936/*
 *://note.com/honokamaison/*
+*://note.com/horus_eyes/*
 *://note.com/hsp_kazu/*
 *://note.com/huge_roses2687/*
 *://note.com/icchi_thoughts/*
@@ -22204,6 +22197,7 @@
 *://note.com/kyari_mon/*
 *://note.com/l_mrk/*
 *://note.com/labo_rainbow/*
+*://note.com/left/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
 *://note.com/like_bonobo2466/*
@@ -22247,6 +22241,7 @@
 *://note.com/mumu2212/*
 *://note.com/muratooo/*
 *://note.com/muryoudouga*
+*://note.com/my_creator2/*
 *://note.com/myluck/*
 *://note.com/mymonolab/*
 *://note.com/nakanaka_2025/*
@@ -22308,6 +22303,7 @@
 *://note.com/ready_newt6023/*
 *://note.com/realme_note/*
 *://note.com/reiwamoney1/*
+*://note.com/relaxmax/*
 *://note.com/renai_mbti/*
 *://note.com/reraco/*
 *://note.com/restruct/*
@@ -22328,6 +22324,7 @@
 *://note.com/sagihantai_note/*
 *://note.com/sane_cedum9353/*
 *://note.com/sane_pothos8184/*
+*://note.com/saraveendran/*
 *://note.com/sato_c117127/*
 *://note.com/sawai100/*
 *://note.com/sayakablog/*
@@ -22380,6 +22377,7 @@
 *://note.com/torataka50/*
 *://note.com/totalnewsworld/*
 *://note.com/toy_hobby/*
+*://note.com/toyoshi_y1126/*
 *://note.com/travel_paya/*
 *://note.com/trivia_kingdom/*
 *://note.com/uber_tantan02*
@@ -22440,6 +22438,7 @@
 *://now-nippon.com/*
 *://now-trendy.com/*
 *://nowdy.jpn.org/*
+*://nozokix.info/*
 *://nozomimiyazaki.main.jp/*
 *://np027-subsc-bm.xyz/*
 *://npbsukisuki.com/*
@@ -27039,6 +27038,7 @@
 *://www.sprint50.jp/*
 *://www.srcboat.fi/*
 *://www.sreemahadevgroup9.com/*
+*://www.sslake.com/*
 *://www.st-futaba.jp/*
 *://www.st-johnfisher.ealing.sch.uk/*
 *://www.stackfinder.ru/*

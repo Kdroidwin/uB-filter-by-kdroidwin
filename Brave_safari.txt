@@ -112,6 +112,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*softonic.*^$all
+||-jp.co^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -1887,6 +1888,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||comic0yen.com^$document
 ||comic1.lsv.jp^$document
 ||comic104.com^$document
+||comic2026.wew.jp^$document
 ||comicc.honmadekka-channel.com^$document
 ||comicloop.jp^$document
 ||comicraw.jp^$document
@@ -2324,6 +2326,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||douga-man.hatenablog.com^$document
 ||douga-sabusuku.com^$document
 ||dougaguild.xsrv.jp^$document
+||doujiiin.com^$document
 ||doujin-ai.com^$document
 ||doujin-archive.com^$document
 ||doujin-comics.toremani.com^$document
@@ -2373,6 +2376,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||doujinshi.nekopanchi.org^$document
 ||doujinshiblog.com^$document
 ||doujinshiman.com^$document
+||doujinshinsaku.com^$document
 ||doujinsokuhou45.com^$document
 ||doujinwiki.com^$document
 ||doutera.com^$document
@@ -4790,6 +4794,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kirari-n.com^$document
 ||kirarinaruto.jp^$document
 ||kireinotane.jp^$document
+||kirishima-live.jpn.org^$document
 ||kiritoblog.com^$document
 ||kirovskuiraion.ru^$document
 ||kiset-season.com^$document
@@ -4903,6 +4908,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||komine-gangu.jp^$document
 ||komono.me^$document
 ||komugi-web.site^$document
+||konan-connect.jp^$document
 ||konbun.jp^$document
 ||konf.me^$document
 ||kongodo.online^$document
@@ -6466,6 +6472,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/bostonmio^$document
 ||note.com/brave_borage2759^$document
 ||note.com/bright_llama373^$document
+||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
 ||note.com/chawanwabita^$document
 ||note.com/chizuru1122^$document
@@ -6499,6 +6506,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/drneurosur^$document
 ||note.com/duppyclub^$document
 ||note.com/egao_no_care_nao^$document
+||note.com/ekokosu^$document
 ||note.com/eru1881^$document
 ||note.com/f00b4r/n/n1fe7afacadd7^$document
 ||note.com/fair_godwit545^$document
@@ -6550,9 +6558,11 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/hit_ranking^$document
 ||note.com/hitobashira_^$document
 ||note.com/hitotsu_ai^$document
+||note.com/hokanobeat^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_pony5936^$document
 ||note.com/honokamaison^$document
+||note.com/horus_eyes^$document
 ||note.com/hsp_kazu^$document
 ||note.com/huge_roses2687^$document
 ||note.com/icchi_thoughts^$document
@@ -6609,6 +6619,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/kyari_mon^$document
 ||note.com/l_mrk^$document
 ||note.com/labo_rainbow^$document
+||note.com/left^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
 ||note.com/like_bonobo2466^$document
@@ -6652,6 +6663,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/mumu2212^$document
 ||note.com/muratooo^$document
 ||note.com/muryoudouga^$document
+||note.com/my_creator2^$document
 ||note.com/myluck^$document
 ||note.com/mymonolab^$document
 ||note.com/nakanaka_2025^$document
@@ -6713,6 +6725,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/ready_newt6023^$document
 ||note.com/realme_note^$document
 ||note.com/reiwamoney1^$document
+||note.com/relaxmax^$document
 ||note.com/renai_mbti^$document
 ||note.com/reraco^$document
 ||note.com/restruct^$document
@@ -6733,6 +6746,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/sagihantai_note^$document
 ||note.com/sane_cedum9353^$document
 ||note.com/sane_pothos8184^$document
+||note.com/saraveendran^$document
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
 ||note.com/sayakablog^$document
@@ -6785,6 +6799,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/torataka50^$document
 ||note.com/totalnewsworld^$document
 ||note.com/toy_hobby^$document
+||note.com/toyoshi_y1126^$document
 ||note.com/travel_paya^$document
 ||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02^$document
@@ -6845,6 +6860,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||now-nippon.com^$document
 ||now-trendy.com^$document
 ||nowdy.jpn.org^$document
+||nozokix.info^$document
 ||nozomimiyazaki.main.jp^$document
 ||np027-subsc-bm.xyz^$document
 ||npbsukisuki.com^$document
@@ -11613,6 +11629,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.squareclip.jp^$document
 ||www.srcboat.fi^$document
 ||www.sreemahadevgroup9.com^$document
+||www.sslake.com^$document
 ||www.st-futaba.jp^$document
 ||www.st-johnfisher.ealing.sch.uk^$document
 ||www.stackfinder.ru^$document
