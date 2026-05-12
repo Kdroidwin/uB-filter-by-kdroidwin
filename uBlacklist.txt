@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://iyashinonanyo.jp/*
-*://www.shinanonouen.jp/*
-*://lovelive-aqoursclub.jp/*
-*://sw.run/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -19964,6 +19960,7 @@
 *://iwanami-hall.com/*
 *://iwatekko.jp/*
 *://ixamiviboq.obentreprendre.fr/*
+*://iyashinonanyo.jp/*
 *://iync.org/*
 *://izanagi-jingu.jp/*
 *://izone-rememberz.com/*
@@ -20859,6 +20856,7 @@
 *://lovefortune.zappallas.com/*
 *://lovegraph.me/*
 *://loveh.st-futaba.jp/*
+*://lovelive-aqoursclub.jp/*
 *://lovelive-sif.top/*
 *://loveliveallstar.top/*
 *://lovelivematocha.com/*
@@ -24388,6 +24386,7 @@
 *://suzured.com/*
 *://svencioniuprc.lt/*
 *://sw.queenmobile.me/*
+*://sw.run/*
 *://sweetville.net/*
 *://swgalaxyrp.net/*
 *://swm-2023-astro.vercel.app/*
@@ -26968,6 +26967,7 @@
 *://www.shikoku-taikonohana.com/*
 *://www.shimane-misato.jp/*
 *://www.shimotsuke.co.jp/*
+*://www.shinanonouen.jp/*
 *://www.shinchan-social.jp/*
 *://www.shinei-inc-net.com/*
 *://www.shinhidaka-library.jp/*

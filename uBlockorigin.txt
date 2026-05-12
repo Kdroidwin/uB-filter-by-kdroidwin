@@ -4342,6 +4342,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||iwanami-hall.com^$document
 ||iwatekko.jp^$document
 ||ixamiviboq.obentreprendre.fr^$document
+||iyashinonanyo.jp^$document
 ||iync.org^$document
 ||izanagi-jingu.jp^$document
 ||izone-rememberz.com^$document
@@ -5252,6 +5253,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lovefortune.zappallas.com^$document
 ||lovegraph.me^$document
 ||loveh.st-futaba.jp^$document
+||lovelive-aqoursclub.jp^$document
 ||lovelive-sif.top^$document
 ||loveliveallstar.top^$document
 ||lovelivematocha.com^$document
@@ -8905,6 +8907,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||svencioniuprc.lt^$document
 ||sviluppo-web-qa.it^$document
 ||sw.queenmobile.me^$document
+||sw.run^$document
 ||sweetville.net^$document
 ||swgalaxyrp.net^$document
 ||switch-case.com^$document
@@ -11554,6 +11557,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.shikoku-taikonohana.com^$document
 ||www.shimane-misato.jp^$document
 ||www.shimotsuke.co.jp^$document
+||www.shinanonouen.jp^$document
 ||www.shinchan-social.jp^$document
 ||www.shinei-inc-net.com^$document
 ||www.shinhidaka-library.jp^$document
