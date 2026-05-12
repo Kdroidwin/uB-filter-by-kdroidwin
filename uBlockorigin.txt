@@ -5271,6 +5271,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ls6z1wg.h-arlt-fotografie.de^$document
 ||lsanaqz.live^$document
 ||lsboardservices.com^$document
+||lstep.app^$document
 ||ltf91f0r.r.us-east-1.awstrack.me^$document
 ||ltmonod.aflec-fr.org^$document
 ||lucky-lifetime.com^$document
@@ -7127,6 +7128,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||osamunoyume.com^$document
 ||osarai-media.net^$document
 ||osaru-marketing.com^$document
+||osaru01.jp^$document
 ||osatobuririand.com^$document
 ||osenblog.com^$document
 ||oseti.club^$document
@@ -10906,6 +10908,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.irigasi.info^$document
 ||www.iruka-travel.com^$document
 ||www.ishidasui-ten.com^$document
+||www.ishikikaikaku.jp^$document
 ||www.iskra-r.ru^$document
 ||www.island-golf.co.jp^$document
 ||www.islegitsite.com/check/infinitytweet.me^$document
@@ -11378,6 +11381,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.pnjuuvs.cn^$document
 ||www.pointtown.com^$document
 ||www.pokeca-zanmai.jp^$document
+||www.polaris-app.jp^$document
 ||www.poliacero.com^$document
 ||www.pollapolly.com^$document
 ||www.polybandas.cl^$document
