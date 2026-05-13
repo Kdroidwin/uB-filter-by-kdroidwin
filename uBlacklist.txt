@@ -1,5 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://customroofingcontractors.com/*
+*://www.lastpass.com/*
+title/LastPass: /
+*://lastpass.com/*
+title/LastPass Password Manager -/
+*://www.authy.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
