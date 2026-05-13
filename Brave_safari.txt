@@ -1650,7 +1650,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cf962692.cloudfree.jp^$document
 ||cf^$doc,domain=~wacw.cf|~www.river.cf
 ||cfbx.jp^$document
-||cfd^$document,domain=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd|~neko.cfd|~backtesting.cfd|~lunastream.cfd|~turkhub23.cfd|~turkhub8.cfd|~turkhub26.cfd|~turkhub18.cfd|~31vakti93.cfd|~doeda83.cfd|~doeda56.cfd
+||cfd^$document,domain=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd|~neko.cfd|~backtesting.cfd|~lunastream.cfd|~turkhub23.cfd|~turkhub8.cfd|~turkhub26.cfd|~turkhub18.cfd|~31vakti93.cfd|~doeda83.cfd|~doeda56.cfd|~nanobanana.cfd|~midjourney.cfd|~wn03.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
 ||cg.hnt.co.jp^$document
@@ -1788,7 +1788,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
 ||click.mail1.welcomebreak.online^$document
-||click^$document,domain=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click|~seichi.click|~taikosim.click|~trpgsession.click|~tobigeri.click|~hal51.click|~yakushima.click|~8823.click|~www.hotoke.click|~jp.asus.click|~japanesearchery.click|~osushi.click|~storymaker.click|~carinfo.click|~bichiku.click|~signpost.click|~www.hiroshima-nekobugyou.click|~wecima.click|~asus.click|~mugen.click|~creators.click|~www.mugen.click|~www.creators.click|~testspeed.click|~clickclickclick.click|~reactiontime.click|~map-click.click|~randompicker.click|~randomweb.click|~lizard.click|~vclock.click|~www.gress.click|~neoneo.click|~www.mcrypt.click|~doshisha.click|~11874.click|~sumai.click|~ff11-ls.jis.click|~web.kanrikun.click|~chiken.click|~gensi.click|~www.kaitouyoushi.click|~kagaku.click|~kenkolab.click|~science-hub.click|~ima.click|~sexvideo.click|~miraitips.click|~here2.click|~ptpclatter.click|~twooca.click|~hiroblog.click|~rakumob.click|~kitaro.click|~shinya.click|~home-theater.click|~msx.click|~nakagawa.click|~tech-review.click|~3channel.click|~jobswitch.click|~gohan.click|~kenpachi-life.click|~iphonejan.click|~lumina.click|~func-wallet.click|~sashimi.click|~2018fx.click|~pochiru.click|~koneta.click|~local-china.click|~white-star.click|~figure.click|~koyuki.click|~novelgamewizard.jis.click|~ushiushi.click|~blogruoh.click|~game-player.click|~manga-zip.click|~otakatu.koyuki.click|~bellwether.click|~fujita-clinic.click|~satoken.click|~gracha.click|~acortar.click|~acortar.click|~fatturapro.click|~hoteljanken.click|~clicknupload.click|~technote.click|~clickon.click|~links.click|~sekibiyousitu1984.click|~bernhair.click|~yururisora.click|~kaito.click|~kotake.click|~onecall.click|~mishimaekimae.click|~koriyama-kankyobokin.click|~kyokuto-k.click|~istep.click
+||click^$document,domain=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click|~seichi.click|~taikosim.click|~trpgsession.click|~tobigeri.click|~hal51.click|~yakushima.click|~8823.click|~www.hotoke.click|~jp.asus.click|~japanesearchery.click|~osushi.click|~storymaker.click|~carinfo.click|~bichiku.click|~signpost.click|~www.hiroshima-nekobugyou.click|~wecima.click|~asus.click|~mugen.click|~creators.click|~www.mugen.click|~www.creators.click|~testspeed.click|~clickclickclick.click|~reactiontime.click|~map-click.click|~randompicker.click|~randomweb.click|~lizard.click|~vclock.click|~www.gress.click|~neoneo.click|~www.mcrypt.click|~doshisha.click|~11874.click|~sumai.click|~ff11-ls.jis.click|~web.kanrikun.click|~chiken.click|~gensi.click|~www.kaitouyoushi.click|~kagaku.click|~kenkolab.click|~science-hub.click|~ima.click|~sexvideo.click|~miraitips.click|~here2.click|~ptpclatter.click|~twooca.click|~hiroblog.click|~rakumob.click|~kitaro.click|~shinya.click|~home-theater.click|~msx.click|~nakagawa.click|~tech-review.click|~3channel.click|~jobswitch.click|~gohan.click|~kenpachi-life.click|~iphonejan.click|~lumina.click|~func-wallet.click|~sashimi.click|~2018fx.click|~pochiru.click|~koneta.click|~local-china.click|~white-star.click|~figure.click|~koyuki.click|~novelgamewizard.jis.click|~ushiushi.click|~blogruoh.click|~game-player.click|~manga-zip.click|~otakatu.koyuki.click|~bellwether.click|~fujita-clinic.click|~satoken.click|~gracha.click|~acortar.click|~acortar.click|~fatturapro.click|~hoteljanken.click|~clicknupload.click|~technote.click|~clickon.click|~links.click|~sekibiyousitu1984.click|~bernhair.click|~yururisora.click|~kaito.click|~kotake.click|~onecall.click|~mishimaekimae.click|~koriyama-kankyobokin.click|~kyokuto-k.click|~istep.click|~amigos.click|~bangdoll.click|~crecer.click|~deepimpact.jp.click|~excel-template.click|~excell.click|~jis.click|~heiyudou.click|~l2e.click|~lolidouga.click|~m.kikou.click|~moderatolabs.click|~mochi.click|~news-enterme2025.click|~sakurai.click|~shimizuya.click|~timesharehotel-createur.click|~www.activehome.click|~www.novoazushin.ola.click|~www.sakai.click|~www.tabinosirusi.click|~www.wadosushirestaurant.ola.click
 ||clickfordetayiso.online^$document
 ||clicktrade.jp^$document
 ||clientes.selecmoda.com^$document
@@ -2015,6 +2015,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||current-one.com^$document
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
+||customroofingcontractors.com^$document
 ||cute.bau-bau.jp^$document
 ||cuty.jp^$document
 ||cuzzell.com^$document
@@ -5073,6 +5074,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||laponas.com^$document
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
+||lastpass.com^$document
 ||lataoo.com^$document
 ||latestmodapks.com^$document
 ||laughbeauty.com^$document
@@ -6074,7 +6076,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||my.avira.com^$document
 ||my.hintup.io^$document
 ||my90p.com^$document
-||my^$document,domain=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my|~frdl.my|~nunflix.my|~ypmaidam.my|~mcplus.my|~compasia.my|~sooka.my|~www.amway.my|~www.mudah.my|~radioonline.my|~bjak.my|~cathaypacific.com.my|~starplanet.com.my|~radio-online.my|~unifi.com.my|~rfi.my|~sysar.my|~www.lovisa.my|~www.ismiledental.my|~spx.com.my|~era.syok.my|~ecentral.my|~curtin.edu.my|~zakatpahang.my|~uec.dongzong.my|~mytownkl.com.my|~nyxcosmetics.com.my|~khatam.com.my|~www.unipin.my|~habra.com.my|~shinzushi.my|~www.thestar.com.my|~www.hmetro.com.my|~www.maybank2u.com.my|~www.sinarharian.com.my|~www.sinchew.com.my|~www.myeg.com.my|~www.cimbclicks.com.my|~iprice.my|~ch.ucsiuniversity.edu.my|~lib.ucsiuniversity.edu.my|~www.ssm4u.com.my|~astrogo.astro.com.my|~ipgkik.moe.edu.my|~library.apu.edu.my|~www.shinjiru.com.my|~ipgkba.moe.edu.my|~www.ecentral.my|~www.napei.org.my|~apcore.apu.edu.my|~ipgki.moe.edu.my|~forms.sites.apiit.edu.my|~enterprise.sites.apiit.edu.my|~shopee.com.my|~siakapkeli.my|~ticket2u.com.my|~apspace.sites.apiit.edu.my|~studentaffairs.apu.edu.my|~thesun.my|~my.utm.my|~sites.apiit.edu.my|~ezbiz.ssm.com.my|~masjidnetwork.my|~www.carlist.my|~mypolycc.edu.my|~www.purina.com.my|~edu.my
+||my^$document,domain=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my|~frdl.my|~nunflix.my|~ypmaidam.my|~mcplus.my|~compasia.my|~sooka.my|~www.amway.my|~www.mudah.my|~radioonline.my|~bjak.my|~cathaypacific.com.my|~starplanet.com.my|~radio-online.my|~unifi.com.my|~rfi.my|~sysar.my|~www.lovisa.my|~www.ismiledental.my|~spx.com.my|~era.syok.my|~ecentral.my|~curtin.edu.my|~zakatpahang.my|~uec.dongzong.my|~mytownkl.com.my|~nyxcosmetics.com.my|~khatam.com.my|~www.unipin.my|~habra.com.my|~shinzushi.my|~www.thestar.com.my|~www.hmetro.com.my|~www.maybank2u.com.my|~www.sinarharian.com.my|~www.sinchew.com.my|~www.myeg.com.my|~www.cimbclicks.com.my|~iprice.my|~ch.ucsiuniversity.edu.my|~lib.ucsiuniversity.edu.my|~www.ssm4u.com.my|~astrogo.astro.com.my|~ipgkik.moe.edu.my|~library.apu.edu.my|~www.shinjiru.com.my|~ipgkba.moe.edu.my|~www.ecentral.my|~www.napei.org.my|~apcore.apu.edu.my|~ipgki.moe.edu.my|~forms.sites.apiit.edu.my|~enterprise.sites.apiit.edu.my|~shopee.com.my|~siakapkeli.my|~ticket2u.com.my|~apspace.sites.apiit.edu.my|~studentaffairs.apu.edu.my|~thesun.my|~my.utm.my|~sites.apiit.edu.my|~ezbiz.ssm.com.my|~masjidnetwork.my|~www.carlist.my|~mypolycc.edu.my|~www.purina.com.my|~edu.my|~msaj.my
 ||mybestblog1.com^$document
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
@@ -10291,6 +10293,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.atmosfera59.ru^$document
 ||www.atpress.ne.jp^$document
 ||www.atz-industry.com^$document
+||www.authy.com^$document
 ||www.autismocoruna.org^$document
 ||www.avantiegypt.com^$document
 ||www.avanza-events.com^$document
@@ -11057,6 +11060,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.lafioaee.net^$document
 ||www.lakesideretreats.uk^$document
 ||www.lamaoeditions.com^$document
+||www.lastpass.com^$document
 ||www.launaycouverture.fr^$document
 ||www.laveille.jp^$document
 ||www.laxminarayanexpert.com^$document

@@ -2015,6 +2015,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||current-one.com^$document
 ||curta.online^$document
 ||cuskst9p.ganis.co.uk^$document
+||customroofingcontractors.com^$document
 ||cute.bau-bau.jp^$document
 ||cuty.jp^$document
 ||cuzzell.com^$document
@@ -5073,6 +5074,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||laponas.com^$document
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
+||lastpass.com^$document
 ||lataoo.com^$document
 ||latestmodapks.com^$document
 ||laughbeauty.com^$document
@@ -10291,6 +10293,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.atmosfera59.ru^$document
 ||www.atpress.ne.jp^$document
 ||www.atz-industry.com^$document
+||www.authy.com^$document
 ||www.autismocoruna.org^$document
 ||www.avantiegypt.com^$document
 ||www.avanza-events.com^$document
@@ -11057,6 +11060,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.lafioaee.net^$document
 ||www.lakesideretreats.uk^$document
 ||www.lamaoeditions.com^$document
+||www.lastpass.com^$document
 ||www.launaycouverture.fr^$document
 ||www.laveille.jp^$document
 ||www.laxminarayanexpert.com^$document
