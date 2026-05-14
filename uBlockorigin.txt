@@ -4,7 +4,6 @@
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
-||mag2.com/m/0001693629^$document
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^.*(qr-topayday).*\.com(/[a-z0-9_-]?.*)?$/$doc
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
@@ -684,6 +683,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ameblo.jp/komochi333^$document
 ||ameblo.jp/kusowii^$document
 ||ameblo.jp/mangarawzip^$document
+||ameblo.jp/masasan731^$document
 ||ameblo.jp/moju0304^$document
 ||ameblo.jp/monsukehbc^$document
 ||ameblo.jp/natsumikanoa1324^$document
@@ -1985,6 +1985,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||crass21m.jettysuites.com^$document
 ||create-stmedia.com^$document
 ||creatorcafey.com^$document
+||creatorsacademy.jp^$document
 ||creatorzz.co.jp^$document
 ||crefan.info^$document
 ||crestedbuttesnowsports.org^$document
@@ -3650,6 +3651,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hacking8.xyz^$document
 ||had-originals.jp^$document
 ||hadesign.jp^$document
+||hafnano.com^$document
 ||hagelicious.com^$document
 ||hagemag.com^$document
 ||hagemarugt.com^$document
@@ -4141,6 +4143,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||iitdgroup.ru^$document
 ||ijcnaxf.xyz^$document
 ||ikagakun.hatenablog.com^$document
+||ikawamototaka.com^$document
 ||ike-net.jp^$document
 ||ikeda-yoshitaka.jp^$document
 ||ikedahayato.com^$document
@@ -5356,6 +5359,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||maeharablog.com^$document
 ||mafumafu-fan.com^$document
 ||mag.app-liv.jp^$document
+||mag2.com/m/0001693629^$document
 ||mag2.com/m/0001699298^$document
 ||magazine-k.jp^$document
 ||magazine-list.com^$document
@@ -5390,6 +5394,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||maikumo.com^$document
 ||mail.almightyinfra.com^$document
 ||mail.chocolateslacabana.com^$document
+||mailorder-review.com^$document
 ||maimeng.taobao.com^$document
 ||mainichi-tocotoco.com^$document
 ||mainichigossip.com^$document
@@ -6276,6 +6281,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||newbedev.com^$document
 ||newdays-fresh.com^$document
 ||newerlokas.online^$document
+||newme-school.co.jp^$document
 ||newmexicocountryland.com^$document
 ||newnews36.com^$document
 ||newnormaltourism.jp^$document
@@ -6648,6 +6654,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
 ||note.com/marumaruikuji^$document
+||note.com/masasan731^$document
 ||note.com/mayako_room^$document
 ||note.com/mdsmys^$document
 ||note.com/mental_marcy^$document
@@ -6659,6 +6666,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/mippasan^$document
 ||note.com/mitsubachi0088^$document
 ||note.com/mizuu_note1^$document
+||note.com/mnb196748^$document
 ||note.com/moeuhane22^$document
 ||note.com/mofu_pan^$document
 ||note.com/mokyuchan^$document
@@ -7216,6 +7224,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||p-any.net^$document
 ||p-cipher.store^$document
 ||p-jp.co^$document
+||p-jpy.com^$document
 ||p-pey.net^$document
 ||p-poy.net^$document
 ||p-puy.net^$document
@@ -7350,6 +7359,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pikamama.com^$document
 ||pikaonline.com^$document
 ||pikeplacedesign.com^$document
+||pikpak.com^$document
 ||piku-home.com^$document
 ||pilas-maths.com^$document
 ||pilosaleltd.com^$document
@@ -7410,6 +7420,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||playmods.net^$document
 ||playruneterra.cn^$document
 ||playwithyuzu.com^$document
+||plaza.rakuten.co.jp/tamajinniki2^$document
 ||plazaosaka-database.113110.online^$document
 ||pleasanter.org^$document
 ||pleasure-prisoner.com^$document
@@ -7949,6 +7960,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rockyoupop.com^$document
 ||rocomotion.jp^$document
 ||rocs-project.org^$document
+||rodemani.com^$document
 ||rokepan.com^$document
 ||rokitolar.com^$document
 ||roland-bl.jp^$document
@@ -8221,6 +8233,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sebastianoarmelibattana.com^$document
 ||second.jyoho-library.com^$document
 ||second.ux-design.blog^$document
+||secret-alone-time.com^$document
 ||securitysoftguide.com^$document
 ||see-d.jp^$document
 ||seebeck.co.jp^$document
@@ -9902,6 +9915,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wakamesan-blog.com^$document
 ||wakarannavi.com^$document
 ||wakasiru.com^$document
+||wakatte-tv.net^$document
 ||wakayama-johall.com^$document
 ||wake-up-neo.com^$document
 ||wakuwakuenta.com^$document
@@ -10869,6 +10883,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.housekibako.info^$document
 ||www.houtkopenonline.com^$document
 ||www.hqbcghl.cn^$document
+||www.hrl.jp^$document
 ||www.hs-partner.hamburg^$document
 ||www.hsselite.com^$document
 ||www.hube.jp^$document
@@ -11459,6 +11474,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.rcv.co.jp^$document
 ||www.rdcjtws.cn^$document
 ||www.rdgstl.com^$document
+||www.re-tro.net^$document
 ||www.re2020.jp^$document
 ||www.reaaancollection.com^$document
 ||www.realfast-news.com^$document
@@ -11559,6 +11575,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.seleqt.net^$document
 ||www.semicolonworld.com^$document
 ||www.sengawa-gekijo.jp^$document
+||www.senjutsu.jp^$document
 ||www.setesdal.info^$document
 ||www.sewellbedliningsinc.com^$document
 ||www.sferadistribuzione.it/prize^$document
@@ -11976,6 +11993,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.zphhwal.cn^$document
 ||www.ztffzff.cn^$document
 ||www.ztsky.cn^$document
+||www3.hp-ez.com^$document
 ||www5.japex.ru^$document
 ||wwwjp.jorudan.com.cn^$document
 ||wyiiden.com^$document
