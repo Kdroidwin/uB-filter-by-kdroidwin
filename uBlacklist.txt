@@ -1,6 +1,13 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://juken-mikata.net/how-to/chemistry/*
+*://rezentsns.com/*
+*://www.nakanorilawoffice.com/*
+*://unitree-robot.com/*
+*://shop.unitree.com/*
+*://www.unitree.com/*
+*://robostore.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
