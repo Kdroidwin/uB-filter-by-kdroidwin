@@ -3470,7 +3470,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/AnthemHorizon453^$document
 ||github.com/arsLan4k1390/Cherrygram/releases^$document
 ||github.com/bluemods$all
+||github.com/DuskMosquito^$document
 ||github.com/ElementMidgeFold26^$document
+||github.com/hermafranciosa6375^$document
 ||github.com/hushi01^$document
 ||github.com/kabiyisnail8088^$document
 ||github.com/MaBa162^$document
@@ -3480,10 +3482,13 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/nutterplayer7093^$document
 ||github.com/parth56uygh^$document
 ||github.com/revanced-apks/build-apps^$document
+||github.com/TabooPlanner^$document
 ||github.com/tehcneko^$document
+||github.com/thongthaibm^$document
 ||github.com/Tinumpit02^$document
 ||github.com/YouTube-Premium-APK01^$document
 ||github.com/YoutubePremiummod^$document
+||github.guru^$document
 ||github.heheda.top^$document
 ||github.me^$document
 ||github.net.cn^$document
@@ -3585,6 +3590,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||goopass.club^$document
 ||goopass.jp^$document
 ||goosevpn.com^$document
+||goragalo.live^$document
 ||gordonreecegalleries.com^$document
 ||goread.xyz^$document
 ||gori.me^$document
