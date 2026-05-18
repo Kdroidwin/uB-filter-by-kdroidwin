@@ -1,4 +1,12 @@
 *://*.000webhostapp.com/*
+*://vodpicks.net/*
+*://tokupine.com/*
+*://pp-crd.co/*
+*://github.com/MaBa162/*
+*://maba162.github.io/*
+*://github.com/kabiyisnail8088/*
+*://gltnub.live/*
+*://github.com/ElementMidgeFold26/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
