@@ -1,6 +1,12 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://github.com/DuskMosquito/*
+*://github.com/hermafranciosa6375/*
+*://github.com/TabooPlanner/*
+*://github.com/thongthaibm/*
+*://github.guru/*
+*://goragalo.live/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
