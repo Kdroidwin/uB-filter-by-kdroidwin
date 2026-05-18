@@ -916,6 +916,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||apkpure.com/revanced-extended^$document
 ||apkpure.com/youtube-revanced^$document
 ||apkpure.net/graph-messenger^$document
+||apkpure.net/happymod-2025^$document
+||apkpure.net/jp/happymod-2025^$document
 ||apkpure.net/youtube-revanced^$document
 ||apkrabi.com^$document
 ||apkrealmania.com^$document
@@ -1173,6 +1175,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bad-labo.com^$document
 ||baghdadacademydom.com^$document
 ||baikal.boats^$document
+||baixar.happymod.to^$document
 ||baixarapk.gratis^$document
 ||baixe.net^$document
 ||baked-strontium.jpn.org^$document
@@ -2424,6 +2427,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||download.cnet.com/ccleaner/3000-18512_4-10315544.html^$document
 ||download.cnet.com^$document
 ||download.com^$document
+||download.happymod.to^$document
 ||download.it^$document
 ||download.juxia.com^$document
 ||downloadly.ir^$document
@@ -3466,7 +3470,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||github.com/AnthemHorizon453^$document
 ||github.com/arsLan4k1390/Cherrygram/releases^$document
 ||github.com/bluemods$all
+||github.com/ElementMidgeFold26^$document
 ||github.com/hushi01^$document
+||github.com/kabiyisnail8088^$document
+||github.com/MaBa162^$document
 ||github.com/mrsmiley2008^$document
 ||github.com/Nekogram/Nekogram/releases^$document
 ||github.com/NoName-exe/revanced-extended^$document
@@ -3510,6 +3517,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||glocalnet.jp^$document
 ||glotoolhub.com^$document
 ||glowluxv.com^$document
+||gltnub.live^$document
 ||glucks-web.co.jp^$document
 ||gluglu.jp^$document
 ||gmeetmeat.xyz^$document
@@ -3707,6 +3715,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hal08.com^$document
 ||halilibrahimoslo.online^$document
 ||halnostyle.com^$document
+||haluene.co.jp^$document
 ||hamajira.com^$document
 ||hamame.xyz^$document
 ||hameets.com^$document
@@ -3750,6 +3759,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||happy-happy-news.com^$document
 ||happy-life-style.net^$document
 ||happy-mariring.com^$document
+||happy-mod.com^$document
+||happy-mod.ir^$document
+||happy-mod.org^$document
 ||happy-partnerlife.com^$document
 ||happy69.vercel.app^$document
 ||happyblog.tokyo^$document
@@ -3757,6 +3769,45 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||happycock.club^$document
 ||happyjounal888.com^$document
 ||happylife50s.com^$document
+||happymod-bk5.softonic-th.com^$document
+||happymod-extra.ar.uptodown.com^$document
+||happymod-extra.br.uptodown.com^$document
+||happymod-extra.en.uptodown.com^$document
+||happymod-guide.en.filerox.com^$document
+||happymod.ac^$document
+||happymod.ar.uptodown.com^$document
+||happymod.ar^$document
+||happymod.br.uptodown.com^$document
+||happymod.cloud^$document
+||happymod.co^$document
+||happymod.com.ph^$document
+||happymod.en.aptoide.com^$document
+||happymod.en.uptodown.com^$document
+||happymod.es.downlody.com^$document
+||happymod.fr.uptodown.com^$document
+||happymod.gg^$document
+||happymod.id^$document
+||happymod.jp.aptoide.com^$document
+||happymod.jp.malavida.com^$document
+||happymod.jp.uptodown.com^$document
+||happymod.nulled.com^$document
+||happymod.ph^$document
+||happymod.pro^$document
+||happymod.social^$document
+||happymod.studio^$document
+||happymod.tech^$document
+||happymod.tube^$document
+||happymod.unstore.io^$document
+||happymod.uptodown.com^$document
+||happymod.vn^$document
+||happymod.work^$document
+||happymodcom.com^$document
+||happymodd.com^$document
+||happymodd.org^$document
+||happymodiraq.org^$document
+||happymodpro.in^$document
+||happymods.in^$document
+||happymood.com.mx^$document
 ||happymorning0816.com^$document
 ||happynewstopics.com^$document
 ||happynyan.com^$document
@@ -3879,6 +3930,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hey-chenco.com^$document
 ||heyagasuki.com^$document
 ||hf.ru^$document
+||hhappymod.com^$document
 ||hhdistributors.com^$document
 ||hi-bana.com^$document
 ||hi-mylife15.com^$document
@@ -4352,6 +4404,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||it-trend.jp/vpn/article/48-0076^$document
 ||it-trend.jp^$document
 ||it.apkshub.com^$document
+||it.happymod.cloud^$document
 ||it.it-news-and-events.info^$document
 ||itainews.com^$document
 ||italkyou.cn^$document
@@ -4657,6 +4710,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kangaerunakanjiro.com^$document
 ||kankokunano.jp^$document
 ||kannao3939.com^$document
+||kanohiro.com^$document
 ||kanpoucyayonchiyu.com^$document
 ||kansai-u.tameshiyo.me^$document
 ||kansuke.doorblog.jp^$document
@@ -5349,6 +5403,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||m.4uhd.cn^$document
 ||m.amzhoka.top^$document
 ||m.apkpure.com/*/nekogram^$document
+||m.apkpure.com/jp/happymod-apk-happy-mod^$document
 ||m.apkpure.com/nekogram^$document
 ||m.apkpure.net^$document
 ||m.apkshub.com^$document
@@ -5374,6 +5429,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ma-net.jp^$document
 ||ma-shi.info^$document
 ||maaengineerhouse.com^$document
+||maba162.github.io^$document
 ||mabomabo00.com^$document
 ||macaluminio.com^$document
 ||macclear.com^$document
@@ -5932,6 +5988,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||modder.me^$document
 ||moddroid.com^$document
 ||modern-works.net^$document
+||modextra.com^$document
 ||modfyp.com^$document
 ||modfyp.io^$document
 ||modhello.com^$document
@@ -6619,6 +6676,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/iphone1678^$document
 ||note.com/iphone_air^$document
 ||note.com/iswanin2^$document
+||note.com/itzakkilab^$document
 ||note.com/j_yuto^$document
 ||note.com/japan_cio_info^$document
 ||note.com/japanpromos^$document
@@ -7537,6 +7595,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||powakitchen.site^$document
 ||powerplatform.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||powertee.com^$document
+||pp-crd.co^$document
 ||ppgo.org^$document
 ||pplclubcard.com^$document
 ||ppt.dkgee.online^$document
@@ -7612,6 +7671,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pswriter1129.com^$document
 ||psychguidelines.com^$document
 ||psychicsacredinsights.com^$document
+||pt.happymod.to^$document
 ||ptro.live^$document
 ||ptsllxs.casa^$document
 ||publicbarlive.com^$document
@@ -8045,6 +8105,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rttyinfo.com^$document
 ||ru-nestjs-docs.netlify.app^$document
 ||ru.com^$document,to=~yflix.ru.com|~gogoanime.ru.com
+||ru.happymod.cloud^$document
 ||rudrasurgiwell.online^$document
 ||rueproductions.com^$document
 ||rukaruka7676.online^$document
@@ -8169,6 +8230,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||salala.jp^$document
 ||sale-cartoons.hatenablog.com^$document
 ||salecialadd.com^$document
+||sales-copywriting.com^$document
 ||salon-ray.net^$document
 ||salon.jp^$document
 ||salondebeautelani.com^$document
@@ -9229,6 +9291,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||thegoddessmorrigan.com^$document
 ||thegrandpines.com^$document
 ||thehairdoctor.clinic^$document
+||thehappymod.com^$document
 ||thehealthplexjustforwomen.com^$document
 ||thehiddenbay.com^$document
 ||thekickasstorrents.com^$document
@@ -9359,6 +9422,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||toko-blog.com^$document
 ||tokotokotopic.com^$document
 ||tokuneta.info^$document
+||tokupine.com^$document
 ||tokutas.com^$document
 ||tokyo-animetourism-2023.jp^$document
 ||tokyo-animetourism.jp^$document
@@ -9870,6 +9934,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||vodinsights.com^$document
 ||vodmino.net^$document
 ||vodnavi.wpx.jp^$document
+||vodpicks.net^$document
 ||vog.agvol.com^$document
 ||voguevisionsshop.com^$document
 ||voice-security.jp^$document
@@ -10864,6 +10929,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.happyfootstep.dk^$document
 ||www.happylife40.com^$document
 ||www.happymail.mu^$document
+||www.happymod.cloud^$document
+||www.happymod.info^$document
+||www.happymodapk.ru^$document
 ||www.happymodapkdl.com^$document
 ||www.harmonyhousebnb.com^$document
 ||www.harrywinston.cn^$document
