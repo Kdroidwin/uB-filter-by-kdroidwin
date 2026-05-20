@@ -1,5 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
-! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwinn
+! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -1128,6 +1128,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||awayokuba50.hatenablog.com^$document
 ||awazu-gh.jp^$document
 ||awich.jp^$document
+||awnl.co.jp^$document
 ||axiomaenergiasolar.com^$document
 ||axsfsgm.ltd^$document
 ||axsp.me^$document
@@ -1238,6 +1239,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||beararms.gr^$document
 ||beasyouareramana.com^$document
 ||beatriceinsurance.com^$document
+||beauty.hotpepper.jp/kr/slnH000610961^$document
 ||beautybest.jp^$document
 ||beaver-global.com^$document
 ||beblack.jp^$document
@@ -1454,6 +1456,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||bokuokun.com^$document
 ||bokusuk.com^$document
 ||bomberosvoluntariostequisquiapan.org^$document
+||bonbabylon.stores.jp^$document
 ||bonblo.com^$document
 ||bond^$doc,domain=~kayac.bond|~indexjav.bond|~www.javindex.bond|~isplan.bond|~jamz.bond
 ||bongdatv.lu^$document
@@ -1769,6 +1772,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||chobizo.com^$document
 ||chocobat-gyakushu.com^$document
 ||chocochico.net^$document
+||chodetox.jp^$document
 ||choice.ameba.jp^$document
 ||chomangasokuho.blog.jp^$document
 ||chomin-shop.jp^$document
@@ -1972,6 +1976,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||copayeoh.jettysuites.com^$document
 ||copilot.6m6c.cn^$document
 ||copperhead.co^$document
+||copr.jp^$document
 ||copress.shop^$document
 ||copyeg.ru^$document
 ||copyprogramming.com^$document
@@ -2028,6 +2033,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cruiseloyal.com^$document
 ||crurkin.info^$document
 ||crx7601.com^$document
+||crystal-seian.co.jp^$document
 ||csgobetting.jp^$document
 ||cspa79c.jp^$document
 ||cspsacademy.com^$document
@@ -4123,6 +4129,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hotnfill.com^$document
 ||hotpersons.com^$document
 ||hotspot-shield-vpn.jp.uptodown.com^$document
+||hotta-clinic.com^$document
 ||hotword-coolword.com^$document
 ||houkan-cuore.jp^$document
 ||houseofk.co.in^$document
@@ -4588,6 +4595,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
 ||jp.bitcomet.com^$document
+||jp.dhgate.com^$document
 ||jp.itopvpn.com^$document
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
@@ -4894,6 +4902,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kireinotane.jp^$document
 ||kirishima-live.jpn.org^$document
 ||kiritoblog.com^$document
+||kiritsu.jp^$document
 ||kirovskuiraion.ru^$document
 ||kiset-season.com^$document
 ||kisetsumi.com^$document
@@ -5050,6 +5059,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kotaeblog.com^$document
 ||kotaneko.net^$document
 ||kotaroworld.com^$document
+||kotohogi.life^$document
 ||kotoko18.com^$document
 ||kotti.biz^$document
 ||kottoceramica.com^$document
@@ -5273,6 +5283,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||linart.net^$document
 ||line-howtouse.net^$document
 ||line-kiwami.com^$document
+||line.me/R/ti/p/@909gqgoa?oat_content=url&ts=02240057^$document
 ||lineblog.me^$document
 ||linematchapp.com^$document
 ||lingualeo.com^$document
@@ -5290,6 +5301,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lisae.me.uk^$document
 ||liskul.com^$document
 ||lissora-jp.com^$document
+||lit.link/ginzacocolo^$document
 ||lite.tiktok.com^$document
 ||little-busters.ldblog.jp^$document
 ||littlelittlelife.com^$document
@@ -5518,6 +5530,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||malaylog.com^$document
 ||malaysia-mokoko1717.blog^$document
 ||malonn.net^$document
+||malulani.info^$document
 ||mama-liberty.com^$document
 ||mama-necoblog.com^$document
 ||mama-sono.com^$document
@@ -6570,6 +6583,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/androidgeek^$document
 ||note.com/aomushi_15^$document
 ||note.com/aquafish^$document
+||note.com/aruaruteitei^$document
 ||note.com/at549^$document
 ||note.com/avectois^$document
 ||note.com/ayanofx^$document
@@ -6879,6 +6893,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/sorakiba190107^$document
 ||note.com/spiritual_taiken^$document
 ||note.com/startupm^$document
+||note.com/strong_power^$document
 ||note.com/sumaho_hikaku^$document
 ||note.com/super_whale223^$document
 ||note.com/super_whale4189^$document
@@ -8313,6 +8328,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sblog51.net^$document
 ||sbs^$doc,domain=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs|~moritake.sbs|~hiroruri.sbs|~sitterservice-beyond.sbs|~airbnb-o-hama.sbs|~javbus.sbs|~www.jilewangchao.sbs|~av4us.sbs|~kakyo.sbs|~ehimedoyoukai.sbs
 ||scaleqa.com^$document
+||scan.page^$document
 ||scarystories.jp^$document
 ||sch.id^$document
 ||schnaeppchenscout.com^$document
@@ -8523,6 +8539,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||shufu-run.net^$document
 ||shufuwork.com^$document
 ||shuhu-tomo-blog.com^$document
+||shukatsu-community.com^$document
 ||shukuhakuwari.com^$document
 ||shumidon.com^$document
 ||shuminohaba.com^$document
@@ -8721,6 +8738,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sp-link.link^$document
 ||sp.gettersiida.net^$document
 ||spa-smo.com^$document
+||spa.ikyu.com^$document
 ||spaceshipearth.jp^$document
 ||spacha2026.com^$document
 ||spang8vz.exoticmods.com^$document
@@ -9188,6 +9206,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||taylorblogg.com^$document
 ||tazzawn5.styr.solutions^$document
 ||tbs.slot31.online^$document
+||tbtcm.jp^$document
 ||tccccc.jp^$document
 ||tdburger.com^$document
 ||teamnacs5d2.selforder.live^$document
@@ -9239,6 +9258,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tenshoku-antenna.com^$document
 ||tenten-maron1.com^$document
 ||tenten-shop.com^$document
+||terajin.gger.jp^$document
 ||terakoya.sejuku.net^$document
 ||teratail.com^$document
 ||teresamoda.com^$document
@@ -9468,7 +9488,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tools.anquanclub.cn^$document
 ||toorublog.com^$document
 ||top.manga-ganma.com^$document
-||top^$document,domain=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~cpolar.top|~doubledouble.top|~edgeless.top|~galge.top|~gdtot.top|~hostingowy.top|~iboxs.top|~imxyz.top|~iwayado.toweb.top|~jp.jtube.top|~loveliveallstar.top|~magocoro.top|~maruiblog.top|~mastodon.top|~mianbeian.top|~miotele.top|~nfmirrorcdn.top|~nicenature.top|~ossme.top|~passt.top|~pdcdn1.top|~pegelinux.top|~polar.top|~pressplay.top|~qwertycxz.top|~reminder.top|~rept.hamakaze.top|~reyhub.top|~rifton.top|~rugaming.top|~saltwood.top|~shucks.top|~sobanomi-ikkanjin.top|~spoilerraw.top|~strims.top|~suiten.top|~t-satoru.top|~thedesk.top|~tokiwasushi.top|~voxel.top|~vsdb.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~kiwami.top|~maguro.top|~golfgear.top|~yoshizuya.top|~kitaqhitorioya.top|~sakura-cl.top|~deen-hachinohe.top|~www.coolsymbol.top|~www.jsdelivr.top|~ja.amatorvideok.top|~ja.pornici.top|~2dfmax.top|~yokohama-shirahata.top|~zeri-m.top|~www.sayafx.top|~toweb.top|~piggparty.top|~jrac.top|~skinsalon-el.top|~www.nandemohonpotakeda.top|~www.7sense.top|~orangeline.top|~www.suiten.top|~mk-mimosa.top|~www.sowelu.top|~www.trickart.top|~mikata.top|~jpn.billxia.top|~u-sky.top|~xn--7br687a6xa056a.top|~xn--u8jxay6nn91xo2n1z1dx3ek5k.top|~www.fujisangyo.top|~www.9tsu.top|~kaien.top|~bullsailor.top|~freemagazines.top|~manhuavn.top|~aigto.top|~yoimiyalove.top|~green-office.top|~newsite.top|~www.xn--kck9c8a7d.top|~mxdj.top|~froghouse.top|~ekubo.top|~fukunoya.top|~zovo2.top|~kokugo-senka.top|~mathify.top|~duckify.top|~www.screensaver.top|~graphonline.top|~cutcut.top|~8kun.top|~www.2z2.top|~brainteaser.top|~hosts.gitcdn.top|~mcservers.top|~addressgenerator.top|~www.flamecho.top|~8kun.top|~lava.top|~laosheng.top|~toptruyen.top|~www.itrack.top|~wceui.top|~yggleak.top|~droply.top|~tsbox1.top|~tsboxby.top|~tsbox1.top|~tsbox2.top|~tsbox3.top|~tsbox4.top|~tsbox5.top|~tsbox6.top|~tsbox0.top|~gettsbox.top|~manga1000.top|~yanweb.top|~rikuramu.top|~yukapyon.top|~reien.top|~jacky.top|~genki.top|~oneminute.top|~iforest.top|~moshimobox.top|~raisuball.top|~www.kateholds.top|~www.hoshinosensei.top|~www.jumphigh.top|~gon6.top|~www.krnr.top|~r-style.top|~good-job.top|~www.mountainman.top|~fqegg.top|~www.tsuri.top|~chics.top|~s-s-k.top|~cscc-spk.top|~e-connect.top|~private-salon-shiny.top|~bag676.top|~lumbini-kashiwa.top|~mayumi.top|~www.tokei777.top|~www.reien.top|~futaba-en.top|~www.pride1yamaoka.top|~rawfree.top
+||top^$document,domain=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~cpolar.top|~doubledouble.top|~edgeless.top|~galge.top|~gdtot.top|~hostingowy.top|~iboxs.top|~imxyz.top|~iwayado.toweb.top|~jp.jtube.top|~loveliveallstar.top|~magocoro.top|~maruiblog.top|~mastodon.top|~mianbeian.top|~miotele.top|~nfmirrorcdn.top|~nicenature.top|~ossme.top|~passt.top|~pdcdn1.top|~pegelinux.top|~polar.top|~pressplay.top|~qwertycxz.top|~reminder.top|~rept.hamakaze.top|~reyhub.top|~rifton.top|~rugaming.top|~saltwood.top|~shucks.top|~sobanomi-ikkanjin.top|~spoilerraw.top|~strims.top|~suiten.top|~t-satoru.top|~thedesk.top|~tokiwasushi.top|~voxel.top|~vsdb.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~kiwami.top|~maguro.top|~golfgear.top|~yoshizuya.top|~kitaqhitorioya.top|~sakura-cl.top|~deen-hachinohe.top|~www.coolsymbol.top|~www.jsdelivr.top|~ja.amatorvideok.top|~ja.pornici.top|~2dfmax.top|~yokohama-shirahata.top|~zeri-m.top|~www.sayafx.top|~toweb.top|~piggparty.top|~jrac.top|~skinsalon-el.top|~www.nandemohonpotakeda.top|~www.7sense.top|~orangeline.top|~www.suiten.top|~mk-mimosa.top|~www.sowelu.top|~www.trickart.top|~mikata.top|~jpn.billxia.top|~u-sky.top|~xn--7br687a6xa056a.top|~xn--u8jxay6nn91xo2n1z1dx3ek5k.top|~www.fujisangyo.top|~www.9tsu.top|~kaien.top|~bullsailor.top|~freemagazines.top|~manhuavn.top|~aigto.top|~yoimiyalove.top|~green-office.top|~newsite.top|~www.xn--kck9c8a7d.top|~mxdj.top|~froghouse.top|~ekubo.top|~fukunoya.top|~zovo2.top|~kokugo-senka.top|~mathify.top|~duckify.top|~www.screensaver.top|~graphonline.top|~cutcut.top|~8kun.top|~www.2z2.top|~brainteaser.top|~hosts.gitcdn.top|~mcservers.top|~addressgenerator.top|~www.flamecho.top|~8kun.top|~lava.top|~laosheng.top|~toptruyen.top|~www.itrack.top|~wceui.top|~yggleak.top|~droply.top|~tsbox1.top|~tsboxby.top|~tsbox1.top|~tsbox2.top|~tsbox3.top|~tsbox4.top|~tsbox5.top|~tsbox6.top|~tsbox0.top|~gettsbox.top|~manga1000.top|~yanweb.top|~rikuramu.top|~yukapyon.top|~reien.top|~jacky.top|~genki.top|~oneminute.top|~iforest.top|~moshimobox.top|~raisuball.top|~www.kateholds.top|~www.hoshinosensei.top|~www.jumphigh.top|~gon6.top|~www.krnr.top|~r-style.top|~good-job.top|~www.mountainman.top|~fqegg.top|~www.tsuri.top|~chics.top|~s-s-k.top|~cscc-spk.top|~e-connect.top|~private-salon-shiny.top|~bag676.top|~lumbini-kashiwa.top|~mayumi.top|~www.tokei777.top|~www.reien.top|~futaba-en.top|~www.pride1yamaoka.top|~rawfree.top|~ta26.top
 ||topcasinosdirectory.com^$document
 ||topfifty.uk^$document
 ||topgun.ffwpu.app^$document
@@ -9719,6 +9739,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||uefir.com^$document
 ||uelog.com^$document
 ||ueno-tokyo.com^$document
+||ufovpn.io^$document
 ||uharica.ptice.si^$document
 ||uhn3tnp07de43.xn--16-mlca8awqz.xn--p1ai^$document
 ||uiahnle6.calanchipiceni.it^$document
@@ -10622,6 +10643,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.creodentistry.com^$document
 ||www.cruzrojacolombiana.org^$document
 ||www.crystalshieldpro.com^$document
+||www.crystalspurely-shop.com^$document
 ||www.cssspgc.com^$document
 ||www.cstoldme.com^$document
 ||www.cuatrogatosfilms.com/detail^$document
@@ -10822,6 +10844,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.fpservicesnc.com^$document
 ||www.freedomken.com^$document
 ||www.freee.co.jp^$document
+||www.frontier-dojo.com^$document
 ||www.frostwire.com^$document
 ||www.ftuapps.me^$document
 ||www.fujifilm.ru^$document
@@ -11292,6 +11315,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.mculnqe.cn^$document
 ||www.mdia.xyz^$document
 ||www.median-net.jp^$document
+||www.medicalherb.or.jp^$document
 ||www.medicellarcm.com^$document
 ||www.medsci.cn^$document
 ||www.medsight.uk^$document
@@ -12119,6 +12143,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||x-border.co.jp^$document
 ||x-vpn-anti-track-and-unblock.jp.uptodown.com^$document
 ||x.com/comic_checker^$document
+||x.com/earthquakejapan^$document
 ||x.com/indiegogojp^$document
 ||x.com/kdroidwin15^$document
 ||x.com/mangarawrun^$document
@@ -12362,6 +12387,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yonoi.com^$document
 ||yoor.jp^$document
 ||yorozoonews.jp^$document
+||yorozu-cl.com^$document
 ||yorozu-do.com^$document
 ||yosemi-7.com^$document
 ||yoshiblonet.com^$document
