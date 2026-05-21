@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://rawcomic.wew.jp/*
+*://iwasaki-parody.jp/*
 *://*.55276.net/*
 *://4ki4.net/*
 *://dopa-game.jp/*
