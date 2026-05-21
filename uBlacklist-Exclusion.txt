@@ -1182,6 +1182,7 @@
 @*://chics.top/*
 @*://s-s-k.top/*
 @*://cscc-spk.top/*
+@*://*.ta26.top/*
 @*://e-connect.top/*
 @*://private-salon-shiny.top/*
 @*://bag676.top/*
