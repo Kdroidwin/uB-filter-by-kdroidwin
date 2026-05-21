@@ -1,18 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://rawcomic.wew.jp/*
-*://iwasaki-parody.jp/*
 *://*.55276.net/*
-*://4ki4.net/*
-*://dopa-game.jp/*
-*://orista.jp/*
-*://oripabu.jp/*
-*://oripa.clove.jp/*
-*://alloworipa.jp/*
-*://japan-toreca.com/*
-*://iris-toreca.com/*
-*://note.com/milbon_/*
-*://cs60life.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15953,6 +15941,7 @@
 *://4download.net/*
 *://4dpocket.jp/*
 *://4kaku.me/*
+*://4ki4.net/*
 *://4kidsmamahokenshi.com/*
 *://4nttl65.mam-cocktail.fr/*
 *://4tgqv5c.hautnah-wellnessundbodyforming.de/*
@@ -16299,6 +16288,7 @@
 *://allmodapk.de/*
 *://allout-anime.com/*
 *://allowb6z.cvs.com.my/*
+*://alloworipa.jp/*
 *://allpcworld.co/*
 *://allpcworld.com/*
 *://allpcworlds.com/*
@@ -17660,6 +17650,7 @@
 *://cruiseloyal.com/*
 *://crurkin.info/*
 *://crystal-seian.co.jp/*
+*://cs60life.com/*
 *://csgobetting.jp/*
 *://cspa79c.jp/*
 *://cspsacademy.com/*
@@ -17975,6 +17966,7 @@
 *://donguri.world/*
 *://donnamodernaonline.com/*
 *://door.popzoo.xyz/*
+*://dopa-game.jp/*
 *://doragon-rinchan.com/*
 *://dorama-anime.com/*
 *://dorama-netabare.com/*
@@ -19983,6 +19975,7 @@
 *://ireeianzjind.xyz/*
 *://irigasi.info/*
 *://iris-log.com/*
+*://iris-toreca.com/*
 *://iro-iro.shiro-eiyoushi.com/*
 *://iro-patch-download.creativestrategypro.de/*
 *://irodori-cafeblog.com/*
@@ -20043,6 +20036,7 @@
 *://ivogijufij.dvereskamat.sk/*
 *://ivolkman.com/*
 *://iwanami-hall.com/*
+*://iwasaki-parody.jp/*
 *://iwatekko.jp/*
 *://ixamiviboq.obentreprendre.fr/*
 *://iyashinonanyo.jp/*
@@ -20086,6 +20080,7 @@
 *://japan-expressvpn.com/*
 *://japan-gyouji.com/*
 *://japan-newslounge.com/*
+*://japan-toreca.com/*
 *://japan-travel-guide.jp/*
 *://japan-warriors.com/*
 *://japan.zdnet.ex1.https.443.ipv6.faw.com.cn/*
@@ -22331,6 +22326,7 @@
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
 *://note.com/mikami_01/*
+*://note.com/milbon_/*
 *://note.com/mild_ruff676/*
 *://note.com/mingaje333/*
 *://note.com/mippasan/*
@@ -22790,12 +22786,15 @@
 *://oripa-hikaku.jp/*
 *://oripa-online8.com/*
 *://oripa-osusume.jp/*
+*://oripa.clove.jp/*
 *://oripa.co.jp/*
 *://oripa.ex-toreca.com/*
 *://oripa.jpn.org/*
+*://oripabu.jp/*
 *://oripacard.com/*
 *://oripalette.jp/*
 *://oripaone.jp/*
+*://orista.jp/*
 *://orqykth.biz/*
 *://osaboo.info/*
 *://osaka-breakfast.com/*
@@ -23380,6 +23379,7 @@
 *://raw.wpx.jp/*
 *://raw2.dmm-mania.com/*
 *://rawapk.com/*
+*://rawcomic.wew.jp/*
 *://rawmanga.jp/*
 *://rawmanga.wpx.jp/*
 *://rawmangaraw.com/*
