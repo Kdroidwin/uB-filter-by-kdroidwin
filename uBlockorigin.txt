@@ -793,6 +793,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anilabapp.com^$document
 ||aniloop.net^$document
 ||animan.yuchanh.com^$document
+||animanga.uchiyakeiblog.com^$document
 ||animate-group.info^$document
 ||anime-comic100.jp^$document
 ||anime-drama.jp^$document
@@ -808,6 +809,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||animemiru.jp^$document
 ||animenian.com^$document
 ||animenome.jp^$document
+||animeprefer.com^$document
 ||animepupiokun.doorblog.jp^$document
 ||animesoku.com^$document
 ||animetambouki.com^$document
@@ -963,6 +965,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||appli-world.jp/posts/15380^$document
 ||appli-world.jp/posts/18197^$document
 ||applibito.com^$document
+||applihunter.net^$document
 ||appnee.com^$document
 ||appnstore.com^$document
 ||appoholow.xyz^$document
@@ -3733,6 +3736,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||haitenjp.com.siteindices.com^$document
 ||haitenjp.com^$document
 ||haiyu-dorama.com^$document
+||haji39saka.com^$document
 ||hajiichi-memo.com^$document
 ||hajime-angler.com^$document
 ||hajimegallery.jp^$document
@@ -5949,6 +5953,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mirandazrealtor.com^$document
 ||mirimari.net^$document
 ||miro2022.jp^$document
+||mirujun.com^$document
 ||miruku.fun^$document
 ||mirumi.me/firefox-plugin^$document
 ||mirumiru-honpo.jp^$document
@@ -5972,6 +5977,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mitylog.jp^$document
 ||miuki556happy.com^$document
 ||miuprierre.com^$document
+||mixch.tv^$document
 ||mixhost.jp^$document
 ||mixshoper.online^$document
 ||mixtrendmedia.com^$document
@@ -7301,6 +7307,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otaetae.com^$document
 ||otagameblog.com^$document
 ||otakamu.com^$document
+||otakumania.jp^$document
 ||otakumix.doorblog.jp^$document
 ||otakuraw.com^$document
 ||otalab.net^$document
@@ -10786,6 +10793,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.entame-disco.com^$document
 ||www.entameplus.jp^$document
 ||www.entamesnap.com^$document
+||www.entameyell.com^$document
 ||www.entertainment-topics.jp^$document
 ||www.epicdigitalhub.com^$document
 ||www.epicenlinea.com^$document

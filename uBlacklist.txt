@@ -4,14 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://applihunter.net/*
-*://mixch.tv/*
-*://otakumania.jp/*
-*://www.entameyell.com/*
-*://haji39saka.com/*
-*://mirujun.com/*
-*://animeprefer.com/*
-*://animanga.uchiyakeiblog.com/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -16434,6 +16426,7 @@
 *://anilabapp.com/*
 *://aniloop.net/*
 *://animan.yuchanh.com/*
+*://animanga.uchiyakeiblog.com/*
 *://animate-group.info/*
 *://anime-comic100.jp/*
 *://anime-drama.jp/*
@@ -16449,6 +16442,7 @@
 *://animemiru.jp/*
 *://animenian.com/*
 *://animenome.jp/*
+*://animeprefer.com/*
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
 *://animetambouki.com/*
@@ -16594,6 +16588,7 @@
 *://appli-world.jp/posts/15380*
 *://appli-world.jp/posts/18197*
 *://applibito.com/*
+*://applihunter.net/*
 *://appnee.com/*
 *://appnstore.com/*
 *://appoholow.xyz/*
@@ -19332,6 +19327,7 @@
 *://haitenjp.com.siteindices.com/*
 *://haitenjp.com/*
 *://haiyu-dorama.com/*
+*://haji39saka.com/*
 *://hajiichi-memo.com/*
 *://hajime-angler.com/*
 *://hajimegallery.jp/*
@@ -21509,6 +21505,7 @@
 *://mirandazrealtor.com/*
 *://mirimari.net/*
 *://miro2022.jp/*
+*://mirujun.com/*
 *://miruku.fun/*
 *://mirumi.me/firefox-plugin/*
 *://mirumiru-honpo.jp/*
@@ -21532,6 +21529,7 @@
 *://mitylog.jp/*
 *://miuki556happy.com/*
 *://miuprierre.com/*
+*://mixch.tv/*
 *://mixhost.jp/*
 *://mixshoper.online/*
 *://mixtrendmedia.com/*
@@ -22841,6 +22839,7 @@
 *://otaetae.com/*
 *://otagameblog.com/*
 *://otakamu.com/*
+*://otakumania.jp/*
 *://otakumix.doorblog.jp/*
 *://otakuraw.com/*
 *://otalab.net/*
@@ -26158,6 +26157,7 @@
 *://www.entame-disco.com/*
 *://www.entameplus.jp/*
 *://www.entamesnap.com/*
+*://www.entameyell.com/*
 *://www.entertainment-topics.jp/*
 *://www.epicdigitalhub.com/*
 *://www.epicenlinea.com/*
