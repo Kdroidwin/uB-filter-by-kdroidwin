@@ -2,15 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://dcdajp.com/*
-*://p-cy.co/*
-*://bcsredcross.com/*
-*://p-jay.co/*
-*://dmmtv-navi.com/*
-*://note.com/cheeky_thyme7377/*
-*://enjoy-cosplay.com/*
-*://github.com/AddnessTech/*
-*://video.twimg.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16866,6 +16857,7 @@
 *://bbqsmokersshop.com/*
 *://bbs-net.com/*
 *://bby.me/*
+*://bcsredcross.com/*
 *://bd.vizeo.eu/*
 *://bddy.me/*
 *://be-3679.about.gitlab-review.app/*
@@ -17765,6 +17757,7 @@
 *://dbaudit.ru/*
 *://dbefree.com/*
 *://dblog.jp/*
+*://dcdajp.com/*
 *://dcryptobuzz.com/*
 *://ddhacks.com/*
 *://ddnavi.com/*
@@ -17915,6 +17908,7 @@
 *://dmmdoron.com/*
 *://dmmdoujinn.com/*
 *://dmmm.jp/*
+*://dmmtv-navi.com/*
 *://dmoss-ci.com/*
 *://dmpatent.com/*
 *://dnrhoee.com/*
@@ -18285,6 +18279,7 @@
 *://enimiron.com/*
 *://enishi-izumo.com/*
 *://enjoy-blog07.com/*
+*://enjoy-cosplay.com/*
 *://enjoy-life-tomo.com/*
 *://enjoy4-wai.com/*
 *://enjoybox0515.com/*
@@ -19086,6 +19081,7 @@
 *://gitas.si/*
 *://github-readme-stats.vercel.app/*
 *://github.com/AbakNacchan/revanced-extended/*
+*://github.com/AddnessTech/*
 *://github.com/AnthemHorizon453/*
 *://github.com/DuskMosquito/*
 *://github.com/ElementMidgeFold26/*
@@ -22159,6 +22155,7 @@
 *://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*
 *://note.com/chawanwabita/*
+*://note.com/cheeky_thyme7377/*
 *://note.com/chizuru1122/*
 *://note.com/chocolateflower/*
 *://note.com/cio_travel/*
@@ -22894,6 +22891,8 @@
 *://ozycrbx.work/*
 *://p-any.net/*
 *://p-cipher.store/*
+*://p-cy.co/*
+*://p-jay.co/*
 *://p-jp.co/*
 *://p-jpy.com/*
 *://p-pey.net/*
@@ -25336,6 +25335,7 @@
 *://victorraulrr.info/*
 *://video-distribution.jp/*
 *://video-twimg-eroman.mystrikingly.com/*
+*://video.twimg.jp/*
 *://video.twimg.link/*
 *://videotwimgcom.atukan.com/*
 *://videotwimgcom.dayuh.net/*

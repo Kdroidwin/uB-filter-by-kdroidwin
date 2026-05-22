@@ -1240,6 +1240,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bbs-net.com^$document
 ||bby.me^$document
 ||bcqqvtlk.property^$document
+||bcsredcross.com^$document
 ||bd.vizeo.eu^$document
 ||bddy.me^$document
 ||be-3679.about.gitlab-review.app^$document
@@ -2150,6 +2151,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dbaudit.ru^$document
 ||dbefree.com^$document
 ||dblog.jp^$document
+||dcdajp.com^$document
 ||dcryptobuzz.com^$document
 ||ddhacks.com^$document
 ||ddnavi.com^$document
@@ -2299,6 +2301,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dmmdoron.com^$document
 ||dmmdoujinn.com^$document
 ||dmmm.jp^$document
+||dmmtv-navi.com^$document
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
 ||dnrhoee.com^$document
@@ -2671,6 +2674,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||enimiron.com^$document
 ||enishi-izumo.com^$document
 ||enjoy-blog07.com^$document
+||enjoy-cosplay.com^$document
 ||enjoy-life-tomo.com^$document
 ||enjoy4-wai.com^$document
 ||enjoybox0515.com^$document
@@ -3484,6 +3488,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github.com/*/*KMS*auto*$all
 ||github.com/*/*KMS*pico*$all
 ||github.com/AbakNacchan/revanced-extended^$document
+||github.com/AddnessTech^$document
 ||github.com/AnthemHorizon453^$document
 ||github.com/arsLan4k1390/Cherrygram/releases^$document
 ||github.com/bluemods$all
@@ -6611,6 +6616,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
 ||note.com/chawanwabita^$document
+||note.com/cheeky_thyme7377^$document
 ||note.com/chizuru1122^$document
 ||note.com/chocolateflower^$document
 ||note.com/cio_travel^$document
@@ -7353,6 +7359,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ozycrbx.work^$document
 ||p-any.net^$document
 ||p-cipher.store^$document
+||p-cy.co^$document
+||p-jay.co^$document
 ||p-jp.co^$document
 ||p-jpy.com^$document
 ||p-pey.net^$document
@@ -9929,6 +9937,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||victorraulrr.info^$document
 ||video-distribution.jp^$document
 ||video-twimg-eroman.mystrikingly.com^$document
+||video.twimg.jp^$document
 ||video.twimg.link^$document
 ||videotwimgcom.atukan.com^$document
 ||videotwimgcom.dayuh.net^$document
