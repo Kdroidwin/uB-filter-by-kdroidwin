@@ -6932,7 +6932,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
-||note.com/takumigadget^$document
 ||note.com/tasty_holly7883^$document
 ||note.com/tasty_okapi8736^$document
 ||note.com/tbola^$document
@@ -10817,7 +10816,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document
-||www.esquire.com^$document
 ||www.esthe-lynx-ebisu.com^$document
 ||www.etital.com^$document
 ||www.etsabdelmoula.com^$document
