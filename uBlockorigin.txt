@@ -1482,7 +1482,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||book.dldlinks.com^$document
 ||book.himepai.com^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
-||book.mynavi.jp^$document
 ||book.st-hakky.com^$document
 ||bookandbedtokyo.com^$document
 ||bookcafedays.com^$document
