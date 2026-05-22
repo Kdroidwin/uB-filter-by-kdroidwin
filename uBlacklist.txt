@@ -17104,7 +17104,6 @@
 *://book.costume-db.com/*
 *://book.dldlinks.com/*
 *://book.himepai.com/*
-*://book.mynavi.jp/*
 *://book.mynavi.jp/ashita_magazine/china-vpn-ucss/*
 *://book.st-hakky.com/*
 *://bookandbedtokyo.com/*
