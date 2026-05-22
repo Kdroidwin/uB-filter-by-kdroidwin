@@ -9468,7 +9468,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||todayeiga.com^$document
 ||togashira7777.site^$document
 ||togisuma.com^$document
-||tohyotalk.com^$document
 ||tokinooto.jp^$document
 ||tokinotobila.com^$document
 ||tokiryo.net^$document
