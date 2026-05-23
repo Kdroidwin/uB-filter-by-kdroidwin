@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-title/pdfなどの違法海賊版サイト以外で全/
-*://balanar90.github.io/*
-*://kobun-kanbun.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16819,6 +16816,7 @@ title/pdfなどの違法海賊版サイト以外で全/
 *://bakery-fukufuku.com/*
 *://bakuhou-geinou.net/*
 *://bakujou.com/*
+*://balanar90.github.io/*
 *://balerdon.be/*
 *://balesw7v.phai.ie/*
 *://ballet-info.com/*
@@ -20588,6 +20586,7 @@ title/pdfなどの違法海賊版サイト以外で全/
 *://knzs7mw3mr.jp/*
 *://ko-ima.com/*
 *://ko-pu.com/*
+*://kobun-kanbun.com/*
 *://kochubeymedia.ru/*
 *://kodaira-gym.jp/*
 *://kodomama.com/*
@@ -28163,6 +28162,7 @@ title/^(?=.*漫画raw)(?=.*1001).*/
 title/^無題$/
 title/m.media-amazon.com/
 title/on PC with MEmu/
+title/pdfなどの違法海賊版サイト以外で全/
 title/static.mercdn.net/
 title/wikiプロ/
 title/wiki風プロ/

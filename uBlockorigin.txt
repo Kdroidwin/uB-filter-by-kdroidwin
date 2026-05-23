@@ -1197,6 +1197,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bakery-fukufuku.com^$document
 ||bakuhou-geinou.net^$document
 ||bakujou.com^$document
+||balanar90.github.io^$document
 ||balerdon.be^$document
 ||balesw7v.phai.ie^$document
 ||ballet-info.com^$document
@@ -5012,6 +5013,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||knzs7mw3mr.jp^$document
 ||ko-ima.com^$document
 ||ko-pu.com^$document
+||kobun-kanbun.com^$document
 ||kochubeymedia.ru^$document
 ||kodaira-gym.jp^$document
 ||kodomama.com^$document
