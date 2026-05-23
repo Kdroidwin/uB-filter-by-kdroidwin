@@ -855,7 +855,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||antmomew.com^$document
 ||anturis.com^$document
 ||anxious-topics.com^$document
-||any.run^$document
 ||anzendouga.com^$document
 ||anzhee.ru^$document
 ||anzno.com^$document
