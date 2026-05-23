@@ -2,6 +2,7 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://readlabpro.com/*
+*://brush.linkurio.xyz/*
 *://artlabdaily.com/*
 *://note.com/orangeitems/*
 *://*.a3erf.com/*
