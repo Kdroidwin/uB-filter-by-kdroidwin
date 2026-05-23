@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://info-navi.hatenablog.com/*
-*://github.com/vancedto/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -19118,6 +19116,7 @@
 *://github.com/revanced-apks/build-apps/*
 *://github.com/tehcneko/*
 *://github.com/thongthaibm/*
+*://github.com/vancedto/*
 *://github.guru/*
 *://github.heheda.top/*
 *://github.me/*
@@ -19923,6 +19922,7 @@
 *://influencer-news.com/*
 *://influmemo.com/*
 *://info-melody.com/*
+*://info-navi.hatenablog.com/*
 *://info.okaponseo.me/*
 *://info.securesamba.com/*
 *://infojoho-library.org/*
