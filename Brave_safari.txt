@@ -855,7 +855,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||antmomew.com^$document
 ||anturis.com^$document
 ||anxious-topics.com^$document
-||any.run^$document
 ||anzendouga.com^$document
 ||anzhee.ru^$document
 ||anzno.com^$document
@@ -1645,6 +1644,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||car-buzz.biz^$document
 ||caradel.portal.auone.jp^$document
 ||caramel.pochasiko.com^$document
+||carbanikx.life^$document
 ||carbanixe.life^$document
 ||carbestone.com^$document
 ||care-telecom.com^$document
@@ -7345,6 +7345,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otapol.com^$document
 ||otimize.org^$document
 ||otisnature.com^$document
+||oto-blog.com^$document
 ||oto-planet.com^$document
 ||otoginemui.com^$document
 ||otoko-no-magazine.com^$document
@@ -12612,6 +12613,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuruyuru-max.com^$document
 ||yusuke-blog.com^$document
 ||yutapon-blog.com^$document
+||yuu-yuu-infonews.com^$document
 ||yuu01.jp^$document
 ||yuugafas.com^$document
 ||yuuhime.xyz^$document

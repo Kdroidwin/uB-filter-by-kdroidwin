@@ -7,9 +7,6 @@
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
-*://yuu-yuu-infonews.com/*
-*://oto-blog.com/*
-*://carbanikx.life/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
@@ -17264,6 +17261,7 @@
 *://car-buzz.biz/*
 *://caradel.portal.auone.jp/*
 *://caramel.pochasiko.com/*
+*://carbanikx.life/*
 *://carbanixe.life/*
 *://carbestone.com/*
 *://care-telecom.com/*
@@ -22881,6 +22879,7 @@
 *://otapol.com/*
 *://otimize.org/*
 *://otisnature.com/*
+*://oto-blog.com/*
 *://oto-planet.com/*
 *://otoginemui.com/*
 *://otoko-no-magazine.com/*
@@ -27969,6 +27968,7 @@
 *://yuruyuru-max.com/*
 *://yusuke-blog.com/*
 *://yutapon-blog.com/*
+*://yuu-yuu-infonews.com/*
 *://yuu01.jp/*
 *://yuugafas.com/*
 *://yuuhime.xyz/*
