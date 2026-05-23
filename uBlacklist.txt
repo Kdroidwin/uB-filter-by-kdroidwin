@@ -1,36 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://fcch.co.jp/*
-*://comicandanime.com/*
-*://dream.jp/*
-*://note.com/dear_pipit1400/*
-*://tweet.tokyo/*
-*://trafficnews.jp/*
-*://kuruma-news.jp/*
-*://reiwanotora.jp/*
-*://x.gd/GkVjG/*
-*://keibariron.com/*
-*://ec-consultingjapan.co.jp/*
-*://content.ec-consultingjapan.co.jp/*
-*://anna-advisors.com/*
-*://emolva.tokyo/*
-*://law-mamori.jp/*
-*://buddy-training.com/*
-*://note.com/daito2001/*
-*://himanews.jp/*
-*://ameblo.jp/targeteddamage/*
-*://old.bitchute.com/*
-*://note.com/ascjournal/*
-*://note.com/poi_nem/*
-*://note.com/ninnote/*
-*://note.com/hobichil/*
-*://note.com/ryuushin/*
-*://note.com/lulu_noah/*
-*://note.com/honest_zinnia946/*
-*://note.com/infomerit/*
-*://note.com/fond_clam2634/*
-*://note.com/applemaniax/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16395,6 +16365,7 @@
 *://ameblo.jp/nokoarikon/*
 *://ameblo.jp/pisu-tabi/*
 *://ameblo.jp/plus2222/*
+*://ameblo.jp/targeteddamage/*
 *://ameblo.jp/unarigoe/*
 *://ameblo.jp/uriutsu-123/*
 *://ameblo.jp/viwizardjp/*
@@ -16484,6 +16455,7 @@
 *://ankoron.com/*
 *://ankororo.com/*
 *://anm777.com/*
+*://anna-advisors.com/*
 *://annaishimasuyo.com/*
 *://annbiyou.com/*
 *://annneme.net/*
@@ -17201,6 +17173,7 @@
 *://btc-savior.co.jp/*
 *://btslove7.com/*
 *://bucky-blog.com/*
+*://buddy-training.com/*
 *://budgetworld.ru/*
 *://budou-bowl.com/*
 *://budurl.me/*
@@ -17579,6 +17552,7 @@
 *://comic1.lsv.jp/*
 *://comic104.com/*
 *://comic2026.wew.jp/*
+*://comicandanime.com/*
 *://comicc.honmadekka-channel.com/*
 *://comicloop.jp/*
 *://comicraw.jp/*
@@ -17618,6 +17592,7 @@
 *://construcclean.com/*
 *://consulnews.jp/*
 *://contact.xyz/*
+*://content.ec-consultingjapan.co.jp/*
 *://continue-healthy.com/*
 *://contopics.com/*
 *://conunestilodiferente.com/*
@@ -18114,6 +18089,7 @@
 *://drasheilacarvalho.com/*
 *://drdougcraig.com/*
 *://dream-up.co.jp/*
+*://dream.jp/*
 *://dream04090129.biz/*
 *://dream0820.com/*
 *://dream4you.jp/*
@@ -18181,6 +18157,7 @@
 *://ebookstore.wpx.jp/*
 *://ebpocket-free.jp.aptoide.com/*
 *://ebqsuup.com/*
+*://ec-consultingjapan.co.jp/*
 *://ec-plus.panasonic.jp/store/page/pc/sp/organic/202108/*
 *://ecdeaf.com/*
 *://eches8x4.bizandleisure.com/*
@@ -18277,6 +18254,7 @@
 *://emireport.com/*
 *://emirinsblog.com/*
 *://emivehu.veterinatt.sk/*
+*://emolva.tokyo/*
 *://emoshare.web.app/*
 *://emplusn.seesaa.net/*
 *://empty-morning-5199.yuuga-y-0912.workers.dev/*
@@ -18610,6 +18588,7 @@
 *://fbfcmt27.autosns.app/*
 *://fbfcmt27.autosns.app//*
 *://fbooks-doujin.com/*
+*://fcch.co.jp/*
 *://fcvt-sale.com/*
 *://fd.5201961.xyz/*
 *://fdaerjioa.booth.pm/*
@@ -19624,6 +19603,7 @@
 *://hima-po.com/*
 *://himalayas.app/*
 *://himamanga.com/*
+*://himanews.jp/*
 *://himasoku.com/*
 *://himatsubushi-shindan-test.com/*
 *://himatsui.com/*
@@ -20418,6 +20398,7 @@
 *://keezeightrsa.xyz/*
 *://keeztwelversa.xyz/*
 *://kei-siroikumo.com/*
+*://keibariron.com/*
 *://keijserskoning.com/*
 *://keikeikei.com/*
 *://keiko-osaka.com/*
@@ -20745,6 +20726,7 @@
 *://kuronekodesk.hatenablog.com/*
 *://kuronekokusujun012.wixsite.com/*
 *://kuroshiba0511.com/*
+*://kuruma-news.jp/*
 *://kuznec.certa.ru/*
 *://kvantorium69.ru/*
 *://kvibaba.com/*
@@ -20810,6 +20792,7 @@
 *://lauriehuff.com/*
 *://lavaldomi.com/products/*
 *://lavie-mieux-quavant.tokyo/*
+*://law-mamori.jp/*
 *://law-trend.xyz/*
 *://lawcollege.co/*
 *://lawson.tameshiyo.me/*
@@ -22174,8 +22157,10 @@
 *://note.com/androidgeek
 *://note.com/androidgeek/*
 *://note.com/aomushi_15/*
+*://note.com/applemaniax/*
 *://note.com/aquafish/*
 *://note.com/aruaruteitei/*
+*://note.com/ascjournal/*
 *://note.com/at549/*
 *://note.com/avectois/*
 *://note.com/ayanofx/*
@@ -22211,7 +22196,9 @@
 *://note.com/cutecreaturecli/*
 *://note.com/daikore/*
 *://note.com/daikyo_2026/*
+*://note.com/daito2001/*
 *://note.com/dapper_boar1528*
+*://note.com/dear_pipit1400/*
 *://note.com/decoboco_sisters/*
 *://note.com/denka_life/*
 *://note.com/der3/*
@@ -22229,6 +22216,7 @@
 *://note.com/fine_gerbil9006/*
 *://note.com/fit_hyssop6243/*
 *://note.com/fit_quince2164/*
+*://note.com/fond_clam2634/*
 *://note.com/fuku_chie/*
 *://note.com/fukuzou/*
 *://note.com/fumiura/*
@@ -22274,10 +22262,12 @@
 *://note.com/hit_ranking/*
 *://note.com/hitobashira_/*
 *://note.com/hitotsu_ai/*
+*://note.com/hobichil/*
 *://note.com/hokanobeat/*
 *://note.com/holy_beetle811
 *://note.com/holy_beetle811/*
 *://note.com/holy_pony5936/*
+*://note.com/honest_zinnia946/*
 *://note.com/honokamaison/*
 *://note.com/horus_eyes/*
 *://note.com/hsp_kazu/*
@@ -22287,6 +22277,7 @@
 *://note.com/ikkyu_green/*
 *://note.com/imyfone_jp*
 *://note.com/info_review/*
+*://note.com/infomerit/*
 *://note.com/investment_happy/*
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
@@ -22352,6 +22343,7 @@
 *://note.com/loyal_otter6207/*
 *://note.com/lucid_weasel5472/*
 *://note.com/lucky_ai/*
+*://note.com/lulu_noah/*
 *://note.com/magic_azalea1081/*
 *://note.com/maiko_muri/*
 *://note.com/mainichigadget/*
@@ -22403,6 +22395,7 @@
 *://note.com/nifty_cosmos4076/*
 *://note.com/nifty_poppy4842/*
 *://note.com/nifty_viper3044/*
+*://note.com/ninnote/*
 *://note.com/nippon_ukuraina/*
 *://note.com/noble_guppy6313/*
 *://note.com/noble_myrtle9139/*
@@ -22428,6 +22421,7 @@
 *://note.com/pixel8a9/*
 *://note.com/planetofgori/*
 *://note.com/pocketstudio/*
+*://note.com/poi_nem/*
 *://note.com/ponta0921/*
 *://note.com/poppson/*
 *://note.com/powertanishi*
@@ -22461,6 +22455,7 @@
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
 *://note.com/ryoutakaaan/*
+*://note.com/ryuushin/*
 *://note.com/s4chax_/*
 *://note.com/saa617/*
 *://note.com/safe_panda2627/*
@@ -22737,6 +22732,7 @@
 *://olcv2z3.neurofaszia-therapie.de/*
 *://old-movie.jp/*
 *://old.appnee.com/*
+*://old.bitchute.com/*
 *://oldexpo.com/*
 *://oldnavy.gap.cn/*
 *://olertwsi.com/*
@@ -23475,6 +23471,7 @@
 *://reinforz.co.jp/*
 *://reitoratube.com/*
 *://reiwabook.blog/*
+*://reiwanotora.jp/*
 *://rekisiru.com/*
 *://relationshipannex.com/*
 *://relaxandslowly-soh.com/*
@@ -25025,6 +25022,7 @@
 *://trace-kyoto.com/*
 *://tracey.egyptianculture.net//*
 *://track.japex.ru/*
+*://trafficnews.jp/*
 *://trainwithkodi.com/*
 *://tramb.info/*
 *://tramea04.com/*
@@ -25159,6 +25157,7 @@
 *://tvbundleshubonline.com/*
 *://tvccochan.com/*
 *://tvreview.tokyo/*
+*://tweet.tokyo/*
 *://tweetsoku.com/*
 *://tweetsoku.news/*
 *://twemix.xyz/*
@@ -27573,6 +27572,7 @@
 *://x.com/natsukifjngero5*
 *://x.com/yuugafas*
 *://x.com/zlib_official/*
+*://x.gd/GkVjG/*
 *://x11x.attractive69.com/*
 *://x68000.q-e-d.net/*
 *://xdqern.dentist-24.de/*
