@@ -1027,6 +1027,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||artealfonsina.com^$document
 ||artechweb.pl^$document
 ||arthcamp.jp^$document
+||artlabdaily.com^$document
 ||artre60.com^$document
 ||artroot.jp^$document
 ||artstg.team-lab.cn^$document
@@ -1550,6 +1551,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||brownlind.xyz^$document
 ||browsingtechzone.com^$document
 ||brummell.jp^$document
+||brush.linkurio.xyz^$document
 ||bryangasprices.com^$document
 ||bryllupsmagasinet.no^$document
 ||bs5.redwoodjs.cn^$document
@@ -6873,6 +6875,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/onlineoripa^$document
 ||note.com/open_fennel6445^$document
 ||note.com/open_hare4661^$document
+||note.com/orangeitems^$document
 ||note.com/oripa_kensyo^$document
 ||note.com/orisusarusan^$document
 ||note.com/otosan_creation^$document
@@ -7938,6 +7941,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||re-do.jp^$document
 ||re-tabushi.com^$document
 ||read-the-tale.com^$document
+||readlabpro.com^$document
 ||readtoindia.com^$document
 ||real-estate-assist.japan-entertainment.mhx.jp^$document
 ||real-juku.jp^$document
