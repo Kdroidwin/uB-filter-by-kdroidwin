@@ -2,6 +2,10 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://fcch.co.jp/*
+*://note.com/dear_pipit1400/*
+*://tweet.tokyo/*
+*://trafficnews.jp/*
+*://kuruma-news.jp/*
 *://reiwanotora.jp/*
 *://x.gd/GkVjG/*
 *://keibariron.com/*
