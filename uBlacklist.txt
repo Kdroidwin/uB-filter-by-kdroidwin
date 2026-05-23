@@ -7,6 +7,9 @@
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
+*://yuu-yuu-infonews.com/*
+*://oto-blog.com/*
+*://carbanikx.life/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
