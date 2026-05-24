@@ -2,6 +2,13 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+title/Revanced - Block Video Ads - /
+*://revanced.jp.uptodown.com/*
+*://youtubevanced.net/*
+*://apps2app.com/*
+*://uchiagehanabi.jp/*
+*://doga-tanken.com/*
+*://hulu-manual.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
