@@ -2,13 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-title/Revanced - Block Video Ads - /
-*://revanced.jp.uptodown.com/*
-*://youtubevanced.net/*
-*://apps2app.com/*
-*://uchiagehanabi.jp/*
-*://doga-tanken.com/*
-*://hulu-manual.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16612,6 +16605,7 @@ title/Revanced - Block Video Ads - /
 *://apps.kepanjeneyecenter.com/*
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
+*://apps2app.com/*
 *://appsonwindows.com/*
 *://appteka.store/*
 *://appvalley-apk.com/*
@@ -17954,6 +17948,7 @@ title/Revanced - Block Video Ads - /
 *://doctor-assist.japan-entertainment.mhx.jp/*
 *://doctor-pie.com/*
 *://dodongmynghesaigon.com/*
+*://doga-tanken.com/*
 *://doga.hikakujoho.com/*
 *://dogaentame.net/*
 *://dogeza3-in-game.net/*
@@ -19791,6 +19786,7 @@ title/Revanced - Block Video Ads - /
 *://hukugyouch.hatenablog.jp/*
 *://hukuhukublog.wordpress.com/*
 *://hukuhukudokohuku.com/*
+*://hulu-manual.com/*
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
 *://hunting4gold.com/*
@@ -23554,6 +23550,7 @@ title/Revanced - Block Video Ads - /
 *://revanced.freedown.io/*
 *://revanced.info/*
 *://revanced.io/*
+*://revanced.jp.uptodown.com/*
 *://revanced.me/*
 *://revanced.net/*
 *://revanced.org/*
@@ -25212,6 +25209,7 @@ title/Revanced - Block Video Ads - /
 *://ubuntubin.com/*
 *://ucbalbania.com/?n=f*
 *://ucbl.cn/*
+*://uchiagehanabi.jp/*
 *://uchihapmarathon.jp/*
 *://uchina-times.com/*
 *://uchino-kazoku321.com/*
@@ -27887,6 +27885,7 @@ title/Revanced - Block Video Ads - /
 *://youtubevanced.com/*
 *://youtubevanced.gg/*
 *://youtubevanced.muragon.com/*
+*://youtubevanced.net/*
 *://youtubevanced.org/*
 *://youtubevanced.su/*
 *://youtubevanced.tools/*
@@ -28160,6 +28159,7 @@ title/Official Temu App -/
 title/Pie Adblock - /
 title/Pie Adblock for Safari - /
 title/Plus Messenger - /
+title/Revanced - Block Video Ads - /
 title/Revanced - Block Video Ads - G/
 title/Revanced - Block Video Ads - Google Play /
 title/Revanced - Block Video Ads -/

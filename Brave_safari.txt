@@ -976,6 +976,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja^$document
 ||apps.kepanjeneyecenter.com^$document
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
+||apps2app.com^$document
 ||appsonwindows.com^$document
 ||appteka.store^$document
 ||appvalley-apk.com^$document
@@ -2339,6 +2340,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doctor-assist.japan-entertainment.mhx.jp^$document
 ||doctor-pie.com^$document
 ||dodongmynghesaigon.com^$document
+||doga-tanken.com^$document
 ||doga.hikakujoho.com^$document
 ||dogaentame.net^$document
 ||dogeza3-in-game.net^$document
@@ -4193,6 +4195,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hukugyouch.hatenablog.jp^$document
 ||hukuhukublog.wordpress.com^$document
 ||hukuhukudokohuku.com^$document
+||hulu-manual.com^$document
 ||human-profile.hatenablog.com^$document
 ||human.happinessisthailand.com^$document
 ||hunting4gold.com^$document
@@ -8051,6 +8054,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revanced.freedown.io^$document
 ||revanced.info^$document
 ||revanced.io^$document
+||revanced.jp.uptodown.com^$document
 ||revanced.me^$document
 ||revanced.net^$document
 ||revanced.org^$document
@@ -9797,6 +9801,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ubuntubin.com^$document
 ||ubuntugeeks.com^$document
 ||ucbl.cn^$document
+||uchiagehanabi.jp^$document
 ||uchihapmarathon.jp^$document
 ||uchina-times.com^$document
 ||uchino-kazoku321.com^$document
@@ -12525,6 +12530,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||youtubevanced.com^$document
 ||youtubevanced.gg^$document
 ||youtubevanced.muragon.com^$document
+||youtubevanced.net^$document
 ||youtubevanced.org^$document
 ||youtubevanced.su^$document
 ||youtubevanced.tools^$document
