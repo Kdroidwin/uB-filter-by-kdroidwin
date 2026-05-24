@@ -5,9 +5,6 @@
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
-*://www.apk4fun.com/*
-*://aapks.app/*
-*://bunshin.ideology.co.jp/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
@@ -16062,6 +16059,7 @@
 *://aaanews.net/*
 *://aalhoyr.cn/*
 *://aap.skr.jp/*
+*://aapks.app/*
 *://aasc.or.jp/*
 *://abc-co.ru/*
 *://abc.us.org/*
@@ -17194,6 +17192,7 @@
 *://bungakuseinen.com/*
 *://bunkumo99.com/*
 *://bunpone.com/*
+*://bunshin.ideology.co.jp/*
 *://bunudagoruyor.online/*
 *://burgundy-movie.jp/*
 *://burly3qm.amisha.co.uk/*
@@ -25848,6 +25847,7 @@
 *://www.aoritsuito.com/*
 *://www.apk20.com/*
 *://www.apk3.com/*
+*://www.apk4fun.com/*
 *://www.apkfiles.com/*
 *://www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram/*
 *://www.apkmirror.com/apk/databite/graph-messenger/*

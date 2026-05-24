@@ -4,8 +4,6 @@
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
-||38.190.225.166^$all
-||apkpure.com/telegram/org.telegram.messenger^$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^.*(qr-topayday).*\.com(/[a-z0-9_-]?.*)?$/$doc
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
@@ -271,6 +269,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||371643.dijifinex.online^$document
 ||37chimama.com^$document
 ||37toblog.com^$document
+||38.190.225.166^$all
 ||380353.gatecoin.online^$document
 ||38hana.com^$document
 ||38k0sw2c.r.ap-northeast-1.awstrack.me^$document
@@ -415,6 +414,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aaanews.net^$document
 ||aalhoyr.cn^$document
 ||aap.skr.jp^$document
+||aapks.app^$document
 ||aasc.or.jp^$document
 ||abc-co.ru^$document
 ||abc.us.org^$document
@@ -928,6 +928,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apkpure.com/graph-messenger^$document
 ||apkpure.com/nekogram^$document
 ||apkpure.com/revanced-extended^$document
+||apkpure.com/telegram/org.telegram.messenger^$doc
 ||apkpure.com/youtube-revanced^$document
 ||apkpure.net/graph-messenger^$document
 ||apkpure.net/happymod-2025^$document
@@ -1576,6 +1577,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bungakuseinen.com^$document
 ||bunkumo99.com^$document
 ||bunpone.com^$document
+||bunshin.ideology.co.jp^$document
 ||bunudagoruyor.online^$document
 ||burgundy-movie.jp^$document
 ||burly3qm.amisha.co.uk^$document
@@ -10481,6 +10483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.aoritsuito.com^$document
 ||www.apk20.com^$document
 ||www.apk3.com^$document
+||www.apk4fun.com^$document
 ||www.apkfiles.com^$document
 ||www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram^$document
 ||www.apkmirror.com/apk/databite/graph-messenger^$document
