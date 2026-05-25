@@ -4838,6 +4838,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||keikeikei.com^$document
 ||keiko-osaka.com^$document
 ||keimy-blog.com^$document
+||keioboys.com^$document
 ||keiri-mama.com^$document
 ||keirin-junjun.net^$document
 ||keiroom1.com^$document
@@ -5185,6 +5186,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kyoukaran.com^$document
 ||kyounootomo.com^$document
 ||kyoutei-report.com^$document
+||kyoyo-renai.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
 ||kyushuoen-yahoo.co^$document
