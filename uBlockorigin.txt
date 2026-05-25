@@ -893,7 +893,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apkaward.com^$document
 ||apkbigs.com^$document
 ||apkcombo.com/ja/revanced^$document
-||apkcombo.com^$document
 ||apkcombo.it.com^$document
 ||apkcombo.my^$document
 ||apkcunk.com^$document
