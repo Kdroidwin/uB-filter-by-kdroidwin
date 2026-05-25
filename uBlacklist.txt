@@ -3,15 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://www.kamiyasohei.jp/*
-*://sanseito.jp/*
-*://www.ryouma-project.com/*
-*://www.gstrategy.jp/*
-*://pr.go2senkyo.com/*
-*://xn--eckaubhp5cv436c4he.com/*
-*://tachibanatakashi.jp/*
-*://yamatogokorous.com/*
-*://note.com/kemuri123/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -22332,6 +22323,7 @@
 *://note.com/kaz_kashiwagi/*
 *://note.com/kazu_feelin/*
 *://note.com/keizai_kousatsu/*
+*://note.com/kemuri123/*
 *://note.com/kenhonda/*
 *://note.com/keshikakeuranai/*
 *://note.com/kimetsu_mania/*
@@ -23231,6 +23223,7 @@
 *://ppgo.org/*
 *://pplclubcard.com/*
 *://ppt.dkgee.online/*
+*://pr.go2senkyo.com/*
 *://pr.toriaez.jp/*
 *://pr0zel.top/*
 *://pragma-life.jp/*
@@ -23837,6 +23830,7 @@
 *://sanosemi.info/*
 *://sanpo19.jp/*
 *://sanro.cc/*
+*://sanseito.jp/*
 *://sanservhygiene.co.zw/*
 *://sansyuen.jp/*
 *://santiagodiesel.kinghost.net/*
@@ -24627,6 +24621,7 @@
 *://tabiumiburari.com/*
 *://tabiyahotel.jp/*
 *://tachibanamama.com/*
+*://tachibanatakashi.jp/*
 *://tadanohimatsubushi.com/*
 *://tadasakan.com/*
 *://tadatabilife.hatenablog.com/*
@@ -26386,6 +26381,7 @@
 *://www.gruposamesa.com/*
 *://www.grupp-smt.ru/*
 *://www.gshade.org/*
+*://www.gstrategy.jp/*
 *://www.gualalaseafoodshack.joncarlo.com/*
 *://www.guedo.fr/*
 *://www.guilty-soft.com/*
@@ -26604,6 +26600,7 @@
 *://www.kaidouraku.net/*
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
+*://www.kamiyasohei.jp/*
 *://www.kanekoyozo.jp/outlet/*
 *://www.kanesk.cn/*
 *://www.kape.com/*
@@ -27131,6 +27128,7 @@
 *://www.rv9.info/*
 *://www.rvijylx.cn/*
 *://www.rwqmw23.cn/*
+*://www.ryouma-project.com/*
 *://www.saavifashion.com/*
 *://www.saba6.com/*
 *://www.sadeempc.com/*
@@ -27639,6 +27637,7 @@
 *://xn--djrq2jhuioun4o6b.net/*
 *://xn--eck7a6cb9hvc6743bh6ua0fqeui.com/*
 *://xn--eckaubhp5c.com/*
+*://xn--eckaubhp5cv436c4he.com/*
 *://xn--elisadiseoenplata-nxb.com/*
 *://xn--er-573a1isbf1441e2hs87j.jp/*
 *://xn--fck8b1a7qp98k05a03hlwv22qxml1mdbq2dy65agcf893a.com/*
@@ -27762,6 +27761,7 @@
 *://yamasakijun.com/*
 *://yamasanblog.com/*
 *://yamatemama.com/*
+*://yamatogokorous.com/*
 *://yamawake-estate.jp/*
 *://yamayamaprivateroom.jp/*
 *://yamomo12.com/*

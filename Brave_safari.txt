@@ -6785,6 +6785,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
 ||note.com/keizai_kousatsu^$document
+||note.com/kemuri123^$document
 ||note.com/kenhonda^$document
 ||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
@@ -7694,6 +7695,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ppgo.org^$document
 ||pplclubcard.com^$document
 ||ppt.dkgee.online^$document
+||pr.go2senkyo.com^$document
 ||pr.toriaez.jp^$document
 ||pr0zel.top^$document
 ||pragma-life.jp^$document
@@ -8352,6 +8354,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sanosemi.info^$document
 ||sanpo19.jp^$document
 ||sanro.cc^$document
+||sanseito.jp^$document
 ||sanservhygiene.co.zw^$document
 ||sansyuen.jp^$document
 ||santiagodiesel.kinghost.net^$document
@@ -9186,6 +9189,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tabiumiburari.com^$document
 ||tabiyahotel.jp^$document
 ||tachibanamama.com^$document
+||tachibanatakashi.jp^$document
 ||tadanohimatsubushi.com^$document
 ||tadasakan.com^$document
 ||tadatabilife.hatenablog.com^$document
@@ -11018,6 +11022,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.gruposamesa.com^$document
 ||www.grupp-smt.ru^$document
 ||www.gshade.org^$document
+||www.gstrategy.jp^$document
 ||www.gualalaseafoodshack.joncarlo.com^$document
 ||www.guedo.fr^$document
 ||www.guilty-soft.com^$document
@@ -11237,6 +11242,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kaidouraku.net^$document
 ||www.kalamhor.online^$document
 ||www.kalamisadalaristanbul.com^$document
+||www.kamiyasohei.jp^$document
 ||www.kanekoyozo.jp/outlet^$document
 ||www.kanesk.cn^$document
 ||www.kape.com^$document
@@ -11756,6 +11762,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.rv9.info^$document
 ||www.rvijylx.cn^$document
 ||www.rwqmw23.cn^$document
+||www.ryouma-project.com^$document
 ||www.saavifashion.com^$document
 ||www.saba6.com^$document
 ||www.sadeempc.com^$document
@@ -12273,6 +12280,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--djrq2jhuioun4o6b.net^$document
 ||xn--eck7a6cb9hvc6743bh6ua0fqeui.com^$document
 ||xn--eckaubhp5c.com^$document
+||xn--eckaubhp5cv436c4he.com^$document
 ||xn--elisadiseoenplata-nxb.com^$document
 ||xn--er-573a1isbf1441e2hs87j.jp^$document
 ||xn--fck8b1a7qp98k05a03hlwv22qxml1mdbq2dy65agcf893a.com^$document
@@ -12397,6 +12405,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yamasakijun.com^$document
 ||yamasanblog.com^$document
 ||yamatemama.com^$document
+||yamatogokorous.com^$document
 ||yamawake-estate.jp^$document
 ||yamayamaprivateroom.jp^$document
 ||yamomo12.com^$document
