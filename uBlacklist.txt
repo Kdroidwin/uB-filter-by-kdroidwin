@@ -16524,7 +16524,6 @@
 *://apk4free.net/*
 *://apkaward.com/*
 *://apkbigs.com/*
-*://apkcombo.com/*
 *://apkcombo.com/ja/revanced/*
 *://apkcombo.it.com/*
 *://apkcombo.my/*
