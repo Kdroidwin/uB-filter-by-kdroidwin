@@ -951,6 +951,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||app-info.xyz^$document
 ||app-liv.jp^$document
 ||app-story.net^$document
+||app-tatsujin.com^$document
 ||app-valley.vip^$document
 ||app.famitsu.com/category/android-apps/android-recommend^$document
 ||app.joinin.online^$document
@@ -2187,6 +2188,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||deerspa.com/products^$document
 ||deets.feedreader.com^$document
 ||deeya.sn^$document
+||definemarketing.ca^$document
 ||degistiraltindag.com^$document
 ||dejidownloaddoujin.net^$document
 ||dekisoft.com^$document
@@ -3506,6 +3508,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github-readme-stats.vercel.app^$document
 ||github.com/*/*KMS*auto*$all
 ||github.com/*/*KMS*pico*$all
+||github.com/aakbyuqjwx^$document
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/AddnessTech^$document
 ||github.com/AnthemHorizon453^$document
@@ -4124,6 +4127,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hololive.livedoor.biz^$document
 ||holotame.com^$document
 ||holy-saito-8151.parallel.jp^$document
+||holytech.jp^$document
 ||home-medical.online^$document
 ||homeofbead.com^$document
 ||homeparty-select.com^$document
@@ -5672,6 +5676,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mangetsu-maruche.jp^$document
 ||mango.co.jp^$document
 ||mankaikana.com^$document
+||mankuri.com^$document
 ||manmarudo.jp^$document
 ||manpukubiyori.com^$document
 ||manpukunews.blog.jp^$document
@@ -6166,6 +6171,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||motorx6d.sarangkkb.com^$document
 ||motoyun-anl.com^$document
 ||moukaku-san.com^$document
+||mounjaro.diet-beauty.jp^$document
 ||mountainday-tottori.jp^$document
 ||movie-architecture.com^$document
 ||movie-happyisland.com^$document
@@ -8247,6 +8253,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ryudos-product-hub.lovable.app^$document
 ||ryuichi-blog.com^$document
 ||ryusoku.com^$document
+||ryutoo.com^$document
 ||ryuukouyukue.com^$document
 ||ryuuseinogotoku-trend.com^$document
 ||ryuuutamiblog.com^$document
@@ -9852,6 +9859,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uniqueinteriors.pk^$document
 ||unitedcopier.in^$document
 ||unitree-robot.com^$document
+||unitymemories.jp^$document
 ||university-rank.com^$document
 ||unixmailserver.com^$document
 ||unlockedapk.com^$document
@@ -10726,6 +10734,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.creamiofoods.com^$document
 ||www.creodentistry.com^$document
 ||www.cruzrojacolombiana.org^$document
+||www.crystaldiskmark.com^$document
 ||www.crystalshieldpro.com^$document
 ||www.crystalspurely-shop.com^$document
 ||www.cssspgc.com^$document
@@ -12118,6 +12127,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.vubfvubf.xyz^$document
 ||www.w3campus.lk^$document
 ||www.wake-up-neo.net^$document
+||www.wakooclub.com^$document
 ||www.wandoutv.cn^$document
 ||www.warorince.com^$document
 ||www.waruagake.work^$document

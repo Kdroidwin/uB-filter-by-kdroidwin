@@ -2,18 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://unitymemories.jp/*
-*://app-tatsujin.com/*
-*://definemarketing.ca/*
-*://mounjaro.diet-beauty.jp/*
-*://mankuri.com/*
-*://holytech.jp/*
-*://ryutoo.com/*
-*://github.com/aakbyuqjwx/*
-*://www.wakooclub.com/*
-*://apps.apple.com/jp/app/wakoo-%E5%BF%83%E3%81%8C%E5%8B%95%E3%81%8F-%E9%9F%B3%E5%A3%B0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3/id6746478196*
-*://play.google.com/store/apps/details?id=com.site.wakoo&hl=*
-*://www.crystaldiskmark.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16585,6 +16573,7 @@
 *://app-info.xyz/*
 *://app-liv.jp/*
 *://app-story.net/*
+*://app-tatsujin.com/*
 *://app-valley.vip/*
 *://app.famitsu.com/category/android-apps/android-recommend/*
 *://app.joinin.online/*
@@ -16614,6 +16603,7 @@
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
 *://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
 *://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
+*://apps.apple.com/jp/app/wakoo-%E5%BF%83%E3%81%8C%E5%8B%95%E3%81%8F-%E9%9F%B3%E5%A3%B0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3/id6746478196*
 *://apps.kepanjeneyecenter.com/*
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
@@ -17804,6 +17794,7 @@
 *://deerspa.com/products/*
 *://deets.feedreader.com/*
 *://deeya.sn/*
+*://definemarketing.ca/*
 *://degistiraltindag.com/*
 *://dejidownloaddoujin.net/*
 *://dekisoft.com/*
@@ -19124,6 +19115,7 @@
 *://github.com/Tinumpit02/*
 *://github.com/YouTube-Premium-APK01/*
 *://github.com/YoutubePremiummod/*
+*://github.com/aakbyuqjwx/*
 *://github.com/arsLan4k1390/Cherrygram/releases/*
 *://github.com/hermafranciosa6375/*
 *://github.com/hushi01/*
@@ -19726,6 +19718,7 @@
 *://hololive.livedoor.biz/*
 *://holotame.com/*
 *://holy-saito-8151.parallel.jp/*
+*://holytech.jp/*
 *://home-medical.online/*
 *://homeofbead.com/*
 *://homeparty-select.com/*
@@ -21242,6 +21235,7 @@
 *://mangazuki-314159.com/*
 *://mangetsu-maruche.jp/*
 *://mankaikana.com/*
+*://mankuri.com/*
 *://manmarudo.jp/*
 *://manpukubiyori.com/*
 *://manpukunews.blog.jp/*
@@ -21730,6 +21724,7 @@
 *://motorx6d.sarangkkb.com/*
 *://motoyun-anl.com/*
 *://moukaku-san.com/*
+*://mounjaro.diet-beauty.jp/*
 *://mountainday-tottori.jp/*
 *://movie-architecture.com/*
 *://movie-happyisland.com/*
@@ -23133,6 +23128,7 @@
 *://play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced*
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
 *://play.google.com/store/apps/details?id=com.pokeca*
+*://play.google.com/store/apps/details?id=com.site.wakoo&hl=*
 *://play.google.com/store/apps/details?id=com.truecaller*
 *://play.google.com/store/apps/details?id=hotspotshield.android.vpn*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
@@ -23745,6 +23741,7 @@
 *://ryudos-product-hub.lovable.app/*
 *://ryuichi-blog.com/*
 *://ryusoku.com/*
+*://ryutoo.com/*
 *://ryuukouyukue.com/*
 *://ryuuseinogotoku-trend.com/*
 *://ryuuutamiblog.com/*
@@ -25267,6 +25264,7 @@
 *://uniqueinteriors.pk/*
 *://unitedcopier.in/*
 *://unitree-robot.com/*
+*://unitymemories.jp/*
 *://university-rank.com/*
 *://unixmailserver.com/*
 *://unlockedapk.com/*
@@ -26102,6 +26100,7 @@
 *://www.creamiofoods.com/*
 *://www.creodentistry.com/*
 *://www.cruzrojacolombiana.org/*
+*://www.crystaldiskmark.com/*
 *://www.crystalshieldpro.com/*
 *://www.crystalspurely-shop.com/*
 *://www.cssspgc.com/*
@@ -27489,6 +27488,7 @@
 *://www.vubfvubf.xyz/*
 *://www.w3campus.lk/*
 *://www.wake-up-neo.net/*
+*://www.wakooclub.com/*
 *://www.wandoutv.cn/*
 *://www.warorince.com/*
 *://www.waruagake.work/*
