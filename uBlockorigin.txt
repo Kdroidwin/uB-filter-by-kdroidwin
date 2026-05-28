@@ -1,6 +1,8 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ||login-paydayes*.com^$document
+||smbc-card.*.*^$document
+@@||smbc-card.com^$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
