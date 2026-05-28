@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://tk2023.tokyo/*
+*://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
+*://netmirror.work/*
 *://note.com/hongzilaoban2/*
 *://netmirror.homes/*
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop&hl=*
