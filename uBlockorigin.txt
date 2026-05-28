@@ -6225,7 +6225,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||musicstore.auone.jp^$document
 ||musictrades.co.jp^$document
 ||mustadapttosurvive.lcn40.com^$document
-||musubi10.com^$document
 ||mutonlh0.hghconvention.com^$document
 ||mutturimonstaaaa.com^$document
 ||muusan.wpx.jp^$document
