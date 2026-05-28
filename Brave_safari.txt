@@ -5390,6 +5390,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||locandroll.com^$document
 ||loccevd.com^$document
 ||lockets.jp^$document
+||login-paydayes*.com^$document
 ||login.ecount.cn^$document
 ||login.jobcan.app^$document
 ||logmi.jp^$document
@@ -6429,6 +6430,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netflixmirorr.com^$document
 ||netflixmirrorr.com^$document
 ||nethougaku.com^$document
+||netmirror.homes^$document
+||netmirror.work^$document
 ||netmodapk.app^$document
 ||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
@@ -6747,6 +6750,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/holy_beetle811^$document
 ||note.com/holy_pony5936^$document
 ||note.com/honest_zinnia946^$document
+||note.com/hongzilaoban2^$document
 ||note.com/honokamaison^$document
 ||note.com/horus_eyes^$document
 ||note.com/hsp_kazu^$document
@@ -8721,6 +8725,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||smartphone-life-moheji.hatenablog.com^$document
 ||smartphone-note.com/revanced-easy^$document
 ||smarttube.app^$document
+||smbc-card.*.*^$document
 ||smcw-member.jp^$document
 ||smdcgldv.art^$document
 ||smile-life.blog^$document
@@ -9504,6 +9509,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tk-kmt.jp^$document
 ||tk-production.xyz/yt-downloader-tk^$document
 ||tk196054.com^$document
+||tk2023.tokyo^$document
 ||tklog.work^$document
 ||tkm-3.com^$document
 ||tktktakunet.com^$document
@@ -12794,3 +12800,4 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://blog.*.top^$doc
 @@://pyrofork.*.top^$doc
 @@||masto*.top^$doc
+@@||smbc-card.com^$document
