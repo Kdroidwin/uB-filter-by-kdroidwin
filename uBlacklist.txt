@@ -1,5 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://tk2023.tokyo/*
+*://note.com/hongzilaoban2/*
+*://netmirror.homes/*
+*://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop&hl=*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
