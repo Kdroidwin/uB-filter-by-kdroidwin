@@ -1,11 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://netmirrorr.com.in/*
-*://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
-*://netmirror.com.de/*
-*://netmirrorpc.com.in/*
-*://www.gizmodo.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21980,8 +21975,11 @@
 *://netflixmirorr.com/*
 *://netflixmirrorr.com/*
 *://nethougaku.com/*
+*://netmirror.com.de/*
 *://netmirror.homes/*
 *://netmirror.work/*
+*://netmirrorpc.com.in/*
+*://netmirrorr.com.in/*
 *://netmodapk.app/*
 *://netori.dejidownloaddoujin.net/*
 *://netou.mion.main.jp/*
@@ -26370,6 +26368,7 @@
 *://www.girls-ap.com/*
 *://www.gitlabhost.cn/*
 *://www.giuseppegiuliano.org/*
+*://www.gizmodo.jp/*
 *://www.glitter-755.com/*
 *://www.globalhealthlinkinc.com/*
 *://www.globoinformativoydeportes.com/*

@@ -6430,8 +6430,12 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netflixmirorr.com^$document
 ||netflixmirrorr.com^$document
 ||nethougaku.com^$document
+||netmirror.com.de^$document
+||netmirror.gg/*.apk$document
 ||netmirror.homes^$document
 ||netmirror.work^$document
+||netmirrorpc.com.in^$document
+||netmirrorr.com.in^$document
 ||netmodapk.app^$document
 ||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
@@ -11000,6 +11004,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.girls-ap.com^$document
 ||www.gitlabhost.cn^$document
 ||www.giuseppegiuliano.org^$document
+||www.gizmodo.jp^$document
 ||www.glitter-755.com^$document
 ||www.globalhealthlinkinc.com^$document
 ||www.globoinformativoydeportes.com^$document
