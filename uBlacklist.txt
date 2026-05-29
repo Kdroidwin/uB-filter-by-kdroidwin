@@ -1,6 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://netmirrorr.com.in/*
+*://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
+*://netmirror.com.de/*
+*://netmirrorpc.com.in/*
+*://www.gizmodo.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
