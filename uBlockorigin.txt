@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 apkpure.com##.d-fast-download-game-one.fast-download-start-btn.btn
 apkpure.net##.fast-download-start-btn.btn
+apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-pss-bottom-right.ad-pss
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
