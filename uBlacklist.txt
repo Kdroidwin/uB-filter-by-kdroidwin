@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://linkbio.co/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -20917,6 +20916,7 @@
 *://link.gevents.cn/*
 *://link.photoprism.app/*
 *://link0plus-czdbb5cgd4bbebab.z01.azurefd.net/*
+*://linkbio.co/*
 *://links.giveawayoftheday.com/*
 *://linksnavi.com/*
 *://linoo7.com/*
