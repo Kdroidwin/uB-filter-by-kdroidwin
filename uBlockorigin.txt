@@ -9529,6 +9529,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||titanyachts.com^$document
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
+||tizentube.org^$document
 ||tk-create.com^$document
 ||tk-kmt.jp^$document
 ||tk-production.xyz/yt-downloader-tk^$document
