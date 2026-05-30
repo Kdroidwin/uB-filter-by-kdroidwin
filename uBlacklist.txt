@@ -2,31 +2,7 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-title/NetMirror - Movies/
-*://netmirror.plus/*
-title/Netmirror Extension/
-*://browseraddon.shop/*
-*://netmirrortv.com.in/*
 *://*.addness.co.jp/*
-*://netmirrors.org/*
-*://netmirrorapkdownload.com/*
-*://netmirrorapp.biz/*
-*://netmirror.site/*
-*://netmirror-apk.net/*
-*://netmirrorapks.app/*
-*://netmirrorapk.com/*
-*://www.netmirrors.app/*
-*://netmirror.com.pk/*
-*://netmirror.net/*
-*://revanced-tube.jp.uptodown.com/*
-*://vanced-tuber.jp.uptodown.com/*
-*://viva-tube-vanced.jp.uptodown.com/*
-*://vanced-kit-for-videotube-block-all-ads.jp.uptodown.com/*
-*://apps.apple.com/il/app/netmirror-movies-series/*
-title/Netmirror:映画とシリーズアプリ - App Store/
-*://note.com/photograpy_tips/*
-*://monet-grading.studio.site/*
-*://openew.app/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16625,6 +16601,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://apps.apple.com/*/app/expressvpn-secure-fast-vpn/id886492891*
 *://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
+*://apps.apple.com/il/app/netmirror-movies-series/*
 *://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
 *://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
 *://apps.apple.com/jp/app/wakoo-%E5%BF%83%E3%81%8C%E5%8B%95%E3%81%8F-%E9%9F%B3%E5%A3%B0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3/id6746478196*
@@ -17192,6 +17169,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://brookshoeoutlet.com/*
 *://brownalumnipoker.com/*
 *://brownlind.xyz/*
+*://browseraddon.shop/*
 *://browsingtechzone.com/*
 *://brummell.jp/*
 *://brush.linkurio.xyz/*
@@ -21693,6 +21671,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://mondo-libre.com/*
 *://mondra.jp/*
 *://monesblog.com/*
+*://monet-grading.studio.site/*
 *://money101.cn/*
 *://moneysey.com/*
 *://moneytalk.tokyo/*
@@ -21999,11 +21978,22 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://netflixmirorr.com/*
 *://netflixmirrorr.com/*
 *://nethougaku.com/*
+*://netmirror-apk.net/*
 *://netmirror.com.de/*
+*://netmirror.com.pk/*
 *://netmirror.homes/*
+*://netmirror.net/*
+*://netmirror.plus/*
+*://netmirror.site/*
 *://netmirror.work/*
+*://netmirrorapk.com/*
+*://netmirrorapkdownload.com/*
+*://netmirrorapks.app/*
+*://netmirrorapp.biz/*
 *://netmirrorpc.com.in/*
 *://netmirrorr.com.in/*
+*://netmirrors.org/*
+*://netmirrortv.com.in/*
 *://netmodapk.app/*
 *://netori.dejidownloaddoujin.net/*
 *://netou.mion.main.jp/*
@@ -22469,6 +22459,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://note.com/paul1211/*
 *://note.com/penginadaafi/*
 *://note.com/pet_supply/*
+*://note.com/photograpy_tips/*
 *://note.com/pixel8a9/*
 *://note.com/planetofgori/*
 *://note.com/pocketstudio/*
@@ -22846,6 +22837,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://ootdctyt.com/*
 *://op1.info/*
 *://opc3.bandom.info/*
+*://openew.app/*
 *://opensea.io/*
 *://oppai-sand.com/*
 *://oppai.ryohka.jp/*
@@ -23587,6 +23579,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://revanced-manager.en.uptodown.com/*
 *://revanced-manager.jp.uptodown.com/*
 *://revanced-mininxd.vercel.app/*
+*://revanced-tube.jp.uptodown.com/*
 *://revanced.apk.watch/*
 *://revanced.cloud/*
 *://revanced.dev/*
@@ -25377,6 +25370,8 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://vadunasy.xyz/*
 *://vagabr.online/*
 *://valor0code.com/*
+*://vanced-kit-for-videotube-block-all-ads.jp.uptodown.com/*
+*://vanced-tuber.jp.uptodown.com/*
 *://vanced.app/*
 *://vanced.com.co/*
 *://vanced.en.filerox.com/*
@@ -25457,6 +25452,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://visitlink.me/*
 *://vitabase.jp/*
 *://vitoriavirtural.online/*
+*://viva-tube-vanced.jp.uptodown.com/*
 *://vivi-mall.com/*
 *://vivi-water.com/*
 *://vividib.com/*
@@ -26926,6 +26922,7 @@ title/Netmirror:映画とシリーズアプリ - App Store/
 *://www.nekojirushi11.tokyo/*
 *://www.nelpur.shop/*
 *://www.nesabamedia.com/*
+*://www.netmirrors.app/*
 *://www.netoraseclub.com/*
 *://www.networkmoaleji2024.online/*
 *://www.newcsl.cn/*
@@ -28212,6 +28209,9 @@ title/LastPass: /
 title/Nekogram - Apps on/
 title/Nekogram - Apps/
 title/Nekogram - Google/
+title/NetMirror - Movies/
+title/Netmirror Extension/
+title/Netmirror:映画とシリーズアプリ - App Store/
 title/OFFでまとめ買/
 title/Official Temu App -/
 title/Pie Adblock - /

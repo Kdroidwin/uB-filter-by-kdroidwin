@@ -1,8 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-apkpure.com##.d-fast-download-game-one.fast-download-start-btn.btn
-apkpure.net##.fast-download-start-btn.btn
-apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-pss-bottom-right.ad-pss
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -65,6 +62,9 @@ apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-
 1link.jp##a[href*="tiktok.com/ug"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 a2zapk.io##[href^="https://beta-app-sprout.xyz"] > button
 androplus.jp##fieldset
+apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-pss-bottom-right.ad-pss
+apkpure.com##.d-fast-download-game-one.fast-download-start-btn.btn
+apkpure.net##.fast-download-start-btn.btn
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
 audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
@@ -980,6 +980,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apprev.smt.docomo.ne.jp^$document
 ||apprimo.info^$document
 ||apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja^$document
+||apps.apple.com/il/app/netmirror-movies-series^$document
 ||apps.kepanjeneyecenter.com^$document
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
 ||apps2app.com^$document
@@ -1555,6 +1556,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||brow2ing.com^$document
 ||brownalumnipoker.com^$document
 ||brownlind.xyz^$document
+||browseraddon.shop^$document
 ||browsingtechzone.com^$document
 ||brummell.jp^$document
 ||brush.linkurio.xyz^$document
@@ -6120,6 +6122,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mondo-libre.com^$document
 ||mondra.jp^$document
 ||monesblog.com^$document
+||monet-grading.studio.site^$document
 ||money101.cn^$document
 ||moneysey.com^$document
 ||moneytalk.tokyo^$document
@@ -6433,12 +6436,23 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netflixmirorr.com^$document
 ||netflixmirrorr.com^$document
 ||nethougaku.com^$document
+||netmirror-apk.net^$document
 ||netmirror.com.de^$document
+||netmirror.com.pk^$document
 ||netmirror.gg/*.apk$document
 ||netmirror.homes^$document
+||netmirror.net^$document
+||netmirror.plus^$document
+||netmirror.site^$document
 ||netmirror.work^$document
+||netmirrorapk.com^$document
+||netmirrorapkdownload.com^$document
+||netmirrorapks.app^$document
+||netmirrorapp.biz^$document
 ||netmirrorpc.com.in^$document
 ||netmirrorr.com.in^$document
+||netmirrors.org^$document
+||netmirrortv.com.in^$document
 ||netmodapk.app^$document
 ||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
@@ -6910,6 +6924,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/paul1211^$document
 ||note.com/penginadaafi^$document
 ||note.com/pet_supply^$document
+||note.com/photograpy_tips^$document
 ||note.com/pixel8a9^$document
 ||note.com/planetofgori^$document
 ||note.com/pocketstudio^$document
@@ -7293,6 +7308,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ootdctyt.com^$document
 ||op1.info^$document
 ||opc3.bandom.info^$document
+||openew.app^$document
 ||opensea.io^$document
 ||oppai-sand.com^$document
 ||oppai.ryohka.jp^$document
@@ -8070,6 +8086,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revanced-manager.en.uptodown.com^$document
 ||revanced-manager.jp.uptodown.com^$document
 ||revanced-mininxd.vercel.app^$document
+||revanced-tube.jp.uptodown.com^$document
 ||revanced.apk.watch^$document
 ||revanced.cloud^$document
 ||revanced.dev^$document
@@ -9957,6 +9974,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vadunasy.xyz^$document
 ||vagabr.online^$document
 ||valor0code.com^$document
+||vanced-kit-for-videotube-block-all-ads.jp.uptodown.com^$document
+||vanced-tuber.jp.uptodown.com^$document
 ||vanced.app^$document
 ||vanced.com.co^$document
 ||vanced.en.filerox.com^$document
@@ -10038,6 +10057,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||visual-foxpro-programmer.com^$document
 ||vitabase.jp^$document
 ||vitoriavirtural.online^$document
+||viva-tube-vanced.jp.uptodown.com^$document
 ||vivi-mall.com^$document
 ||vivi-water.com^$document
 ||vividib.com^$document
@@ -11536,6 +11556,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.nekojirushi11.tokyo^$document
 ||www.nelpur.shop^$document
 ||www.nesabamedia.com^$document
+||www.netmirrors.app^$document
 ||www.netoraseclub.com^$document
 ||www.networkmoaleji2024.online^$document
 ||www.newcsl.cn^$document
