@@ -4533,6 +4533,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||janotraining.com^$document
 ||japamart.com^$document
 ||japan-0-cnet-0-com.proxy.guilin.gov.cn^$document
+||japan-claude.com^$document
 ||japan-expressvpn.com^$document
 ||japan-gyouji.com^$document
 ||japan-newslounge.com^$document
@@ -11564,7 +11565,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.networkmoaleji2024.online^$document
 ||www.newcsl.cn^$document
 ||www.newlifeconstruction.co.uk^$document
-||www.news-postseven.com^$document
 ||www.newsroomtransparencytracker.com^$document
 ||www.newsunpia.com^$document
 ||www.nhrenshou.cn^$document

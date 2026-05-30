@@ -9,7 +9,6 @@
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
-*://japan-claude.com/*
 *://*.all-nationz.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
@@ -20113,6 +20112,7 @@
 *://janotraining.com/*
 *://japamart.com/*
 *://japan-0-cnet-0-com.proxy.guilin.gov.cn/*
+*://japan-claude.com/*
 *://japan-expressvpn.com/*
 *://japan-gyouji.com/*
 *://japan-newslounge.com/*
