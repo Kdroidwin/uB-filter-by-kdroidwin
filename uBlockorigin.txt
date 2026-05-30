@@ -11564,7 +11564,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.networkmoaleji2024.online^$document
 ||www.newcsl.cn^$document
 ||www.newlifeconstruction.co.uk^$document
-||www.news-postseven.com^$document
 ||www.newsroomtransparencytracker.com^$document
 ||www.newsunpia.com^$document
 ||www.nhrenshou.cn^$document
