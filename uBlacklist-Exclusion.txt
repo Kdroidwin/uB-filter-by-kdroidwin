@@ -3,6 +3,8 @@
 @*://mangaruu.com/*
 @*://ahsvr.tech/*
 @*://www.bsbsb.top/*
+@*://xn--9ckkn.top/*
+@*://*.xn--9ckkn.top/*
 @*://eur.ja.currencyrate.today/*
 @*://eur.currencyrate.today/*
 @*://mee6.xyz/*
