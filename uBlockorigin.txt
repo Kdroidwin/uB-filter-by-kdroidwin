@@ -9756,6 +9756,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||trmrknng.com^$document
 ||trokiss-gamer.com^$document
 ||troopxkb.applevacations.sg^$document
+||troypoint.com^$document
 ||trs-recruit.jp^$document
 ||true-bow.com^$document
 ||truppe.team^$document

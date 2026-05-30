@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://troypoint.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -25166,6 +25165,7 @@
 *://trmrknng.com/*
 *://trokiss-gamer.com/*
 *://troopxkb.applevacations.sg/*
+*://troypoint.com/*
 *://trs-recruit.jp/*
 *://true-bow.com/*
 *://truppe.team/*
