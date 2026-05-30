@@ -2,6 +2,11 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+title/NetMirror - Movies/
+*://netmirror.plus/*
+title/Netmirror Extension/
+*://browseraddon.shop/*
+*://netmirrortv.com.in/*
 *://*.addness.co.jp/*
 *://netmirrors.org/*
 *://netmirrorapkdownload.com/*
