@@ -9,6 +9,7 @@
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
+*://japan-claude.com/*
 *://*.all-nationz.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
