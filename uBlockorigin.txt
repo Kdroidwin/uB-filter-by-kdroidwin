@@ -85,7 +85,6 @@ nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nswpedia.com##center
 nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
-www.startpage.com##div.css-z73qjy.result:nth-of-type(n):has-text(HOT !)
 romsns.com##.idb-btn
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
 socialxup.com##.scrollbar-hide.overflow-y-auto.max-h-\[calc\(100vh-5rem\)\].top-16.sticky.flex-shrink-0.w-72.lg\:block.hidden > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
@@ -114,6 +113,7 @@ www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
 www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
+www.startpage.com##div.css-z73qjy.result:nth-of-type(n):has-text(HOT !)
 ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||*bank-co-jp.*^$document
 ||*bank-co-jp.com^$document
@@ -296,6 +296,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||4964649.slot42.online^$document
 ||4download.net^$document
 ||4dpocket.jp^$document
+||4dr.chula.ac.th/products^$document
 ||4kaku.me^$document
 ||4ki4.net^$document
 ||4kidsmamahokenshi.com^$document
@@ -8660,6 +8661,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||showsneakpeek.com^$document
 ||shoyablog.net^$document
 ||shreeramandco.com^$document
+||shribalajipharmacycollege.in/items^$document
 ||shrine-carine.com^$document
 ||shsb-siddessen.de^$document
 ||shufu-run.net^$document
@@ -10625,6 +10627,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.bestmamafinds.com^$document
 ||www.betternet.co^$document
 ||www.beyourlover.co.jp^$document
+||www.bhaskarcrackers.in/view/item^$document
 ||www.biccamera.com/bc/i/topics/osusume_pc_university/index.jsp^$document
 ||www.biglobe-hikari.net^$document
 ||www.bikingaway.com^$document
@@ -10781,6 +10784,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.crackingpatching.org^$document
 ||www.cranq.jp^$document
 ||www.creamiofoods.com^$document
+||www.creativequestfoundation.org/items^$document
 ||www.creodentistry.com^$document
 ||www.cruzrojacolombiana.org^$document
 ||www.crystaldiskmark.com^$document
@@ -11895,6 +11899,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sideshift.app^$document
 ||www.sidjiformation.com^$document
 ||www.sienesa.cl^$document
+||www.sihdj.com/items^$document
 ||www.silentvalleyfarmstay.com^$document
 ||www.silvermk.com^$document
 ||www.simatai.fr^$document

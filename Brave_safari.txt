@@ -1,4 +1,4 @@
-! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
+! Title: uB-filter-by-kdroidwin(Brave,Safari,Vivaldi)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -105,10 +105,7 @@ thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/)
 www.gadget2ch.com###main > div.article-text-rss-box
 www.gadget2ch.com###page > .posts-inner
 www.gadget2ch.com###page > div.article-text-rss-box
-www.google.com##div.yhQgZb:has-text(HOT ! )
-www.google.com##div.yhQgZb:has-text(HOT !)
-www.google.com##div.yhQgZb:has-text(HOT!)
-www.google.com##div.yhQgZb:has-text(HOT！)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
 www.grayporn.org##.eye-catch-wrap
 www.mangalear.blog##.eye-catch-wrap
 www.nijioma.blog##.eye-catch-wrap
@@ -116,6 +113,7 @@ www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
 www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
+www.startpage.com##div.css-z73qjy.result:nth-of-type(n):has-text(HOT !)
 ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||*bank-co-jp.*^$document
 ||*bank-co-jp.com^$document
@@ -298,6 +296,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||4964649.slot42.online^$document
 ||4download.net^$document
 ||4dpocket.jp^$document
+||4dr.chula.ac.th/products^$document
 ||4kaku.me^$document
 ||4ki4.net^$document
 ||4kidsmamahokenshi.com^$document
@@ -8662,6 +8661,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||showsneakpeek.com^$document
 ||shoyablog.net^$document
 ||shreeramandco.com^$document
+||shribalajipharmacycollege.in/items^$document
 ||shrine-carine.com^$document
 ||shsb-siddessen.de^$document
 ||shufu-run.net^$document
@@ -10627,6 +10627,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.bestmamafinds.com^$document
 ||www.betternet.co^$document
 ||www.beyourlover.co.jp^$document
+||www.bhaskarcrackers.in/view/item^$document
 ||www.biccamera.com/bc/i/topics/osusume_pc_university/index.jsp^$document
 ||www.biglobe-hikari.net^$document
 ||www.bikingaway.com^$document
@@ -10783,6 +10784,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.crackingpatching.org^$document
 ||www.cranq.jp^$document
 ||www.creamiofoods.com^$document
+||www.creativequestfoundation.org/items^$document
 ||www.creodentistry.com^$document
 ||www.cruzrojacolombiana.org^$document
 ||www.crystaldiskmark.com^$document
@@ -11897,6 +11899,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sideshift.app^$document
 ||www.sidjiformation.com^$document
 ||www.sienesa.cl^$document
+||www.sihdj.com/items^$document
 ||www.silentvalleyfarmstay.com^$document
 ||www.silvermk.com^$document
 ||www.simatai.fr^$document
