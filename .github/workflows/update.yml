@@ -1,4 +1,4 @@
-name: "Update uBlockorigin.txt & Brave_safari.txt & uBlockOriginforGoogleSearch.txt & uBlockOriginforSearXNG.txt & uBlacklist.txt"
+name: "Update uBlockorigin.txt & Brave_safari.txt & uBlockOriginforGoogleSearch.txt & uBlockOriginforBraveSearch.txt & uBlockOriginforSearXNG.txt & uBlacklist.txt"
 
 on:
   push:
@@ -28,8 +28,13 @@ jobs:
           ublack_path = "uBlacklist.txt"
           ublockorigin_path = "uBlockorigin.txt"
           brave_path = "Brave_safari.txt"
-          google_path = "uBlockOriginforGoogleSearch.txt"
-          searxng_path = "uBlockOriginforSearXNG.txt"
+
+          search_engine_dir = "search engine"
+          google_path = os.path.join(search_engine_dir, "uBlockOriginforGoogleSearch.txt")
+          brave_search_path = os.path.join(search_engine_dir, "uBlockOriginforBraveSearch.txt")
+          searxng_path = os.path.join(search_engine_dir, "uBlockOriginforSearXNG.txt")
+
+          os.makedirs(search_engine_dir, exist_ok=True)
 
           searxng_hosts = [
               "searxng.site",
@@ -217,6 +222,23 @@ jobs:
                   f.write("\n".join(google_rules))
               f.write("\n")
 
+          # Brave Search 用
+          brave_search_rules = []
+          for domain in source_domains:
+              domain_esc = domain.replace("\\", "\\\\").replace('"', '\\"')
+              brave_search_rules.append(
+                  f'search.brave.com##.snippet:has(a[href*="{domain_esc}"])'
+              )
+
+          brave_search_rules = sorted(set(brave_search_rules), key=lambda x: x.lower())
+
+          with open(brave_search_path, "w", encoding="utf-8") as f:
+              f.write("! Title: uB-filter-by-kdroidwin(Brave Search)\n")
+              if brave_search_rules:
+                  f.write("\n\n")
+                  f.write("\n".join(brave_search_rules))
+              f.write("\n")
+
           # SearXNG 用
           searxng_rules = []
           for domain in source_domains:
@@ -238,14 +260,14 @@ jobs:
           with open(ublack_path, "w", encoding="utf-8") as f:
               f.write("\n".join(ublack_unique) + "\n")
 
-          print("uBlacklist / uBlockorigin / Brave_safari / Google Search / SearXNG を更新しました")
+          print("uBlacklist / uBlockorigin / Brave_safari / Google Search / Brave Search / SearXNG を更新しました")
           EOF
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt uBlockOriginforGoogleSearch.txt uBlockOriginforSearXNG.txt
+          git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt "search engine/uBlockOriginforGoogleSearch.txt" "search engine/uBlockOriginforBraveSearch.txt" "search engine/uBlockOriginforSearXNG.txt"
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
