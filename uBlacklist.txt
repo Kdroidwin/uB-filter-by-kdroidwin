@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://anaary.guru/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16388,6 +16387,7 @@
 *://amy1181.com/*
 *://an1.ca/*
 *://an1.co.in/*
+*://anaary.guru/*
 *://analogkaka.com/*
 *://analytics.slot47.online/*
 *://ananantenna.blog.jp/*

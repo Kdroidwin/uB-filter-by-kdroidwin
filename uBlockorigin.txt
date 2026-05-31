@@ -756,6 +756,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||amy1181.com^$document
 ||an1.ca^$document
 ||an1.co.in^$document
+||anaary.guru^$document
 ||analogkaka.com^$document
 ||analytics.slot47.online^$document
 ||ananantenna.blog.jp^$document
