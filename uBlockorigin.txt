@@ -5185,6 +5185,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kuroshiba0511.com^$document
 ||kuruma-news.jp^$document
 ||kushi-mc.net^$document
+||kuttye.shop^$document
 ||kuznec.certa.ru^$document
 ||kvantorium69.ru^$document
 ||kvibaba.com^$document

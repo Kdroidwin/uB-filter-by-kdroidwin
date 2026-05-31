@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://kuttye.shop/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -20751,6 +20750,7 @@
 *://kuronekokusujun012.wixsite.com/*
 *://kuroshiba0511.com/*
 *://kuruma-news.jp/*
+*://kuttye.shop/*
 *://kuznec.certa.ru/*
 *://kvantorium69.ru/*
 *://kvibaba.com/*
