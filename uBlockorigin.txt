@@ -105,10 +105,7 @@ thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/)
 www.gadget2ch.com###main > div.article-text-rss-box
 www.gadget2ch.com###page > .posts-inner
 www.gadget2ch.com###page > div.article-text-rss-box
-www.google.com##div.yhQgZb:has-text(HOT ! )
-www.google.com##div.yhQgZb:has-text(HOT !)
-www.google.com##div.yhQgZb:has-text(HOT!)
-www.google.com##div.yhQgZb:has-text(HOT！)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
 www.grayporn.org##.eye-catch-wrap
 www.mangalear.blog##.eye-catch-wrap
 www.nijioma.blog##.eye-catch-wrap
