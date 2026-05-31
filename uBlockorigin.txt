@@ -1,5 +1,10 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+||com/visa.co.jp$doc
+||cn/visa.co.jp$doc
+||com/amazonsadsa$doc
+||cn/amazonsadsa$doc
+||ocn.webmail.*.icu$doc
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
