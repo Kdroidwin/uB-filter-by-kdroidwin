@@ -1,10 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||com/visa.co.jp$doc
-||cn/visa.co.jp$doc
-||com/amazonsadsa$doc
-||cn/amazonsadsa$doc
-||ocn.webmail.*.icu$doc
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -540,6 +535,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
 ||ahplk.kglyrifg.top^$document
+||ai-career-japan.jp^$document
 ||ai-doujin-navi.com^$document
 ||ai-ffiliate.net^$document
 ||ai-l.net^$document
@@ -663,6 +659,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||allayfx7.bruneida.com^$document
 ||allcolorful.xsrv.jp^$document
 ||allerotics.online^$document
+||allkeysgenerator.com^$document
 ||allmodapk.de^$document
 ||allout-anime.com^$document
 ||allowb6z.cvs.com.my^$document
@@ -1878,6 +1875,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cmlife2015.com^$document
 ||cmmhw.taobao.com^$document
 ||cmnfew.com^$document
+||cn/amazonsadsa$doc
+||cn/visa.co.jp$doc
 ||cndl.synology.cn^$document
 ||co-family.net^$document
 ||co-jp.com^
@@ -1931,6 +1930,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||colourful-audition.jp^$document
 ||columbia-xxx.com^$document
 ||columbia.jp^$document
+||com/amazonsadsa$doc
+||com/visa.co.jp$doc
 ||comaco325.com^$document
 ||comboapk.org^$document
 ||comedian-marriage.com^$document
@@ -5421,6 +5422,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||losvallescreel.com^$document
 ||lotakaromosas.hu^$document
 ||lotnet.com^$document
+||lotsful.jp^$document
 ||louisvuitton-senmon.jp^$document
 ||lounge.dmm.com^$document
 ||love-all.jp^$document
@@ -5509,6 +5511,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||m.utoo.cniic.cn^$document
 ||m.yuugafas.com^$document
 ||m1bpk6f0e.dottoremiascolti.it^$document
+||m7dhmwrggg3045bg0d0zuw55ybx.live^$document
 ||m83afuvlx.marcel-geht-garnicht.de^$document
 ||ma-mekore.com^$document
 ||ma-net.jp^$document
@@ -5594,6 +5597,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||makuring.jp/internet/best-vpn^$document
 ||makuring.jp/internet/paid-vpn^$document
 ||makuring.jp^$document
+||makusan.ne.jp^$document
 ||malaylog.com^$document
 ||malaysia-mokoko1717.blog^$document
 ||malonn.net^$document
@@ -7184,6 +7188,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||oceansofgamess.com^$document
 ||oceantogames.com^$document
 ||ochibimama-blog.com^$document
+||ocn.webmail.*.icu$doc
 ||octoba.net^$document
 ||odebuwaiku.hatenablog.com^$document
 ||odeconet.com^$document
@@ -7944,6 +7949,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rakutens-jp.shop^$document
 ||ramcoenterprises.com^$document
 ||ranariosaoluis.com^$document
+||randomkeygen.com^$document
 ||rank-king.jp^$document
 ||ranking.goo.ne.jp^$document
 ||rankingoo.net^$document
@@ -9453,6 +9459,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||themepark.o-u-ma.com^$document
 ||thenewlifehospitals.com^$document
 ||thenhawk.xyz^$document
+||thenrpod.com^$document
 ||theosopht.com^$document
 ||thepickup1010.com^$document
 ||thepiratebay.party^$document
@@ -9655,6 +9662,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||totalnewsjp.com^$document
 ||totalnewsworld.theletter.jp^$document
 ||totalpolitik.com^$document
+||tototo.baby^$document
 ||totteoki-machida.com^$document
 ||tottori-bf.jp^$document
 ||tottori-brotherandsister.jp^$document
@@ -12642,7 +12650,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
 ||yui-cni.cv^$document
+||yujiblog.org^$document
 ||yuka-arrgtlife.com^$document
+||yuka001.com^$document
 ||yuka222.com^$document
 ||yukaiakansyasai.ciao.jp^$document
 ||yukarikh.com^$document
@@ -12779,6 +12789,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||zero-plus.io^$document
 ||zerocustom.jp^$document
 ||zeroichi.media^$document
+||zeromobile.co.jp^$document
 ||zeroum.co.jp^$document
 ||zerozerolove.net^$document
 ||zesty1pk.arcjav.com^$document
