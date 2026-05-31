@@ -1,4 +1,4 @@
-name: Update uBlockorigin.txt & Brave_safari.txt & uBlacklist.txt
+name: "Update uBlockorigin.txt & Brave_safari.txt & uBlockOriginforGoogleSearch.txt & uBlockOriginforSearXNG.txt & uBlacklist.txt"
 
 on:
   push:
@@ -28,6 +28,78 @@ jobs:
           ublack_path = "uBlacklist.txt"
           ublockorigin_path = "uBlockorigin.txt"
           brave_path = "Brave_safari.txt"
+          google_path = "uBlockOriginforGoogleSearch.txt"
+          searxng_path = "uBlockOriginforSearXNG.txt"
+
+          searxng_hosts = [
+              "searxng.site",
+              "search.rhscz.eu",
+              "searx.tiekoetter.com",
+              "search.hbubli.cc",
+              "searx.dresden.network",
+              "search.inetol.net",
+              "searx.rhscz.eu",
+              "search.zina.dev",
+              "search.bladerunn.in",
+              "search.indst.eu",
+              "ooglester.com",
+              "opnxng.com",
+              "search.rowie.at",
+              "priv.au",
+              "search.internetsucks.net",
+              "search.charliewhiskey.net",
+              "searxng.canine.tools",
+              "s.mble.dk",
+              "searxng.shreven.org",
+              "kantan.cat",
+              "search.freestater.org",
+              "search.abohiccups.com",
+              "search.ipsys.bf",
+              "search.minus27315.dev",
+              "grep.vim.wtf",
+              "searxng.cups.moe",
+              "search.mdosch.de",
+              "search.catboy.house",
+              "search.ethibox.fr",
+              "search.femboy.ad",
+              "search.2b9t.xyz",
+              "searx.party",
+              "search.ononoki.org",
+              "www.gruble.de",
+              "searx.sev.monster",
+              "searx.ro",
+              "searxng.website",
+              "searx.namejeff.xyz",
+              "search.sapti.me",
+              "search.privacyredirect.com",
+              "paulgo.io",
+              "copp.gg",
+              "searx.perennialte.ch",
+              "search.undertale.uk",
+              "etsi.me",
+              "search.wdpserver.com",
+              "baresearch.org",
+              "searx.oloke.xyz",
+              "search.im-in.space",
+              "searx.stream",
+              "search.einfachzocken.eu",
+              "searx.tuxcloud.net",
+              "find.xenorio.xyz",
+              "search.pi.vps.pw",
+              "search.unredacted.org",
+              "o5.gg",
+              "searx.ankha.ac",
+              "searx.ox2.fr",
+              "seek.fyi",
+              "search.anoni.net",
+              "searx.mxchange.org",
+              "searx.mbuf.net",
+              "search.darkness.services",
+              "search.url4irl.com",
+              "sx.catgirl.cloud",
+              "searx.lunar.icu",
+          ]
+          searxng_prefix = ",".join(searxng_hosts)
 
           # uBlacklist.txt 読み込み
           with open(ublack_path, "r", encoding="utf-8") as f:
@@ -36,13 +108,8 @@ jobs:
           # 重複削除・ソート
           ublack_unique = sorted(set(ublack_lines))
 
-          # uBlockorigin.txt 読み込み
-          ublock_lines = []
-          if os.path.exists(ublockorigin_path):
-              with open(ublockorigin_path, "r", encoding="utf-8") as f:
-                  ublock_lines = [line.rstrip("\n") for line in f]
-
-          new_lines = []
+          # uBlacklist から元URLリストに相当するドメインを抽出
+          source_domains = []
           for line in ublack_unique:
               if line.startswith("*://*.") and line.endswith("/*"):
                   # *://*. 形式は無視
@@ -52,9 +119,19 @@ jobs:
                   # 除外ドメイン
                   if domain == "no-sheep.org":
                       continue
-                  ublock_line = f"||{domain}^$document"
-                  if ublock_line not in ublock_lines:
-                      new_lines.append(ublock_line)
+                  source_domains.append(domain)
+
+          # uBlockorigin.txt 読み込み
+          ublock_lines = []
+          if os.path.exists(ublockorigin_path):
+              with open(ublockorigin_path, "r", encoding="utf-8") as f:
+                  ublock_lines = [line.rstrip("\n") for line in f]
+
+          new_lines = []
+          for domain in source_domains:
+              ublock_line = f"||{domain}^$document"
+              if ublock_line not in ublock_lines:
+                  new_lines.append(ublock_line)
 
           # 追加
           ublock_lines.extend(new_lines)
@@ -80,6 +157,10 @@ jobs:
                   exceptions.append(line)
               else:
                   rules.append(line)
+
+          # タイトルがなければ既定タイトルを入れる
+          if not title_comments:
+              title_comments = ["! Title: uB-filter-by-kdroidwin(uBO&AdGuard)"]
 
           # ソート
           rules.sort(key=lambda x: x.lower())
@@ -119,18 +200,52 @@ jobs:
           with open(brave_path, "w", encoding="utf-8") as f:
               f.write("\n".join(brave_output) + "\n")
 
+          # Google Search 用
+          google_rules = []
+          for domain in source_domains:
+              domain_esc = domain.replace("\\", "\\\\").replace('"', '\\"')
+              google_rules.append(
+                  f'www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="{domain_esc}"][data-ved]:upward(3)'
+              )
+
+          google_rules = sorted(set(google_rules), key=lambda x: x.lower())
+
+          with open(google_path, "w", encoding="utf-8") as f:
+              f.write("! Title: uB-filter-by-kdroidwin(Google Search)\n")
+              if google_rules:
+                  f.write("\n\n")
+                  f.write("\n".join(google_rules))
+              f.write("\n")
+
+          # SearXNG 用
+          searxng_rules = []
+          for domain in source_domains:
+              domain_esc = domain.replace("\\", "\\\\").replace("'", "\\'")
+              searxng_rules.append(
+                  f"{searxng_prefix}##article.category-general.result-default.result:nth-of-type(n):has(a[href*='://{domain_esc}'])"
+              )
+
+          searxng_rules = sorted(set(searxng_rules), key=lambda x: x.lower())
+
+          with open(searxng_path, "w", encoding="utf-8") as f:
+              f.write("! Title: uB-filter-by-kdroidwin(SearXNG)\n")
+              if searxng_rules:
+                  f.write("\n\n")
+                  f.write("\n".join(searxng_rules))
+              f.write("\n")
+
           # uBlacklist.txt 上書き
           with open(ublack_path, "w", encoding="utf-8") as f:
               f.write("\n".join(ublack_unique) + "\n")
 
-          print("uBlacklist / uBlockorigin / Brave_safari を更新しました")
+          print("uBlacklist / uBlockorigin / Brave_safari / Google Search / SearXNG を更新しました")
           EOF
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt
+          git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt uBlockOriginforGoogleSearch.txt uBlockOriginforSearXNG.txt
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
