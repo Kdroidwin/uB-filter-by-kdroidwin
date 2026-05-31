@@ -49,11 +49,9 @@ jobs:
                   continue
               elif line.startswith("*://") and line.endswith("/*"):
                   domain = line[4:-2]
-
                   # 除外ドメイン
                   if domain == "no-sheep.org":
                       continue
-
                   ublock_line = f"||{domain}^$document"
                   if ublock_line not in ublock_lines:
                       new_lines.append(ublock_line)
@@ -99,12 +97,15 @@ jobs:
 
           # 出力先ごとの変換
           # uBlockorigin.txt はそのまま
-          # Brave_safari.txt は ,to= を ,domain= に変換
+          # Brave_safari.txt はタイトル変更 + ,to= を ,domain= に変換
           ublock_output = []
           brave_output = []
 
           for line in final_lines:
-              if line.startswith("!"):
+              if line.startswith("! Title:"):
+                  ublock_output.append(line)
+                  brave_output.append("! Title: uB-filter-by-kdroidwin(Brave,Safari,Vivaldi)")
+              elif line.startswith("!"):
                   ublock_output.append(line)
                   brave_output.append(line)
               else:
@@ -130,11 +131,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add uBlacklist.txt uBlockorigin.txt Brave_safari.txt
-
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-
           git commit -m "Auto-update filter lists"
           git push
