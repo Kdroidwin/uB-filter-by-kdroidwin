@@ -3537,6 +3537,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github.com/NoName-exe/revanced-extended^$document
 ||github.com/nutterplayer7093^$document
 ||github.com/parth56uygh^$document
+||github.com/pedrodg28^$document
 ||github.com/revanced-apks/build-apps^$document
 ||github.com/TabooPlanner^$document
 ||github.com/tehcneko^$document

@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://github.com/pedrodg28/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -19130,6 +19129,7 @@
 *://github.com/mrsmiley2008/*
 *://github.com/nutterplayer7093/*
 *://github.com/parth56uygh/*
+*://github.com/pedrodg28/*
 *://github.com/revanced-apks/build-apps/*
 *://github.com/tehcneko/*
 *://github.com/thongthaibm/*
