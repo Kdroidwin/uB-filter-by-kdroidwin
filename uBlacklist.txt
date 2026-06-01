@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://polyfill.io/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -23223,6 +23222,7 @@
 *://polimats.com/*
 *://pollux555.com/*
 *://polybandas.cl/*
+*://polyfill.io/*
 *://polymc.org/*
 *://polzermediagroup.com/*
 *://pomomoy.com/*

@@ -7699,6 +7699,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pollux555.com^$document
 ||polybandas.cl^$document
 ||polyfill.io^$3p
+||polyfill.io^$document
 ||polymc.org^$document
 ||polzermediagroup.com^$document
 ||pomomoy.com^$document
