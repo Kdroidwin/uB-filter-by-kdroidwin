@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://jikohasan-fukkatsu.com/*
-*://mangaportal.jp/*
-*://mntsigorta.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -20165,6 +20162,7 @@
 *://jijimedia.com/*
 *://jijinote.com/*
 *://jijyg.com/*
+*://jikohasan-fukkatsu.com/*
 *://jikokensan.com/*
 *://jikorich.com/*
 *://jilog.net/*
@@ -21246,6 +21244,7 @@
 *://mangamu.com/*
 *://mangan1.seesaa.net/*
 *://manganista.net/*
+*://mangaportal.jp/*
 *://mangatameshiyomi.com/*
 *://mangazok.com/*
 *://mangazuki-314159.com/*
@@ -21610,6 +21609,7 @@
 *://mmsgbr.com/*
 *://mn.metaphase.cn/*
 *://mnogosdelal.ru/*
+*://mntsigorta.com/*
 *://mo-mo-town.com/*
 *://moans759.malaysiainternationalschools.com/*
 *://mobattack.com/*
