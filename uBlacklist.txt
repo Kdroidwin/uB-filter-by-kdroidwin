@@ -1,31 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://tlauncher.jp.uptodown.com/*
-*://minecraft.oyakudati-matome.com/*
-*://github.com/tlaunchermc/*
-*://www.reddit.com/r/TLAUNCHER/*
-*://play.google.com/store/apps/details?id=com.tlaunchers.official*
-*://www.reddit.com/r/PiratedGames/comments/ex9xot/for_those_who_are_questionable_about_tlauncher/*
-*://www.youtube.com/watch?v=7gwXKSRuErY*
-*://tlauncher.com.tr/*
-*://tlauncher.rajce.idnes.cz/*
-*://757038.8b.io/*
-*://tlauncher.amebaownd.com/*
-*://www.youtube.com/watch?v=AsWhEONwpBU*
-*://www.youtube.com/watch?v=FKGmwfEDpCA*
-*://support.aternos.org/hc/*/articles/360050784692-TLauncher-Minecraft-Java-Edition*
-*://tlauncher.en.uptodown.com/*
-*://tlauncher.gitlab.io/*
-*://allgamemods.com/*
-*://unikoukokun.com/*
-*://www.crra.jp/*
-*://www.hiyassy.com/*
-*://www.youtube.com/watch?v=W3UefS_kUE8*
-*://carbon-lab.jimdoweb.com/*
-*://x.com/crra_jp*
-*://ideasforgood.jp/*
-*://hino-shakyo.or.jp/taidan_sdgs01/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16018,6 +15993,7 @@
 *://7376-news.com/*
 *://74n5c4m7.r.eu-west-1.awstrack.me/*
 *://7544645.slot27.online/*
+*://757038.8b.io/*
 *://7665329.slot31.online/*
 *://774neet.com/*
 *://774route.com/*
@@ -16313,6 +16289,7 @@
 *://allayfx7.bruneida.com/*
 *://allcolorful.xsrv.jp/*
 *://allerotics.online/*
+*://allgamemods.com/*
 *://allkeysgenerator.com/*
 *://allmodapk.de/*
 *://allout-anime.com/*
@@ -17299,6 +17276,7 @@
 *://carbanikx.life/*
 *://carbanixe.life/*
 *://carbestone.com/*
+*://carbon-lab.jimdoweb.com/*
 *://care-telecom.com/*
 *://careandglory.uk/*
 *://careerboost.wpx.jp/*
@@ -19158,6 +19136,7 @@
 *://github.com/revanced-apks/build-apps/*
 *://github.com/tehcneko/*
 *://github.com/thongthaibm/*
+*://github.com/tlaunchermc/*
 *://github.com/vancedto/*
 *://github.guru/*
 *://github.heheda.top/*
@@ -19662,6 +19641,7 @@
 *://hinanoto.com/*
 *://hinata0402.com/*
 *://hinatazaka46.u-ff.com/*
+*://hino-shakyo.or.jp/taidan_sdgs01/*
 *://hino-world.com/*
 *://hinomasahi.com/*
 *://hipopotasu.com/*
@@ -19869,6 +19849,7 @@
 *://icpictokyo.jp/*
 *://icrrvbuy.education/*
 *://idea-noto.com/*
+*://ideasforgood.jp/*
 *://idobata-salon.com/*
 *://idobata1.com/*
 *://idol-fanfare.com/*
@@ -21554,6 +21535,7 @@
 *://mindsk.ru/*
 *://mindundermuscle.com/*
 *://mine-chan.com/*
+*://minecraft.oyakudati-matome.com/*
 *://mini-memo.com/*
 *://minimalblogtest.com/*
 *://miniminimiutat.com/*
@@ -23192,6 +23174,7 @@
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
 *://play.google.com/store/apps/details?id=com.pokeca*
 *://play.google.com/store/apps/details?id=com.site.wakoo&hl=*
+*://play.google.com/store/apps/details?id=com.tlaunchers.official*
 *://play.google.com/store/apps/details?id=com.truecaller*
 *://play.google.com/store/apps/details?id=hotspotshield.android.vpn*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
@@ -24617,6 +24600,7 @@
 *://support.apple.ex1.https.443.ipv6.cqust.edu.cn/*
 *://support.apple.ex1.https.443.ipv6.faw.com.cn/*
 *://support.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
+*://support.aternos.org/hc/*/articles/360050784692-TLauncher-Minecraft-Java-Edition*
 *://support.avast.com/*
 *://support.avg.com/*
 *://support.caseplay.shop/*
@@ -24996,8 +24980,14 @@
 *://tklog.work/*
 *://tkm-3.com/*
 *://tktktakunet.com/*
+*://tlauncher.amebaownd.com/*
 *://tlauncher.co.com/*
+*://tlauncher.com.tr/*
+*://tlauncher.en.uptodown.com/*
+*://tlauncher.gitlab.io/*
+*://tlauncher.jp.uptodown.com/*
 *://tlauncher.org/*
+*://tlauncher.rajce.idnes.cz/*
 *://tlcomic.wpx.jp/*
 *://tlmanga.wpx.jp/*
 *://tlzkmhc.cn/*
@@ -25333,6 +25323,7 @@
 *://unidownloader.com/*
 *://unifi-uk1.unaro.co.uk/*
 *://uniform-cph.com/*
+*://unikoukokun.com/*
 *://uniqueinteriors.pk/*
 *://unitedcopier.in/*
 *://unitree-robot.com/*
@@ -26176,6 +26167,7 @@
 *://www.creamiofoods.com/*
 *://www.creativequestfoundation.org/items/*
 *://www.creodentistry.com/*
+*://www.crra.jp/*
 *://www.cruzrojacolombiana.org/*
 *://www.crystaldiskmark.com/*
 *://www.crystalshieldpro.com/*
@@ -26537,6 +26529,7 @@
 *://www.hiyake-flare.com/*
 *://www.hiyake-salon-b-max.jp/*
 *://www.hiyake.com/*
+*://www.hiyassy.com/*
 *://www.hjpnznv.cn/*
 *://www.hksgxw.cn/*
 *://www.hoalanfoods.vn/*
@@ -27165,6 +27158,8 @@
 *://www.recordchina.co.jp/*
 *://www.recordshopbase.com/*
 *://www.recycling-s.com/*
+*://www.reddit.com/r/PiratedGames/comments/ex9xot/for_those_who_are_questionable_about_tlauncher/*
+*://www.reddit.com/r/TLAUNCHER/*
 *://www.reddyandreddy.law/*
 *://www.redrabbitracers.com/*
 *://www.refresh-nexco.jp/*
@@ -27636,8 +27631,12 @@
 *://www.youki8322.com/*
 *://www.youtube.com/shorts/_nx0bbUAwY4*
 *://www.youtube.com/user/hatimaki73*
+*://www.youtube.com/watch?v=7gwXKSRuErY*
+*://www.youtube.com/watch?v=AsWhEONwpBU*
+*://www.youtube.com/watch?v=FKGmwfEDpCA*
 *://www.youtube.com/watch?v=KiHxZnVa0Q0
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
+*://www.youtube.com/watch?v=W3UefS_kUE8*
 *://www.youtube.com/watch?v=eh0r02080tk*
 *://www.youtube.com/watch?v=ph8Y1NswR6c*
 *://www.ysrcp.info/*
@@ -27681,6 +27680,7 @@
 *://x-border.co.jp/*
 *://x-vpn-anti-track-and-unblock.jp.uptodown.com/*
 *://x.com/comic_checker*
+*://x.com/crra_jp*
 *://x.com/earthquakejapan/*
 *://x.com/indiegogojp*
 *://x.com/kdroidwin15*

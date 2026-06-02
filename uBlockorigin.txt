@@ -1,6 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||polyfill.io^$all
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -351,6 +350,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||7376-news.com^$document
 ||74n5c4m7.r.eu-west-1.awstrack.me^$document
 ||7544645.slot27.online^$document
+||757038.8b.io^$document
 ||7665329.slot31.online^$document
 ||774neet.com^$document
 ||774route.com^$document
@@ -660,6 +660,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||allayfx7.bruneida.com^$document
 ||allcolorful.xsrv.jp^$document
 ||allerotics.online^$document
+||allgamemods.com^$document
 ||allkeysgenerator.com^$document
 ||allmodapk.de^$document
 ||allout-anime.com^$document
@@ -1662,6 +1663,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||carbanikx.life^$document
 ||carbanixe.life^$document
 ||carbestone.com^$document
+||carbon-lab.jimdoweb.com^$document
 ||care-telecom.com^$document
 ||careandglory.uk^$document
 ||careerboost.wpx.jp^$document
@@ -3545,6 +3547,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github.com/tehcneko^$document
 ||github.com/thongthaibm^$document
 ||github.com/Tinumpit02^$document
+||github.com/tlaunchermc^$document
 ||github.com/vancedto^$document
 ||github.com/YouTube-Premium-APK01^$document
 ||github.com/YoutubePremiummod^$document
@@ -4054,6 +4057,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hinanoto.com^$document
 ||hinata0402.com^$document
 ||hinatazaka46.u-ff.com^$document
+||hino-shakyo.or.jp/taidan_sdgs01^$document
 ||hino-world.com^$document
 ||hinomasahi.com^$document
 ||hipopotasu.com^$document
@@ -4264,6 +4268,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||icrrvbuy.education^$document
 ||icrt.cu^$document
 ||idea-noto.com^$document
+||ideasforgood.jp^$document
 ||idobata-salon.com^$document
 ||idobata1.com^$document
 ||idol-fanfare.com^$document
@@ -5985,6 +5990,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mindsk.ru^$document
 ||mindundermuscle.com^$document
 ||mine-chan.com^$document
+||minecraft.oyakudati-matome.com^$document
 ||mini-memo.com^$document
 ||minimalblogtest.com^$document
 ||miniminimiutat.com^$document
@@ -7700,6 +7706,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pollux555.com^$document
 ||polybandas.cl^$document
 ||polyfill.io^$3p
+||polyfill.io^$all
 ||polyfill.io^$document
 ||polymc.org^$document
 ||polzermediagroup.com^$document
@@ -9563,8 +9570,14 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tklog.work^$document
 ||tkm-3.com^$document
 ||tktktakunet.com^$document
+||tlauncher.amebaownd.com^$document
 ||tlauncher.co.com^$document
+||tlauncher.com.tr^$document
+||tlauncher.en.uptodown.com^$document
+||tlauncher.gitlab.io^$document
+||tlauncher.jp.uptodown.com^$document
 ||tlauncher.org^$document
+||tlauncher.rajce.idnes.cz^$document
 ||tlcomic.wpx.jp^$document
 ||tlcpv.org^$document
 ||tlmanga.wpx.jp^$document
@@ -9914,6 +9927,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||unidownloader.com^$document
 ||unifi-uk1.unaro.co.uk^$document
 ||uniform-cph.com^$document
+||unikoukokun.com^$document
 ||uniqueinteriors.pk^$document
 ||unitedcopier.in^$document
 ||unitree-robot.com^$document
@@ -10796,6 +10810,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.creamiofoods.com^$document
 ||www.creativequestfoundation.org/items^$document
 ||www.creodentistry.com^$document
+||www.crra.jp^$document
 ||www.cruzrojacolombiana.org^$document
 ||www.crystaldiskmark.com^$document
 ||www.crystalshieldpro.com^$document
@@ -11161,6 +11176,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.hiyake-flare.com^$document
 ||www.hiyake-salon-b-max.jp^$document
 ||www.hiyake.com^$document
+||www.hiyassy.com^$document
 ||www.hjpnznv.cn^$document
 ||www.hksgxw.cn^$document
 ||www.hoalanfoods.vn^$document
@@ -11782,6 +11798,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.recordchina.co.jp^$document
 ||www.recordshopbase.com^$document
 ||www.recycling-s.com^$document
+||www.reddit.com/r/PiratedGames/comments/ex9xot/for_those_who_are_questionable_about_tlauncher^$document
+||www.reddit.com/r/TLAUNCHER^$document
 ||www.reddyandreddy.law^$document
 ||www.redrabbitracers.com^$document
 ||www.refresh-nexco.jp^$document
