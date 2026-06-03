@@ -10,29 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://vidu-studio.net/*
-*://scratchonline.net/*
-*://escape-road.net/*
-*://perfecttidygame.net/*
-*://slapbattles.online/*
-*://sprunkisinner.cc/*
-*://soccerbros.org/*
-*://sprunkikiss.cc/*
-*://sprunkilove.org/*
-*://plantsvszombiesfusion.cc/*
-*://pokemontcgpocket.io/*
-*://narutovsbleach.com/*
-*://hunyuanvideo.org/*
-*://balonpatlatma.cc/*
-*://f5tts.net/*
-*://webfishinggame.org/*
-*://bluesky-downloader.com/*
-*://scratchgames.net/*
-*://steamworkshopdownloader.cc/*
-*://plantsvszombiesfusion.cc/*
-*://pdf-to-brainrot.org/*
-*://aikissingvideogenerator.org/*
-*://kolors-virtual-try-on.org/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -16227,6 +16204,7 @@
 *://aigamo8.com/*
 *://aigazou.blog.jp/*
 *://aiiku3.com/*
+*://aikissingvideogenerator.org/*
 *://aikiu.online/*
 *://aikru.com/*
 *://aikure.com/*
@@ -16855,6 +16833,7 @@
 *://balesw7v.phai.ie/*
 *://ballet-info.com/*
 *://balmsf8u.mydees.com/*
+*://balonpatlatma.cc/*
 *://balsmhillforsale.shop/*
 *://bambitoblog.com/*
 *://ban-zai.jp/*
@@ -17098,6 +17077,7 @@
 *://bluemediastorage.online/*
 *://bluemediaurls.lol/*
 *://bluesea0925.com/*
+*://bluesky-downloader.com/*
 *://bluesmods.com/*
 *://bluestar-journal.com/*
 *://bluethree-gift.hatenablog.com/*
@@ -18507,6 +18487,7 @@
 *://erumaru.com/*
 *://erwsiwc.com/*
 *://es.accountantromania.com/*
+*://escape-road.net/*
 *://escon-fighters.com/*
 *://esdg.org/*
 *://espacioapk.com/*
@@ -18582,6 +18563,7 @@
 *://f1v3ff69.r.us-east-1.awstrack.me/*
 *://f3r53ut3.rallye-photo-avord.fr/*
 *://f41vn6mf.silvia-silaci.de/*
+*://f5tts.net/*
 *://fabelmans-film.jp/*
 *://fabrique-futur.fr/*
 *://facialwrinklerepair.com/*
@@ -19834,6 +19816,7 @@
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
 *://hunting4gold.com/*
+*://hunyuanvideo.org/*
 *://hurtlocker.jp/*
 *://huzurumsi.online/*
 *://hvooaalooi.tech/*
@@ -20668,6 +20651,7 @@
 *://kokoza.com/*
 *://koku-byakunews.com/*
 *://kolibrifood.com/*
+*://kolors-virtual-try-on.org/*
 *://kolpul.com/*
 *://komachanel.work/*
 *://komaria7711.com/*
@@ -21942,6 +21926,7 @@
 *://narimusicpublishing.com/*
 *://naroom-blog.com/*
 *://naruhodo-wifi.co.jp/vpn-app/*
+*://narutovsbleach.com/*
 *://nasubigfarm.com/*
 *://nasupapa.com/*
 *://natalorigen.com/prize/*
@@ -23094,6 +23079,7 @@
 *://pcprotect.com/*
 *://pcshopwell.com/*
 *://pdelect.com/*
+*://pdf-to-brainrot.org/*
 *://pdilms.com/*
 *://pdspm.in/*
 *://pdxk.gyqvajgq.biz/*
@@ -23110,6 +23096,7 @@
 *://pentanews.net/*
 *://pepms.icu/*
 *://peppermint-angel.com/*
+*://perfecttidygame.net/*
 *://perfectworld.shop/*
 *://performance-navi01.com/*
 *://perla.si/*
@@ -23194,6 +23181,7 @@
 *://planetacadiz.com/*
 *://planetaverde.site/*
 *://planningsolutions.in/*
+*://plantsvszombiesfusion.cc/*
 *://plaso.jp/*
 *://platinmods.com/threads/youtube-revanced-extended-v19-16-39-non-root-2-224-0.218220/?amp=1*
 *://play-video-84.blogspot.com/*
@@ -23252,6 +23240,7 @@
 *://pokebras.jp/*
 *://pokeca.com/*
 *://pokemon-matome.net/*
+*://pokemontcgpocket.io/*
 *://pokepa365.com/*
 *://pokesalear.live/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
@@ -23981,6 +23970,8 @@
 *://scottcomputersystems.com/*
 *://scotthel.me/*
 *://scrap-shop.online/*
+*://scratchgames.net/*
+*://scratchonline.net/*
 *://screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android/*
 *://scrumtakatsuki07.com/*
 *://scspuc.in/*
@@ -24246,6 +24237,7 @@
 *://skydrive.live.ru/*
 *://skytouchservices.com/*
 *://skywave-net.com/*
+*://slapbattles.online/*
 *://slashdot.jp/*
 *://sldytd.com/*
 *://slolita.taobao.com/*
@@ -24297,6 +24289,7 @@
 *://so.muouseo.com/*
 *://soccer-mania777.com/*
 *://soccer.gatecoin.online/*
+*://soccerbros.org/*
 *://soccerlove.jp/*
 *://soci-journal.com/*
 *://socialdog-help.netlify.app/*
@@ -24444,6 +24437,9 @@
 *://spotypremeum.com/*
 *://sprint1342.com/*
 *://sprucebogstudio.com/*
+*://sprunkikiss.cc/*
+*://sprunkilove.org/*
+*://sprunkisinner.cc/*
 *://squashsite.world/*
 *://squirrel-storage.jp/*
 *://srcboat.fi/*
@@ -24492,6 +24488,7 @@
 *://steamrip.link/*
 *://steamrip.me.uk/*
 *://steamunlocked.net/*
+*://steamworkshopdownloader.cc/*
 *://steckdosenessen.com/*
 *://stellamoderu.com/*
 *://stempark.projektinspire.co.tz/*
@@ -25500,6 +25497,7 @@
 *://videotwimgcom.atukan.com/*
 *://videotwimgcom.dayuh.net/*
 *://videotwin.ehoh.net/*
+*://vidu-studio.net/*
 *://viearth.com/*
 *://viet-bamboo.com/*
 *://vietscout.jp/*
@@ -25681,6 +25679,7 @@
 *://webdevask.com/*
 *://webdevdesigner.com/*
 *://webdienstleistung.com/*
+*://webfishinggame.org/*
 *://webfree-official.com/*
 *://webku.jp/*
 *://websites.milonic.com/*

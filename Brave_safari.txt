@@ -565,6 +565,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aigazou.blog.jp^$document
 ||aiiku3.com^$document
 ||aijobs.app^$document
+||aikissingvideogenerator.org^$document
 ||aikiu.online^$document
 ||aikru.com^$document
 ||aikure.com^$document
@@ -1216,6 +1217,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||balesw7v.phai.ie^$document
 ||ballet-info.com^$document
 ||balmsf8u.mydees.com^$document
+||balonpatlatma.cc^$document
 ||balsmhillforsale.shop^$document
 ||bambitoblog.com^$document
 ||ban-zai.jp^$document
@@ -1459,6 +1461,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bluemediastorage.online^$document
 ||bluemediaurls.lol^$document
 ||bluesea0925.com^$document
+||bluesky-downloader.com^$document
 ||bluesmods.com^$document
 ||bluestar-journal.com^$document
 ||bluethree-gift.hatenablog.com^$document
@@ -2889,6 +2892,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erunet.co.jp^$document
 ||erwsiwc.com^$document
 ||es.accountantromania.com^$document
+||escape-road.net^$document
 ||escon-fighters.com^$document
 ||esdg.org^$document
 ||espacioapk.com/youtube-revanced^$document
@@ -2964,6 +2968,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||f1v3ff69.r.us-east-1.awstrack.me^$document
 ||f3r53ut3.rallye-photo-avord.fr^$document
 ||f41vn6mf.silvia-silaci.de^$document
+||f5tts.net^$document
 ||fabelmans-film.jp^$document
 ||fabrique-futur.fr^$document
 ||facialwrinklerepair.com^$document
@@ -4228,6 +4233,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||human-profile.hatenablog.com^$document
 ||human.happinessisthailand.com^$document
 ||hunting4gold.com^$document
+||hunyuanvideo.org^$document
 ||hurtlocker.jp^$document
 ||huzurumsi.online^$document
 ||hvooaalooi.tech^$document
@@ -5080,6 +5086,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||koku-byakunews.com^$document
 ||kokunanmonomousu.com^$document
 ||kolibrifood.com^$document
+||kolors-virtual-try-on.org^$document
 ||kolpul.com^$document
 ||komachanel.work^$document
 ||komaria7711.com^$document
@@ -6381,6 +6388,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||naroom-blog.com^$document
 ||naruhodo-wifi.co.jp/vpn-app^$document
 ||naruhodo-wifi.co.jp^$document
+||narutovsbleach.com^$document
 ||nasubigfarm.com^$document
 ||nasupapa.com^$document
 ||natalorigen.com/prize^$document
@@ -7555,6 +7563,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pcprotect.com^$document
 ||pcshopwell.com^$document
 ||pdelect.com^$document
+||pdf-to-brainrot.org^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||pdxk.gyqvajgq.biz^$document
@@ -7573,6 +7582,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pentanews.net^$document
 ||pepms.icu^$document
 ||peppermint-angel.com^$document
+||perfecttidygame.net^$document
 ||perfectworld.shop^$document
 ||performance-navi01.com^$document
 ||perla.si^$document
@@ -7659,6 +7669,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||planetacadiz.com^$document
 ||planetaverde.site^$document
 ||planningsolutions.in^$document
+||plantsvszombiesfusion.cc^$document
 ||plaso.jp^$document
 ||platinmods.com/threads/youtube-revanced-extended-v19-16-39-non-root-2-224-0.218220/?amp=1^$document
 ||play-video-84.blogspot.com^$document
@@ -7704,6 +7715,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pokebras.jp^$document
 ||pokeca.com^$document
 ||pokemon-matome.net^$document
+||pokemontcgpocket.io^$document
 ||pokepa365.com^$document
 ||pokesalear.live^$document
 ||pokmon-tcg-pocket-mod.latestmodapks.com^$document
@@ -8493,6 +8505,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||scottcomputersystems.com^$document
 ||scotthel.me^$document
 ||scrap-shop.online^$document
+||scratchgames.net^$document
+||scratchonline.net^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scrumtakatsuki07.com^$document
 ||scspuc.in^$document
@@ -8766,6 +8780,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||skyfall.co.jp^$document
 ||skytouchservices.com^$document
 ||skywave-net.com^$document
+||slapbattles.online^$document
 ||slashdot.jp^$document
 ||sldytd.com^$document
 ||slolita.taobao.com^$document
@@ -8821,6 +8836,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||so.muouseo.com^$document
 ||soccer-mania777.com^$document
 ||soccer.gatecoin.online^$document
+||soccerbros.org^$document
 ||soccerlove.jp^$document
 ||soci-journal.com^$document
 ||socialdog-help.netlify.app^$document
@@ -8976,6 +8992,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||spotypremeum.com^$document
 ||sprint1342.com^$document
 ||sprucebogstudio.com^$document
+||sprunkikiss.cc^$document
+||sprunkilove.org^$document
+||sprunkisinner.cc^$document
 ||sqlite.in^$document
 ||squallchannel.com^$document
 ||squashsite.world^$document
@@ -9037,6 +9056,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||steamrip.me.uk^$document
 ||steamunlocked.*^$all
 ||steamunlocked.net^$document
+||steamworkshopdownloader.cc^$document
 ||steckdosenessen.com^$document
 ||stellamoderu.com^$document
 ||stempark.projektinspire.co.tz^$document
@@ -10086,6 +10106,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||videotwimgcom.atukan.com^$document
 ||videotwimgcom.dayuh.net^$document
 ||videotwin.ehoh.net^$document
+||vidu-studio.net^$document
 ||viearth.com^$document
 ||viet-bamboo.com^$document
 ||vietscout.jp^$document
@@ -10290,6 +10311,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||webdevdesigner.com^$document
 ||webdevqa.jp.net^$document
 ||webdienstleistung.com^$document
+||webfishinggame.org^$document
 ||webfree-official.com^$document
 ||webku.jp^$document
 ||webpuroguramingu-zhi-wen-ying-dashisutemu.com^$document
