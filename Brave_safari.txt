@@ -4558,6 +4558,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||japan-toreca.com^$document
 ||japan-travel-guide.jp^$document
 ||japan-warriors.com^$document
+||japan-yuzusoft.com^$document
 ||japan.zdnet.ex1.https.443.ipv6.faw.com.cn^$document
 ||japananimetour.com^$document
 ||japanbaconfestival.jp^$document
