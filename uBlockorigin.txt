@@ -6174,6 +6174,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mono-persons.com^$document
 ||monokuro0210.com^$document
 ||monolabo.arcana-japan.co.jp^$document
+||monolith-j.com^$document
 ||monologue-style.com^$document
 ||monosola.com^$document
 ||monpuran.com^$document
@@ -9606,6 +9607,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tlauncher.jp.uptodown.com^$document
 ||tlauncher.org^$document
 ||tlauncher.rajce.idnes.cz^$document
+||tlauncher.ru^$document
 ||tlcomic.wpx.jp^$document
 ||tlcpv.org^$document
 ||tlmanga.wpx.jp^$document

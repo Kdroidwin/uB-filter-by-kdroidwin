@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://tlauncher.ru/*
-*://monolith-j.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -21721,6 +21719,7 @@
 *://mono-persons.com/*
 *://monokuro0210.com/*
 *://monolabo.arcana-japan.co.jp/*
+*://monolith-j.com/*
 *://monologue-style.com/*
 *://monosola.com/*
 *://monpuran.com/*
@@ -25018,6 +25017,7 @@
 *://tlauncher.jp.uptodown.com/*
 *://tlauncher.org/*
 *://tlauncher.rajce.idnes.cz/*
+*://tlauncher.ru/*
 *://tlcomic.wpx.jp/*
 *://tlmanga.wpx.jp/*
 *://tlzkmhc.cn/*
