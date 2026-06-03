@@ -3504,6 +3504,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ginsalo.com^$document
 ||gintachan.com^$document
 ||giorgiotruffleshop.com^$document
+||giphootchebs.net^$document
 ||girl-boy-friends.com^$document
 ||girl-express.com^$document
 ||girl-movie.com^$document
@@ -3704,6 +3705,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||greenshop-aroma.com^$document
 ||greenvilla.kg^$document
 ||greenwof.top^$document
+||greerogloo.net^$document
 ||greetingbling.com^$document
 ||greywolf.ru^$document
 ||grina.info^$document
@@ -3743,6 +3745,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||h-comi.com^$document
 ||h-doujin-books.com^$document
 ||h-guidepost.com^$document
+||h.accesstrade.net^$document
 ||h2testw.org^$document
 ||h30bkhgqo.auslagerung-pastservice.de^$document
 ||h4ppy-marriage.jp^$document
@@ -5357,6 +5360,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lin7k-g0gmbufeguhhethp.z01.azurefd.net^$document
 ||linadukkan.com^$document
 ||linart.net^$document
+||line-hc.cc^$document
 ||line-howtouse.net^$document
 ||line-kiwami.com^$document
 ||line.me/R/ti/p/@909gqgoa?oat_content=url&ts=02240057^$document
@@ -5405,6 +5409,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lms.medreseti.com^$document
 ||ln-news.com^$document
 ||ln.run^$document
+||lnke.cc^$document
 ||lnovbsbw.digital^$document
 ||loadgames.org^$document
 ||loadpiece.xyz^$document
@@ -8563,6 +8568,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shainteru.com^$document
 ||shakerbrand.com^$document
 ||shamikuni.com^$document
+||share-now.org^$document
 ||sharedrop.io^$document
 ||sharelifestyle.info^$document
 ||sharmasteno.com^$document
