@@ -5368,6 +5368,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lin7k-g0gmbufeguhhethp.z01.azurefd.net^$document
 ||linadukkan.com^$document
 ||linart.net^$document
+||lincdiiin.com^$document
 ||line-hc.cc^$document
 ||line-howtouse.net^$document
 ||line-kiwami.com^$document
