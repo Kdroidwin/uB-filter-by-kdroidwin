@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://note.com/kazumi_muraki/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -22388,6 +22387,7 @@
 *://note.com/kara0323/*
 *://note.com/kaz_kashiwagi/*
 *://note.com/kazu_feelin/*
+*://note.com/kazumi_muraki/*
 *://note.com/keizai_kousatsu/*
 *://note.com/kemuri123/*
 *://note.com/kenhonda/*

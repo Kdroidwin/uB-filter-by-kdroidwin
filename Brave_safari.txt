@@ -6856,6 +6856,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
+||note.com/kazumi_muraki^$document
 ||note.com/keizai_kousatsu^$document
 ||note.com/kemuri123^$document
 ||note.com/kenhonda^$document
