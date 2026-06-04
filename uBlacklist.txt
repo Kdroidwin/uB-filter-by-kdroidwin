@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://citra-emulator.com/*
-*://mimiflow.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17456,6 +17454,7 @@
 *://cinnamon-hotel.com/*
 *://cinonsan.com/*
 *://cirugiaplasticacbba.com/*
+*://citra-emulator.com/*
 *://cityofchix.com/*
 *://ciyoqprice.com/*
 *://cjda74.jp/*
@@ -21537,6 +21536,7 @@
 *://mimhytcdd.com/*
 *://mimichino.com/*
 *://mimicle.com/*
+*://mimiflow.com/*
 *://mimika-life.com/*
 *://mimikkuma.com/*
 *://mimosa-313.com/*
