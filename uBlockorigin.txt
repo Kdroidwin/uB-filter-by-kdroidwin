@@ -7579,7 +7579,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pearl-veteran.com^$document
 ||peasun.jp^$document
 ||peavyuai.styr.solutions^$document
-||pedia.3rd-in.co.jp^$document
 ||pelulog.com^$document
 ||penghuothgroup.com^$document
 ||penguinblog.work^$document
@@ -10129,7 +10128,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||visasyst.com^$document
 ||vision-digital.co^$document
 ||visionvinylflooring.com^$document
-||visitlink.me^$document
 ||visual-foxpro-programmer.com^$document
 ||vitabase.jp^$document
 ||vitoriavirtural.online^$document
