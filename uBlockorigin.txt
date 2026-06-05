@@ -12915,3 +12915,4 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://pyrofork.*.top^$doc
 @@||masto*.top^$doc
 @@||smbc-card.com^$document
+@@||www.mcafee.com/blogs^$document
