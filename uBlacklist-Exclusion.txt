@@ -1,3 +1,4 @@
+@*://www.mcafee.com/blogs/*
 @*://gomuraw.com/*
 @*://searx.lunar.icu/*
 @*://mangaruu.com/*
