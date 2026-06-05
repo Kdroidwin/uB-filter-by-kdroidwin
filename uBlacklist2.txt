@@ -8,6 +8,7 @@
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
 *://*.com/item.php?products/*
+*://*.com.br/*
 *://*.cyou/*
 *://*.sbs/*
 *://*.top/*
