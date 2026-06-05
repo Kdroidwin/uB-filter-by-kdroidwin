@@ -338,6 +338,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||6686com2326.app^$document
 ||66mehcp7.r.us-west-2.awstrack.me^$document
 ||6789173.slot15.online^$document
+||67movies.xyz^$document
 ||6939468.slot15.online^$document
 ||6js9gx.cn^$document
 ||6sc6sh.cn^$document
@@ -7162,6 +7163,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nukeman.ero-wife.com^$document
 ||nuki-dokoro.com^$document
 ||nukicomics.com^$document
+||nukieroge.com/comic^$document
 ||nukipi.com^$document
 ||nukitashi.xyzapk.com^$document
 ||nukkadusa.com^$document
@@ -12915,3 +12917,4 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://pyrofork.*.top^$doc
 @@||masto*.top^$doc
 @@||smbc-card.com^$document
+@@||www.mcafee.com/blogs^$document
