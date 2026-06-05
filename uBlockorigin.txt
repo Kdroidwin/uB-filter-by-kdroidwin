@@ -711,6 +711,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/am123456789a^$document
 ||ameblo.jp/and-gretel^$document
 ||ameblo.jp/aniroom^$document
+||ameblo.jp/bijotoyaju^$document
 ||ameblo.jp/cheongdambyeol^$document
 ||ameblo.jp/chihaya0425^$document
 ||ameblo.jp/darwinblog^$document

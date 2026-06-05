@@ -711,6 +711,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/am123456789a^$document
 ||ameblo.jp/and-gretel^$document
 ||ameblo.jp/aniroom^$document
+||ameblo.jp/bijotoyaju^$document
 ||ameblo.jp/cheongdambyeol^$document
 ||ameblo.jp/chihaya0425^$document
 ||ameblo.jp/darwinblog^$document
@@ -7579,7 +7580,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pearl-veteran.com^$document
 ||peasun.jp^$document
 ||peavyuai.styr.solutions^$document
-||pedia.3rd-in.co.jp^$document
 ||pelulog.com^$document
 ||penghuothgroup.com^$document
 ||penguinblog.work^$document
@@ -10129,7 +10129,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||visasyst.com^$document
 ||vision-digital.co^$document
 ||visionvinylflooring.com^$document
-||visitlink.me^$document
 ||visual-foxpro-programmer.com^$document
 ||vitabase.jp^$document
 ||vitoriavirtural.online^$document
