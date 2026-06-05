@@ -1071,7 +1071,6 @@
 *://*.az/*.shtm
 *://*.bau-bau.jp/*
 *://*.bcqqvtlk.property/*
-*://*.best/*
 *://*.bo/?a=0*
 *://*.bo/?a=1*
 *://*.bo/?a=2*
@@ -1332,7 +1331,6 @@
 *://*.bo/?z=7*
 *://*.bo/?z=8*
 *://*.bo/?z=9*
-*://*.bond/*
 *://*.br/?a=0*
 *://*.br/?a=1*
 *://*.br/?a=2*
@@ -1859,9 +1857,7 @@
 *://*.by/shop/cart/cart.aspx?*
 *://*.c-clays.com/*
 *://*.carnival00inkochi.jp/*
-*://*.cf/*
 *://*.cfbx.jp/*
-*://*.cfd/*
 *://*.ch/?a=0*
 *://*.ch/?a=1*
 *://*.ch/?a=2*
@@ -2385,7 +2381,6 @@
 *://*.cl/?z=7*
 *://*.cl/?z=8*
 *://*.cl/?z=9*
-*://*.click/*
 *://*.clinic/?a=0*
 *://*.clinic/?a=1*
 *://*.clinic/?a=2*
@@ -3778,12 +3773,7 @@
 *://*.com/index.php/*//?_g=*
 *://*.com/index.php//?_g=*
 *://*.com/index.php//?a=*
-*://*.com/index.php//?detail*
-*://*.com/index.php/?detail/*
 *://*.com/index.php?*.phtml
-*://*.com/index.php?products/*
-*://*.com/index.php?shop/items/*
-*://*.com/item.php?products/*
 *://*.com/product/*.shtm
 *://*.com/products.php?*
 *://*.com/products.php?n=*
@@ -3796,7 +3786,6 @@
 *://*.coromoo.com/*
 *://*.crurkin.info/*
 *://*.crx7601.com/*
-*://*.cyou/*
 *://*.cz/?_g=*
 *://*.cz/?a=0*
 *://*.cz/?a=1*
@@ -13060,7 +13049,6 @@
 *://*.saikyo-jump.com/*
 *://*.sanchezsalvador.com/*
 *://*.sangyo-mirai.jp/*
-*://*.sbs/*
 *://*.scienceplus2ch.com/*
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
