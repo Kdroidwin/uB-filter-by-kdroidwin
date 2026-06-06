@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://cvboostaii.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -12761,6 +12760,7 @@
 *://cuzzell.com/*
 *://cva.unecon.ru/*
 *://cvaenb.crawfish.sa.com/*
+*://cvboostaii.com/*
 *://cvfdsgdseer.com/*
 *://cvkidkq.mediations-punkt.de/*
 *://cxio.thesum.xyz/*

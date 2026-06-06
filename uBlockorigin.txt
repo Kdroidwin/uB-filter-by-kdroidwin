@@ -2110,6 +2110,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cuzzell.com^$document
 ||cva.unecon.ru^$document
 ||cvaenb.crawfish.sa.com^$document
+||cvboostaii.com^$document
 ||cvfdsgdseer.com^$document
 ||cvkidkq.mediations-punkt.de^$document
 ||cxio.thesum.xyz^$document
