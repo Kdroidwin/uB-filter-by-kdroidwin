@@ -1,10 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-nukieroge.com##a[href*="hbox.jp"]
-nukieroge.com##a[href*="cv-measurement.com"]
-||blob.core.windows.net/*index.html*=$document
-*gad_source=*&gad_campaignid$document
 *click.php?key*type*age*$document
+*gad_source=*&gad_campaignid$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -89,6 +86,8 @@ nswpedia.com##.text-center.my-3 > div
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nswpedia.com##center
+nukieroge.com##a[href*="cv-measurement.com"]
+nukieroge.com##a[href*="hbox.jp"]
 nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
 romsns.com##.idb-btn
@@ -1402,6 +1401,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blbrv08v.r.us-east-1.awstrack.me^$document
 ||bleague.bl.kuroco-img.app^$document
 ||blifenavi.com^$document
+||blob.core.windows.net/*index.html*=$document
 ||blockchecker.github.io^$document
 ||blog-chiaki.com^$document
 ||blog.almaherbal.com^$document
@@ -1867,6 +1867,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||clashofkings.jp^$document
 ||classic-game.site^$document
 ||classicboatbeachbash.com^$document
+||claude-code-academy.dev^$document
 ||claulimabrand.com^$document
 ||clean-scene.ca^$document
 ||cleangreenspk.com^$document
