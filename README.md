@@ -190,4 +190,4 @@ It has been significantly extended with additional filters and modifications.
 This project is licensed under the GNU GPL-3.0.
 
 わんチェック
-wancheck.jp
+https://wancheck.jp
