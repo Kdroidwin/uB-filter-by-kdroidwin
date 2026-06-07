@@ -1,5 +1,10 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+nukieroge.com##a[href*="hbox.jp"]
+nukieroge.com##a[href*="cv-measurement.com"]
+||blob.core.windows.net/*index.html*=$document
+*gad_source=*&gad_campaignid$document
+*click.php?key*type*age*$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
