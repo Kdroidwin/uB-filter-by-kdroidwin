@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://jaropan.pages.dev/*
-*://nn-designlab.com/*
-*://kousaku.chiikuji.com/*
-*://brewe.sh/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12220,6 +12216,7 @@
 *://breezesmile.com/*
 *://brendahousecleaning.com/*
 *://bress0358.com/*
+*://brewe.sh/*
 *://brews6q5.sarangkkb.com/*
 *://bridalring.info/*
 *://bright.enexauto.jp/*
@@ -15211,6 +15208,7 @@
 *://japarazzi.jp/*
 *://japex.ru/*
 *://jardinesjusto.com/*
+*://jaropan.pages.dev/*
 *://javelinmitsu.com/*
 *://javy.jp/*
 *://jayamerica.com/*
@@ -15770,6 +15768,7 @@
 *://kotti.biz/*
 *://kottoceramica.com/*
 *://koumuin-work.com/*
+*://kousaku.chiikuji.com/*
 *://kouzushima.org/*
 *://kovestresto.ca/*
 *://kowai-torauma.unij.co.jp/*
@@ -17212,6 +17211,7 @@
 *://nkjk.xxasj.cn/*
 *://nkuzistem.org/*
 *://nmqf-policy.org/*
+*://nn-designlab.com/*
 *://nnews.top/*
 *://no-dorama-no-life.info/*
 *://no-magazine.com/*
