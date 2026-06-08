@@ -1,12 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.antutu.com/*
-*://antutu-benchmark.jp.uptodown.com/*
-*://apps.apple.com/*/app/antutu-benchmark/*
-*://antutu.com/*
-*://mobile1.yamanex.co.jp/*
-*://pdfguru.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11551,6 +11545,8 @@
 *://antispy.shop/products/*
 *://antmomew.com/*
 *://anturis.com/*
+*://antutu-benchmark.jp.uptodown.com/*
+*://antutu.com/*
 *://anxious-topics.com/*
 *://anzendouga.com/*
 *://anzhee.ru/*
@@ -11663,6 +11659,7 @@
 *://appollo.jp/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
+*://apps.apple.com/*/app/antutu-benchmark/*
 *://apps.apple.com/*/app/expressvpn-secure-fast-vpn/id886492891*
 *://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
@@ -16703,6 +16700,7 @@
 *://mobilanyheter.net/*
 *://mobile-app.rank-king.jp/*
 *://mobile-yoox.catalogi.ru/*
+*://mobile1.yamanex.co.jp/*
 *://mobilltna.org/*
 *://mobinc.jp/*
 *://moca0313blog.com/*
@@ -18151,6 +18149,7 @@
 *://pcshopwell.com/*
 *://pdelect.com/*
 *://pdf-to-brainrot.org/*
+*://pdfguru.com/*
 *://pdilms.com/*
 *://pdspm.in/*
 *://pdxk.gyqvajgq.biz/*
@@ -21022,6 +21021,7 @@
 *://www.anthonybaildon.com/*
 *://www.antonelladestefano.ch/*
 *://www.antriavi.com/*
+*://www.antutu.com/*
 *://www.anycodings.com/*
 *://www.aoimori-norin.jp/*
 *://www.aoritsuito.com/*

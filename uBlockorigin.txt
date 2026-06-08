@@ -872,6 +872,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||antispy.shop/products^$document
 ||antmomew.com^$document
 ||anturis.com^$document
+||antutu-benchmark.jp.uptodown.com^$document
+||antutu.com^$document
 ||anxious-topics.com^$document
 ||anzendouga.com^$document
 ||anzhee.ru^$document
@@ -992,6 +994,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||appollo.jp^$document
 ||apprev.smt.docomo.ne.jp^$document
 ||apprimo.info^$document
+||apps.apple.com/*/app/antutu-benchmark^$document
 ||apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja^$document
 ||apps.apple.com/il/app/netmirror-movies-series^$document
 ||apps.kepanjeneyecenter.com^$document
@@ -6110,6 +6113,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mobilanyheter.net^$document
 ||mobile-app.rank-king.jp^$document
 ||mobile-yoox.catalogi.ru^$document
+||mobile1.yamanex.co.jp^$document
 ||mobilltna.org^$document
 ||mobinc.jp^$document
 ||moca0313blog.com^$document
@@ -7586,6 +7590,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pcshopwell.com^$document
 ||pdelect.com^$document
 ||pdf-to-brainrot.org^$document
+||pdfguru.com^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||pdxk.gyqvajgq.biz^$document
@@ -10615,6 +10620,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.anthonybaildon.com^$document
 ||www.antonelladestefano.ch^$document
 ||www.antriavi.com^$document
+||www.antutu.com^$document
 ||www.anycodings.com^$document
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
