@@ -2539,6 +2539,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||drtraining-jiyugaoka.jp^$document
 ||ds-fabulous.com^$document
 ||ds.wteam.xyz^$document
+||dstrred.gcesc.xyz^$document
 ||dtexapparel.com^$document
 ||dtioykqj1u8de.cloudfront.net^$document
 ||dubs.ru^$document
