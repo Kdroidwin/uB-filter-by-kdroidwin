@@ -1,6 +1,12 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://www.antutu.com/*
+*://antutu-benchmark.jp.uptodown.com/*
+*://apps.apple.com/*/app/antutu-benchmark/*
+*://antutu.com/*
+*://mobile1.yamanex.co.jp/*
+*://pdfguru.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
