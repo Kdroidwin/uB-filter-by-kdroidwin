@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://24cashing-center.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -10929,6 +10928,7 @@
 *://23417904636.states-dmv.com/*
 *://237530.slot27.online/*
 *://2485368.slot47.online/*
+*://24cashing-center.net/*
 *://24forexmarket.com/*
 *://24kinteriors.com/*
 *://25study.com/*
