@@ -3,12 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://getgadgetgot.com/*
-*://netmirror.global/*
-*://netmirror.sbs/*
-*://side-job.works/*
-*://lucky-mine.com/*
-*://gadgetzamurai.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -13978,6 +13972,7 @@
 *://gadget-choice.net/*
 *://gadget888.hatenablog.com/*
 *://gadgetech.jp/*
+*://gadgetzamurai.jp/*
 *://gaffriggauge.com/*
 *://gahalog.2chblog.jp/*
 *://gaikotsumatsuri.com/*
@@ -14127,6 +14122,7 @@
 *://getagriponlighting.com/*
 *://getapkgame.com/*
 *://getbt.blog.2nt.com/*
+*://getgadgetgot.com/*
 *://getinmac.com/*
 *://getintomac.net/*
 *://getintopc.cc/*
@@ -16105,6 +16101,7 @@
 *://ltf91f0r.r.us-east-1.awstrack.me/*
 *://ltmonod.aflec-fr.org/*
 *://lucky-lifetime.com/*
+*://lucky-mine.com/*
 *://luckykonami.com/*
 *://luckymotors.ee/*
 *://luckystar2010.com/*
@@ -17088,9 +17085,11 @@
 *://netmirror-apk.net/*
 *://netmirror.com.de/*
 *://netmirror.com.pk/*
+*://netmirror.global/*
 *://netmirror.homes/*
 *://netmirror.net/*
 *://netmirror.plus/*
+*://netmirror.sbs/*
 *://netmirror.site/*
 *://netmirror.work/*
 *://netmirrorapk.com/*
@@ -19251,6 +19250,7 @@
 *://siaparseband.tistory.com/*
 *://sibadeji.net/*
 *://siberiatech.ru/*
+*://side-job.works/*
 *://signin.samsung.cn/*
 *://sigyou-school.biz/*
 *://siihamu.com/*

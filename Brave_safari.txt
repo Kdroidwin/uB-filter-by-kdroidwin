@@ -3340,6 +3340,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gadget-choice.net^$document
 ||gadget888.hatenablog.com^$document
 ||gadgetech.jp^$document
+||gadgetzamurai.jp^$document
 ||gaffriggauge.com^$document
 ||gahalog.2chblog.jp^$document
 ||gaikotsumatsuri.com^$document
@@ -3490,6 +3491,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getagriponlighting.com^$document
 ||getapkgame.com^$document
 ||getbt.blog.2nt.com^$document
+||getgadgetgot.com^$document
 ||getinmac.com^$document
 ||getintomac.net^$document
 ||getintopc.cc^$document
@@ -5497,6 +5499,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ltf91f0r.r.us-east-1.awstrack.me^$document
 ||ltmonod.aflec-fr.org^$document
 ||lucky-lifetime.com^$document
+||lucky-mine.com^$document
 ||luckykonami.com^$document
 ||luckymotors.ee^$document
 ||luckystar2010.com^$document
@@ -6502,9 +6505,11 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netmirror.com.de^$document
 ||netmirror.com.pk^$document
 ||netmirror.gg/*.apk$document
+||netmirror.global^$document
 ||netmirror.homes^$document
 ||netmirror.net^$document
 ||netmirror.plus^$document
+||netmirror.sbs^$document
 ||netmirror.site^$document
 ||netmirror.work^$document
 ||netmirrorapk.com^$document
@@ -8741,6 +8746,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||siaparseband.tistory.com^$document
 ||sibadeji.net^$document
 ||siberiatech.ru^$document
+||side-job.works^$document
 ||signin.samsung.cn^$document
 ||sigyou-school.biz^$document
 ||siihamu.com^$document
