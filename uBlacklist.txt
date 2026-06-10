@@ -22800,7 +22800,6 @@
 *://x68000.q-e-d.net/*
 *://xdqern.dentist-24.de/*
 *://xdropc.pages.dev/*
-*://xenospectrum.com/*
 *://xera.jp/*
 *://xertinos.com/*
 *://xharuchannel.com/*
