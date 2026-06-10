@@ -12948,3 +12948,4 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@||masto*.top^$doc
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
+@@||mydocomo.docomo.ne.jp^$document
