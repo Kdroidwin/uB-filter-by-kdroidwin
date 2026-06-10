@@ -4389,6 +4389,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||inest-inc.co.jp^$document
 ||inf.kimama2audio.com^$document
 ||infinico2.sakura.ne.jp^$document
+||infinitweet*.$all
 ||infinitweet.com^$document
 ||infinitweet50.com^$document
 ||infinity-agent.co.jp^$document
@@ -4710,6 +4711,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jpbitgetwallet.com^$document
 ||jpccc.net^$document
 ||jpkanon.com^$document
+||jppost-bank*.$document
 ||jpsecengineer.com^$document
 ||jpsoku.blog.jp^$document
 ||jr-bentenhiroba.jp^$document
@@ -12401,7 +12403,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xbuba.com^$document
 ||xdqern.dentist-24.de^$document
 ||xdropc.pages.dev^$document
-||xenospectrum.com^$document
 ||xera.jp^$document
 ||xertinos.com^$document
 ||xharuchannel.com^$document

@@ -1,7 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||jppost-bank*.$document
-||infinitweet*.$all
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -4391,6 +4389,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||inest-inc.co.jp^$document
 ||inf.kimama2audio.com^$document
 ||infinico2.sakura.ne.jp^$document
+||infinitweet*.$all
 ||infinitweet.com^$document
 ||infinitweet50.com^$document
 ||infinity-agent.co.jp^$document
@@ -4712,6 +4711,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jpbitgetwallet.com^$document
 ||jpccc.net^$document
 ||jpkanon.com^$document
+||jppost-bank*.$document
 ||jpsecengineer.com^$document
 ||jpsoku.blog.jp^$document
 ||jr-bentenhiroba.jp^$document
