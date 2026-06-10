@@ -74,6 +74,7 @@ audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直�
 audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
 audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
+filespayouts.com##.cb-ad-box
 fp.no-sheep.org/services##.main
 h2testw.org##.entry-content::before { content: "これは偽サイト　Fake Site"; position: fixed !important; top: 10px !important; left: 10px !important; z-index: 999999 !important; font-size: 32px !important; color: #fff !important; background: #c00 !important; font-weight: 900 !important; padding: 8px 12px !important; border-radius: 6px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.5) !important; }
 hexload.com##.animated-button
@@ -3503,6 +3504,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getagriponlighting.com^$document
 ||getapkgame.com^$document
 ||getbt.blog.2nt.com^$document
+||getfinefile.com^$document
 ||getgadgetgot.com^$document
 ||getinmac.com^$document
 ||getintomac.net^$document
