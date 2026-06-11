@@ -153,6 +153,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - 偽ダウンロードボタン／広告トリック
   - 広告ボタンをダウンロードと誤認させる配置
   - 複数の紛らわしいボタン
+  - uBlock Originで消えていない一部広告
 
 - クリックベイトサイト
   - 見出しと本文の乖離が大きい
