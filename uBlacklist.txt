@@ -18348,7 +18348,6 @@
 *://polimats.com/*
 *://pollux555.com/*
 *://polybandas.cl/*
-*://polyfill.io/*
 *://polymc.org/*
 *://polzermediagroup.com/*
 *://pomomoy.com/*
