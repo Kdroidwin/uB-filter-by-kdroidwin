@@ -2,15 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://note.com/naruhoneru/*
-*://note.com/ripe_colt128/*
-*://note.com/cc21257/*
-*://vitalness.jp/*
-*://nina.webapp.pink/*
-*://ac.mine-ad.net/*
-*://matomabooks.jp/*
-*://townlife-aff.com/*
-*://link-a.net/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11151,6 +11142,7 @@
 *://abxw.xxasj.cn/*
 *://ac.3ps-ad.online/*
 *://ac.ellls.net/*
+*://ac.mine-ad.net/*
 *://ac.ms-track.info/*
 *://academic-box.be/*
 *://access-network.jp/*
@@ -16030,6 +16022,7 @@
 *://linematchapp.com/*
 *://lingualeo.com/*
 *://linguistic.global/*
+*://link-a.net/*
 *://link-card.online/cards/*
 *://link-card.site/*
 *://link.fmkorea.org/*
@@ -16438,6 +16431,7 @@
 *://mate.dmm-mania.com/*
 *://mathscidk.com/*
 *://matilda2023.jp/*
+*://matomabooks.jp/*
 *://matomake.com/*
 *://matomame.jp/*
 *://matome-entame.info/*
@@ -17234,6 +17228,7 @@
 *://nikkeimatome.com/*
 *://nikonikostudio.jp/*
 *://nilebasin.org/*
+*://nina.webapp.pink/*
 *://ninnintrends.com/*
 *://nipponnowadai.com/*
 *://niravselection.com/*
@@ -17350,6 +17345,7 @@
 *://note.com/bright_llama373/*
 *://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*
+*://note.com/cc21257/*
 *://note.com/chawanwabita/*
 *://note.com/cheeky_thyme7377/*
 *://note.com/chizuru1122/*
@@ -17562,6 +17558,7 @@
 *://note.com/nanopapa_world11/*
 *://note.com/naoki_35/*
 *://note.com/naoki_iphone/*
+*://note.com/naruhoneru/*
 *://note.com/natsssssuki/*
 *://note.com/nayoshi_engineer/*
 *://note.com/nekoyorozu/*
@@ -17633,6 +17630,7 @@
 *://note.com/rin_142356/*
 *://note.com/rinatanaka0904/*
 *://note.com/rinks_shop1288/*
+*://note.com/ripe_colt128/*
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
 *://note.com/ryoutakaaan/*
@@ -20243,6 +20241,7 @@
 *://touhokujrst.club/*
 *://tourukaustoglee.net/*
 *://towakon.com/*
+*://townlife-aff.com/*
 *://toy-box777.com/*
 *://toyama-asbb.com/*
 *://toyobaru.jp/*
@@ -20630,6 +20629,7 @@
 *://vision-digital.co/*
 *://visionvinylflooring.com/*
 *://vitabase.jp/*
+*://vitalness.jp/*
 *://vitoriavirtural.online/*
 *://viva-tube-vanced.jp.uptodown.com/*
 *://vivi-mall.com/*

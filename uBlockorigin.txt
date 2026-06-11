@@ -93,9 +93,9 @@ nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
 romsns.com##.idb-btn
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
+socialxup.com##.lg\:hidden.sm\:mt-8.mt-6.order-\[40\] > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
 socialxup.com##.scrollbar-hide.overflow-y-auto.max-h-\[calc\(100vh-5rem\)\].top-16.sticky.flex-shrink-0.w-72.lg\:block.hidden > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
 socialxup.com##a[data-track="sale_accounts_ad_inline_compact_click"]
-socialxup.com##.lg\:hidden.sm\:mt-8.mt-6.order-\[40\] > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
 socialxup.com##a[href*="xdepot.link/products/"]
 socialxup.com##a[rel*="sponsored"]
 socialxup.com##div[class*="bg-[radial-gradient"]
@@ -454,6 +454,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||abxw.xxasj.cn^$document
 ||ac.3ps-ad.online^$document
 ||ac.ellls.net^$document
+||ac.mine-ad.net^$document
 ||ac.ms-track.info^$document
 ||academic-box.be^$document
 ||access-network.jp^$document
@@ -5421,6 +5422,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||linematchapp.com^$document
 ||lingualeo.com^$document
 ||linguistic.global^$document
+||link-a.net^$document
 ||link-card.online/cards^$document
 ||link-card.site^$document
 ||link.fmkorea.org^$document
@@ -5841,6 +5843,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mate.dmm-mania.com^$document
 ||mathscidk.com^$document
 ||matilda2023.jp^$document
+||matomabooks.jp^$document
 ||matomake.com^$document
 ||matomame.jp^$document
 ||matome-entame.info^$document
@@ -6658,6 +6661,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nikkeimatome.com^$document
 ||nikonikostudio.jp^$document
 ||nilebasin.org^$document
+||nina.webapp.pink^$document
 ||ninnintrends.com^$document
 ||nipponnowadai.com^$document
 ||niravselection.com^$document
@@ -6772,6 +6776,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/bright_llama373^$document
 ||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
+||note.com/cc21257^$document
 ||note.com/chawanwabita^$document
 ||note.com/cheeky_thyme7377^$document
 ||note.com/chizuru1122^$document
@@ -6983,6 +6988,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/nanopapa_world11^$document
 ||note.com/naoki_35^$document
 ||note.com/naoki_iphone^$document
+||note.com/naruhoneru^$document
 ||note.com/natsssssuki^$document
 ||note.com/nayoshi_engineer^$document
 ||note.com/nekoyorozu^$document
@@ -7054,6 +7060,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/rin_142356^$document
 ||note.com/rinatanaka0904^$document
 ||note.com/rinks_shop1288^$document
+||note.com/ripe_colt128^$document
 ||note.com/roshalke^$document
 ||note.com/ruria_aria88^$document
 ||note.com/ryoutakaaan^$document
@@ -9788,6 +9795,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tourukaustoglee.net^$document
 ||tousu.in^$document
 ||towakon.com^$document
+||townlife-aff.com^$document
 ||toy-box777.com^$document
 ||toyama-asbb.com^$document
 ||toyobaru.jp^$document
@@ -10190,6 +10198,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||visionvinylflooring.com^$document
 ||visual-foxpro-programmer.com^$document
 ||vitabase.jp^$document
+||vitalness.jp^$document
 ||vitoriavirtural.online^$document
 ||viva-tube-vanced.jp.uptodown.com^$document
 ||vivi-mall.com^$document
