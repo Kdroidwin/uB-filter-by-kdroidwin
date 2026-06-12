@@ -19,6 +19,7 @@ gigazine.net##section:has(span[class="catab"]:has-text("お知らせ"))
 gigazine.net##section:has(span[class="catab"]:has-text("動画"))
 gigazine.net##section:has(span[class="catab"]:has-text("メンバー限定"))
 gigazine.net##section:has(span[class="catab"]:has-text("ヘッドライン"))
+gigazine.net##[href="https://gigazine.net/news/C21/"]
 gigazine.net##b:has-text(/心理的/)
 gigazine.net##section:nth-of-type(n):has-text("コロナ")
 gigazine.net###donation_wrapper
