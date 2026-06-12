@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://card-yyy.xyz/*
-*://aptme.xyz/*
-*://note.com/shin_sasaki/*
-*://note.com/takuma1201/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11686,6 +11682,7 @@
 *://appteka.store/*
 *://appvalley-apk.com/*
 *://appvn.com/*
+*://aptme.xyz/*
 *://apunkagames.click/*
 *://aqetaoutaouais.com/*
 *://aqhamilton.com/*
@@ -12348,6 +12345,7 @@
 *://carbanixe.life/*
 *://carbestone.com/*
 *://carbon-lab.jimdoweb.com/*
+*://card-yyy.xyz/*
 *://care-telecom.com/*
 *://careandglory.uk/*
 *://careerboost.wpx.jp/*
@@ -17654,6 +17652,7 @@
 *://note.com/semisuke_life/*
 *://note.com/shiba_inunosuke/*
 *://note.com/shin_kon/*
+*://note.com/shin_sasaki/*
 *://note.com/shinko_joho_news/*
 *://note.com/shinkouya_1453/*
 *://note.com/shinri_test/*
@@ -17679,6 +17678,7 @@
 *://note.com/takayanagi_koi/*
 *://note.com/takkatw/*
 *://note.com/takkxi/*
+*://note.com/takuma1201/*
 *://note.com/takumi333/*
 *://note.com/takumi_hakata/*
 *://note.com/tasty_holly7883/*

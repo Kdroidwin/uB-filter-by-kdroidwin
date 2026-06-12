@@ -1,6 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||ae-pic-a1.aliexpress-media.com/kf/S41f264ddb8b541f186e14f8a3c35a76fu.png$image
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -521,6 +520,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||advancecommunity.org^$document
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
+||ae-pic-a1.aliexpress-media.com/kf/S41f264ddb8b541f186e14f8a3c35a76fu.png$image
 ||aeonculture.info^$document
 ||affectionery.jp^$document
 ||affigolrich.com^$document
@@ -1012,6 +1012,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||appteka.store^$document
 ||appvalley-apk.com^$document
 ||appvn.com^$document
+||aptme.xyz^$document
 ||apunkagames.click^$document
 ||aqetaoutaouais.com^$document
 ||aqhamilton.com^$document
@@ -1688,6 +1689,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||carbanixe.life^$document
 ||carbestone.com^$document
 ||carbon-lab.jimdoweb.com^$document
+||card-yyy.xyz^$document
 ||care-telecom.com^$document
 ||careandglory.uk^$document
 ||careerboost.wpx.jp^$document
@@ -7081,6 +7083,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/semisuke_life^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/shin_kon^$document
+||note.com/shin_sasaki^$document
 ||note.com/shinko_joho_news^$document
 ||note.com/shinkouya_1453^$document
 ||note.com/shinri_test^$document
@@ -7106,6 +7109,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/takayanagi_koi^$document
 ||note.com/takkatw^$document
 ||note.com/takkxi^$document
+||note.com/takuma1201^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
 ||note.com/tasty_holly7883^$document
