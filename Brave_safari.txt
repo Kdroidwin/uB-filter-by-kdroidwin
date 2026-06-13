@@ -1045,6 +1045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aritai.jp^$document
 ||arizonite.com^$document
 ||arkofrefuge.org^$document
+||arlodesktop.com^$document
 ||armageddonhomes.com^$document
 ||aroma-ism.jp^$document
 ||aroma83.com^$document
@@ -1695,6 +1696,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||careerboost.wpx.jp^$document
 ||careerhero.io^$document
 ||careerintern.jp^$document
+||carepro.co.jp^$document
 ||caress.blog^$document
 ||caribbeancomn.jp^$document
 ||carnival00inkochi.jp^$document
@@ -6716,6 +6718,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nomad-saving.com^$document
 ||nomadstarbucks.com^$document
 ||nomakes.com^$document
+||nomikoi.app^$document
 ||nomnom-korea.com^$document
 ||non-nnnn.com^$document
 ||non-stopadventure.com^$document
@@ -11979,6 +11982,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.san24.jp^$document
 ||www.sanbio.online^$document
 ||www.sandvik.coromant.cn^$document
+||www.sankei.com/pressrelease/prtimes^$document
 ||www.sanko-metal.cn^$document
 ||www.sanqasst.info^$document
 ||www.sanspo.com/article/20240723-VEGX4L3HHJOP3CWOBOTAWMWYVM^$document

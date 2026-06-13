@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://nomikoi.app/*
-*://carepro.co.jp/*
-*://www.sankei.com/pressrelease/prtimes/*
-*://arlodesktop.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11718,6 +11714,7 @@
 *://aritai.jp/*
 *://arizonite.com/*
 *://arkofrefuge.org/*
+*://arlodesktop.com/*
 *://armageddonhomes.com/*
 *://aroma-ism.jp/*
 *://aroma83.com/*
@@ -12355,6 +12352,7 @@
 *://careerboost.wpx.jp/*
 *://careerhero.io/*
 *://careerintern.jp/*
+*://carepro.co.jp/*
 *://caress.blog/*
 *://caribbeancomn.jp/*
 *://carobnibreg.rs/*
@@ -17285,6 +17283,7 @@
 *://nomad-saving.com/*
 *://nomadstarbucks.com/*
 *://nomakes.com/*
+*://nomikoi.app/*
 *://nomnom-korea.com/*
 *://non-nnnn.com/*
 *://non-stopadventure.com/*
@@ -22383,6 +22382,7 @@
 *://www.san24.jp/*
 *://www.sanbio.online/*
 *://www.sandvik.coromant.cn/*
+*://www.sankei.com/pressrelease/prtimes/*
 *://www.sanko-metal.cn/*
 *://www.sanqasst.info/*
 *://www.sanspo.com/article/20240723-VEGX4L3HHJOP3CWOBOTAWMWYVM/*
