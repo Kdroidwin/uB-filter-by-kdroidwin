@@ -2,6 +2,8 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://nomikoi.app/*
+*://carepro.co.jp/*
 *://www.sankei.com/pressrelease/prtimes/*
 *://arlodesktop.com/*
 *://*.addness.co.jp/*
