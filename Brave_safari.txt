@@ -3536,6 +3536,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getmodpc.net^$document
 ||getmodsapk.com/youtube-revanced-extended-mod-apk^$document
 ||getmodsapk.com^$document
+||getnews.jp^$document
 ||getonline-esta.com^$document
 ||getsuaku.com^$document
 ||getuug.net^$document
