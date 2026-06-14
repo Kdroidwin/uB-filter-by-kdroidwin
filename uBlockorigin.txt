@@ -8524,7 +8524,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sanosemi.info^$document
 ||sanpo19.jp^$document
 ||sanro.cc^$document
-||sanseito.jp^$document
 ||sanservhygiene.co.zw^$document
 ||sansyuen.jp^$document
 ||santiagodiesel.kinghost.net^$document
