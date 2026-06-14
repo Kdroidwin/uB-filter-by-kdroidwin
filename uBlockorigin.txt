@@ -6498,6 +6498,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nbtkoshi.com^$document
 ||nby.stylemap.co.jp^$document
 ||ncgm-dm.webpage-creation-support.info^$document
+||nearby-glasses-alert.pages.dev^$document
 ||necoarashi.com^$document
 ||necocoto.com^$document
 ||necrosm.com^$document

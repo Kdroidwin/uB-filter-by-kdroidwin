@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://nearby-glasses-alert.pages.dev/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -17073,6 +17072,7 @@
 *://nbtkoshi.com/*
 *://nby.stylemap.co.jp/*
 *://ncgm-dm.webpage-creation-support.info/*
+*://nearby-glasses-alert.pages.dev/*
 *://necoarashi.com/*
 *://necocoto.com/*
 *://necrosm.com/*
