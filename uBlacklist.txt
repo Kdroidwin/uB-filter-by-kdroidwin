@@ -1,20 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://shortcake.carepro.co.jp/*
-*://digimaga.jp/*
-*://learnbiz.jp/*
-*://ivisa.com/*
-*://www.getonline-esta.com/*
-*://getonline-esta.com/*
-*://www.esta-application.com/*
-*://esta-application.com/*
-*://www.estaofficial.org/*
-*://estaofficial.org/*
-*://usa-esta.jp/*
-*://esta-online.org/*
-*://esta.us/*
-*://usimmigration-assistance.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -12963,6 +12949,7 @@
 *://diety.jp/*
 *://different-cute-brain.glitch.me/*
 *://digicamenote.com/*
+*://digimaga.jp/*
 *://digispacestudio.com/*
 *://digital-mediablo.com/*
 *://digital-shift.jp/*
@@ -13590,7 +13577,11 @@
 *://espritpress.com/*
 *://essay-au.com/*
 *://est-pro.co.jp/*
+*://esta-application.com/*
+*://esta-online.org/*
+*://esta.us/*
 *://esta.visasyst.com/*
+*://estaofficial.org/*
 *://estatesnm.com/*
 *://estudioedelman.com/*
 *://estudiopepa.jp/*
@@ -14171,6 +14162,7 @@
 *://getmodpc.net/*
 *://getmodsapk.com/*
 *://getmodsapk.com/youtube-revanced-extended-mod-apk/*
+*://getonline-esta.com/*
 *://getsuaku.com/*
 *://getuug.net/*
 *://geumsz31.gabrans.com/*
@@ -15185,6 +15177,7 @@
 *://ivanovdental.com/*
 *://ivantsoi.myds.me/*
 *://ivepoon.com/*
+*://ivisa.com/*
 *://ivogijufij.dvereskamat.sk/*
 *://ivolkman.com/*
 *://iwanami-hall.com/*
@@ -15959,6 +15952,7 @@
 *://learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://learn.slot42.online/*
 *://learnandbless.com/*
+*://learnbiz.jp/*
 *://learning.shift-ai.co.jp/*
 *://learnopenoffice.org/*
 *://leather-no-wabisabi.com/*
@@ -19279,6 +19273,7 @@
 *://short-net.org/*
 *://short-sleeper.or.jp/*
 *://shorta.vip/*
+*://shortcake.carepro.co.jp/*
 *://shorturl.biz.weibo.cn/*
 *://shoshinshanoyakata.com/*
 *://shounenki.jp/*
@@ -20523,6 +20518,7 @@
 *://urreasureste.com/*
 *://urunify.com/*
 *://us.7digital.com/*
+*://usa-esta.jp/*
 *://usagi-no-guild.com/*
 *://usagi-syufulife.com/*
 *://usagi0925.com/*
@@ -20535,6 +20531,7 @@
 *://usaponn.com/*
 *://usdeptreasury-gov.netlify.app/*
 *://usern.me/*
+*://usimmigration-assistance.com/*
 *://usj-joho.blog.ss-blog.jp/*
 *://uslifeblog.com/*
 *://usmartnepal.com/*
@@ -21478,6 +21475,8 @@
 *://www.eskizpsd.com/*
 *://www.espacesarana.fr/*
 *://www.espacioagro.com/*
+*://www.esta-application.com/*
+*://www.estaofficial.org/*
 *://www.esthe-lynx-ebisu.com/*
 *://www.etital.com/*
 *://www.etsabdelmoula.com/*
@@ -21587,6 +21586,7 @@
 *://www.getkmspico.com/*
 *://www.getminecore.com/*
 *://www.getmodsapk.cc/*
+*://www.getonline-esta.com/*
 *://www.getspeedy.io/*
 *://www.gevtmmv.cn/*
 *://www.ggg-channel.com/*

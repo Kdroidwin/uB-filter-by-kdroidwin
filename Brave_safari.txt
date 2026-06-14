@@ -2306,6 +2306,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||diety.jp^$document
 ||different-cute-brain.glitch.me^$document
 ||digicamenote.com^$document
+||digimaga.jp^$document
 ||digispacestudio.com^$document
 ||digital-mediablo.com^$document
 ||digital-shift.jp^$document
@@ -2939,7 +2940,12 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||espritpress.com^$document
 ||essay-au.com^$document
 ||est-pro.co.jp^$document
+||esta-*.$document
+||esta-application.com^$document
+||esta-online.org^$document
+||esta.us^$document
 ||esta.visasyst.com^$document
+||estaofficial.org^$document
 ||estatesnm.com^$document
 ||estudioedelman.com^$document
 ||estudiopepa.jp^$document
@@ -3528,6 +3534,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getmodpc.net^$document
 ||getmodsapk.com/youtube-revanced-extended-mod-apk^$document
 ||getmodsapk.com^$document
+||getonline-esta.com^$document
 ||getsuaku.com^$document
 ||getuug.net^$document
 ||geumsz31.gabrans.com^$document
@@ -4556,6 +4563,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ivanovdental.com^$document
 ||ivantsoi.myds.me^$document
 ||ivepoon.com^$document
+||ivisa.com^$document
 ||ivogijufij.dvereskamat.sk^$document
 ||ivolkman.com^$document
 ||iwanami-hall.com^$document
@@ -5343,6 +5351,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||learn.slot42.online^$document
 ||learnandbless.com^$document
+||learnbiz.jp^$document
 ||learning.shift-ai.co.jp^$document
 ||learnopenoffice.org^$document
 ||leather-no-wabisabi.com^$document
@@ -8765,6 +8774,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
 ||shorta.vip^$document
+||shortcake.carepro.co.jp^$document
 ||shorturl.biz.weibo.cn^$document
 ||shoshinshanoyakata.com^$document
 ||shounenki.jp^$document
@@ -10075,6 +10085,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||urreasureste.com^$document
 ||urunify.com^$document
 ||us.7digital.com^$document
+||usa-esta.jp^$document
 ||usagi-no-guild.com^$document
 ||usagi-syufulife.com^$document
 ||usagi0925.com^$document
@@ -10088,6 +10099,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||usdeptreasury-gov.netlify.app^$document
 ||usern.me^$document
 ||usersuper.ru^$document
+||usimmigration-assistance.com^$document
 ||usj-joho.blog.ss-blog.jp^$document
 ||uslifeblog.com^$document
 ||usmartnepal.com^$document
@@ -11067,6 +11079,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document
+||www.esta-application.com^$document
+||www.estaofficial.org^$document
 ||www.esthe-lynx-ebisu.com^$document
 ||www.etital.com^$document
 ||www.etsabdelmoula.com^$document
@@ -11177,6 +11191,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.getkmspico.com^$document
 ||www.getminecore.com^$document
 ||www.getmodsapk.cc^$document
+||www.getonline-esta.com^$document
 ||www.getspeedy.io^$document
 ||www.gevtmmv.cn^$document
 ||www.ggg-channel.com^$document
