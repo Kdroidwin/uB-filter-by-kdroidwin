@@ -19032,7 +19032,6 @@
 *://sanosemi.info/*
 *://sanpo19.jp/*
 *://sanro.cc/*
-*://sanseito.jp/*
 *://sanservhygiene.co.zw/*
 *://sansyuen.jp/*
 *://santiagodiesel.kinghost.net/*
