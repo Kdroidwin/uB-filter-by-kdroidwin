@@ -2942,7 +2942,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||est-pro.co.jp^$document
 ||esta-*.$document
 ||esta-application.com^$document
+||esta-gov.com^$document
 ||esta-online.org^$document
+||esta.*.$document
 ||esta.us^$document
 ||esta.visasyst.com^$document
 ||estaofficial.org^$document
@@ -13006,6 +13008,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ! 除外
 @@://blog.*.top^$doc
 @@://pyrofork.*.top^$doc
+@@||esta.cbp.dhs.gov$document
 @@||masto*.top^$doc
 @@||mydocomo.docomo.ne.jp^$document
 @@||smbc-card.com^$document
