@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://nearby-glasses-alert.pages.dev/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
