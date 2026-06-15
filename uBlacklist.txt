@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://grey-ai-op.sgp1.cdn.digitaloceanspaces.com/*
+*://gardenbest01.nyc3.cdn.digitaloceanspaces.com/*
 *://note.com/chaen_channel/*
 *://note.com/kurokawa_aoi/*
 *://aoi-kurochan.com/*
