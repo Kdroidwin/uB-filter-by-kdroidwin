@@ -889,6 +889,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aoharu-sk.com^$document
 ||aoi-choco.hateblo.jp^$document
 ||aoi-kimono.jp^$document
+||aoi-kurochan.com^$document
 ||aoiblog.net^$document
 ||aoiro5.com^$document
 ||aoisekai.net^$document
@@ -3415,6 +3416,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gardabhayangkara.online^$document
 ||gardasar.guru^$document
 ||garden^$document,domain=~eng.garden|~rickey.garden|~insect.garden|~imoto.garden|~nonohana.garden|~eaglegolf.garden|~nezu.garden|~yasuko.garden|~foglia.garden|~haircolor.garden|~officecafe.garden|~ezu.garden|~short-short.garden|~green-seek.garden|~ferrumbox.garden|~lotus.garden|~kanji.garden|~oniwa.garden|~sendai.garden|~estacion.garden|~radio.garden|~kamakuratorres.garden|~chachacha.garden|~hiro.garden|~att-home.garden|~jiro.garden|~goodlittle.garden|~poap.garden|~bordas.garden|~olly.garden|~salvage.garden|~design.garden|~plantae.garden|~prestige.garden|~maa.garden|~planter.garden|~gusta.garden|~patch.garden|~syntato.garden|~milwaukeebeer.garden|~social.garden|~mantis.garden|~staff.garden|~f168.garden|~toot.garden|~memex.garden|~boum.garden|~wobble.garden|~alices.garden|~cheekwood.garden|~solos.garden|~cyberlove.garden|~cast.garden|~coding.garden|~rose.garden|~zendesk.garden|~fedi.garden|~sunny.garden|~circles.garden|~untold.garden|~the.garden|~walworth.garden|~fieldmann.garden|~keywest.garden|~ellipse.garden|~manifold.garden|~hyperlink.garden|~palm.garden|~kingdom.garden|~smallsheds.garden|~jardinarium.garden|~common.garden|~labyrinth.garden|~mediterraneo.garden|~pointcloud.garden|~begma.garden|~garlic.garden|~tv.garden|~anita.garden|~fctv33hd.garden|~animes.garden|~dvdplay.garden|~moos.garden|~isaimini.garden|~pobreflixtv.garden|~lustmaza.garden|~coolmoviez.garden|~altadefinizionegratis.garden|~flow3r.garden|~plantura.garden|~shop.plantura.garden|~upstreamgallery.common.garden|~thisthewrongplacetodie.common.garden|~saito.garden|~beginners.garden|~glanta.garden|~zen.garden|~mastodon.garden
+||gardenbest01.nyc3.cdn.digitaloceanspaces.com^$document
 ||gascumuapa.com^$document
 ||gaspa-web.jp^$document
 ||gastrolife.net^$document
@@ -3762,6 +3764,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||greenwof.top^$document
 ||greerogloo.net^$document
 ||greetingbling.com^$document
+||grey-ai-op.sgp1.cdn.digitaloceanspaces.com^$document
 ||greywolf.ru^$document
 ||grina.info^$document
 ||griselymasajistas.com^$document
@@ -6796,6 +6799,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
 ||note.com/cc21257^$document
+||note.com/chaen_channel^$document
 ||note.com/chawanwabita^$document
 ||note.com/cheeky_thyme7377^$document
 ||note.com/chizuru1122^$document
@@ -6947,6 +6951,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
+||note.com/kurokawa_aoi^$document
 ||note.com/kuroneko_mikoo^$document
 ||note.com/kurono1gou^$document
 ||note.com/kyari_mon^$document
@@ -7161,6 +7166,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/viwizard_jp^$document
 ||note.com/vpn_lab^$document
 ||note.com/wareomou_yueni^$document
+||note.com/watab2000^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
 ||note.com/watawata555^$document
 ||note.com/watechexplorers^$document
@@ -8524,7 +8530,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sanosemi.info^$document
 ||sanpo19.jp^$document
 ||sanro.cc^$document
-||sanseito.jp^$document
 ||sanservhygiene.co.zw^$document
 ||sansyuen.jp^$document
 ||santiagodiesel.kinghost.net^$document

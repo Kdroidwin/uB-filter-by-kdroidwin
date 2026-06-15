@@ -1,12 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://grey-ai-op.sgp1.cdn.digitaloceanspaces.com/*
-*://gardenbest01.nyc3.cdn.digitaloceanspaces.com/*
-*://note.com/chaen_channel/*
-*://note.com/kurokawa_aoi/*
-*://aoi-kurochan.com/*
-*://note.com/watab2000/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11567,6 +11561,7 @@
 *://aoharu-sk.com/*
 *://aoi-choco.hateblo.jp/*
 *://aoi-kimono.jp/*
+*://aoi-kurochan.com/*
 *://aoiblog.net/*
 *://aoiro5.com/*
 *://aoisekai.net/*
@@ -14048,6 +14043,7 @@
 *://garantpost.ru/*
 *://gardabhayangkara.online/*
 *://gardasar.guru/*
+*://gardenbest01.nyc3.cdn.digitaloceanspaces.com/*
 *://gascumuapa.com/*
 *://gaspa-web.jp/*
 *://gastrolife.net/*
@@ -14393,6 +14389,7 @@
 *://greenwof.top/*
 *://greerogloo.net/*
 *://greetingbling.com/*
+*://grey-ai-op.sgp1.cdn.digitaloceanspaces.com/*
 *://greywolf.ru/*
 *://grina.info/*
 *://griselymasajistas.com/*
@@ -17368,6 +17365,7 @@
 *://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*
 *://note.com/cc21257/*
+*://note.com/chaen_channel/*
 *://note.com/chawanwabita/*
 *://note.com/cheeky_thyme7377/*
 *://note.com/chizuru1122/*
@@ -17520,6 +17518,7 @@
 *://note.com/kouichi_0703/*
 *://note.com/kuma_ai_studio/*
 *://note.com/kumakuma3desu/*
+*://note.com/kurokawa_aoi/*
 *://note.com/kuroneko_mikoo/*
 *://note.com/kurono1gou/*
 *://note.com/kyari_mon/*
@@ -17734,6 +17733,7 @@
 *://note.com/viwizard_jp/*
 *://note.com/vpn_lab/*
 *://note.com/wareomou_yueni/*
+*://note.com/watab2000/*
 *://note.com/wataru057/n/n1616ce92e51f
 *://note.com/watawata555/*
 *://note.com/watechexplorers/*
