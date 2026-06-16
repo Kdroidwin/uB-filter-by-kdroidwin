@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://note.com/onamae_com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
