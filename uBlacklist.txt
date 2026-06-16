@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/onamae_com/*
-*://erogamenote.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -13502,6 +13500,7 @@
 *://eroero.bokuto-watashi.com/*
 *://eroeroimessaim.com/*
 *://erof.jp/*
+*://erogamenote.com/*
 *://eroge-maso.com/*
 *://eroge.dldshare.net/*
 *://eroge.erodl.cfbx.jp/*
@@ -17605,6 +17604,7 @@
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
 *://note.com/omochi0014/*
+*://note.com/onamae_com/*
 *://note.com/onlineoripa/*
 *://note.com/open_fennel6445/*
 *://note.com/open_hare4661/*

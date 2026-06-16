@@ -2861,6 +2861,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eroero.bokuto-watashi.com^$document
 ||eroeroimessaim.com^$document
 ||erof.jp^$document
+||erogamenote.com^$document
 ||eroge-maso.com^$document
 ||eroge.dldshare.net^$document
 ||eroge.erodl.cfbx.jp^$document
@@ -7036,6 +7037,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/ojirolian^$document
 ||note.com/okinisezu^$document
 ||note.com/omochi0014^$document
+||note.com/onamae_com^$document
 ||note.com/onlineoripa^$document
 ||note.com/open_fennel6445^$document
 ||note.com/open_hare4661^$document
