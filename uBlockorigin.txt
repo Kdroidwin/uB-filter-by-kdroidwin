@@ -984,6 +984,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||app.joinin.online^$document
 ||app.sendright.jp^$document
 ||app.sensortower.com^$document
+||app.wefi.co^$document
 ||appagg.com^$document
 ||appante7.info^$document
 ||appbu.jp^$document
@@ -6874,6 +6875,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/hachiojiiphone^$document
 ||note.com/haitenjp^$document
 ||note.com/haken_se_30manen^$document
+||note.com/hakuo416^$document
 ||note.com/hakuou_ai^$document
 ||note.com/hakushiki_san^$document
 ||note.com/hakutoumomo^$document
@@ -10082,6 +10084,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uquum.com^$document
 ||ur16.jp^$document
 ||ur38.jp^$document
+||uracorona2.com^$document
 ||urajyouhou.com^$document
 ||uranai-mugen.jp^$document
 ||uranai.nosv.org^$document
