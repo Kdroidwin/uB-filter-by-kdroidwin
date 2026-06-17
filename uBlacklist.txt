@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://uracorona2.com/*
+*://app.wefi.co/*
 *://*.55276.net/*
 *://note.com/hakuo416/*
 *://*.a3erf.com/*
