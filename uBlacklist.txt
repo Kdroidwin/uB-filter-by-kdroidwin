@@ -1,31 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://gadgetouch.com/*
-*://content-website-analytics.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://spirit.aptty.com/*
-*://note.com/nakamuraclinic/*
-*://clnakamura.com/*
-*://ameblo.jp/awakened-citizen/*
-*://prettyworld2025.hatenablog.com/*
-*://wonder-eyes.shop/*
-*://gedokujoshi.base.shop/*
-*://ameblo.jp/teihenmachi/*
-*://genkimaru1.livedoor.blog/*
-*://anmin579.com/*
-*://adoi.hatenablog.com/*
-*://www.jimakudaio.com/*
-*://ameblo.jp/ohanakeiko/*
-*://prettyworld.muragon.com/*
-*://567kyusai.com/*
-*://note.com/rheason/*
-*://note.com/messierobjects31/*
-*://note.com/you3_jp/*
-*://ameblo.jp/korona-tsunagaru/*
-*://www.hikaruland.co.jp/*
-*://indeep.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -11031,6 +11008,7 @@
 *://54.197.245.249/*
 *://54eeeadb.xyz/*
 *://55kengo.com/*
+*://567kyusai.com/*
 *://5739622.slot47.online/*
 *://57akozpb.alepiqrien.fr/*
 *://5865926.slot15.online/*
@@ -11205,6 +11183,7 @@
 *://ademas0719blog.com/*
 *://aditaishitukaizen.com/*
 *://admailmg.com/*
+*://adoi.hatenablog.com/*
 *://adonisgreen.jp/*
 *://adown.itself.pics/*
 *://adpeak.net/*
@@ -11422,6 +11401,7 @@
 *://ameblo.jp/and-gretel*
 *://ameblo.jp/aniroom*
 *://ameblo.jp/ann-ogura/entry-12872686061.html
+*://ameblo.jp/awakened-citizen/*
 *://ameblo.jp/bijotoyaju/*
 *://ameblo.jp/cheongdambyeol/*
 *://ameblo.jp/chihaya0425/*
@@ -11444,6 +11424,7 @@
 *://ameblo.jp/king-tarot/*
 *://ameblo.jp/kkawapy/entry-12938691207.html*
 *://ameblo.jp/komochi333/*
+*://ameblo.jp/korona-tsunagaru/*
 *://ameblo.jp/kusowii*
 *://ameblo.jp/mangarawzip/*
 *://ameblo.jp/masasan731/*
@@ -11452,9 +11433,11 @@
 *://ameblo.jp/natsumikanoa1324/*
 *://ameblo.jp/nianian0401*
 *://ameblo.jp/nokoarikon/*
+*://ameblo.jp/ohanakeiko/*
 *://ameblo.jp/pisu-tabi/*
 *://ameblo.jp/plus2222/*
 *://ameblo.jp/targeteddamage/*
+*://ameblo.jp/teihenmachi/*
 *://ameblo.jp/unarigoe/*
 *://ameblo.jp/uriutsu-123/*
 *://ameblo.jp/viwizardjp/*
@@ -11545,6 +11528,7 @@
 *://ankoron.com/*
 *://ankororo.com/*
 *://anm777.com/*
+*://anmin579.com/*
 *://anna-advisors.com/*
 *://annaishimasuyo.com/*
 *://annbiyou.com/*
@@ -12572,6 +12556,7 @@
 *://clickfordetayiso.online/*
 *://clicktrade.jp/*
 *://clientes.selecmoda.com/*
+*://clnakamura.com/*
 *://cloline.online/*
 *://cloodnerw.com/*
 *://closetoyoubelieve.com/*
@@ -12707,6 +12692,7 @@
 *://construcclean.com/*
 *://consulnews.jp/*
 *://contact.xyz/*
+*://content-website-analytics.com/*
 *://content.ec-consultingjapan.co.jp/*
 *://continue-healthy.com/*
 *://contopics.com/*
@@ -14022,6 +14008,7 @@
 *://gadget-choice.net/*
 *://gadget888.hatenablog.com/*
 *://gadgetech.jp/*
+*://gadgetouch.com/*
 *://gadgetzamurai.jp/*
 *://gaffriggauge.com/*
 *://gahalog.2chblog.jp/*
@@ -14104,6 +14091,7 @@
 *://gdkfvgwhxjyk.xyz/*
 *://ge-noumatome.com/*
 *://ge999c62.muragon.com/*
+*://gedokujoshi.base.shop/*
 *://gedsx.com/*
 *://gegege-sensei.jp/*
 *://geikosai2022.jp/*
@@ -14153,6 +14141,7 @@
 *://gengmovie.net/*
 *://geniee.co.jp/*
 *://genkideru.info/*
+*://genkimaru1.livedoor.blog/*
 *://genkimorizou.com/*
 *://genkimura.net/*
 *://genkithings.jp/*
@@ -15055,6 +15044,7 @@
 *://inaxginza.info/*
 *://inazumanews2.com/*
 *://inbigo.com/*
+*://indeep.jp/*
 *://index.taimiah.org/*
 *://indiespark.top/*
 *://indoorzoku.com/*
@@ -17578,6 +17568,7 @@
 *://note.com/mayako_room/*
 *://note.com/mdsmys/*
 *://note.com/mental_marcy/*
+*://note.com/messierobjects31/*
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
 *://note.com/mikami_01/*
@@ -17601,6 +17592,7 @@
 *://note.com/my_creator2/*
 *://note.com/myluck/*
 *://note.com/mymonolab/*
+*://note.com/nakamuraclinic/*
 *://note.com/nakanaka_2025/*
 *://note.com/nanopapa_world11/*
 *://note.com/naoki_35/*
@@ -17672,6 +17664,7 @@
 *://note.com/restruct/*
 *://note.com/retokyo2025/*
 *://note.com/rex1234/*
+*://note.com/rheason/*
 *://note.com/rich_ferret438/*
 *://note.com/rich_mole9262/*
 *://note.com/rich_shark9469/*
@@ -17780,6 +17773,7 @@
 *://note.com/yoro2/*
 *://note.com/yoroneko1121/*
 *://note.com/yoshino_uranai/*
+*://note.com/you3_jp/*
 *://note.com/youichi0989/*
 *://note.com/youmadesign/*
 *://note.com/yubaku/*
@@ -18472,6 +18466,8 @@
 *://presencia.nepm.org/*
 *://present-life.tokyo/*
 *://pressingleclair.fr/*
+*://prettyworld.muragon.com/*
+*://prettyworld2025.hatenablog.com/*
 *://prexi.jp/*
 *://price-feel.com/*
 *://primary-production-7e19.up.railway.app/*
@@ -19534,6 +19530,7 @@
 *://speedycolt.com/*
 *://spicymadonna.com/*
 *://spinaltap.jp/*
+*://spirit.aptty.com/*
 *://splashpages-dev.hm.com/*
 *://splatoonv.hatenablog.com/*
 *://splunktool.com/*
@@ -20918,6 +20915,7 @@
 *://wolfg.x0.com/*
 *://wolfsakusaku.net/*
 *://wonda-onepiece22.jp/*
+*://wonder-eyes.shop/*
 *://wonderful-wife.net/*
 *://wonderfulnews.xyz/*
 *://wondia.net/*
@@ -21725,6 +21723,7 @@
 *://www.hiapkdownload.com/*
 *://www.hidouzo.site/*
 *://www.hikaku.com/*
+*://www.hikaruland.co.jp/*
 *://www.hikkoshi-sakai.info/*
 *://www.hill-ky.org/*
 *://www.himatubushisp.com/*
@@ -21845,6 +21844,7 @@
 *://www.jesus-diez.com/*
 *://www.jhyyw.top/*
 *://www.jiaqingli.cn/*
+*://www.jimakudaio.com/*
 *://www.jinguhanabi.info/*
 *://www.jisinyosoku.com/*
 *://www.jiyugaoka-tokyo.com/*
