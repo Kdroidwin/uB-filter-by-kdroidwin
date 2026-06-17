@@ -12295,6 +12295,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.unny.cn^$document
 ||www.upgradad.com^$document
 ||www.ura-akiba.jp^$document
+||www.uracorona.com^$document
 ||www.urakyoku555.com^$document
 ||www.uranai-town.net^$document
 ||www.uranai3.com^$document
