@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-title/Cherrygram/
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -23447,6 +23446,7 @@ title/BitLord - /
 title/BitTorrent®/
 title/Cat VPN -/
 title/Cherrygram - A/
+title/Cherrygram/
 title/Download BitComet/
 title/Download BitSpirit/
 title/ExpressVPN - /
