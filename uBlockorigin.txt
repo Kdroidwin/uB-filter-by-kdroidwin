@@ -13048,6 +13048,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://pyrofork.*.top^$doc
 @@||esta.cbp.dhs.gov$document
 @@||masto*.top^$doc
-@@||mydocomo.docomo.ne.jp^$document
+@@||mydocomo.docomo.ne.jp^$all
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
