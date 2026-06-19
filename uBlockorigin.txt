@@ -6387,7 +6387,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
-||mydocomo.$document
 ||myfavoritetopics.net^$document
 ||myfreesoft.ru^$document
 ||myhobby.tech^$document
@@ -13048,6 +13047,5 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://pyrofork.*.top^$doc
 @@||esta.cbp.dhs.gov$document
 @@||masto*.top^$doc
-@@||mydocomo.docomo.ne.jp^$all
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
