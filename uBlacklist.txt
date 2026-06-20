@@ -2,22 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://ketiketidenki.com/*
-*://note.com/unikoukokun/*
-*://ai-skill-academy.netlify.app/*
-*://yield-marketing.co.jp/*
-*://claudecode.co.jp/*
-*://claudelab.jp/*
-*://wakara.co.jp/*
-*://www.wakara-video.com/*
-*://generative-agents.co.jp/*
-*://classmethod.jp/*
-*://www.creativevillage.ne.jp/*
-*://uravation.com/*
-*://techplay.jp/*
-*://note.com/ropponginza/*
-*://appstorrent.ru/*
-*://pokekatsu.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11259,6 +11243,7 @@
 *://ai-l.net/*
 *://ai-lab-jp.com/*
 *://ai-official.jp/*
+*://ai-skill-academy.netlify.app/*
 *://ai-skill.jp/*
 *://ai-uruoi.com/*
 *://ai.45rina.com/*
@@ -11704,6 +11689,7 @@
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
 *://apps2app.com/*
 *://appsonwindows.com/*
+*://appstorrent.ru/*
 *://appteka.store/*
 *://appvalley-apk.com/*
 *://appvn.com/*
@@ -12562,7 +12548,10 @@
 *://clashofkings.jp/*
 *://classic-game.site/*
 *://classicboatbeachbash.com/*
+*://classmethod.jp/*
 *://claude-code-academy.dev/*
+*://claudecode.co.jp/*
+*://claudelab.jp/*
 *://claulimabrand.com/*
 *://clean-scene.ca/*
 *://cleangreenspk.com/*
@@ -14152,6 +14141,7 @@
 *://gen51.net/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
+*://generative-agents.co.jp/*
 *://generative-ai.sejuku.net/*
 *://genfunlife.com/*
 *://gengmovie.net/*
@@ -15605,6 +15595,7 @@
 *://kervjrfjd.pro/*
 *://kessler.therealnorth.xyz/*
 *://ketchytune.com/*
+*://ketiketidenki.com/*
 *://keukenhulponline.nl/*
 *://keyakizaka46matomemory.net/*
 *://keyforum.kumamoto-u.org/*
@@ -17688,6 +17679,7 @@
 *://note.com/rinatanaka0904/*
 *://note.com/rinks_shop1288/*
 *://note.com/ripe_colt128/*
+*://note.com/ropponginza/*
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
 *://note.com/ryoutakaaan/*
@@ -17758,6 +17750,7 @@
 *://note.com/travel_paya/*
 *://note.com/trivia_kingdom/*
 *://note.com/uber_tantan02*
+*://note.com/unikoukokun/*
 *://note.com/unique_chimp63/*
 *://note.com/unique_vole4285/*
 *://note.com/ura_okuribito/*
@@ -18407,6 +18400,7 @@
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
 *://pokeca.com/*
+*://pokekatsu.com/*
 *://pokemon-matome.net/*
 *://pokemontcgpocket.io/*
 *://pokepa365.com/*
@@ -19996,6 +19990,7 @@
 *://technicoloursigns.com/*
 *://techno-wing.info/*
 *://technovk.in/*
+*://techplay.jp/*
 *://techreport.com/*
 *://techshare.co.jp/*
 *://techylist.com/*
@@ -20558,6 +20553,7 @@
 *://uranai.nosv.org/*
 *://uranaizamurai.com/*
 *://urara-world.com/*
+*://uravation.com/*
 *://urayasu-brighton.netlify.app/*
 *://ureba.jp/*
 *://uriboumiracle.com/*
@@ -20799,6 +20795,7 @@
 *://waiwaiblog.com/*
 *://wakab.jp/*
 *://wakamesan-blog.com/*
+*://wakara.co.jp/*
 *://wakarannavi.com/*
 *://wakasiru.com/*
 *://wakatte-tv.net/*
@@ -21379,6 +21376,7 @@
 *://www.cranq.jp/*
 *://www.creamiofoods.com/*
 *://www.creativequestfoundation.org/items/*
+*://www.creativevillage.ne.jp/*
 *://www.creodentistry.com/*
 *://www.crra.jp/*
 *://www.cruzrojacolombiana.org/*
@@ -22783,6 +22781,7 @@
 *://www.vrvr123.com/*
 *://www.vubfvubf.xyz/*
 *://www.w3campus.lk/*
+*://www.wakara-video.com/*
 *://www.wake-up-neo.net/*
 *://www.wakooclub.com/*
 *://www.wandoutv.cn/*
@@ -23113,6 +23112,7 @@
 *://yesterday-tv.com/*
 *://yetu.tours/*
 *://ygaero.com/*
+*://yield-marketing.co.jp/*
 *://yifymovies.cx/*
 *://yiliam86.taobao.com/*
 *://yimmease.com/*

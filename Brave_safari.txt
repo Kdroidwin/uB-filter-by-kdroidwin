@@ -557,6 +557,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ai-l.net^$document
 ||ai-lab-jp.com^$document
 ||ai-official.jp^$document
+||ai-skill-academy.netlify.app^$document
 ||ai-skill.jp^$document
 ||ai-uruoi.com^$document
 ||ai.45rina.com^$document
@@ -1018,6 +1019,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
 ||apps2app.com^$document
 ||appsonwindows.com^$document
+||appstorrent.ru^$document
 ||appteka.store^$document
 ||appvalley-apk.com^$document
 ||appvn.com^$document
@@ -1893,7 +1895,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||clashofkings.jp^$document
 ||classic-game.site^$document
 ||classicboatbeachbash.com^$document
+||classmethod.jp^$document
 ||claude-code-academy.dev^$document
+||claudecode.co.jp^$document
+||claudelab.jp^$document
 ||claulimabrand.com^$document
 ||clean-scene.ca^$document
 ||cleangreenspk.com^$document
@@ -3509,6 +3514,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gen51.net^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
+||generative-agents.co.jp^$document
 ||generative-ai.sejuku.net^$document
 ||genfunlife.com^$document
 ||gengmovie.net^$document
@@ -4982,6 +4988,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kervjrfjd.pro^$document
 ||kessler.therealnorth.xyz^$document
 ||ketchytune.com^$document
+||ketiketidenki.com^$document
 ||keukenhulponline.nl^$document
 ||keyakizaka46matomemory.net^$document
 ||keyforum.kumamoto-u.org^$document
@@ -6387,7 +6394,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
-||mydocomo.$document
 ||myfavoritetopics.net^$document
 ||myfreesoft.ru^$document
 ||myhobby.tech^$document
@@ -7105,6 +7111,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/rinatanaka0904^$document
 ||note.com/rinks_shop1288^$document
 ||note.com/ripe_colt128^$document
+||note.com/ropponginza^$document
 ||note.com/roshalke^$document
 ||note.com/ruria_aria88^$document
 ||note.com/ryoutakaaan^$document
@@ -7175,6 +7182,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/travel_paya^$document
 ||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02^$document
+||note.com/unikoukokun^$document
 ||note.com/unique_chimp63^$document
 ||note.com/unique_vole4285^$document
 ||note.com/ura_okuribito^$document
@@ -7829,6 +7837,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||poke0418hobbyblog.com^$document
 ||pokebras.jp^$document
 ||pokeca.com^$document
+||pokekatsu.com^$document
 ||pokemon-matome.net^$document
 ||pokemontcgpocket.io^$document
 ||pokepa365.com^$document
@@ -9524,6 +9533,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||technicoloursigns.com^$document
 ||techno-wing.info^$document
 ||technovk.in^$document
+||techplay.jp^$document
 ||techreport.com^$document
 ||techshare.co.jp^$document
 ||techylist.com^$document
@@ -10110,6 +10120,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uranai.nosv.org^$document
 ||uranaizamurai.com^$document
 ||urara-world.com^$document
+||uravation.com^$document
 ||urayasu-brighton.netlify.app^$document
 ||ureba.jp^$document
 ||uriboumiracle.com^$document
@@ -10368,6 +10379,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||waiwaiblog.com^$document
 ||wakab.jp^$document
 ||wakamesan-blog.com^$document
+||wakara.co.jp^$document
 ||wakarannavi.com^$document
 ||wakasiru.com^$document
 ||wakatte-tv.net^$document
@@ -10968,6 +10980,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.cranq.jp^$document
 ||www.creamiofoods.com^$document
 ||www.creativequestfoundation.org/items^$document
+||www.creativevillage.ne.jp^$document
 ||www.creodentistry.com^$document
 ||www.crra.jp^$document
 ||www.cruzrojacolombiana.org^$document
@@ -12377,6 +12390,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.vrwanba.com^$document
 ||www.vubfvubf.xyz^$document
 ||www.w3campus.lk^$document
+||www.wakara-video.com^$document
 ||www.wake-up-neo.net^$document
 ||www.wakooclub.com^$document
 ||www.wandoutv.cn^$document
@@ -12705,6 +12719,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yesterday-tv.com^$document
 ||yetu.tours^$document
 ||ygaero.com^$document
+||yield-marketing.co.jp^$document
 ||yifymovies.cx^$document
 ||yiliam86.taobao.com^$document
 ||yimmease.com^$document
@@ -13048,6 +13063,5 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@://pyrofork.*.top^$doc
 @@||esta.cbp.dhs.gov$document
 @@||masto*.top^$doc
-@@||mydocomo.docomo.ne.jp^$document
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
