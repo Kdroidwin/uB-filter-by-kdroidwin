@@ -23,13 +23,13 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cards(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.live(\/|$)/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.lol(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.skin(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.surf(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.est\.sale|[^\/]*\.youtuber\.sale|cherrypieweb\.noco\.sale|[^\/]*\.prozorro\.sale)[^\/]+\.[^\/]+\.sale(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|seitai\.)[^\/]+\.[^\/]+\.(\/|$)fit(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.saitama\.vip|koei\.dolshipmaker\.vip|tr\.orjinalbetoffice\.vip)[^\/]+\.[^\/]+\.vip(\/|$)/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|m\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.fany\.lol|[^\/]+\.techaro\.lol)[^\/]+\.[^\/]+\.lol(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.littlehappy\.baby)[^\/]+\.[^\/]+\.baby(\/|$)/$document
 /^https?:\/\/([^\/]+\.)?(ur|url)\d+\.jp\//
@@ -1768,6 +1768,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cg-corp.com^$document
 ||cg.hnt.co.jp^$document
 ||cgif.net^$document
+||cgpacking.com^$document
 ||ch0l4.cn^$document
 ||ch24.jp^$document
 ||cha-ta6.com^$document
@@ -4097,6 +4098,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||herosms.co^$document
 ||herosms.io^$document
 ||herosms.vip^$document
+||herozz.co.jp^$document
 ||hey-chenco.com^$document
 ||heyagasuki.com^$document
 ||hf.ru^$document
@@ -6632,6 +6634,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||newbalanlife.com^$document
 ||newbedev.com^$document
 ||newdays-fresh.com^$document
+||newenoking-kaitori.com^$document
 ||newerlokas.online^$document
 ||newme-school.co.jp^$document
 ||newmexicocountryland.com^$document
@@ -8987,6 +8990,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||snow-onyx.com^$document
 ||snowjourney.net^$document
 ||snowpeak.me^$document
+||sns-career-uni.jp^$document
 ||snsclub.snscool-22.com^$document
 ||snsdays.com^$document
 ||snufkinheart.com^$document
@@ -9846,6 +9850,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||topteam-world.com^$document
 ||toranoko.com^$document
 ||torasan1.com^$document
+||torecacamp-pokemon.com^$document
 ||torecharu.blog^$document
 ||torekan.blog.fc2.com^$document
 ||torekichi.online^$document

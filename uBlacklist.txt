@@ -1,11 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://newenoking-kaitori.com/*
-*://cgpacking.com/*
-*://torecacamp-pokemon.com/*
-*://herozz.co.jp/*
-*://sns-career-uni.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -12426,6 +12421,7 @@
 *://cg-corp.com/*
 *://cg.hnt.co.jp/*
 *://cgif.net/*
+*://cgpacking.com/*
 *://ch0l4.cn/*
 *://ch24.jp/*
 *://cha-ta6.com/*
@@ -14726,6 +14722,7 @@
 *://herosms.co/*
 *://herosms.io/*
 *://herosms.vip/*
+*://herozz.co.jp/*
 *://hey-chenco.com/*
 *://heyagasuki.com/*
 *://hf.ru/*
@@ -17210,6 +17207,7 @@
 *://newbalanlife.com/*
 *://newbedev.com/*
 *://newdays-fresh.com/*
+*://newenoking-kaitori.com/*
 *://newerlokas.online/*
 *://newme-school.co.jp/*
 *://newmexicocountryland.com/*
@@ -19485,6 +19483,7 @@
 *://snow-onyx.com/*
 *://snowjourney.net/*
 *://snowpeak.me/*
+*://sns-career-uni.jp/*
 *://snsdays.com/*
 *://snufkinheart.com/*
 *://so-le.com/*
@@ -20297,6 +20296,7 @@
 *://topteam-world.com/*
 *://toranoko.com/*
 *://torasan1.com/*
+*://torecacamp-pokemon.com/*
 *://torecharu.blog/*
 *://torekan.blog.fc2.com/*
 *://torekichi.online/*
