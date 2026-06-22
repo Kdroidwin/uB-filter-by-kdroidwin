@@ -4659,6 +4659,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||japamart.com^$document
 ||japan-0-cnet-0-com.proxy.guilin.gov.cn^$document
 ||japan-claude.com^$document
+||japan-doujin.itaspo.com^$document
 ||japan-expressvpn.com^$document
 ||japan-gyouji.com^$document
 ||japan-newslounge.com^$document
@@ -8074,6 +8075,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||qpqotbrxnr.shop^$document
 ||qqlink.ru^$document
 ||qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net^$document
+||qr-code.io^$document
 ||qr.io^$document
 ||qr.paps.jp^$document
 ||qrfy.com^$document
@@ -8773,6 +8775,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shimane-goen.jp^$document
 ||shimekazu.com^$document
 ||shimingura-tsuneemon.biz^$document
+||shimizu-hellowork.jp^$document
 ||shimotsuki29.com^$document
 ||shims8h9.abualgoareh.com^$document
 ||shin-hakken.com^$document
@@ -12236,6 +12239,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.syounotalkstrend.com^$document
 ||www.t-hiyake.jp^$document
 ||www.tabishsaroshassociates.org^$document
+||www.tabitabi-travel.jp^$document
 ||www.tahamarket.shop^$document
 ||www.tahaweelcom.com^$document
 ||www.takafullarabia.com^$document

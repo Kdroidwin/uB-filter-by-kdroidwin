@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.tabitabi-travel.jp/*
-*://shimizu-hellowork.jp/*
-*://japan-doujin.itaspo.com/*
-*://qr-code.io/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15276,6 +15272,7 @@
 *://japamart.com/*
 *://japan-0-cnet-0-com.proxy.guilin.gov.cn/*
 *://japan-claude.com/*
+*://japan-doujin.itaspo.com/*
 *://japan-expressvpn.com/*
 *://japan-gyouji.com/*
 *://japan-newslounge.com/*
@@ -18618,6 +18615,7 @@
 *://qpqotbrxnr.shop/*
 *://qqlink.ru/*
 *://qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net/*
+*://qr-code.io/*
 *://qr.io/*
 *://qr.paps.jp/*
 *://qrfy.com/*
@@ -19279,6 +19277,7 @@
 *://shimane-goen.jp/*
 *://shimekazu.com/*
 *://shimingura-tsuneemon.biz/*
+*://shimizu-hellowork.jp/*
 *://shimotsuki29.com/*
 *://shims8h9.abualgoareh.com/*
 *://shin-hakken.com/*
@@ -22636,6 +22635,7 @@
 *://www.syounotalkstrend.com/*
 *://www.t-hiyake.jp/*
 *://www.tabishsaroshassociates.org/*
+*://www.tabitabi-travel.jp/*
 *://www.tahamarket.shop/*
 *://www.tahaweelcom.com/*
 *://www.takafullarabia.com/*
