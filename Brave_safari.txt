@@ -2441,6 +2441,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dokidoki-info.com^$document
 ||dokodekau.hatenablog.com^$document
 ||dokopon.com^$document
+||dokukinokoblog.com^$document
 ||dokushoaoki.com^$document
 ||dokusyoka2narou.com^$document
 ||dolarkacpara.xyz^$document
@@ -4165,6 +4166,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hinomasahi.com^$document
 ||hipopotasu.com^$document
 ||hiramine.xyz^$document
+||hiroboucafe.com^$document
 ||hirodai0628.blog111.fc2.com^$document
 ||hirodaiken.jp^$document
 ||hirodou.com^$document
@@ -5485,6 +5487,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||line-hc.cc^$document
 ||line-howtouse.net^$document
 ||line-kiwami.com^$document
+||line.me.*.com$document
 ||line.me/R/ti/p/@909gqgoa?oat_content=url&ts=02240057^$document
 ||lineblog.me^$document
 ||linematchapp.com^$document

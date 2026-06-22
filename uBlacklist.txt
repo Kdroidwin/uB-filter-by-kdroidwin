@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://dokukinokoblog.com/*
-*://hiroboucafe.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -13085,6 +13083,7 @@
 *://dokidoki-info.com/*
 *://dokodekau.hatenablog.com/*
 *://dokopon.com/*
+*://dokukinokoblog.com/*
 *://dokushoaoki.com/*
 *://dokusyoka2narou.com/*
 *://dolarkacpara.xyz/*
@@ -14790,6 +14789,7 @@
 *://hinomasahi.com/*
 *://hipopotasu.com/*
 *://hiramine.xyz/*
+*://hiroboucafe.com/*
 *://hirodai0628.blog111.fc2.com/*
 *://hirodaiken.jp/*
 *://hirodou.com/*
