@@ -2,11 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://me-qr.com/*
-*://zeroghost.com/*
-*://celeb-oitachi.com/*
-*://note.com/punimaru_dev/*
-*://note.com/mikenecoya/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12402,6 +12397,7 @@
 *://cedarfarm.info/*
 *://cefoce.com/*
 *://celeb-hot.com/*
+*://celeb-oitachi.com/*
 *://celeb.tokyo/*
 *://celebrity-news-site.online/*
 *://celebrity.awaisora.com/*
@@ -17615,6 +17611,7 @@
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
 *://note.com/mikami_01/*
+*://note.com/mikenecoya/*
 *://note.com/milbon_/*
 *://note.com/mild_ruff676/*
 *://note.com/mingaje333/*
@@ -17690,6 +17687,7 @@
 *://note.com/proper_gnu4086/*
 *://note.com/prorautatie/*
 *://note.com/protect_ebay/*
+*://note.com/punimaru_dev/*
 *://note.com/pure_donkey1452/*
 *://note.com/pure_eider7665/*
 *://note.com/q17q/*
@@ -23444,6 +23442,7 @@
 *://zephyreden.com/*
 *://zero-plus.io/*
 *://zerocustom.jp/*
+*://zeroghost.com/*
 *://zeroichi.media/*
 *://zeromobile.co.jp/*
 *://zeroum.co.jp/*

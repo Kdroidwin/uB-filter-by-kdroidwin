@@ -1742,6 +1742,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cedarfarm.info^$document
 ||cefoce.com^$document
 ||celeb-hot.com^$document
+||celeb-oitachi.com^$document
 ||celeb.tokyo^$document
 ||celebrity-news-site.online^$document
 ||celebrity.awaisora.com^$document
@@ -7042,6 +7043,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/mikami_01^$document
+||note.com/mikenecoya^$document
 ||note.com/milbon_^$document
 ||note.com/mild_ruff676^$document
 ||note.com/mingaje333^$document
@@ -7117,6 +7119,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/proper_gnu4086^$document
 ||note.com/prorautatie^$document
 ||note.com/protect_ebay^$document
+||note.com/punimaru_dev^$document
 ||note.com/pure_donkey1452^$document
 ||note.com/pure_eider7665^$document
 ||note.com/q17q^$document
@@ -13051,6 +13054,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||zephyreden.com^$document
 ||zero-plus.io^$document
 ||zerocustom.jp^$document
+||zeroghost.com^$document
 ||zeroichi.media^$document
 ||zeromobile.co.jp^$document
 ||zeroum.co.jp^$document
