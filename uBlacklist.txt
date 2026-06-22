@@ -2,6 +2,16 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://qr-code.io/*
+*://www.uniqode.com/*
+*://www.qrcode-tiger.com/*
+*://me-qr.com/*
+*://qrcodesunlimited.com/*
+*://online-qr-generator.com/*
+*://www.qrcodecreator.io/*
+*://ja.qr-code-generator.com/*
+*://qrouton.jp/*
+*://www.the-qrcode-generator.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
