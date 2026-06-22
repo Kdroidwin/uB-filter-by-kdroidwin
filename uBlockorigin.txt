@@ -1,5 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+||line.me.*.com$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
