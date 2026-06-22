@@ -4640,6 +4640,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ja.copress.shop^$document
 ||ja.miki.com^$document
 ||ja.popsilla.com^$document
+||ja.qr-code-generator.com^$document
 ||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
 ||ja.vpnmentor.com^$document
@@ -5966,6 +5967,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mdksblog.com^$document
 ||mdlmake.shop^$document
 ||mdoramafan.com^$document
+||me-qr.com^$document
 ||measurement.slot42.online^$document
 ||meat-kode.com^$document
 ||mebelim.net^$document
@@ -7482,6 +7484,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||onitsukatigersell.shop^$document
 ||onlee.jp^$document
 ||online-oripa.jp^$document
+||online-qr-generator.com^$document
 ||onlinecampus.lk^$document
 ||onlineclass-gets.jp^$document
 ||onlineoripa-mania.jp^$document
@@ -8078,7 +8081,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||qr-code.io^$document
 ||qr.io^$document
 ||qr.paps.jp^$document
+||qrcodesunlimited.com^$document
 ||qrfy.com^$document
+||qrouton.jp^$document
 ||qte.me^$document
 ||quabr.com^$document
 ||quakeprediction.com^$document
@@ -11980,6 +11985,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.qqszz.net^$document
 ||www.qr-code-generator.com^$document
 ||www.qrcode-monkey.com^$document
+||www.qrcode-tiger.com^$document
+||www.qrcodecreator.io^$document
 ||www.qsssqs.cn^$document
 ||www.quakeprediction.com^$document
 ||www.quareclare.ie^$document
@@ -12286,6 +12293,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.tevetamw.com^$document
 ||www.thaiaochi.com^$document
 ||www.thaicreativestudio.com^$document
+||www.the-qrcode-generator.com^$document
 ||www.theapplestore.co.uk^$document
 ||www.theclinic.jp^$document
 ||www.theedgemalta.com^$document
@@ -12366,6 +12374,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.underconnection.com^$document
 ||www.uneteacoordinadoratpc.org^$document
 ||www.uninvited.com^$document
+||www.uniqode.com^$document
 ||www.unitededucators.xyz^$document
 ||www.unitree.com^$document
 ||www.unlocksite.xyz^$document
