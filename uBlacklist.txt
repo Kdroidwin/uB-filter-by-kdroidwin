@@ -2,6 +2,9 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://me-qr.com/*
+*://zeroghost.com/*
+*://celeb-oitachi.com/*
 *://note.com/punimaru_dev/*
 *://note.com/mikenecoya/*
 *://*.addness.co.jp/*
