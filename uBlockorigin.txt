@@ -32,6 +32,9 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|m\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.fany\.lol|[^\/]+\.techaro\.lol)[^\/]+\.[^\/]+\.lol(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.littlehappy\.baby)[^\/]+\.[^\/]+\.baby(\/|$)/$document
+||blockcheck*.page.dev$document
+||xblock*.page.dev$document
+||videoiwimgcom.$document
 /^https?:\/\/([^\/]+\.)?(ur|url)\d+\.jp\//
 /^https?:\/\/([^\/]+\.)?qc-\d+\.cc\//
 /^https?:\/\/([^\/]+\.)?qc\d{2}\.jp\//
