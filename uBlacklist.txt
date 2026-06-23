@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://my199p.com/*
-*://kawata2018.com/*
-*://housegematender.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -14926,6 +14923,7 @@
 *://houjuen-aonoyama.jp/*
 *://houkan-cuore.jp/*
 *://houseconv.jp/*
+*://housegematender.com/*
 *://houseofk.co.in/*
 *://houseplase.com/*
 *://how-to-write-a-novel.net/*
@@ -15569,6 +15567,7 @@
 *://kawanepass.jp/*
 *://kawaraban-news.com/*
 *://kawareiworld.tokyo/*
+*://kawata2018.com/*
 *://kayuitokoronite.com/*
 *://kazen.online/*
 *://kazu061815.com/*
@@ -17002,6 +17001,7 @@
 *://my.ai-li.xyz/*
 *://my.avira.com/*
 *://my.hintup.io/*
+*://my199p.com/*
 *://my90p.com/*
 *://mybestblog1.com/*
 *://mybloganik26.com/*

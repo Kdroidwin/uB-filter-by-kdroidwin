@@ -32,9 +32,6 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|m\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.fany\.lol|[^\/]+\.techaro\.lol)[^\/]+\.[^\/]+\.lol(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.littlehappy\.baby)[^\/]+\.[^\/]+\.baby(\/|$)/$document
-||blockcheck*.page.dev$document
-||xblock*.page.dev$document
-||videoiwimgcom.$document
 /^https?:\/\/([^\/]+\.)?(ur|url)\d+\.jp\//
 /^https?:\/\/([^\/]+\.)?qc-\d+\.cc\//
 /^https?:\/\/([^\/]+\.)?qc\d{2}\.jp\//
@@ -1430,6 +1427,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bleague.bl.kuroco-img.app^$document
 ||blifenavi.com^$document
 ||blob.core.windows.net/*index.html*=$document
+||blockcheck*.page.dev$document
 ||blockchecker.github.io^$document
 ||blog-chiaki.com^$document
 ||blog.almaherbal.com^$document
@@ -4303,6 +4301,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||houjuen-aonoyama.jp^$document
 ||houkan-cuore.jp^$document
 ||houseconv.jp^$document
+||housegematender.com^$document
 ||houseofk.co.in^$document
 ||houseplase.com^$document
 ||how-to-write-a-novel.net^$document
@@ -4962,6 +4961,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kawanepass.jp^$document
 ||kawaraban-news.com^$document
 ||kawareiworld.tokyo^$document
+||kawata2018.com^$document
 ||kayuitokoronite.com^$document
 ||kazen.online^$document
 ||kazu061815.com^$document
@@ -6424,6 +6424,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||my.ai-li.xyz^$document
 ||my.avira.com^$document
 ||my.hintup.io^$document
+||my199p.com^$document
 ||my90p.com^$document
 ||my^$document,to=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my|~frdl.my|~nunflix.my|~ypmaidam.my|~mcplus.my|~compasia.my|~sooka.my|~www.amway.my|~www.mudah.my|~radioonline.my|~bjak.my|~cathaypacific.com.my|~starplanet.com.my|~radio-online.my|~unifi.com.my|~rfi.my|~sysar.my|~www.lovisa.my|~www.ismiledental.my|~spx.com.my|~era.syok.my|~ecentral.my|~curtin.edu.my|~zakatpahang.my|~uec.dongzong.my|~mytownkl.com.my|~nyxcosmetics.com.my|~khatam.com.my|~www.unipin.my|~habra.com.my|~shinzushi.my|~www.thestar.com.my|~www.hmetro.com.my|~www.maybank2u.com.my|~www.sinarharian.com.my|~www.sinchew.com.my|~www.myeg.com.my|~www.cimbclicks.com.my|~iprice.my|~ch.ucsiuniversity.edu.my|~lib.ucsiuniversity.edu.my|~www.ssm4u.com.my|~astrogo.astro.com.my|~ipgkik.moe.edu.my|~library.apu.edu.my|~www.shinjiru.com.my|~ipgkba.moe.edu.my|~www.ecentral.my|~www.napei.org.my|~apcore.apu.edu.my|~ipgki.moe.edu.my|~forms.sites.apiit.edu.my|~enterprise.sites.apiit.edu.my|~shopee.com.my|~siakapkeli.my|~ticket2u.com.my|~apspace.sites.apiit.edu.my|~studentaffairs.apu.edu.my|~thesun.my|~my.utm.my|~sites.apiit.edu.my|~ezbiz.ssm.com.my|~masjidnetwork.my|~www.carlist.my|~mypolycc.edu.my|~www.purina.com.my|~edu.my|~msaj.my
 ||mybestblog1.com^$document
@@ -10291,6 +10292,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||video-twimg-eroman.mystrikingly.com^$document
 ||video.twimg.jp^$document
 ||video.twimg.link^$document
+||videoiwimgcom.$document
 ||videotwimgcom.atukan.com^$document
 ||videotwimgcom.dayuh.net^$document
 ||videotwin.ehoh.net^$document
@@ -12574,6 +12576,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||x.gd/GkVjG^$document
 ||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
+||xblock*.page.dev$document
 ||xbuba.com^$document
 ||xdqern.dentist-24.de^$document
 ||xdropc.pages.dev^$document
