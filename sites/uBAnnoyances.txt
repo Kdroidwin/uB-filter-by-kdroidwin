@@ -4,6 +4,7 @@
 ! Gooogle優先ソース バッヂ
 google_preferred_source_badge$image
 smhn.info##.smhn-prefsrc
+||contents.oricon.co.jp/pc/img/_parts/news/PreferredSourcesBTN.png
 impress.co.jp##.google-preferred-source-container
 ||roboin.io/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpreferred-source-light-ja*$image
 ||news.mynavi.jp/article/preferredsources-KlLC0D5O/images/google_preferred_source_badge*$image
