@@ -1,0 +1,15 @@
+! Title: uB-filter-by-kdroidwin(uBO&AdGuard) Annoyances
+! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+
+! Gooogle優先ソース バッヂ
+google_preferred_source_badge$image
+smhn.info##.smhn-prefsrc
+impress.co.jp##.google-preferred-source-container
+||roboin.io/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpreferred-source-light-ja*$image
+||news.mynavi.jp/article/preferredsources-KlLC0D5O/images/google_preferred_source_badge*$image
+||helentech.jp/wp-content/uploads/*/google_preferred_source_badge_dark_en@2x.png$image
+||innovatopia.jp/wp-content/uploads/*/google_preferred_source_badge*.png$image
+mainichi.jp##.infoheadline > li
+mainichi.jp##.color-gray-5.text-bold.text-m
+news.mynavi.jp##.registration_guide_modal
+||jetstream.blog/wp-content/uploads/*/Preferred-Sources$image
