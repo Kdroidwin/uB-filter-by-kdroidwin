@@ -5260,6 +5260,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kotaroworld.com^$document
 ||kotohogi.life^$document
 ||kotoko18.com^$document
+||kotomononavi.com^$document
 ||kotti.biz^$document
 ||kottoceramica.com^$document
 ||koumuin-work.com^$document
