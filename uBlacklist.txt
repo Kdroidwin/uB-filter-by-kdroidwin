@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://mercari-url-mvp.pages.dev/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16626,6 +16625,7 @@
 *://mequl-hibi.com/*
 *://merafitness.com/*
 *://merasu.jp/*
+*://mercari-url-mvp.pages.dev/*
 *://meringue-web.com/*
 *://mero07.com/*
 *://merog2.blog.2nt.com/*

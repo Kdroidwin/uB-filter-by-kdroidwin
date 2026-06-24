@@ -6042,6 +6042,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mequl-hibi.com^$document
 ||merafitness.com^$document
 ||merasu.jp^$document
+||mercari-url-mvp.pages.dev^$document
 ||meringue-web.com^$document
 ||mero07.com^$document
 ||merog2.blog.2nt.com^$document
