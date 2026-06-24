@@ -12581,6 +12581,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
 ||xblock*.page.dev$document
+||xbof.pages.dev^$document
 ||xbuba.com^$document
 ||xdqern.dentist-24.de^$document
 ||xdropc.pages.dev^$document
