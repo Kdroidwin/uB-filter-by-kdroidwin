@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-||blockc*.pages.dev$document
-||xbof*.pages.dev$document
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -23696,3 +23694,5 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
+||blockc*.pages.dev$document
+||xbof*.pages.dev$document
