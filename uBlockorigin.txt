@@ -4417,6 +4417,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ike-net.jp^$document
 ||ikeda-yoshitaka.jp^$document
 ||ikedahayato.com^$document
+||ikehaya.com^$document
 ||ikemen-love.com^$document
 ||ikemenjiten.com^$document
 ||ikesuto.com^$document
@@ -5682,6 +5683,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||maeharablog.com^$document
 ||mafumafu-fan.com^$document
 ||mag.app-liv.jp^$document
+||mag.ikehaya.com^$document
 ||mag2.com/m/0001693629^$document
 ||mag2.com/m/0001699298^$document
 ||magazine-k.jp^$document
@@ -8474,6 +8476,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||runebook.dev^$document
 ||runrun777.com^$document
 ||runsystem.co.jp^$document
+||runteq.jp^$document
 ||runwearlifestyle.com^$document
 ||rupython.com^$document
 ||ruriiro-mylife.com^$document

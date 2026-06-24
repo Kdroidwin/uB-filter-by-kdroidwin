@@ -10,9 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://mag.ikehaya.com/*
-*://ikehaya.com/*
-*://runteq.jp/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -15036,6 +15033,7 @@
 *://ike-net.jp/*
 *://ikeda-yoshitaka.jp/*
 *://ikedahayato.com/*
+*://ikehaya.com/*
 *://ikemen-love.com/*
 *://ikemenjiten.com/*
 *://ikesuto.com/*
@@ -16278,6 +16276,7 @@
 *://maeharablog.com/*
 *://mafumafu-fan.com/*
 *://mag.app-liv.jp/*
+*://mag.ikehaya.com/*
 *://mag2.com/m/0001699298/*
 *://magazine-k.jp/*
 *://magazine-list.com/*
@@ -18994,6 +18993,7 @@
 *://runachi2021.com/*
 *://runaruna-blog.com/*
 *://runrun777.com/*
+*://runteq.jp/*
 *://runwearlifestyle.com/*
 *://ruriiro-mylife.com/*
 *://rush-up.co.jp/*
