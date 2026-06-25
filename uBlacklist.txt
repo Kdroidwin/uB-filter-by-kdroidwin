@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.excite.co.jp/news/article/Prtimes*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21602,6 +21601,7 @@
 *://www.etital.com/*
 *://www.etsabdelmoula.com/*
 *://www.eurorvvv.org/*
+*://www.excite.co.jp/news/article/Prtimes*
 *://www.exogear.jp/*
 *://www.expected-value.com/*
 *://www.expomascotasyanimales.com/*
