@@ -2,12 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://backstage.inc/*
-*://www.getsu-gaku.com/*
-*://subadcleaner.jp/*
-*://app.lastpass.com/*
-*://play.google.com/store/apps/details?id=com.lastpass.lpandroid*
-*://apps.microsoft.com/detail/9pbs27gphv34*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11661,6 +11655,7 @@
 *://app-valley.vip/*
 *://app.famitsu.com/category/android-apps/android-recommend/*
 *://app.joinin.online/*
+*://app.lastpass.com/*
 *://app.sendright.jp/*
 *://app.sensortower.com/*
 *://app.wefi.co/*
@@ -11692,6 +11687,7 @@
 *://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
 *://apps.apple.com/jp/app/wakoo-%E5%BF%83%E3%81%8C%E5%8B%95%E3%81%8F-%E9%9F%B3%E5%A3%B0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3/id6746478196*
 *://apps.kepanjeneyecenter.com/*
+*://apps.microsoft.com/detail/9pbs27gphv34*
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
 *://apps2app.com/*
@@ -11900,6 +11896,7 @@
 *://babicaru.com/*
 *://babyface-nagasaki.com/*
 *://babylon-liq.com/*
+*://backstage.inc/*
 *://bad-labo.com/*
 *://baghdadacademydom.com/*
 *://baikal.boats/*
@@ -18398,6 +18395,7 @@
 *://play-video-84.blogspot.com/*
 *://play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced*
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
+*://play.google.com/store/apps/details?id=com.lastpass.lpandroid*
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop&hl=*
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
 *://play.google.com/store/apps/details?id=com.pokeca*
@@ -19768,6 +19766,7 @@
 *://sub2.xn--cckzbc7izeb1c5341c2y2d.jp/*
 *://sub5.gyutora.jp/*
 *://sub7.gyutora.jp/*
+*://subadcleaner.jp/*
 *://subarashii.me/*
 *://subaru71.ru/*
 *://subculture-flashbacks.com/*
@@ -21700,6 +21699,7 @@
 *://www.getmodsapk.cc/*
 *://www.getonline-esta.com/*
 *://www.getspeedy.io/*
+*://www.getsu-gaku.com/*
 *://www.gevtmmv.cn/*
 *://www.ggg-channel.com/*
 *://www.ghibliexpo-aichi.com/*
