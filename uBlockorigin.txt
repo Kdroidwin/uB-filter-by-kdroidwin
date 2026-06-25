@@ -8277,6 +8277,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rent-journal.com^$document
 ||rent.autozqa.com^$document
 ||renthouseinlagos.com^$document
+||rentonai.net^$document
 ||rentry.jp^$document
 ||rentskinow.jp^$document
 ||rentthemusical.jp^$document
