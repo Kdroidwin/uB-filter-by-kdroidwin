@@ -2,13 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://data-bank.info/*
-*://ciri-3d.com/*
-*://housegematender.net/*
-*://www.kazukun-blog.com/*
-*://www.aione.co.jp/*
-*://shinkb4.com/*
-*://koreader.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12549,6 +12542,7 @@
 *://cinnamon-hotel.com/*
 *://cinonsan.com/*
 *://cipetindia.com/*
+*://ciri-3d.com/*
 *://cirugiaplasticacbba.com/*
 *://citra-emulator.com/*
 *://cityofchix.com/*
@@ -12877,6 +12871,7 @@
 *://dasan18.com/*
 *://dashlifefam.com/*
 *://dasshutsu-white-company.com/*
+*://data-bank.info/*
 *://data.shinkenchiku.online/*
 *://datacentre.me/*
 *://date-dream.com/*
@@ -14936,6 +14931,7 @@
 *://houkan-cuore.jp/*
 *://houseconv.jp/*
 *://housegematender.com/*
+*://housegematender.net/*
 *://houseofk.co.in/*
 *://houseplase.com/*
 *://how-to-write-a-novel.net/*
@@ -15848,6 +15844,7 @@
 *://korea-iidol.com/*
 *://korea-room39.net/*
 *://korea.kaigai-drama-board.com/*
+*://koreader.com/*
 *://korean-anohito.com/*
 *://korean-channel.com/*
 *://korean-road.com/*
@@ -19321,6 +19318,7 @@
 *://shineeday.com/*
 *://shingeki-no-nakayama.com/*
 *://shinju-oonuki.hatenadiary.org/*
+*://shinkb4.com/*
 *://shinkigeki.com/*
 *://shinmaipapa.hatenablog.com/*
 *://shinno-asobi.com/*
@@ -21138,6 +21136,7 @@
 *://www.aichi-now.cn/*
 *://www.aifbmhc.cn/*
 *://www.ailabsuccess.com/*
+*://www.aione.co.jp/*
 *://www.airplay.co.uk/*
 *://www.ais-esim.com/*
 *://www.aisato.info/*
@@ -21979,6 +21978,7 @@
 *://www.kawa.coffee/*
 *://www.kazenodenwa.com/*
 *://www.kaznao.com/*
+*://www.kazukun-blog.com/*
 *://www.kbpqeow.cn/*
 *://www.kcontent.yunkoreblog.com/*
 *://www.kczaftl.cn/*

@@ -1890,6 +1890,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cinnamon-hotel.com^$document
 ||cinonsan.com^$document
 ||cipetindia.com^$document
+||ciri-3d.com^$document
 ||cirugiaplasticacbba.com^$document
 ||citra-emulator.com^$document
 ||cityofchix.com^$document
@@ -2229,6 +2230,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dasan18.com^$document
 ||dashlifefam.com^$document
 ||dasshutsu-white-company.com^$document
+||data-bank.info^$document
 ||data.shinkenchiku.online^$document
 ||datacentre.me^$document
 ||date-dream.com^$document
@@ -4307,6 +4309,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||houkan-cuore.jp^$document
 ||houseconv.jp^$document
 ||housegematender.com^$document
+||housegematender.net^$document
 ||houseofk.co.in^$document
 ||houseplase.com^$document
 ||how-to-write-a-novel.net^$document
@@ -5240,6 +5243,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||korea-iidol.com^$document
 ||korea-room39.net^$document
 ||korea.kaigai-drama-board.com^$document
+||koreader.com^$document
 ||korean-anohito.com^$document
 ||korean-channel.com^$document
 ||korean-road.com^$document
@@ -8814,6 +8818,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shingeki-no-nakayama.com^$document
 ||shinjidai.co.jp^$document
 ||shinju-oonuki.hatenadiary.org^$document
+||shinkb4.com^$document
 ||shinkigeki.com^$document
 ||shinmaipapa.hatenablog.com^$document
 ||shinno-asobi.com^$document
@@ -10739,6 +10744,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.aichi-now.cn^$document
 ||www.aifbmhc.cn^$document
 ||www.ailabsuccess.com^$document
+||www.aione.co.jp^$document
 ||www.airplay.co.uk^$document
 ||www.ais-esim.com^$document
 ||www.aisato.info^$document
@@ -11583,6 +11589,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kawa.coffee^$document
 ||www.kazenodenwa.com^$document
 ||www.kaznao.com^$document
+||www.kazukun-blog.com^$document
 ||www.kbpqeow.cn^$document
 ||www.kcontent.yunkoreblog.com^$document
 ||www.kczaftl.cn^$document
