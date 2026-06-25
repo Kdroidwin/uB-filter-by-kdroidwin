@@ -2,6 +2,12 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://backstage.inc/*
+*://www.getsu-gaku.com/*
+*://subadcleaner.jp/*
+*://app.lastpass.com/*
+*://play.google.com/store/apps/details?id=com.lastpass.lpandroid*
+*://apps.microsoft.com/detail/9pbs27gphv34*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
