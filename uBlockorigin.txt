@@ -5,6 +5,7 @@
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
+||www.excite.co.jp/news/article/Prtimes$document
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^.*(qr-paydaygo).*\.com(/[a-z0-9_-]?.*)?$/$doc
