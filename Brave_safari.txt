@@ -188,6 +188,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||129katsublog.com^$document
 ||130344193.slot26.online^$document
 ||13377x.io^$document
+||1337x.pro^$document
+||1337xto.to^$document
 ||13666.bitgetexchange.online^$document
 ||1377x.to^$document
 ||150-ichigozero.com^$document

@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://1337x.pro/*
-*://1337xto.to/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -10883,6 +10881,8 @@
 *://129katsublog.com/*
 *://130344193.slot26.online/*
 *://13377x.io/*
+*://1337x.pro/*
+*://1337xto.to/*
 *://13666.bitgetexchange.online/*
 *://1377x.to/*
 *://150-ichigozero.com/*
