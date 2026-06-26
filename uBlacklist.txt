@@ -4,6 +4,8 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
+*://resplendent-cassata-4830cc.netlify.app/*
+*://fanbox.help/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
