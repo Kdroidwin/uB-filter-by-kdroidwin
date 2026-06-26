@@ -1529,6 +1529,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bokoguma.com^$document
 ||boku-tabi.com^$document
 ||boku-wasa-kina.com^$document
+||bokuaikimiai.jp^$document
 ||bokuhaka-anime.com^$document
 ||bokukuma.com^$document
 ||bokunoheroaccount.com^$document
@@ -3439,6 +3440,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gal.cocoloni.jp^$document
 ||galaxydesign.site^$document
 ||galeriaorquideas.online^$document
+||galileo-movie3.jp^$document
 ||galilexpress.com^$document
 ||gallery-tamamo.jp^$document
 ||game-creators.camp^$document
@@ -5406,6 +5408,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ladysonly.online^$document
 ||laevoyle.virtual-na.org^$document
 ||lagcapa.org^$document
+||lageri-movie.jp^$document
 ||lagospostalcode.com^$document
 ||lahimawari.jp^$document
 ||lahnalsham.com^$document
@@ -10089,6 +10092,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tsukiakari-boutique.com^$document
 ||tsukimiru.com^$document
 ||tsukuhote.jp^$document
+||tsuminokoe.jp^$document
 ||tsumuji-kosodate.com^$document
 ||tsunagu.cloud^$document
 ||tsup-eis.ru^$document
@@ -10533,6 +10537,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wasni.care^$document
 ||wasshoi2024.com^$document
 ||wasyoku2017.m.icoc.me^$document
+||watakon-movie.jp^$document
 ||wataru.biz^$document
 ||watch-full-movies.org^$document
 ||watch2chan.com^$document

@@ -2,13 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://watakon-movie.jp/*
-*://sumaho-otoshita.jp/*
-*://ichikei-movie.jp/*
-*://tsuminokoe.jp/*
-*://lageri-movie.jp/*
-*://galileo-movie3.jp/*
-*://bokuaikimiai.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12195,6 +12188,7 @@
 *://bokoguma.com/*
 *://boku-tabi.com/*
 *://boku-wasa-kina.com/*
+*://bokuaikimiai.jp/*
 *://bokuhaka-anime.com/*
 *://bokukuma.com/*
 *://bokunoheroaccount.com/*
@@ -14073,6 +14067,7 @@
 *://gal.cocoloni.jp/*
 *://galaxydesign.site/*
 *://galeriaorquideas.online/*
+*://galileo-movie3.jp/*
 *://galilexpress.com/*
 *://gallery-tamamo.jp/*
 *://game-creators.camp/*
@@ -16012,6 +16007,7 @@
 *://ladysonly.online/*
 *://laevoyle.virtual-na.org/*
 *://lagcapa.org/*
+*://lageri-movie.jp/*
 *://lagospostalcode.com/*
 *://lahimawari.jp/*
 *://lahnalsham.com/*
@@ -20537,6 +20533,7 @@
 *://tsukiakari-boutique.com/*
 *://tsukimiru.com/*
 *://tsukuhote.jp/*
+*://tsuminokoe.jp/*
 *://tsumuji-kosodate.com/*
 *://tsunagu.cloud/*
 *://tsup-eis.ru/*
@@ -20952,6 +20949,7 @@
 *://wasni.care/*
 *://wasshoi2024.com/*
 *://wasyoku2017.m.icoc.me/*
+*://watakon-movie.jp/*
 *://wataru.biz/*
 *://watch-full-movies.org/*
 *://watch8kmovies.com/*
