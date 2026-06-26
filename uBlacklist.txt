@@ -1,55 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.tensortechapps.com/*
-*://ichikei-movie.jp/*
-*://anaban-nana-shouta.jp/*
-*://the-promised-neverland-movie.jp/*
-*://ito-movie.jp/*
-*://asadake.jp/*
-*://0kiss.jp/*
-*://lupin-3rd-movie.com/*
-*://shijinsou.jp/*
-*://nanakai-movie.jp/*
-*://archimedes-movie.jp/*
-*://bananakayo.jp/*
-*://hikkoshi-movie.jp/*
-*://kimitsuki.jp/*
-*://chushingura-movie.jp/*
-*://kamakura-movie.jp/*
-*://kensatsugawa-movie.jp/*
-*://sumaho-otoshita.jp/*
-*://soratobu-movie.jp/*
-*://inorinomaku-movie.jp/*
-*://coffee-movie.jp/*
-*://kitanosakuramori.jp/*
-*://kimisui.jp/*
-*://eiga-yokai.jp/*
-*://shinobinokuni.jp/*
-*://kaizoku-movie.jp/*
-*://hirugao.jp/*
-*://teiichi.jp/*
-*://uchiagehanabi.jp/*
-*://mix-movie.jp/*
-*://ajin-movie.com/*
-*://mogura-movie.com/*
-*://hirunaka.jp/*
-*://cheerdance-movie.jp/*
-*://last-recipe.jp/*
-*://tsuioku.jp/*
-*://namiya-movie.jp/*
-*://saikikusuo-movie.jp/*
-*://hahatokuraseba.jp/*
-*://64-movie.jp/*
-*://ikari-movie.com/*
-*://gosaigyo.com/*
-*://kimiuso-movie.jp/*
-*://kazoku-tsuraiyo.jp/*
-*://tono-gozaru.jp/*
-*://aozorayell-movie.jp/*
-*://kurosakikun-movie.com/*
-*://sugihara-chiune.jp/*
-*://yugioh20th.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -10908,6 +10859,7 @@
 *://03kurata01.com/*
 *://0630kyosuke.hatenablog.com/*
 *://09bd5a69.xyz/*
+*://0kiss.jp/*
 *://0mfoyu8wr.onlinetanke.de/*
 *://0y.huobiglobal.online/*
 *://10-10-10.jp/*
@@ -11082,6 +11034,7 @@
 *://612056938.slot47.online/*
 *://6218751.slot60.online/*
 *://6244791.slot27.online/*
+*://64-movie.jp/*
 *://647756.bitgetexchange.online/*
 *://6686com2326.app/*
 *://66mehcp7.r.us-west-2.awstrack.me/*
@@ -11340,6 +11293,7 @@
 *://ajaxhispano.com/*
 *://ajesonbansnk-loans-jp.com/*
 *://ajien.net/*
+*://ajin-movie.com/*
 *://ak.akhbara24.news/*
 *://akaczute.com/*
 *://akaitasuki.com/*
@@ -11509,6 +11463,7 @@
 *://an1.ca/*
 *://an1.co.in/*
 *://anaary.guru/*
+*://anaban-nana-shouta.jp/*
 *://analogkaka.com/*
 *://analytics.slot47.online/*
 *://ananantenna.blog.jp/*
@@ -11631,6 +11586,7 @@
 *://aoshima-kenta.jp/*
 *://aoyama-zero.com/*
 *://aoyjpcgu.life/*
+*://aozorayell-movie.jp/*
 *://ap.sakuraweb.com/*
 *://apaie.org/*
 *://apapablog.site/*
@@ -11758,6 +11714,7 @@
 *://arakure.net/*
 *://araou.jp/*
 *://arasa-mama.com/*
+*://archimedes-movie.jp/*
 *://archivando.jp/*
 *://archive.org/details/Office2016PermanentActivatorUltimate1.7*
 *://archive.org/details/Windows10PermanentActivatorUltimate2.2.1CracksNow_20181007*
@@ -11809,6 +11766,7 @@
 *://asa3-blog.com/*
 *://asab.online/*
 *://asablog2020.com/*
+*://asadake.jp/*
 *://asadorataiga.com/*
 *://asahilog.com/*
 *://asaishinya.xyz/*
@@ -11967,6 +11925,7 @@
 *://balsmhillforsale.shop/*
 *://bambitoblog.com/*
 *://ban-zai.jp/*
+*://bananakayo.jp/*
 *://bananya-anime.com/*
 *://banapa.net/*
 *://banban-comic.com/*
@@ -12512,6 +12471,7 @@
 *://cheat-sokuhou.com/*
 *://check-it-yumeijin.com/*
 *://cheekygreekyiros.com/*
+*://cheerdance-movie.jp/*
 *://cheerful-chielife.com/*
 *://chekko-8692.com/*
 *://chelra-note.com/*
@@ -12577,6 +12537,7 @@
 *://chun-shufu.com/*
 *://chupea-club.jp/*
 *://churchfront.me/*
+*://chushingura-movie.jp/*
 *://chuzai-china.com/*
 *://ciatr.jp/*
 *://cicn-mall.com/*
@@ -12668,6 +12629,7 @@
 *://codevia.io/*
 *://coetas.jp/*
 *://coffee-days.jp/*
+*://coffee-movie.jp/*
 *://cofure.hatenablog.com/*
 *://cogl3d.org/*
 *://coideco.jp/*
@@ -13386,6 +13348,7 @@
 *://ehitomi-manga.com/*
 *://eienno-zero.jp/*
 *://eiga-mylife.com/*
+*://eiga-yokai.jp/*
 *://eigahitottobi.com/*
 *://eight-media.co.jp/*
 *://eightstudio.urdr.weblife.me/*
@@ -14440,6 +14403,7 @@
 *://gori.me/*
 *://gorod-kurganinsk.ru/*
 *://goronyan.net/*
+*://gosaigyo.com/*
 *://gossip-biyori.com/*
 *://gossip-lab.com/*
 *://gossip-n1.com/*
@@ -14549,6 +14513,7 @@
 *://hagemag.com/*
 *://hagemarugt.com/*
 *://hahahax282828.seesaa.net/*
+*://hahatokuraseba.jp/*
 *://hai-kai.com/*
 *://haibandvd.com/*
 *://haikara-syokudo.jp/*
@@ -14819,6 +14784,7 @@
 *://hikikomori-toushika.com/*
 *://hikitasan-gokainin.com/*
 *://hikiyosesmith.hatenablog.com/*
+*://hikkoshi-movie.jp/*
 *://hikohikoblog.com/*
 *://hikoukigumo2024.com/*
 *://hill-challenge.jp/*
@@ -14859,6 +14825,8 @@
 *://hiroteru.info/*
 *://hiroto-photo.loveslife.biz/*
 *://hiroyamatrnd.com/*
+*://hirugao.jp/*
+*://hirunaka.jp/*
 *://historia.work/*
 *://hitoga-suki.com/*
 *://hitohack.info/*
@@ -15049,6 +15017,7 @@
 *://icbhdfashion.education/*
 *://ichigoichie-36.com/*
 *://ichigoichie358.com/*
+*://ichikei-movie.jp/*
 *://ichizen.online/*
 *://icingcm9.jettysuites.com/*
 *://icoico.jp/*
@@ -15087,6 +15056,7 @@
 *://iitdgroup.ru/*
 *://ijcnaxf.xyz/*
 *://ikagakun.hatenablog.com/*
+*://ikari-movie.com/*
 *://ikawamototaka.com/*
 *://ike-net.jp/*
 *://ikeda-yoshitaka.jp/*
@@ -15176,6 +15146,7 @@
 *://inkdreamsdigital.com/*
 *://inkya-botti.com/*
 *://innovation-weekend.jp/*
+*://inorinomaku-movie.jp/*
 *://inove-vannes.fr/*
 *://inoxgiasi.com/*
 *://inquirebotany.org/*
@@ -15281,6 +15252,7 @@
 *://item.woomy.me/*
 *://itemcube.jp/*
 *://iti-inc.co.jp/*
+*://ito-movie.jp/*
 *://itokoichi.hatenadiary.com/*
 *://itone.co.jp/*
 *://itssicani.it/*
@@ -15550,6 +15522,7 @@
 *://kaitori-janiyard.jp/*
 *://kaitouranmei.com/*
 *://kaiuntrip.co.jp/*
+*://kaizoku-movie.jp/*
 *://kaji-amehare.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
 *://kakegawacastle30.jp/*
@@ -15557,6 +15530,7 @@
 *://kakusa.info/*
 *://kamabokoworks.jp/*
 *://kamaenitachiyoru.com/*
+*://kamakura-movie.jp/*
 *://kamana-black.jp/*
 *://kamei93-recruit.jp/*
 *://kameshiba1212.com/*
@@ -15629,6 +15603,7 @@
 *://kawata2018.com/*
 *://kayuitokoronite.com/*
 *://kazen.online/*
+*://kazoku-tsuraiyo.jp/*
 *://kazu061815.com/*
 *://kazuhirog.com/*
 *://kazutobi.com/*
@@ -15674,6 +15649,7 @@
 *://kenny-dfd.com/*
 *://kenny01.com/*
 *://kennyrichey.org/*
+*://kensatsugawa-movie.jp/*
 *://kenshi-yonezu.com/*
 *://kent60s.main.jp/*
 *://kenzan.jp/*
@@ -15724,7 +15700,10 @@
 *://kimetusaishuukan.seesaa.net/*
 *://kimino-okazu.com/*
 *://kimisomu.xyz/*
+*://kimisui.jp/*
 *://kimitagolf.com/*
+*://kimitsuki.jp/*
+*://kimiuso-movie.jp/*
 *://kimootoko.net/*
 *://kims-001.com/*
 *://kin5150.com/*
@@ -15772,6 +15751,7 @@
 *://kisocook.com/*
 *://kisscos.net/*
 *://kitakyu-cb.jp/*
+*://kitanosakuramori.jp/*
 *://kitchenbathetc.com/*
 *://kitchenbypro.com/*
 *://kitesa5v.virtual-na.org/*
@@ -15982,6 +15962,7 @@
 *://kuroco.jp/*
 *://kuronekodesk.hatenablog.com/*
 *://kuronekokusujun012.wixsite.com/*
+*://kurosakikun-movie.com/*
 *://kuroshiba0511.com/*
 *://kuruma-news.jp/*
 *://kuttye.shop/*
@@ -16043,6 +16024,7 @@
 *://laponas.com/*
 *://larousse-t.com/*
 *://last-letter-c.com/*
+*://last-recipe.jp/*
 *://lastpass.com/*
 *://lataoo.com/*
 *://latestmodapks.com/*
@@ -16267,6 +16249,7 @@
 *://lunahapi.com/*
 *://lunalucasjewel.com/*
 *://lunch.orders.lfs.bg/*
+*://lupin-3rd-movie.com/*
 *://lusogamer.com/*
 *://lustyview.com/*
 *://luuhoo.cn/*
@@ -16822,6 +16805,7 @@
 *://mitylog.jp/*
 *://miuki556happy.com/*
 *://miuprierre.com/*
+*://mix-movie.jp/*
 *://mixch.tv/*
 *://mixhost.jp/*
 *://mixshoper.online/*
@@ -16904,6 +16888,7 @@
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
 *://mogimikan.my.canva.site/*
+*://mogura-movie.com/*
 *://mokugeki.hatenablog.com/*
 *://mollymam.com/*
 *://molto15z.sarangkkb.com/*
@@ -17123,10 +17108,12 @@
 *://namikyoto.com/*
 *://namine-kairo.jp/*
 *://naminotes.com/*
+*://namiya-movie.jp/*
 *://nanaco.onelink.me/*
 *://nanadaru.net/*
 *://nanaehamanoyu.jp/*
 *://nanairostar.com/*
+*://nanakai-movie.jp/*
 *://nanalucky.jp/*
 *://nanameyomi-journal.com/*
 *://nananamoe.com/*
@@ -19125,6 +19112,7 @@
 *://sagx.jp/*
 *://saha.cl/*
 *://sahuyuki.hatenablog.com/*
+*://saikikusuo-movie.jp/*
 *://saiko-datta.com/*
 *://saimin.salonbonte.jp/*
 *://saimu-off.com/*
@@ -19347,6 +19335,7 @@
 *://shiftchurch.com/*
 *://shigemaru.info/*
 *://shiggymania.com/*
+*://shijinsou.jp/*
 *://shiki-mania.com/*
 *://shikishima-kyou.xyz/*
 *://shikolytics.com/*
@@ -19375,6 +19364,7 @@
 *://shinmaipapa.hatenablog.com/*
 *://shinno-asobi.com/*
 *://shinnyu1-guide.com/*
+*://shinobinokuni.jp/*
 *://shinobunbun.com/*
 *://shinorilog.com/*
 *://shinr.info/*
@@ -19617,6 +19607,7 @@
 *://sorano-mado.com/*
 *://sorashidodoremi.com/*
 *://soratake1107.com/*
+*://soratobu-movie.jp/*
 *://soratoburin.com/*
 *://soriolv.com/*
 *://sorteplus.net/*
@@ -19851,6 +19842,7 @@
 *://sugar57.com/*
 *://sugarlink-tukune.com/*
 *://sugggest.com/*
+*://sugihara-chiune.jp/*
 *://sugimoto-movie.com/*
 *://sugiura-seikan.com/*
 *://sugoihentai.work/*
@@ -19872,6 +19864,7 @@
 *://sukosukomanga.link/*
 *://sukyauto.com/*
 *://sumaho-okayama.com/*
+*://sumaho-otoshita.jp/*
 *://sumaho-susume.com/*
 *://sumaho-susume.jp/*
 *://sumahodigest.com/*
@@ -20117,6 +20110,7 @@
 *://tee1515.com/*
 *://teeeerapon.com/*
 *://teg.sesses.info/*
+*://teiichi.jp/*
 *://tekmods.com/*
 *://tele-play.jp/*
 *://telegra.ph/*
@@ -20171,6 +20165,7 @@
 *://the-greatest-dj-of-all-time.technobit.online/*
 *://the-jet-sleeper.com/*
 *://the-personal-gym.com/*
+*://the-promised-neverland-movie.jp/*
 *://the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru/*
 *://the.yokosuka-ecotour.jp/*
 *://the0ries.com/*
@@ -20362,6 +20357,7 @@
 *://tomosan-blog.com/*
 *://tomoya-blog.com/*
 *://ton-union.de/*
+*://tono-gozaru.jp/*
 *://tonoculture.com/*
 *://toolbox.app/*
 *://tools.anquanclub.cn/*
@@ -20526,6 +20522,7 @@
 *://trx-mkt.com/*
 *://try-manga.manga-ganma.com/*
 *://tsubakitaste.com/*
+*://tsuioku.jp/*
 *://tsuisoku.com/*
 *://tsuji-papa.com/*
 *://tsukae.ru/*
@@ -22757,6 +22754,7 @@
 *://www.tenryu-site.com/*
 *://www.tensecondcomic.com/*
 *://www.tenshoku-antenna.com/*
+*://www.tensortechapps.com/*
 *://www.teppan-tachibana.jp/*
 *://www.teraqol.com/*
 *://www.tesla.cn/*
@@ -23381,6 +23379,7 @@
 *://yucatblog.com/*
 *://yudainews.com/*
 *://yuerika.com/*
+*://yugioh20th.com/*
 *://yugiohblog.konami.com/*
 *://yuhiko-blog1.com/*
 *://yuhiya1627.com/*
