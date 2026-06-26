@@ -3079,6 +3079,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fan-rim-park.com^$document
 ||fan.main.jp^$document
 ||fanblogs.jp^$document
+||fanbox.help^$document
 ||fandane.com^$document
 ||fanfan-comicomi.com^$document
 ||fanfanza.com^$document
@@ -8296,6 +8297,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||resoea.co^$document
 ||resource.gatecoin.online^$document
 ||resowdtc.webratna.com^$document
+||resplendent-cassata-4830cc.netlify.app^$document
 ||responsiblegorillatrips.com^$document
 ||ress.co.nz^$document
 ||restarean.com^$document
@@ -11207,6 +11209,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.etital.com^$document
 ||www.etsabdelmoula.com^$document
 ||www.eurorvvv.org^$document
+||www.excite.co.jp/news/article/Prtimes$document
 ||www.exogear.jp^$document
 ||www.expected-value.com^$document
 ||www.expomascotasyanimales.com^$document

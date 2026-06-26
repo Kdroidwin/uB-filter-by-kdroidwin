@@ -4,8 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://resplendent-cassata-4830cc.netlify.app/*
-*://fanbox.help/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -13715,6 +13713,7 @@
 *://fan-rim-park.com/*
 *://fan.main.jp/*
 *://fanblogs.jp/*
+*://fanbox.help/*
 *://fandane.com/*
 *://fanfan-comicomi.com/*
 *://fanfanza.com/*
@@ -18823,6 +18822,7 @@
 *://resoea.co/*
 *://resource.gatecoin.online/*
 *://resowdtc.webratna.com/*
+*://resplendent-cassata-4830cc.netlify.app/*
 *://responsiblegorillatrips.com/*
 *://ress.co.nz/*
 *://restarean.com/*
