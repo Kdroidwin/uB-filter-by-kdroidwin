@@ -816,6 +816,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||androidsp.com^$document
 ||andronauticos.xyz^$document
 ||angelnews.net^$document
+||angl.jp^$document
 ||angolanoar.online^$document
 ||angular-ja.netlify.app^$document
 ||ani-chat.net^$document
@@ -5429,6 +5430,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
 ||last-recipe.jp^$document
+||lastcall.jp^$document
 ||lastpass.com^$document
 ||lataoo.com^$document
 ||latestmodapks.com^$document
@@ -8266,6 +8268,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||realtimetvgod.com^$document
 ||realtokyomiyabi.com^$document
 ||realtyempowermentsystems.com^$document
+||realvalue.inc^$document
 ||rebeauty.love^$document
 ||reblo.net^$document
 ||rebooto3.com^$document

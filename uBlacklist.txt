@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://realvalue.inc/*
-*://lastcall.jp/*
-*://angl.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11494,6 +11491,7 @@
 *://androidsp.com/*
 *://andronauticos.xyz/*
 *://angelnews.net/*
+*://angl.jp/*
 *://angolanoar.online/*
 *://angular-ja.netlify.app/*
 *://ani-chat.net/*
@@ -16031,6 +16029,7 @@
 *://larousse-t.com/*
 *://last-letter-c.com/*
 *://last-recipe.jp/*
+*://lastcall.jp/*
 *://lastpass.com/*
 *://lataoo.com/*
 *://latestmodapks.com/*
@@ -18800,6 +18799,7 @@
 *://realtimetvgod.com/*
 *://realtokyomiyabi.com/*
 *://realtyempowermentsystems.com/*
+*://realvalue.inc/*
 *://rebeauty.love/*
 *://reblo.net/*
 *://rebooto3.com/*
