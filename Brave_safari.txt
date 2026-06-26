@@ -13006,6 +13006,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
 ||yui-cni.cv^$document
+||yuiyui-mare.com^$document
 ||yujiblog.org^$document
 ||yuka-arrgtlife.com^$document
 ||yuka001.com^$document

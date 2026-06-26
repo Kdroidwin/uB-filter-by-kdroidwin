@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://yuiyui-mare.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -23393,6 +23392,7 @@
 *://yuhiko-blog1.com/*
 *://yuhiya1627.com/*
 *://yui-cni.cv/*
+*://yuiyui-mare.com/*
 *://yujiblog.org/*
 *://yuka-arrgtlife.com/*
 *://yuka001.com/*
