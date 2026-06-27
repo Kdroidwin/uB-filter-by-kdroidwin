@@ -18052,7 +18052,7 @@
 *://okichan.site/*
 *://okigourmet.com/*
 *://okikunonichijyou.com/*
-*://okinawa-shigotokaigo.com/*
+*://okinawa-shigotokaigo.com/ikuiku/*
 *://okinawakaigo.xsrv.jp/*
 *://okinawameguri.com/*
 *://okomechan6.com/*
