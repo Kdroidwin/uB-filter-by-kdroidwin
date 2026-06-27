@@ -7105,7 +7105,7 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okichan.site"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okigourmet.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okikunonichijyou.com"][data-ved]:upward(3)
-www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okinawa-shigotokaigo.com"][data-ved]:upward(3)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okinawa-shigotokaigo.com/ikuiku"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okinawakaigo.xsrv.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okinawameguri.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="okomechan6.com"][data-ved]:upward(3)
