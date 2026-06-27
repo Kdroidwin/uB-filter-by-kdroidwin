@@ -4435,6 +4435,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||igg-games.com^$document
 ||igggames.*^$all
 ||igu3.com^$document
+||ihayato.substack.com^$document
 ||ihst.csd.auth.gr^$document
 ||ihtiyacisoa.online^$document
 ||iifpindia.com^$document
@@ -7491,7 +7492,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||okikuhabataku.blog^$document
 ||okikunonichijyou.com^$document
 ||okinawa-shigotokaigo.com/ikuiku^$document
-||okinawa-shigotokaigo.com^$document
 ||okinawakaigo.xsrv.jp^$document
 ||okinawameguri.com^$document
 ||okipro.co.jp^$document
