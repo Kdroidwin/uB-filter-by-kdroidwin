@@ -7491,7 +7491,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||okikuhabataku.blog^$document
 ||okikunonichijyou.com^$document
 ||okinawa-shigotokaigo.com/ikuiku^$document
-||okinawa-shigotokaigo.com^$document
 ||okinawakaigo.xsrv.jp^$document
 ||okinawameguri.com^$document
 ||okipro.co.jp^$document
