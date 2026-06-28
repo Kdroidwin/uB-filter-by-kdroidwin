@@ -2617,6 +2617,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dungeon.jp^$document
 ||duracof.xyz^$document
 ||dwasfve.cn^$document
+||dwave.co.jp^$document
 ||dwdinteriors.com^$document
 ||dwpsraipur.com^$document
 ||dwz.365tol.top^$document
@@ -4998,6 +4999,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kawanepass.jp^$document
 ||kawaraban-news.com^$document
 ||kawareiworld.tokyo^$document
+||kawasonblog.com^$document
 ||kawata2018.com^$document
 ||kayuitokoronite.com^$document
 ||kazen.online^$document
@@ -5127,6 +5129,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kininarunoki.com^$document
 ||kininarunomori.com^$document
 ||kininaruutyousa.com^$document
+||kinman-uranai.com^$document
 ||kino-code.com^$document
 ||kinon-kamakura.com/products^$document
 ||kinoshita-reon.jp^$document
@@ -5696,6 +5699,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||m.cocobrandshop.jp^$document
 ||m.cosprpr.com^$document
 ||m.costsukuri.com^$document
+||m.dwave.co.jp^$document
 ||m.earthquakenet.jp^$document
 ||m.epochtimes.jp^$document
 ||m.hu60.cn^$document
@@ -6863,6 +6867,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nonzyoruno-miyazaki.jp^$document
 ||nordinkole.nl^$document
 ||nordvpn.com/ja/blog/secure-browser^$document
+||nori-crypto.jp^$document
 ||noromis.com^$document
 ||norte-ii.com^$document
 ||northernrfa.com^$document
@@ -7055,12 +7060,14 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kazumi_muraki^$document
 ||note.com/keizai_kousatsu^$document
 ||note.com/kemuri123^$document
+||note.com/ken_tsuiki^$document
 ||note.com/kenhonda^$document
 ||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
 ||note.com/kiyumoto_works^$document
 ||note.com/koh7166^$document
 ||note.com/koishitsu_^$document
+||note.com/konho^$document
 ||note.com/koreaiimono^$document
 ||note.com/koshiki_nakano^$document
 ||note.com/kosuke_agos^$document
@@ -7278,6 +7285,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/toyoshi_y1126^$document
 ||note.com/travel_paya^$document
 ||note.com/trivia_kingdom^$document
+||note.com/tyajinn^$document
 ||note.com/uber_tantan02^$document
 ||note.com/unikoukokun^$document
 ||note.com/unique_chimp63^$document
@@ -7318,6 +7326,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/yukarin_english^$document
 ||note.com/yuki_note_1^$document
 ||note.com/yumisnscontents^$document
+||note.com/yusuke_dev^$document
 ||note.com/yuto_age_gap^$document
 ||note.com/yutori_kurashi^$document
 ||note.com/yuueki_osusume^$document
@@ -7928,6 +7937,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pocop0c0.blog.fc2.com^$document
 ||poemsd3j.gabrans.com^$document
 ||poepoemoon.com^$document
+||poikatsujyuku.com^$document
 ||point.gmo.jp^$document
 ||poipiku.com^$document
 ||poire122.com^$document
@@ -8431,8 +8441,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||riicoralis.com^$document
 ||rika333ep.com^$document
 ||rikeilifeblog.com^$document
+||riko-ai.com^$document
 ||rillyblog.net^$document
 ||rily.miya-rin7.com^$document
+||rimowakaigaitenbai.com^$document
 ||rinboowyaboow.com^$document
 ||rinchantrend.com^$document
 ||rinda-tokyo.com^$document
@@ -8460,6 +8472,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||robamimireport.com^$document
 ||robesgxo.check-in-out.com^$document
 ||robogeki.sakura.ne.jp^$document
+||robomind.co.jp^$document
 ||robostore.com^$document
 ||robotstart.info^$document
 ||rock-fes.com^$document
@@ -8841,6 +8854,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shiftchurch.com^$document
 ||shigemaru.info^$document
 ||shiggymania.com^$document
+||shihaininmil.jp^$document
 ||shijinsou.jp^$document
 ||shiki-mania.com^$document
 ||shikishima-kyou.xyz^$document
@@ -9632,6 +9646,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tbtcm.jp^$document
 ||tccccc.jp^$document
 ||tdburger.com^$document
+||teambrain.thebase.in^$document
 ||teamnacs5d2.selforder.live^$document
 ||tearoomneko.com^$document
 ||teatrodelamemoria.com^$document
@@ -10849,6 +10864,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.androidlist.jp^$document
 ||www.androidos.net.cn^$document
 ||www.androidsage.com/2023/08/10^$document
+||www.androsu.com^$document
 ||www.angolanoar.online^$document
 ||www.animatashop.jp^$document
 ||www.animebugbodypillow.com^$document

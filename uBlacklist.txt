@@ -1,23 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://m.dwave.co.jp/*
-*://dwave.co.jp/*
 *://*.a3erf.com/*
-*://note.com/yusuke_dev/*
-*://www.androsu.com/*
-*://poikatsujyuku.com/*
-*://robomind.co.jp/*
-*://note.com/ken_tsuiki/*
-*://riko-ai.com/*
-*://note.com/tyajinn/*
-*://kinman-uranai.com/*
-*://rimowakaigaitenbai.com/*
-*://kawasonblog.com/*
-*://note.com/konho/*
-*://shihaininmil.jp/*
-*://nori-crypto.jp/*
-*://teambrain.thebase.in/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -13274,6 +13258,7 @@
 *://dungeon.jp/*
 *://duracof.xyz/*
 *://dwasfve.cn/*
+*://dwave.co.jp/*
 *://dwdinteriors.com/*
 *://dwpsraipur.com/*
 *://dwz.365tol.top/*
@@ -15620,6 +15605,7 @@
 *://kawanepass.jp/*
 *://kawaraban-news.com/*
 *://kawareiworld.tokyo/*
+*://kawasonblog.com/*
 *://kawata2018.com/*
 *://kayuitokoronite.com/*
 *://kazen.online/*
@@ -15748,6 +15734,7 @@
 *://kininarunoki.com/*
 *://kininarunomori.com/*
 *://kininaruutyousa.com/*
+*://kinman-uranai.com/*
 *://kino-code.com/*
 *://kinon-kamakura.com/products/*
 *://kinoshita-reon.jp/*
@@ -16306,6 +16293,7 @@
 *://m.cocobrandshop.jp/*
 *://m.cosprpr.com/*
 *://m.costsukuri.com/*
+*://m.dwave.co.jp/*
 *://m.earthquakenet.jp/*
 *://m.epochtimes.jp/*
 *://m.hu60.cn/*
@@ -17441,6 +17429,7 @@
 *://nonzyoruno-miyazaki.jp/*
 *://nordinkole.nl/*
 *://nordvpn.com/ja/blog/secure-browser/*
+*://nori-crypto.jp/*
 *://noromis.com/*
 *://norte-ii.com/*
 *://northernrfa.com/*
@@ -17637,12 +17626,14 @@
 *://note.com/kazumi_muraki/*
 *://note.com/keizai_kousatsu/*
 *://note.com/kemuri123/*
+*://note.com/ken_tsuiki/*
 *://note.com/kenhonda/*
 *://note.com/keshikakeuranai/*
 *://note.com/kimetsu_mania/*
 *://note.com/kiyumoto_works/*
 *://note.com/koh7166/*
 *://note.com/koishitsu_/*
+*://note.com/konho/*
 *://note.com/koreaiimono/*
 *://note.com/koshiki_nakano/*
 *://note.com/kosuke_agos/*
@@ -17860,6 +17851,7 @@
 *://note.com/toyoshi_y1126/*
 *://note.com/travel_paya/*
 *://note.com/trivia_kingdom/*
+*://note.com/tyajinn/*
 *://note.com/uber_tantan02*
 *://note.com/unikoukokun/*
 *://note.com/unique_chimp63/*
@@ -17900,6 +17892,7 @@
 *://note.com/yukarin_english/*
 *://note.com/yuki_note_1/*
 *://note.com/yumisnscontents/*
+*://note.com/yusuke_dev/*
 *://note.com/yuto_age_gap/*
 *://note.com/yutori_kurashi/*
 *://note.com/yuueki_osusume/*
@@ -18506,6 +18499,7 @@
 *://pocop0c0.blog.fc2.com/*
 *://poemsd3j.gabrans.com/*
 *://poepoemoon.com/*
+*://poikatsujyuku.com/*
 *://point.gmo.jp/*
 *://poipiku.com/*
 *://poire122.com/*
@@ -18971,8 +18965,10 @@
 *://riicoralis.com/*
 *://rika333ep.com/*
 *://rikeilifeblog.com/*
+*://riko-ai.com/*
 *://rillyblog.net/*
 *://rily.miya-rin7.com/*
+*://rimowakaigaitenbai.com/*
 *://rinboowyaboow.com/*
 *://rinchantrend.com/*
 *://rinda-tokyo.com/*
@@ -18998,6 +18994,7 @@
 *://robamimireport.com/*
 *://robesgxo.check-in-out.com/*
 *://robogeki.sakura.ne.jp/*
+*://robomind.co.jp/*
 *://robostore.com/*
 *://robotstart.info/*
 *://rock-fes.com/*
@@ -19358,6 +19355,7 @@
 *://shiftchurch.com/*
 *://shigemaru.info/*
 *://shiggymania.com/*
+*://shihaininmil.jp/*
 *://shijinsou.jp/*
 *://shiki-mania.com/*
 *://shikishima-kyou.xyz/*
@@ -20109,6 +20107,7 @@
 *://tbtcm.jp/*
 *://tccccc.jp/*
 *://tdburger.com/*
+*://teambrain.thebase.in/*
 *://teamnacs5d2.selforder.live/*
 *://tearoomneko.com/*
 *://teatrodelamemoria.com/*
@@ -21259,6 +21258,7 @@
 *://www.androidlist.jp/*
 *://www.androidos.net.cn/*
 *://www.androidsage.com/2023/08/10/*
+*://www.androsu.com/*
 *://www.angolanoar.online/*
 *://www.animatashop.jp/*
 *://www.animebugbodypillow.com/*
