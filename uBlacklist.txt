@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://m.dwave.co.jp/*
+*://dwave.co.jp/*
 *://*.a3erf.com/*
 *://note.com/yusuke_dev/*
 *://www.androsu.com/*
