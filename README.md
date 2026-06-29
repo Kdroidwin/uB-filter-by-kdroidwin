@@ -159,6 +159,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 見出しと本文の乖離が大きい
   - 中身が広告・アフィリエイト中心
 
+- ドロップキャッチ
+- PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
+
 - 注意すべきTLD（悪用率が比較的高い）
   - `.best` `.click` `.top` `.cfd` `.cyou` `.sbs` `.cm` `.cf` `.my`
   - 登録の敷居が低く、悪用事例が多い傾向あり
