@@ -312,6 +312,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||4kaku.me^$document
 ||4ki4.net^$document
 ||4kidsmamahokenshi.com^$document
+||4ltv.com^$document
 ||4nttl65.mam-cocktail.fr^$document
 ||4tgqv5c.hautnah-wellnessundbodyforming.de^$document
 ||4u-care.jp^$document
@@ -5387,6 +5388,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kyonyu-review.xyz^$document
 ||kyonyumanga.wpx.jp^$document
 ||kyoudailanka.com^$document
+||kyoueisougou.com^$document
 ||kyoukaran.com^$document
 ||kyounootomo.com^$document
 ||kyoutei-report.com^$document
@@ -10664,6 +10666,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wizcase.com^$document
 ||wizy.jp^$document
 ||wkkgq.com^$document
+||wkna49.com^$document
 ||wlife.xyz^$document
 ||wlrqwnp.art^$document
 ||wo.seven-area.com^$document
@@ -12931,6 +12934,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||youcomi.com^$document
 ||youcya.com^$document
 ||youkai-mago.com^$document
+||youkai-world.com^$document
 ||youmaycasting.com^$document
 ||younashi.jp^$document
 ||young-days.com^$document

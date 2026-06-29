@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://wkna49.com/*
-*://4ltv.com/*
-*://youkai-world.com/*
-*://kyoueisougou.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11004,6 +11000,7 @@
 *://4kaku.me/*
 *://4ki4.net/*
 *://4kidsmamahokenshi.com/*
+*://4ltv.com/*
 *://4nttl65.mam-cocktail.fr/*
 *://4tgqv5c.hautnah-wellnessundbodyforming.de/*
 *://4u-care.jp/*
@@ -15990,6 +15987,7 @@
 *://kyonyu-review.xyz/*
 *://kyonyumanga.wpx.jp/*
 *://kyoudailanka.com/*
+*://kyoueisougou.com/*
 *://kyoukaran.com/*
 *://kyounootomo.com/*
 *://kyoutei-report.com/*
@@ -21064,6 +21062,7 @@
 *://wizbiz.me/*
 *://wizy.jp/*
 *://wkkgq.com/*
+*://wkna49.com/*
 *://wlife.xyz/*
 *://wlrqwnp.art/*
 *://wo.seven-area.com/*
@@ -23321,6 +23320,7 @@
 *://youcomi.com/*
 *://youcya.com/*
 *://youkai-mago.com/*
+*://youkai-world.com/*
 *://youmaycasting.com/*
 *://younashi.jp/*
 *://young-days.com/*
