@@ -4547,6 +4547,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||influencer-laboratory.com^$document
 ||influencer-museum.jp^$document
 ||influencer-news.com^$document
+||influencermarketing-company.com^$document
 ||influmemo.com^$document
 ||info-melody.com^$document
 ||info-navi.hatenablog.com^$document
@@ -4803,6 +4804,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jishin-yogen.com^$document
 ||jisin.jp^$document
 ||jitakukeibi-iphone.com^$document
+||jitantech.com^$document
 ||jitensha-hoken.info^$document
 ||jjg.me^$document
 ||jk-bic.jp^$document

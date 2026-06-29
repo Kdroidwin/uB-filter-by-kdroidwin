@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://jitantech.com/*
-*://influencermarketing-company.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15163,6 +15161,7 @@
 *://influencer-laboratory.com/*
 *://influencer-museum.jp/*
 *://influencer-news.com/*
+*://influencermarketing-company.com/*
 *://influmemo.com/*
 *://info-melody.com/*
 *://info-navi.hatenablog.com/*
@@ -15417,6 +15416,7 @@
 *://jisedai.me/*
 *://jishin-yogen.com/*
 *://jitakukeibi-iphone.com/*
+*://jitantech.com/*
 *://jitensha-hoken.info/*
 *://jjg.me/*
 *://jk-bic.jp/*
