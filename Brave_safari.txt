@@ -869,6 +869,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ankoron.com^$document
 ||ankororo.com^$document
 ||anm777.com^$document
+||anma-navi.com^$document
 ||anmin579.com^$document
 ||anna-advisors.com^$document
 ||annaishimasuyo.com^$document
@@ -1895,6 +1896,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chun-shufu.com^$document
 ||chupea-club.jp^$document
 ||churchfront.me^$document
+||chushikoku-kaigokango.com^$document
 ||chushingura-movie.jp^$document
 ||chuzai-china.com^$document
 ||ciatr.jp^$document
@@ -2892,6 +2894,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ero-manga.the-universe-lab.com^$document
 ||ero-ny.cfbx.jp^$document
 ||ero-ny.com^$document
+||ero-phd.com^$document
 ||ero.dis-1983.jp^$document
 ||ero.dogeza3-in-game.net^$document
 ||ero9manga.wpx.jp^$document
@@ -2950,6 +2953,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-mangacoo.com^$document
 ||eromanga-muryou.jp^$document
 ||eromanga-navi.net^$document
+||eromanga-preview.com^$document
 ||eromanga-rainbow.com^$document
 ||eromanga-storage.jp^$document
 ||eromanga-vision.com^$document
@@ -3559,6 +3563,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||geisposoul.com^$document
 ||gekibuzz.com^$document
 ||gekidan-shiki.com^$document
+||gekikara-gourmet.com^$document
 ||gekka-bunko.com^$document
 ||gekkan-bushi.com^$document
 ||gekkanmensphysique.com^$document
@@ -4262,6 +4267,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hksjbd.com^$document
 ||hlelrse.com^$document
 ||hm.info^$document
+||hmaga-life.com^$document
 ||hmanganavi.com^$document
 ||hmd.site^$document
 ||hmfes.com^$document
@@ -4623,6 +4629,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||isao001.com^$document
 ||isaoblog.com^$document
 ||iseawee.com^$document
+||ishibumi.jp^$document
 ||ishiishiishi.com^$document
 ||ishiwon.com^$document
 ||isidorus-ex-camera.com^$document
@@ -4667,6 +4674,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ivisa.com^$document
 ||ivogijufij.dvereskamat.sk^$document
 ||ivolkman.com^$document
+||iwaaspire2025.org^$document
 ||iwanami-hall.com^$document
 ||iwasaki-parody.jp^$document
 ||iwatekko.jp^$document
@@ -5252,6 +5260,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||koimitsu.com^$document
 ||koimousagi.com^$document
 ||koisnap.com^$document
+||kojima-kogyou.jp^$document
 ||kokemomo55.com^$document
 ||koko.dorineo.jp^$document
 ||kokogakininaru.com^$document
@@ -6237,6 +6246,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
+||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
 ||mitemi-n.jp^$document
 ||mitemiruno.com^$document
@@ -6673,6 +6683,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nensyu-navi.com^$document
 ||neo-me.jp^$document
 ||neotopika.com^$document
+||neriman.jp^$document
 ||nerocredit.com^$document
 ||neroeule96blog.com^$document
 ||neroin.com^$document
@@ -8909,6 +8920,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shinobunbun.com^$document
 ||shinorilog.com^$document
 ||shinr.info^$document
+||shinshu-creative.jp^$document
 ||shinshu-premium.jp^$document
 ||shintrend.com^$document
 ||shinya-channel.com^$document
@@ -9190,6 +9202,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||spaceshipearth.jp^$document
 ||spacha2026.com^$document
 ||spang8vz.exoticmods.com^$document
+||spankbang.info^$document
 ||sparkle-sparkle.com^$document
 ||sparkle33.com^$document
 ||sparshayurvedam.com^$document
@@ -9387,6 +9400,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sub14.gyutora.jp^$document
 ||sub2-30.aairwwq.online^$document
 ||sub2.xn--cckzbc7izeb1c5341c2y2d.jp^$document
+||sub4.xn--cckzbc7izeb1c5341c2y2d.jp^$document
 ||sub5.gyutora.jp^$document
 ||sub7.gyutora.jp^$document
 ||subadcleaner.jp^$document
@@ -9624,6 +9638,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||talkzambianmusic.com^$document
 ||tam-bc.com^$document
 ||tamakohana.com^$document
+||tamba-expo2025.com^$document
 ||tameco-blog.com^$document
 ||tanaka-diary.com^$document
 ||tanakabags.com^$document
@@ -10621,6 +10636,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||webst8.co.jp^$document
 ||weddingchannell.com^$document
 ||weeblysite.com^$document
+||weekendav.blog.jp^$document
 ||weilersce.com^$document
 ||welcometorekall.jp^$document
 ||wellbest-yoga.instatry.jp^$document
@@ -10656,6 +10672,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wiketrend77.hatenablog.com^$document
 ||wilkoclosing.com^$document
 ||willbe07.blog.jp^$document
+||willing-hotels.jp^$document
 ||win10.au^$document
 ||win7loader.com^$document
 ||wind2016.seesaa.net^$document
@@ -10721,6 +10738,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wp253742.wpx.jp^$document
 ||wp391274.wpx.jp^$document
 ||wp626441.wpx.jp^$document
+||wp655914.wpx.jp^$document
 ||wp832847.wpx.jp^$document
 ||wpadmngr.com^
 ||wpadmngr.com^$document
@@ -10923,6 +10941,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.appps.jp^$document
 ||www.appsloveworld.com^$document
 ||www.arakawa-bpc.com^$document
+||www.archimedes.jp^$document
 ||www.areus.jp/column^$document
 ||www.ario-fukaya.jp^$document
 ||www.armacelljapan.com^$document
@@ -11009,6 +11028,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.blancpain.cn^$document
 ||www.blast-sibuya.tokyo^$document
 ||www.blickconnect.net^$document
+||www.bloomz.jp^$document
 ||www.blstweb.jp^$document
 ||www.blue-fitness24.com^$document
 ||www.blueoceandesignsbywalt.com^$document
@@ -11096,6 +11116,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.cinematoday.jp^$document
 ||www.cinnamon-hotel.com^$document
 ||www.cipmen.org//products^$document
+||www.circlemap.jp^$document
 ||www.citinteriors.com^$document
 ||www.claidas.com^$document
 ||www.clatan.com^$document
@@ -11284,12 +11305,15 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eroerocomic.net^$document
 ||www.erohimedoujin.com^$document
 ||www.eromanga-attack2000.net^$document
+||www.eromanga-doujin-hentai01.net^$document
 ||www.eromanga-erocomic-matome.net^$document
 ||www.eromanga-muryou-eroman.net^$document
 ||www.eromanga-muryou-hitomi-1999.net^$document
 ||www.eromanga-muryou-hitomi-26.net^$document
 ||www.eromanga-muryou-hitomi-40.net^$document
 ||www.eromanga-muryou-hitomi-43.net^$document
+||www.eromanga-muryou-hitomi-47.net^$document
+||www.eromanga-muryou-hitomi-48.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
 ||www.eromangadoujin.com^$document
@@ -12001,6 +12025,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.okayama-ninsho.jp^$document
 ||www.okayamacafe.com^$document
 ||www.okaznxq.cn^$document
+||www.okazu01.com^$document
 ||www.okazurand.net^$document
 ||www.okichizuru.com^$document
 ||www.olioclemente.shop^$document
@@ -12274,6 +12299,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.shinei-inc-net.com^$document
 ||www.shinhidaka-library.jp^$document
 ||www.shiningchance.com^$document
+||www.shiodome-fc.jp^$document
 ||www.shirayuribeauty.jp^$document
 ||www.shiruporuto.jp^$document
 ||www.shizutetsukanko.com^$document
@@ -12741,6 +12767,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--blog-pb4czf.com^$document
 ||xn--cck5dwcs95z8mb.com^$document
 ||xn--cck5dwcu03uy0yb.com^$document
+||xn--cckzbc7izeb1c5341c2y2d.jp^$document
 ||xn--djrq2jhuioun4o6b.net^$document
 ||xn--eck7a6cb9hvc6743bh6ua0fqeui.com^$document
 ||xn--eckaubhp5c.com^$document
@@ -13083,6 +13110,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yume-spa.com^$document
 ||yume1117.com^$document
 ||yumecomi.com^$document
+||yumecomi.wpx.jp^$document
 ||yumeijin-genzai.com^$document
 ||yumeijinhensachi.com^$document
 ||yumelab3.com^$document
