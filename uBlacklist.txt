@@ -1,6 +1,14 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://www.animal-academy.jp/*
+*://vr-mania.com/*
+*://yokohamayasai.jp/*
+*://comi-topia.com/*
+*://koramall.jp/*
+*://www.kodakaranoyu.jp/*
+*://rorikonkaigi.com/*
+*://library-hakone-kanagawa.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
