@@ -4922,6 +4922,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kagawaumigomi.jp^$document
 ||kagelife.com^$document
 ||kagerou-kazoku.com^$document
+||kagoshima2023-sailing.com^$document
 ||kaguyasama-movie.com^$document
 ||kaigaiceleb.com^$document
 ||kaigaijyunbi.xsrv.jp^$document
@@ -5523,6 +5524,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lhscans-raws.energin.cfd^$document
 ||liamsj3c.watkd.pl^$document
 ||liberalu-mania.com^$document
+||liberaluni.com^$document
 ||liberog.net^$document
 ||liberty-life-style.com^$document
 ||liberty-tokyo.co.jp^$document
@@ -11756,6 +11758,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kpshop.jp^$document
 ||www.krph.jp^$document
 ||www.kumamero.net^$document
+||www.kumanego.jp^$document
 ||www.kumasasa.com^$document
 ||www.kumibellejournal.com^$document
 ||www.kurakurakurarin.com^$document

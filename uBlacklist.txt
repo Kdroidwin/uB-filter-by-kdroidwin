@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://liberaluni.com/*
-*://www.kumanego.jp/*
-*://kagoshima2023-sailing.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15535,6 +15532,7 @@
 *://kagawaumigomi.jp/*
 *://kagelife.com/*
 *://kagerou-kazoku.com/*
+*://kagoshima2023-sailing.com/*
 *://kaguyasama-movie.com/*
 *://kaigaiceleb.com/*
 *://kaigaijyunbi.xsrv.jp/*
@@ -16125,6 +16123,7 @@
 *://lhscans-raws.energin.cfd/*
 *://liamsj3c.watkd.pl/*
 *://liberalu-mania.com/*
+*://liberaluni.com/*
 *://liberog.net/*
 *://liberty-life-style.com/*
 *://liberty-tokyo.co.jp/*
@@ -22149,6 +22148,7 @@
 *://www.kpshop.jp/*
 *://www.krph.jp/*
 *://www.kumamero.net/*
+*://www.kumanego.jp/*
 *://www.kumasasa.com/*
 *://www.kumibellejournal.com/*
 *://www.kurakurakurarin.com/*
