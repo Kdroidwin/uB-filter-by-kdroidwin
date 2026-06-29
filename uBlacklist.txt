@@ -1,36 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.u0u1.net/*
-*://2022sangiin-senkyo-aichi.jp/*
-*://fight-okayama.jp/*
-*://8092fun.jp/*
-*://www.okayama-ninsho.jp/*
-*://ryugaku-sokushin.jp/*
-*://okayama-eat.com/*
-*://johnny-associates.co.jp/*
-*://yamanashi-med.ac.jp/*
-*://rock-wanko.com/*
-*://moshidora.jp/*
-*://www.jpet-movie.com/*
-*://www.bem-movie.jp/*
-*://hxh-movie.jp/*
-*://lanaray-minowewe.com/*
-*://www.hidamari-movie.com/*
-*://kineticharbor.com/*
-*://toshokan-sensou-movie.com/*
-*://www.kiminitodoke-movie.com/*
-*://www.kamisamanokarute-movie.jp/*
-*://www.seiten-movie.com/*
-*://chibimaru-movie.com/*
-*://www.sekaneko.com/*
-*://www.kisekinoringo.com/*
-*://www.gatchaman-movie.jp/*
-*://ataru-eiga.com/*
-*://mogura-final.jp/*
-*://kaguyasama-movie.com/*
-*://100wani.life/*
-*://2020tochijisen.tokyo/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -10896,6 +10866,7 @@
 *://10-11-23-24.sakura.ne.jp/*
 *://1000-1noch.ru/*
 *://1000.dmm-mania.com/*
+*://100wani.life/*
 *://1024linux.cn/*
 *://1069boys.xyz/*
 *://109618.xyz/*
@@ -10945,7 +10916,9 @@
 *://1yomeblo.com/*
 *://20.89.157.2/*
 *://20051031.xyz/*
+*://2020tochijisen.tokyo/*
 *://202238231237.slot15.online/*
+*://2022sangiin-senkyo-aichi.jp/*
 *://2023-romeoandjuliet.com/*
 *://2023start.punyu.jp/*
 *://204.152.132.23/*
@@ -11093,6 +11066,7 @@
 *://7leaf-clover.com/*
 *://7zip.dev/*
 *://8018063.slot26.online/*
+*://8092fun.jp/*
 *://8171update.online/*
 *://8334200.slot31.online/*
 *://833d.cn/*
@@ -11841,6 +11815,7 @@
 *://asuoyama.jp/*
 *://atadastral.co.uk/*
 *://atamii.jp/*
+*://ataru-eiga.com/*
 *://ate.lpro-chat.com//*
 *://atelier--pink.com/*
 *://atelier-takahashi.com/*
@@ -12521,6 +12496,7 @@
 *://chiba-chokubai2021.jp/*
 *://chibaken777.com/*
 *://chibijewels.jp/*
+*://chibimaru-movie.com/*
 *://chibimin-blog.com/*
 *://chicagone.com/*
 *://chichicafe.com/*
@@ -13814,6 +13790,7 @@
 *://fgworks.jp/*
 *://fh-47c11dec2589de30---ken-prod-docker-3cdn7xgrva-uc.a.run.app/*
 *://fibonaccicorp.shop/*
+*://fight-okayama.jp/*
 *://fihtvzwcg.heidekevin.de/*
 *://filecr.com/*
 *://filecr.com/android/youtube-revanced-extended/*
@@ -15025,6 +15002,7 @@
 *://hwinfo.su/*
 *://hwr6spdq.r.eu-central-1.awstrack.me/*
 *://hxffsonline.education/*
+*://hxh-movie.jp/*
 *://hxnqwjxc.r.us-west-2.awstrack.me/*
 *://hy-fi.jp/*
 *://hyakkalog.com/*
@@ -15432,6 +15410,7 @@
 *://jobu.cc/*
 *://jodoyuimal.com/*
 *://johlife.com/*
+*://johnny-associates.co.jp/*
 *://johnnys-watcher.net/*
 *://johnnys.jocee.jp/*
 *://johnnysgoods-kaitori.jp/*
@@ -15543,6 +15522,7 @@
 *://kagawaumigomi.jp/*
 *://kagelife.com/*
 *://kagerou-kazoku.com/*
+*://kaguyasama-movie.com/*
 *://kaigaiceleb.com/*
 *://kaigaijyunbi.xsrv.jp/*
 *://kaigishitsu.com/*
@@ -15745,6 +15725,7 @@
 *://kims-001.com/*
 *://kin5150.com/*
 *://kindai.raku-uru.jp/*
+*://kineticharbor.com/*
 *://kingbraintech.com/*
 *://kingdom10.jp/*
 *://kingdomlegacyministries.org/*
@@ -16054,6 +16035,7 @@
 *://lam911mt.home.blog/*
 *://lamerkomp.ru/*
 *://lanakila-web.com/*
+*://lanaray-minowewe.com/*
 *://lancerjp.com/*
 *://landfaller.net/*
 *://landing-page-school.com/*
@@ -16930,6 +16912,7 @@
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
 *://mogimikan.my.canva.site/*
+*://mogura-final.jp/*
 *://mogura-movie.com/*
 *://mokugeki.hatenablog.com/*
 *://mollymam.com/*
@@ -17008,6 +16991,7 @@
 *://morpheapp.net/*
 *://morphemanager.com/*
 *://morumoru1426.com/*
+*://moshidora.jp/*
 *://mossashoes.com/*
 *://mot4932.com/*
 *://moteo.best/*
@@ -18086,6 +18070,7 @@
 *://okaimono-navigation.com/*
 *://okannoyomeiri-stage.jp/*
 *://okaponseo.me/*
+*://okayama-eat.com/*
 *://okazu-navi.net/*
 *://okboook.com/*
 *://okdebrid.com/*
@@ -19031,6 +19016,7 @@
 *://robotstart.info/*
 *://rock-fes.com/*
 *://rock-note.com/*
+*://rock-wanko.com/*
 *://rocketnews24.com/*
 *://rockonsocial.club/*
 *://rockpress.tokyo/*
@@ -19122,6 +19108,7 @@
 *://ryouteikoujyou-shop.jp/*
 *://ryu3918.wpx.jp/*
 *://ryudos-product-hub.lovable.app/*
+*://ryugaku-sokushin.jp/*
 *://ryuichi-blog.com/*
 *://ryusoku.com/*
 *://ryutoo.com/*
@@ -20452,6 +20439,7 @@
 *://torukuma.com/*
 *://torzu.dev/*
 *://tosa-k-style.org/*
+*://toshokan-sensou-movie.com/*
 *://tosidensetu-story.com/*
 *://totalav.com/*
 *://totallyaboutweather.com/*
@@ -21387,6 +21375,7 @@
 *://www.beaujones.nl/*
 *://www.bebit.info/*
 *://www.bedruthan.com/*
+*://www.bem-movie.jp/*
 *://www.berluti.cn/*
 *://www.bestmamafinds.com/*
 *://www.betternet.co/*
@@ -21796,6 +21785,7 @@
 *://www.gardenawakenings.com/*
 *://www.garmin.cn/*
 *://www.gatahime.com/*
+*://www.gatchaman-movie.jp/*
 *://www.gaten-yoake.com/*
 *://www.gcpv.fr/*
 *://www.gebiproducts.com/*
@@ -21913,6 +21903,7 @@
 *://www.herosms.io/*
 *://www.herosms.vip/*
 *://www.hiapkdownload.com/*
+*://www.hidamari-movie.com/*
 *://www.hidouzo.site/*
 *://www.hikaku.com/*
 *://www.hikaruland.co.jp/*
@@ -22056,6 +22047,7 @@
 *://www.joystage.online/*
 *://www.jp-vipshop.com/*
 *://www.jpachecoferreira.pt/*
+*://www.jpet-movie.com/*
 *://www.jpkjaxn.cn/*
 *://www.jpzentai.com/*
 *://www.jrgsio.shop/*
@@ -22077,6 +22069,7 @@
 *://www.kaidouraku.net/*
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
+*://www.kamisamanokarute-movie.jp/*
 *://www.kamiyasohei.jp/*
 *://www.kanekoyozo.jp/outlet/*
 *://www.kanesk.cn/*
@@ -22100,11 +22093,13 @@
 *://www.kickstarter.love/*
 *://www.kidscollegeindore.in/*
 *://www.kilkareraceway.com/*
+*://www.kiminitodoke-movie.com/*
 *://www.kina-recipe.com/*
 *://www.kineton.al/products.php?g=3*
 *://www.kininarublog.com/*
 *://www.kippis.online/*
 *://www.kirstenmomsen.com/*
+*://www.kisekinoringo.com/*
 *://www.kitaharima-hi.com/*
 *://www.kitchendesigner.uk/*
 *://www.kitchensbyeileen.com/*
@@ -22400,6 +22395,7 @@
 *://www.oikocredit.jp/*
 *://www.oita-gt.jp/*
 *://www.okasinakuni.jp/*
+*://www.okayama-ninsho.jp/*
 *://www.okayamacafe.com/*
 *://www.okaznxq.cn/*
 *://www.okazurand.net/*
@@ -22650,7 +22646,9 @@
 *://www.sebastianoferrari.com/*
 *://www.sector9-jp.com/*
 *://www.seedhub-int.com/*
+*://www.seiten-movie.com/*
 *://www.sejuku.net/*
+*://www.sekaneko.com/*
 *://www.selby.shop/*
 *://www.seleqt.net/*
 *://www.semicolonworld.com/*
@@ -22897,6 +22895,7 @@
 *://www.twitscoop.com/*
 *://www.twlrnet.tw/*
 *://www.tyo2l.uk/*
+*://www.u0u1.net/*
 *://www.uchina-farm.jp/*
 *://www.uchina-web.co.jp/*
 *://www.uhrcgeneva.org/*
@@ -23256,6 +23255,7 @@
 *://yamagata-dainigeka.jp/*
 *://yamahack.com/*
 *://yamamii.com/*
+*://yamanashi-med.ac.jp/*
 *://yamasakijun.com/*
 *://yamasanblog.com/*
 *://yamatemama.com/*

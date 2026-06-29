@@ -174,6 +174,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||10-11-23-24.sakura.ne.jp^$document
 ||1000-1noch.ru^$document
 ||1000.dmm-mania.com^$document
+||100wani.life^$document
 ||1024linux.cn^$document
 ||1069boys.xyz^$document
 ||109618.xyz^$document
@@ -224,7 +225,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||1yomeblo.com^$document
 ||20.89.157.2^$document
 ||20051031.xyz^$document
+||2020tochijisen.tokyo^$document
 ||202238231237.slot15.online^$document
+||2022sangiin-senkyo-aichi.jp^$document
 ||2023-romeoandjuliet.com^$document
 ||2023start.punyu.jp^$document
 ||204.152.132.23^$document
@@ -375,6 +378,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||7leaf-clover.com^$document
 ||7zip.dev^$document
 ||8018063.slot26.online^$document
+||8092fun.jp^$document
 ||8171update.online^$document
 ||8334200.slot31.online^$document
 ||833d.cn^$document
@@ -1145,6 +1149,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||asusno22.blog.jp^$document
 ||atadastral.co.uk^$document
 ||atamii.jp^$document
+||ataru-eiga.com^$document
 ||ate.lpro-chat.com/^$document
 ||atelier--pink.com^$document
 ||atelier-takahashi.com^$document
@@ -1841,6 +1846,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chiba-chokubai2021.jp^$document
 ||chibaken777.com^$document
 ||chibijewels.jp^$document
+||chibimaru-movie.com^$document
 ||chibimin-blog.com^$document
 ||chicagone.com^$document
 ||chichicafe.com^$document
@@ -3151,6 +3157,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fgworks.jp^$document
 ||fh-47c11dec2589de30---ken-prod-docker-3cdn7xgrva-uc.a.run.app^$document
 ||fibonaccicorp.shop^$document
+||fight-okayama.jp^$document
 ||fihtvzwcg.heidekevin.de^$document
 ||filecr.com/android/youtube-revanced-extended/?id=248068864000^$document
 ||filecr.com/android/youtube-revanced-extended/?id=838799411000^$document
@@ -4375,6 +4382,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hwinfo.su^$document
 ||hwr6spdq.r.eu-central-1.awstrack.me^$document
 ||hxffsonline.education^$document
+||hxh-movie.jp^$document
 ||hxnqwjxc.r.us-west-2.awstrack.me^$document
 ||hy-fi.jp^$document
 ||hyakkalog.com^$document
@@ -4792,6 +4800,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jobu.cc^$document
 ||jodoyuimal.com^$document
 ||johlife.com^$document
+||johnny-associates.co.jp^$document
 ||johnnys-watcher.net^$document
 ||johnnys.jocee.jp^$document
 ||johnnysgoods-kaitori.jp^$document
@@ -4905,6 +4914,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kagawaumigomi.jp^$document
 ||kagelife.com^$document
 ||kagerou-kazoku.com^$document
+||kaguyasama-movie.com^$document
 ||kaigaiceleb.com^$document
 ||kaigaijyunbi.xsrv.jp^$document
 ||kaigishitsu.com^$document
@@ -5111,6 +5121,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kimuta1105.livedoor.blog^$document
 ||kin5150.com^$document
 ||kindai.raku-uru.jp^$document
+||kineticharbor.com^$document
 ||kingbraintech.com^$document
 ||kingdom10.jp^$document
 ||kingdomlegacyministries.org^$document
@@ -5426,6 +5437,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lam911mt.home.blog^$document
 ||lamerkomp.ru^$document
 ||lanakila-web.com^$document
+||lanaray-minowewe.com^$document
 ||lancerjp.com^$document
 ||landfaller.net^$document
 ||landing-page-school.com^$document
@@ -6322,6 +6334,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||moffy-aya-entame.com^$document
 ||mofumofunews.com^$document
 ||mogimikan.my.canva.site^$document
+||mogura-final.jp^$document
 ||mogura-movie.com^$document
 ||mokugeki.hatenablog.com^$document
 ||mollymam.com^$document
@@ -6400,6 +6413,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||morpheapp.net^$document
 ||morphemanager.com^$document
 ||morumoru1426.com^$document
+||moshidora.jp^$document
 ||mossashoes.com^$document
 ||mot4932.com^$document
 ||moteo.best^$document
@@ -7494,6 +7508,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||okaimonoclub.jp^$document
 ||okannoyomeiri-stage.jp^$document
 ||okaponseo.me^$document
+||okayama-eat.com^$document
 ||okazu-navi.net^$document
 ||okboook.com^$document
 ||okdebrid.com^$document
@@ -8480,6 +8495,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||robotstart.info^$document
 ||rock-fes.com^$document
 ||rock-note.com^$document
+||rock-wanko.com^$document
 ||rocketnews24.com^$document
 ||rockonsocial.club^$document
 ||rockpress.tokyo^$document
@@ -8576,6 +8592,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ryouteikoujyou-shop.jp^$document
 ||ryu3918.wpx.jp^$document
 ||ryudos-product-hub.lovable.app^$document
+||ryugaku-sokushin.jp^$document
 ||ryuichi-blog.com^$document
 ||ryusoku.com^$document
 ||ryutoo.com^$document
@@ -9979,6 +9996,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||torukuma.com^$document
 ||torzu.dev^$document
 ||tosa-k-style.org^$document
+||toshokan-sensou-movie.com^$document
 ||tosidensetu-story.com^$document
 ||totalav.com^$document
 ||totallyaboutweather.com^$document
@@ -10964,6 +10982,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.beaujones.nl^$document
 ||www.bebit.info^$document
 ||www.bedruthan.com^$document
+||www.bem-movie.jp^$document
 ||www.berluti.cn^$document
 ||www.bestmamafinds.com^$document
 ||www.betternet.co^$document
@@ -11374,6 +11393,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.gardenawakenings.com^$document
 ||www.garmin.cn^$document
 ||www.gatahime.com^$document
+||www.gatchaman-movie.jp^$document
 ||www.gaten-yoake.com^$document
 ||www.gcpv.fr^$document
 ||www.gebiproducts.com^$document
@@ -11494,6 +11514,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.herosms.io^$document
 ||www.herosms.vip^$document
 ||www.hiapkdownload.com^$document
+||www.hidamari-movie.com^$document
 ||www.hidouzo.site^$document
 ||www.hikaku.com^$document
 ||www.hikaruland.co.jp^$document
@@ -11638,6 +11659,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.joystage.online^$document
 ||www.jp-vipshop.com^$document
 ||www.jpachecoferreira.pt^$document
+||www.jpet-movie.com^$document
 ||www.jpkjaxn.cn^$document
 ||www.jpzentai.com^$document
 ||www.jrgsio.shop^$document
@@ -11659,6 +11681,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kaidouraku.net^$document
 ||www.kalamhor.online^$document
 ||www.kalamisadalaristanbul.com^$document
+||www.kamisamanokarute-movie.jp^$document
 ||www.kamiyasohei.jp^$document
 ||www.kanekoyozo.jp/outlet^$document
 ||www.kanesk.cn^$document
@@ -11682,11 +11705,13 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kickstarter.love^$document
 ||www.kidscollegeindore.in^$document
 ||www.kilkareraceway.com^$document
+||www.kiminitodoke-movie.com^$document
 ||www.kina-recipe.com^$document
 ||www.kingsoft.jp^$document
 ||www.kininarublog.com^$document
 ||www.kippis.online^$document
 ||www.kirstenmomsen.com^$document
+||www.kisekinoringo.com^$document
 ||www.kitaharima-hi.com^$document
 ||www.kitchendesigner.uk^$document
 ||www.kitchensbyeileen.com^$document
@@ -11973,6 +11998,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.oikocredit.jp^$document
 ||www.oita-gt.jp^$document
 ||www.okasinakuni.jp^$document
+||www.okayama-ninsho.jp^$document
 ||www.okayamacafe.com^$document
 ||www.okaznxq.cn^$document
 ||www.okazurand.net^$document
@@ -12224,7 +12250,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sebastianoferrari.com^$document
 ||www.sector9-jp.com^$document
 ||www.seedhub-int.com^$document
+||www.seiten-movie.com^$document
 ||www.sejuku.net^$document
+||www.sekaneko.com^$document
 ||www.selby.shop^$document
 ||www.seleqt.net^$document
 ||www.semicolonworld.com^$document
@@ -12478,6 +12506,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.twitscoop.com^$document
 ||www.twlrnet.tw^$document
 ||www.tyo2l.uk^$document
+||www.u0u1.net^$document
 ||www.uchina-farm.jp^$document
 ||www.uchina-web.co.jp^$document
 ||www.uhrcgeneva.org^$document
@@ -12837,6 +12866,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yamagata-dainigeka.jp^$document
 ||yamahack.com^$document
 ||yamamii.com^$document
+||yamanashi-med.ac.jp^$document
 ||yamasakijun.com^$document
 ||yamasanblog.com^$document
 ||yamatemama.com^$document
