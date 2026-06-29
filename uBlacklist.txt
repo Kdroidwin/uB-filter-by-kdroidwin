@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://kei31.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -15649,6 +15648,7 @@
 *://keezeightrsa.xyz/*
 *://keeztwelversa.xyz/*
 *://kei-siroikumo.com/*
+*://kei31.com/*
 *://keibariron.com/*
 *://keijserskoning.com/*
 *://keikeikei.com/*

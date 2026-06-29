@@ -5041,6 +5041,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||keezeightrsa.xyz^$document
 ||keeztwelversa.xyz^$document
 ||kei-siroikumo.com^$document
+||kei31.com^$document
 ||keibariron.com^$document
 ||keijserskoning.com^$document
 ||keikeikei.com^$document
