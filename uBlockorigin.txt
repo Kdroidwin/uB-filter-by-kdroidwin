@@ -6259,6 +6259,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mirai-guide.com^$document
 ||mirai-tohoku.jp^$document
 ||miraie.org^$document
+||mirailab-blog.com^$document
 ||mirandadeutsch.com^$document
 ||mirandazrealtor.com^$document
 ||mirimari.net^$document
@@ -6947,6 +6948,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/afy2525^$document
 ||note.com/agile_pika4626^$document
 ||note.com/ai_business_navi^$document
+||note.com/ai_urawaza_lab^$document
 ||note.com/ai_zap^$document
 ||note.com/aichanworld^$document
 ||note.com/aitaku2510^$document
@@ -7073,6 +7075,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/hokanobeat^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_pony5936^$document
+||note.com/honest_mink6721^$document
 ||note.com/honest_zinnia946^$document
 ||note.com/hongzilaoban2^$document
 ||note.com/honokamaison^$document
@@ -9648,6 +9651,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||takahashi-tokyo.com^$document
 ||takakonokazariya.com^$document
 ||takamaru1219.net^$document
+||takamitu.co.jp^$document
 ||takanome.blog^$document
 ||takara3.com^$document
 ||takarazuka-life.com^$document
@@ -10599,6 +10603,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||waido.fi^$document
 ||waiparavalleynz.com^$document
 ||waiwaiblog.com^$document
+||waka77renai.com^$document
 ||wakab.jp^$document
 ||wakamesan-blog.com^$document
 ||wakara.co.jp^$document

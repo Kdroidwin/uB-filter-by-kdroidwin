@@ -1,12 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://takamitu.co.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://waka77renai.com/*
-*://mirailab-blog.com/*
-*://note.com/honest_mink6721/*
-*://note.com/ai_urawaza_lab/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16845,6 +16840,7 @@
 *://mirai-guide.com/*
 *://mirai-tohoku.jp/*
 *://miraie.org/*
+*://mirailab-blog.com/*
 *://mirandadeutsch.com/*
 *://mirandazrealtor.com/*
 *://mirimari.net/*
@@ -17516,6 +17512,7 @@
 *://note.com/afy2525/*
 *://note.com/agile_pika4626/*
 *://note.com/ai_business_navi/*
+*://note.com/ai_urawaza_lab/*
 *://note.com/ai_zap/*
 *://note.com/aichanworld/*
 *://note.com/aitaku2510/*
@@ -17645,6 +17642,7 @@
 *://note.com/holy_beetle811
 *://note.com/holy_beetle811/*
 *://note.com/holy_pony5936/*
+*://note.com/honest_mink6721/*
 *://note.com/honest_zinnia946/*
 *://note.com/hongzilaoban2/*
 *://note.com/honokamaison/*
@@ -20116,6 +20114,7 @@
 *://takahashi-tokyo.com/*
 *://takakonokazariya.com/*
 *://takamaru1219.net/*
+*://takamitu.co.jp/*
 *://takanome.blog/*
 *://takara3.com/*
 *://takarazuka-life.com/*
@@ -21019,6 +21018,7 @@
 *://waido.fi/*
 *://waiparavalleynz.com/*
 *://waiwaiblog.com/*
+*://waka77renai.com/*
 *://wakab.jp/*
 *://wakamesan-blog.com/*
 *://wakara.co.jp/*
