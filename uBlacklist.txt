@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://goo.su/*
-*://tri.su/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -14413,6 +14411,7 @@
 *://gonlunuskm.online/*
 *://gonmana.com/*
 *://gonnbe.com/*
+*://goo.su/*
 *://good-apps.jp/*
 *://good-nantan.online/*
 *://good-topic-map.com/*
@@ -20609,6 +20608,7 @@
 *://trendyossy.com/*
 *://trendytalking.com/*
 *://tri-tres.com/*
+*://tri.su/*
 *://triarqest.com/*
 *://tribol.pt/*
 *://tricarelawncare.org/*

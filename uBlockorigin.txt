@@ -3786,6 +3786,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gonlunuskm.online^$document
 ||gonmana.com^$document
 ||gonnbe.com^$document
+||goo.su^$document
 ||good-apps.jp^$document
 ||good-nantan.online^$document
 ||good-topic-map.com^$document
@@ -10164,6 +10165,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||trendyossy.com^$document
 ||trendytalking.com^$document
 ||tri-tres.com^$document
+||tri.su^$document
 ||triarqest.com^$document
 ||tribol.pt^$document
 ||tricarelawncare.org^$document
