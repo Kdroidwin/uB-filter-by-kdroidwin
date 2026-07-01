@@ -1556,6 +1556,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bongdatv.lu^$document
 ||bonhikari.com^$document
 ||bonnychamber.com^$document
+||bonsoir.jp^$document
 ||booberries.id^$document
 ||book-day.com^$document
 ||book-gain.com^$document
@@ -2922,6 +2923,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erodouga-nadonado.com^$document
 ||erodoujin-manman.com^$document
 ||erodoujin-navi.com^$document
+||erodoujincomic.com^$document
 ||erodoujinlog.com^$document
 ||erodoujinmanga.com^$document
 ||erodoujinview.com^$document
@@ -2956,6 +2958,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-hiroba.com^$document
 ||eromanga-house.com^$document
 ||eromanga-island.com^$document
+||eromanga-jp.org^$document
 ||eromanga-library.com^$document
 ||eromanga-mangacoo.com^$document
 ||eromanga-muryou.jp^$document
@@ -3135,6 +3138,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fatherbradleyshelter.com^$document
 ||fatsaligamg.online^$document
 ||fatzs.jp^$document
+||favcon.liblo.jp^$document
 ||favfavmusic.com^$document
 ||favorite-blog.com^$document
 ||fazendinha.com/products^$document
@@ -11600,6 +11604,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.hill-ky.org^$document
 ||www.himatubushisp.com^$document
 ||www.hira2.jp^$document
+||www.hiruzen-hills.jp^$document
 ||www.hive2bottle.co.tz^$document
 ||www.hiyake-flare.com^$document
 ||www.hiyake-salon-b-max.jp^$document
@@ -12939,6 +12944,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yaguchi39.com^$document
 ||yahahai.sakura.ne.jp^$document
 ||yaho.jpgoodbuy.com^$document
+||yahooco.jp^$document
 ||yaimamalife.com^$document
 ||yajiblog12150619.com^$document
 ||yakudati365.com^$document

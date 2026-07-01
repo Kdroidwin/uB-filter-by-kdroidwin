@@ -3,13 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://www.recruit.co.jp/blog/guesttalk/20200803_445.html*
-*://eromanga-jp.org/*
-*://www.hiruzen-hills.jp/*
-*://favcon.liblo.jp/*
-*://erodoujincomic.com/*
-*://yahooco.jp/*
-*://bonsoir.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -12222,6 +12215,7 @@
 *://bongdatv.lu/*
 *://bonhikari.com/*
 *://bonnychamber.com/*
+*://bonsoir.jp/*
 *://booberries.id/*
 *://book-day.com/*
 *://book-gain.com/*
@@ -13568,6 +13562,7 @@
 *://erodouga-nadonado.com/*
 *://erodoujin-manman.com/*
 *://erodoujin-navi.com/*
+*://erodoujincomic.com/*
 *://erodoujinlog.com/*
 *://erodoujinmanga.com/*
 *://erodoujinview.com/*
@@ -13602,6 +13597,7 @@
 *://eromanga-hiroba.com/*
 *://eromanga-house.com/*
 *://eromanga-island.com/*
+*://eromanga-jp.org/*
 *://eromanga-library.com/*
 *://eromanga-mangacoo.com/*
 *://eromanga-muryou.jp/*
@@ -13777,6 +13773,7 @@
 *://fatherbradleyshelter.com/*
 *://fatsaligamg.online/*
 *://fatzs.jp/*
+*://favcon.liblo.jp/*
 *://favfavmusic.com/*
 *://favorite-blog.com/*
 *://fazendinha.com/products/*
@@ -21998,6 +21995,7 @@
 *://www.hill-ky.org/*
 *://www.himatubushisp.com/*
 *://www.hira2.jp/*
+*://www.hiruzen-hills.jp/*
 *://www.hive2bottle.co.tz/*
 *://www.hiyake-flare.com/*
 *://www.hiyake-salon-b-max.jp/*
@@ -22643,6 +22641,7 @@
 *://www.realize-project.jp/*
 *://www.recordchina.co.jp/*
 *://www.recordshopbase.com/*
+*://www.recruit.co.jp/blog/guesttalk/20200803_445.html*
 *://www.recycling-s.com/*
 *://www.reddit.com/r/PiratedGames/comments/ex9xot/for_those_who_are_questionable_about_tlauncher/*
 *://www.reddit.com/r/TLAUNCHER/*
@@ -23337,6 +23336,7 @@
 *://yaguchi39.com/*
 *://yahahai.sakura.ne.jp/*
 *://yaho.jpgoodbuy.com/*
+*://yahooco.jp/*
 *://yaimamalife.com/*
 *://yajiblog12150619.com/*
 *://yakudati365.com/*
