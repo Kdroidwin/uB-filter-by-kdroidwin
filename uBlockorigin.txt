@@ -1173,6 +1173,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||atomfirm.com^$document
 ||atomseight.com^$document
 ||atozsearch.jp^$document
+||atralso.com^$document
 ||atre-club.jp^$document
 ||atsu-blog.com^$document
 ||atsushi-hisatumi.amebaownd.com/posts/12184891^$document
@@ -1620,6 +1621,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||brighterbrainshealth.com^$document
 ||brightredmelancholy.com^$document
 ||brightstar-movie.jp^$document
+||brightx.jp^$document
 ||brilliant-feb.com^$document
 ||bririantgreen.com^$document
 ||broadcastutopia.com^$document
@@ -2477,6 +2479,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojinrd.com^$document
 ||dokdok2023.jp^$document
 ||dokidoki-info.com^$document
+||dokigensen-magazin.com^$document
 ||dokodekau.hatenablog.com^$document
 ||dokopon.com^$document
 ||dokukinokoblog.com^$document
@@ -2493,6 +2496,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||donnamodernaonline.com^$document
 ||door.popzoo.xyz^$document
 ||dopa-game.jp^$document
+||dopyumanga.wpx.jp^$document
 ||doragon-rinchan.com^$document
 ||dorama-anime.com^$document
 ||dorama-netabare.com^$document
@@ -2528,6 +2532,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-maturi.com^$document
 ||doujin-mitsukeru.com^$document
 ||doujin-ntr.com^$document
+||doujin-raw.com^$document
 ||doujin-select.net^$document
 ||doujin-selection.com^$document
 ||doujin-share.com^$document
@@ -3490,6 +3495,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gamerom.blog129.fc2.com^$document
 ||games.hnt.co.jp^$document
 ||gamesblog0.blog63.fc2.com^$document
+||gameseijininspirata.com^$document
 ||gamesoku.dreamlog.jp^$document
 ||gaming-select.com^$document
 ||gamingpcselect.sakura.ne.jp^$document
@@ -4716,6 +4722,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||j-internship.jp^$document
 ||j-rocklove.com^$document
 ||j-seiji.blog.jp^$document
+||j-t-n.jp^$document
 ||j7p.jp^$document
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
@@ -4890,6 +4897,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jtb-hotspringtickets.xyz^$document
 ||jtbmusic.jp^$document
 ||jtuto.com^$document
+||ju.mc-info.jp^$document
 ||juanitomx.com^$document
 ||judymzungu.com^$document
 ||jufusion.com^$document
@@ -5934,6 +5942,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga1001.club.atlaq.com^$document
 ||manga1001.pro.atlaq.com^$document
 ||manga2.md-sass.com^$document
+||manga2026.wew.jp^$document
 ||mangaair.xsrv.jp^$document
 ||mangaanime-voice.com^$document
 ||mangab.jp^$document
@@ -6078,6 +6087,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mayutan.com^$document
 ||mb.epochtimes.jp^$document
 ||mbp-shizuoka.com^$document
+||mc-info.jp^$document
 ||mcafeewebadvisor.com^$document
 ||mcd-mop.onelink.me^$document
 ||mce-rtworld.com^$document
@@ -6372,6 +6382,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||modzmania.com^$document
 ||modzod.com^$document
 ||modzozo.com^$document
+||moeclo.ldblog.jp^$document
 ||moecomic18.blog^$document
 ||moedigi.com^$document
 ||moeeeani.blog.jp^$document
@@ -7739,6 +7750,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otokujouhou.org^$document
 ||otomeexpert.com^$document
 ||otona-comic.com^$document
+||otona-freecomic.jp^$document
 ||otonaclub.mixh.jp^$document
 ||otonakensaku.com^$document
 ||otonano-erokatsu.net^$document
@@ -9611,6 +9623,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||t-annex.com^$document
 ||t-ln.ru^$document
 ||t-mall.tsite.jp/shop/1468^$document
+||t-ment.jp^$document
 ||t-onefat.com^$document
 ||t-syou.jp^$document
 ||t.codebug.vip^$document

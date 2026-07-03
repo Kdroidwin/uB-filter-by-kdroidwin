@@ -1,16 +1,3 @@
-*://j-t-n.jp/*
-*://dokigensen-magazin.com/*
-*://atralso.com/*
-*://doujin-raw.com/*
-*://t-ment.jp/*
-*://ju.mc-info.jp/*
-*://mc-info.jp/*
-*://moeclo.ldblog.jp/*
-*://gameseijininspirata.com/*
-*://manga2026.wew.jp/*
-*://otona-freecomic.jp/*
-*://brightx.jp/*
-*://dopyumanga.wpx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11854,6 +11841,7 @@
 *://atomfirm.com/*
 *://atomseight.com/*
 *://atozsearch.jp/*
+*://atralso.com/*
 *://atre-club.jp/*
 *://atsu-blog.com/*
 *://atsushi-hisatumi.amebaownd.com/posts/12184891/*
@@ -12291,6 +12279,7 @@
 *://brighterbrainshealth.com/*
 *://brightredmelancholy.com/*
 *://brightstar-movie.jp/*
+*://brightx.jp/*
 *://brilliant-feb.com/*
 *://bririantgreen.com/*
 *://broadcastutopia.com/*
@@ -13132,6 +13121,7 @@
 *://dojinrd.com/*
 *://dokdok2023.jp/*
 *://dokidoki-info.com/*
+*://dokigensen-magazin.com/*
 *://dokodekau.hatenablog.com/*
 *://dokopon.com/*
 *://dokukinokoblog.com/*
@@ -13148,6 +13138,7 @@
 *://donnamodernaonline.com/*
 *://door.popzoo.xyz/*
 *://dopa-game.jp/*
+*://dopyumanga.wpx.jp/*
 *://doragon-rinchan.com/*
 *://dorama-anime.com/*
 *://dorama-netabare.com/*
@@ -13183,6 +13174,7 @@
 *://doujin-maturi.com/*
 *://doujin-mitsukeru.com/*
 *://doujin-ntr.com/*
+*://doujin-raw.com/*
 *://doujin-select.net/*
 *://doujin-selection.com/*
 *://doujin-share.com/*
@@ -14131,6 +14123,7 @@
 *://gamerom.blog129.fc2.com/*
 *://games.hnt.co.jp/*
 *://gamesblog0.blog63.fc2.com/*
+*://gameseijininspirata.com/*
 *://gamesoku.dreamlog.jp/*
 *://gaming-select.com/*
 *://gamingpcselect.sakura.ne.jp/*
@@ -15342,6 +15335,7 @@
 *://j-internship.jp/*
 *://j-rocklove.com/*
 *://j-seiji.blog.jp/*
+*://j-t-n.jp/*
 *://j7p.jp/*
 *://ja-beta-reactjs-org.vercel.app/*
 *://ja.all10soft.com/*
@@ -15513,6 +15507,7 @@
 *://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
 *://jtuto.com/*
+*://ju.mc-info.jp/*
 *://juanitomx.com/*
 *://judymzungu.com/*
 *://jufusion.com/*
@@ -16536,6 +16531,7 @@
 *://manga1001.club.atlaq.com/*
 *://manga1001.pro.atlaq.com/*
 *://manga2.md-sass.com/*
+*://manga2026.wew.jp/*
 *://mangaair.xsrv.jp/*
 *://mangaanime-voice.com/*
 *://mangab.jp/*
@@ -16675,6 +16671,7 @@
 *://mayutan.com/*
 *://mb.epochtimes.jp/*
 *://mbp-shizuoka.com/*
+*://mc-info.jp/*
 *://mcafeewebadvisor.com/*
 *://mcd-mop.onelink.me/*
 *://mce-rtworld.com/*
@@ -16965,6 +16962,7 @@
 *://modzmania.com/*
 *://modzod.com/*
 *://modzozo.com/*
+*://moeclo.ldblog.jp/*
 *://moecomic18.blog/*
 *://moedigi.com/*
 *://moeeeani.blog.jp/*
@@ -18311,6 +18309,7 @@
 *://otokujouhou.org/*
 *://otomeexpert.com/*
 *://otona-comic.com/*
+*://otona-freecomic.jp/*
 *://otonaclub.mixh.jp/*
 *://otonakensaku.com/*
 *://otonano-erokatsu.net/*
@@ -20088,6 +20087,7 @@
 *://t-annex.com/*
 *://t-ln.ru/*
 *://t-mall.tsite.jp/shop/1468*
+*://t-ment.jp/*
 *://t-onefat.com/*
 *://t-syou.jp/*
 *://t.mailinboxes.me/*
