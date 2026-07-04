@@ -1131,6 +1131,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||asifkhanshakir.com^$document
 ||asilisas.buzz^$document
 ||asitanokakehasi.blog.ss-blog.jp^$document
+||asitanotane.hatenablog.com^$document
 ||asjapanesu.click^$document
 ||ask-dev.ru^$document
 ||askchords.com^$document

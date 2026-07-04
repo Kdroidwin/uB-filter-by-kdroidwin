@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://asitanotane.hatenablog.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11803,6 +11802,7 @@
 *://asifkhanshakir.com/*
 *://asilisas.buzz/*
 *://asitanokakehasi.blog.ss-blog.jp/*
+*://asitanotane.hatenablog.com/*
 *://asjapanesu.click/*
 *://ask-dev.ru/*
 *://askchords.com/*
