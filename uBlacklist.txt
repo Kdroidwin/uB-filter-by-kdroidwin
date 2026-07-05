@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://mycardloan.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17144,6 +17143,7 @@
 *://mybestblog1.com/*
 *://mybloganik26.com/*
 *://mybouzu.info/*
+*://mycardloan.com/*
 *://mycolorfulcolor.com/*
 *://myfavoritetopics.net/*
 *://myfreesoft.ru/*

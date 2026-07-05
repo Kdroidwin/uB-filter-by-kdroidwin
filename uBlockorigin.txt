@@ -6566,6 +6566,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mybestblog1.com^$document
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
+||mycardloan.com^$document
 ||mycolorfulcolor.com^$document
 ||myfavoritetopics.net^$document
 ||myfreesoft.ru^$document
