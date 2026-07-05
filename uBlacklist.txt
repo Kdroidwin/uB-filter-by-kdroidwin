@@ -3,8 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://missavtv.com/*
-*://news.infoseek.co.jp/article/prtimes_*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16877,6 +16875,7 @@
 *://missav.com/*
 *://missav2026-doujin.com/*
 *://missav39.jp/*
+*://missavtv.com/*
 *://missfanzaav.com/*
 *://misuteri-enblog.com/*
 *://mitemi-n.jp/*
@@ -17378,6 +17377,7 @@
 *://news-vision.jp/*
 *://news-wakaru.com/*
 *://news.eeany.cn/*
+*://news.infoseek.co.jp/article/prtimes_*
 *://news.mynavi.jp/article/20180421-chrome/*
 *://news.mynavi.jp/securitysoft/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*

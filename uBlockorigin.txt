@@ -6294,6 +6294,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
+||missavtv.com^$document
 ||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
 ||mitemi-n.jp^$document
