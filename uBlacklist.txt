@@ -23985,5 +23985,3 @@ title/顔画像やFacebook/
 title/顔画像やface/
 title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
-title/馴れ初めは/
-title/馴れ初めも/
