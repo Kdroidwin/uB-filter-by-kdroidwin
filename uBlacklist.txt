@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.uzzf.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -23047,6 +23046,7 @@
 *://www.uukklhk.xyz/*
 *://www.uwasa-suki.com/*
 *://www.uwasabanashi.com/*
+*://www.uzzf.com/*
 *://www.v81entertainment.com/*
 *://www.vaas-lt.com/*
 *://www.vacheron-constantin.cn/*

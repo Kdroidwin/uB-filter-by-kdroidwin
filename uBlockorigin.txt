@@ -12652,6 +12652,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.uukklhk.xyz^$document
 ||www.uwasa-suki.com^$document
 ||www.uwasabanashi.com^$document
+||www.uzzf.com^$document
 ||www.v81entertainment.com^$document
 ||www.vaas-lt.com^$document
 ||www.vacheron-constantin.cn^$document
