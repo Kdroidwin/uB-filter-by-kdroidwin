@@ -23764,7 +23764,6 @@
 *://zzaowbey.art/*
 *://zzdusxkchhxzrbgs.com/*
 /.*(tomoyoafuta).*/
-title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/(プロフ要確認)様/
 title/100%正規品/
 title/ADB Browser - Faster Web/
