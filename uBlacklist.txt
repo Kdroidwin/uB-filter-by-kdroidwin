@@ -1,14 +1,3 @@
-*://rawmanga.wew.jp/*
-*://wolfchant-metal.com/*
-*://hitomiman-momon.net/*
-*://missav55.jp/*
-*://www.sentoukia.com/*
-*://*.esuteparfam758.com/*
-*://guguguusan.blog.jp/*
-*://hentai-tok.com/*
-*://aduaff202501.wpx.jp/*
-*://manga-hitomi-la.com/*
-*://www.eromanga-doujin-hentai2000.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -3525,6 +3514,7 @@
 *://*.eromanga-yomitai.work/*
 *://*.es/comment.php?n=*
 *://*.estudiopepa.jp/*
+*://*.esuteparfam758.com/*
 *://*.events/?a=0*
 *://*.events/?a=1*
 *://*.events/?a=2*
@@ -11212,6 +11202,7 @@
 *://adpeak.net/*
 *://ads.google.cn/*
 *://adspamblock.com/*
+*://aduaff202501.wpx.jp/*
 *://adult-ai.net/*
 *://adult-hkk.net/*
 *://adult-manga-dojin.com/*
@@ -14520,6 +14511,7 @@
 *://gshade.org/*
 *://gtvktae.cn/*
 *://guesswhat-blog.com/*
+*://guguguusan.blog.jp/*
 *://guguloo.xyz/*
 *://guidesinzion.online/*
 *://gulftestinglab.com/*
@@ -14777,6 +14769,7 @@
 *://hentai-raw-manga.jp/*
 *://hentai-raw.com/*
 *://hentai-raw.net/*
+*://hentai-tok.com/*
 *://hentai.coffee-days.jp/*
 *://hentai.gger.jp/*
 *://hentai.hit-song-ranking.com/*
@@ -14909,6 +14902,7 @@
 *://hitomila.co.jp/*
 *://hitomiland.com/*
 *://hitomilla.com/*
+*://hitomiman-momon.net/*
 *://hitomin.wpx.jp/*
 *://hitomisiri.com/*
 *://hitononeko.com/*
@@ -16503,6 +16497,7 @@
 *://manga-ebookservice.com/*
 *://manga-ganma.com/*
 *://manga-heaven.net/*
+*://manga-hitomi-la.com/*
 *://manga-hitomi.jp/*
 *://manga-legend.com/*
 *://manga-library.com/*
@@ -16886,6 +16881,7 @@
 *://missav.com/*
 *://missav2026-doujin.com/*
 *://missav39.jp/*
+*://missav55.jp/*
 *://missavtv.com/*
 *://missfanzaav.com/*
 *://misuteri-enblog.com/*
@@ -18886,6 +18882,7 @@
 *://rawapk.com/*
 *://rawcomic.wew.jp/*
 *://rawmanga.jp/*
+*://rawmanga.wew.jp/*
 *://rawmanga.wpx.jp/*
 *://rawmangaraw.com/*
 *://ray-terrace.co.jp/cheap-vpn/*
@@ -21193,6 +21190,7 @@
 *://wlrqwnp.art/*
 *://wo.seven-area.com/*
 *://woads438.almgo.my/*
+*://wolfchant-metal.com/*
 *://wolfg.x0.com/*
 *://wolfsakusaku.net/*
 *://wonda-onepiece22.jp/*
@@ -21791,6 +21789,7 @@
 *://www.erohimedoujin.com/*
 *://www.eromanga-attack2000.net/*
 *://www.eromanga-doujin-hentai01.net/*
+*://www.eromanga-doujin-hentai2000.net/*
 *://www.eromanga-erocomic-matome.net/*
 *://www.eromanga-muryou-eroman.net/*
 *://www.eromanga-muryou-hitomi-1999.net/*
@@ -22775,6 +22774,7 @@
 *://www.semicolonworld.com/*
 *://www.sengawa-gekijo.jp/*
 *://www.senjutsu.jp/*
+*://www.sentoukia.com/*
 *://www.setesdal.info/*
 *://www.sewellbedliningsinc.com/*
 *://www.sferadistribuzione.it/prize/*

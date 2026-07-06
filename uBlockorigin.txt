@@ -512,6 +512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adpeak.net^$document
 ||ads.google.cn^$document
 ||adspamblock.com^$document
+||aduaff202501.wpx.jp^$document
 ||adult-ai.net^$document
 ||adult-hkk.net^$document
 ||adult-manga-dojin.com^$document
@@ -3884,6 +3885,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gshade.org^$document
 ||gtvktae.cn^$document
 ||guesswhat-blog.com^$document
+||guguguusan.blog.jp^$document
 ||guguloo.xyz^$document
 ||guidesinzion.online^$document
 ||gulftestinglab.com^$document
@@ -4142,6 +4144,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hentai-raw-manga.jp^$document
 ||hentai-raw.com^$document
 ||hentai-raw.net^$document
+||hentai-tok.com^$document
 ||hentai.coffee-days.jp^$document
 ||hentai.gger.jp^$document
 ||hentai.hit-song-ranking.com^$document
@@ -4275,6 +4278,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomila.co.jp^$document
 ||hitomiland.com^$document
 ||hitomilla.com^$document
+||hitomiman-momon.net^$document
 ||hitomin.wpx.jp^$document
 ||hitomisiri.com^$document
 ||hitononeko.com^$document
@@ -5903,6 +5907,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga-ebookservice.com^$document
 ||manga-ganma.com^$document
 ||manga-heaven.net^$document
+||manga-hitomi-la.com^$document
 ||manga-hitomi.jp^$document
 ||manga-legend.com^$document
 ||manga-library.com^$document
@@ -6294,6 +6299,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
+||missav55.jp^$document
 ||missavtv.com^$document
 ||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
@@ -8341,6 +8347,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rawapk.com^$document
 ||rawcomic.wew.jp^$document
 ||rawmanga.jp^$document
+||rawmanga.wew.jp^$document
 ||rawmanga.wpx.jp^$document
 ||rawmangaraw.com^$document
 ||ray-terrace.co.jp/cheap-vpn^$document
@@ -10783,6 +10790,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wlrqwnp.art^$document
 ||wo.seven-area.com^$document
 ||woads438.almgo.my^$document
+||wolfchant-metal.com^$document
 ||wolfg.x0.com^$document
 ||wolfsakusaku.net^$document
 ||wonda-onepiece22.jp^$document
@@ -11384,6 +11392,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.erohimedoujin.com^$document
 ||www.eromanga-attack2000.net^$document
 ||www.eromanga-doujin-hentai01.net^$document
+||www.eromanga-doujin-hentai2000.net^$document
 ||www.eromanga-erocomic-matome.net^$document
 ||www.eromanga-muryou-eroman.net^$document
 ||www.eromanga-muryou-hitomi-1999.net^$document
@@ -12364,6 +12373,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.semicolonworld.com^$document
 ||www.sengawa-gekijo.jp^$document
 ||www.senjutsu.jp^$document
+||www.sentoukia.com^$document
 ||www.setesdal.info^$document
 ||www.sewellbedliningsinc.com^$document
 ||www.sferadistribuzione.it/prize^$document
