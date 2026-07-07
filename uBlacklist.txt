@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://gunma-ichiba.jp/*
-*://comi-comi-attack.com/*
-*://nijigen.joshiana-room.com/*
-*://*.hiraku946.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17509,6 +17505,7 @@
 *://nihon-ichi.jp/*
 *://niigata.mypl.net/*
 *://niji.e-r-o-anime.xyz/*
+*://nijigen.joshiana-room.com/*
 *://nijiholo-local.jp/*
 *://nijihorosokuvtubermatome.com/*
 *://nijiironosakana.com/*

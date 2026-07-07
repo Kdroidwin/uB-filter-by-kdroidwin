@@ -6938,6 +6938,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nihon-ichi.jp^$document
 ||niigata.mypl.net^$document
 ||niji.e-r-o-anime.xyz^$document
+||nijigen.joshiana-room.com^$document
 ||nijiholo-local.jp^$document
 ||nijihorosokuvtubermatome.com^$document
 ||nijiironosakana.com^$document
