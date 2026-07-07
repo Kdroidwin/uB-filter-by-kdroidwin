@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://hondaken.salon/*
 *://*.55276.net/*
 *://www.aimusic.salon/*
 *://*.a3erf.com/*
