@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://note.com/ihayato/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17744,6 +17743,7 @@
 *://note.com/hsp_kazu/*
 *://note.com/huge_roses2687/*
 *://note.com/icchi_thoughts/*
+*://note.com/ihayato/*
 *://note.com/ihci_adeki/*
 *://note.com/ikkyu_green/*
 *://note.com/imyfone_jp*
