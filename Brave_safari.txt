@@ -4367,6 +4367,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||homl.info^$document
 ||hon-de-bokin.jp^$document
 ||honcierge.jp^$document
+||hondaken.salon^$document
 ||hondastjohns.com^$document
 ||honey82.com^$document
 ||hongfu.jp^$document
@@ -11031,6 +11032,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.aichi-now.cn^$document
 ||www.aifbmhc.cn^$document
 ||www.ailabsuccess.com^$document
+||www.aimusic.salon^$document
 ||www.aione.co.jp^$document
 ||www.airplay.co.uk^$document
 ||www.ais-esim.com^$document

@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://hondaken.salon/*
 *://*.55276.net/*
-*://www.aimusic.salon/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -14994,6 +14992,7 @@
 *://homl.info/*
 *://hon-de-bokin.jp/*
 *://honcierge.jp/*
+*://hondaken.salon/*
 *://hondastjohns.com/*
 *://honey82.com/*
 *://hongfu.jp/*
@@ -21429,6 +21428,7 @@
 *://www.aichi-now.cn/*
 *://www.aifbmhc.cn/*
 *://www.ailabsuccess.com/*
+*://www.aimusic.salon/*
 *://www.aione.co.jp/*
 *://www.airplay.co.uk/*
 *://www.ais-esim.com/*
