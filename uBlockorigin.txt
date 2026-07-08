@@ -6314,6 +6314,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||minagu.co.jp^$document
 ||minahina.com^$document
 ||minamikublog.com^$document
+||mindaxis.me^$document
 ||mindhack2ch.com^$document
 ||mindsk.ru^$document
 ||mindundermuscle.com^$document
@@ -8889,6 +8890,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||satomin.club^$document
 ||satomoka.com^$document
 ||satomusubi.jp^$document
+||satori-store.vercel.app^$document
 ||satori88.com^$document
 ||satoristudio.net^$document
 ||satoritalk.jp^$document

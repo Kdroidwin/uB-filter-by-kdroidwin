@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://mindaxis.me/*
-*://satori-store.vercel.app/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16899,6 +16897,7 @@
 *://minacle.tokyo/*
 *://minahina.com/*
 *://minamikublog.com/*
+*://mindaxis.me/*
 *://mindhack2ch.com/*
 *://mindsk.ru/*
 *://mindundermuscle.com/*
@@ -19401,6 +19400,7 @@
 *://satomin.club/*
 *://satomoka.com/*
 *://satomusubi.jp/*
+*://satori-store.vercel.app/*
 *://satori88.com/*
 *://satoristudio.net/*
 *://satoritalk.jp/*
