@@ -933,6 +933,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aokita-law.com^$document
 ||aonatsu.jp^$document
 ||aorus.shop^$document
+||aosalonai.com^$document
 ||aoshima-kenta.jp^$document
 ||aoyama-zero.com^$document
 ||aoyjpcgu.life^$document

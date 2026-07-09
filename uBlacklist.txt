@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://aosalonai.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -11607,6 +11606,7 @@
 *://aoiumiblog.com/*
 *://aokiin.com/*
 *://aonatsu.jp/*
+*://aosalonai.com/*
 *://aoshima-kenta.jp/*
 *://aoyama-zero.com/*
 *://aoyjpcgu.life/*

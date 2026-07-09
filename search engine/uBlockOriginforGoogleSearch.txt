@@ -734,6 +734,7 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aoiumiblog.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aokiin.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aonatsu.jp"][data-ved]:upward(3)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aosalonai.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aoshima-kenta.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aoyama-zero.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="aoyjpcgu.life"][data-ved]:upward(3)
