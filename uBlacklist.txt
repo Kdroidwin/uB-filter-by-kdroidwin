@@ -2,31 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://dribbble.com/*
-*://tl.modw.net/*
-*://victorraulrr.net/*
-*://thinkkers.com/*
-*://androidprog.com/*
-*://fuzyapk.io/*
-*://*.filerox.com/*
-*://filerox.com/*
-*://netmodflix.com/*
-*://apkzito.com/*
-*://www.apkdelisi.net/*
-*://apkgstore.co/*
-*://modlmh.cx/*
-*://nitflixapk.com/*
-*://www.netflixmod.com/*
-*://www.yunnx.com/*
-*://note.com/large_jaguar4528/*
-*://note.com/shogo_0125/*
-*://note.com/high_harihari/*
-*://note.com/2choozumou/*
-*://note.com/gadge_log/*
-*://note.com/it_introduce/*
-*://note.com/kotori_gadget/*
-*://note.com/thehikaku/*
-*://note.com/hayamamasami/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -3800,6 +3775,7 @@
 *://*.events/?z=7*
 *://*.events/?z=8*
 *://*.events/?z=9*
+*://*.filerox.com/*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
 *://*.fluffyfables.com/*
@@ -11531,6 +11507,7 @@
 *://androidloading.com/*
 *://androidnext.info/*
 *://androidos.net.cn/*
+*://androidprog.com/*
 *://androidsmart.github.io/*
 *://androidsp.com/*
 *://andronauticos.xyz/*
@@ -11659,6 +11636,7 @@
 *://apkdownloadforwindows.com/*
 *://apkfab.com/*
 *://apkfolks.com/*
+*://apkgstore.co/*
 *://apkgstore.com/*
 *://apkhex.com/*
 *://apkhome.net/*
@@ -11702,6 +11680,7 @@
 *://apktitan.com/*
 *://apktodo.io/*
 *://apkvision.org/*
+*://apkzito.com/*
 *://app-field.com/*
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
@@ -13315,6 +13294,7 @@
 *://dreaming-hill1539.yokohama/*
 *://dreamriverpress.com/*
 *://dressy.pla-cole.wedding/*
+*://dribbble.com/*
 *://dripmoreeu.com/*
 *://drivesurje.jp/*
 *://drollwolf.com/*
@@ -13879,6 +13859,7 @@
 *://filehippo.com/*
 *://filehippo.jp/*
 *://fileplanet.com/*
+*://filerox.com/*
 *://filmlocos.com/shop/*
 *://filmsjp.com/*
 *://filmsrpa.redeagle-security.com/*
@@ -14120,6 +14101,7 @@
 *://fuwafuwarilife.net/*
 *://fuyoyose.com/*
 *://fuyuhanabi.com/*
+*://fuzyapk.io/*
 *://fvte.pskgu.ru/*
 *://fvxdpbpv.r.us-east-1.awstrack.me/*
 *://fw-works-various.com/*
@@ -17043,6 +17025,7 @@
 *://modfyp.io/*
 *://modhello.com/*
 *://modilimitado.io/*
+*://modlmh.cx/*
 *://modsmaniac.com/*
 *://modspoti.com/*
 *://modtoapk.com/*
@@ -17439,6 +17422,7 @@
 *://netmirrors.org/*
 *://netmirrortv.com.in/*
 *://netmodapk.app/*
+*://netmodflix.com/*
 *://netori.dejidownloaddoujin.net/*
 *://netou.mion.main.jp/*
 *://netouyonews.net/*
@@ -17560,6 +17544,7 @@
 *://nita.blog.jp/*
 *://nitamono.nitadls.com/*
 *://niterune.com/*
+*://nitflixapk.com/*
 *://nithraplywoodandhardware.com/*
 *://niziero.net/*
 *://nizipro.com/*
@@ -17623,6 +17608,7 @@
 *://note.com/1121raian/*
 *://note.com/24hs_ksrr44/*
 *://note.com/2ch3ch/*
+*://note.com/2choozumou/*
 *://note.com/4jinooyaji/*
 *://note.com/50it/*
 *://note.com/5656remon5656/*
@@ -17717,6 +17703,7 @@
 *://note.com/fumiura/*
 *://note.com/futamen/*
 *://note.com/gad_hammocchi/*
+*://note.com/gadge_log/*
 *://note.com/gadget8/*
 *://note.com/gadget_news/*
 *://note.com/gadgeter_117/*
@@ -17751,7 +17738,9 @@
 *://note.com/hamu_3nd/*
 *://note.com/happy_cobra8643/*
 *://note.com/haraguchikazu/*
+*://note.com/hayamamasami/*
 *://note.com/herry/*
+*://note.com/high_harihari/*
 *://note.com/hima2b4/*
 *://note.com/hirokazumineral/*
 *://note.com/hirotoinfo/*
@@ -17781,6 +17770,7 @@
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
 *://note.com/iswanin2/*
+*://note.com/it_introduce/*
 *://note.com/itzakkilab/*
 *://note.com/j_yuto/*
 *://note.com/japan_cio_info/*
@@ -17822,6 +17812,7 @@
 *://note.com/koreaiimono/*
 *://note.com/koshiki_nakano/*
 *://note.com/kosuke_agos/*
+*://note.com/kotori_gadget/*
 *://note.com/kototamashacho/*
 *://note.com/kouichi_0703/*
 *://note.com/kuma_ai_studio/*
@@ -17832,6 +17823,7 @@
 *://note.com/kyari_mon/*
 *://note.com/l_mrk/*
 *://note.com/labo_rainbow/*
+*://note.com/large_jaguar4528/*
 *://note.com/left/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
@@ -17991,6 +17983,7 @@
 *://note.com/shinko_joho_news/*
 *://note.com/shinkouya_1453/*
 *://note.com/shinri_test/*
+*://note.com/shogo_0125/*
 *://note.com/shoji_orihara/*
 *://note.com/show6254/*
 *://note.com/shure8888/*
@@ -18025,6 +18018,7 @@
 *://note.com/tenorsharejp/*
 *://note.com/teraweb/*
 *://note.com/thase70/*
+*://note.com/thehikaku/*
 *://note.com/thug_business/*
 *://note.com/tiger_stlv/*
 *://note.com/tmg500/*
@@ -20495,6 +20489,7 @@
 *://theylive30.com/*
 *://theytpremium.com/*
 *://thijsvandenhaak.com/*
+*://thinkkers.com/*
 *://thiplog.pondya.com/*
 *://thirdeye24.com/*
 *://thisav.com/*
@@ -20539,6 +20534,7 @@
 *://tklog.work/*
 *://tkm-3.com/*
 *://tktktakunet.com/*
+*://tl.modw.net/*
 *://tlauncher.amebaownd.com/*
 *://tlauncher.co.com/*
 *://tlauncher.com.tr/*
@@ -21044,6 +21040,7 @@
 *://victon.jp/*
 *://victorlengler.com/*
 *://victorraulrr.info/*
+*://victorraulrr.net/*
 *://video-distribution.jp/*
 *://video-twimg-eroman.mystrikingly.com/*
 *://video.twimg.jp/*
@@ -21527,6 +21524,7 @@
 *://www.apk20.com/*
 *://www.apk3.com/*
 *://www.apk4fun.com/*
+*://www.apkdelisi.net/*
 *://www.apkfiles.com/*
 *://www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram/*
 *://www.apkmirror.com/apk/databite/graph-messenger/*
@@ -22599,6 +22597,7 @@
 *://www.nelpur.shop/*
 *://www.nemlis.com/*
 *://www.nesabamedia.com/*
+*://www.netflixmod.com/*
 *://www.netmirrors.app/*
 *://www.netoraseclub.com/*
 *://www.networkmoaleji2024.online/*
@@ -23302,6 +23301,7 @@
 *://www.yumee.online/*
 *://www.yumerohashi.com/*
 *://www.yunbiyo6.com/*
+*://www.yunnx.com/*
 *://www.yurakaze.com/*
 *://www.yurikago-blogu.com/*
 *://www.yurimmm3.com/*

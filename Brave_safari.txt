@@ -828,6 +828,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||androidloading.com^$document
 ||androidnext.info^$document
 ||androidos.net.cn^$document
+||androidprog.com^$document
 ||androidsmart.github.io^$document
 ||androidsp.com^$document
 ||andronauticos.xyz^$document
@@ -966,6 +967,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apkdownloadforwindows.com^$document
 ||apkfab.com^$document
 ||apkfolks.com^$document
+||apkgstore.co^$document
 ||apkgstore.com^$document
 ||apkhex.com^$document
 ||apkhome.net^$document
@@ -1010,6 +1012,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apktitan.com^$document
 ||apktodo.io^$document
 ||apkvision.org^$document
+||apkzito.com^$document
 ||app-field.com^$document
 ||app-games-casmanuus.xyz^$document
 ||app-games-outrundersele.xyz^$document
@@ -2646,6 +2649,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dreaming-hill1539.yokohama^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
+||dribbble.com^$document
 ||dripmoreeu.com^$document
 ||drivesurje.jp^$document
 ||drollwolf.com^$document
@@ -3217,6 +3221,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||filehippo.com^$document
 ||filehippo.jp^$document
 ||fileplanet.com^$document
+||filerox.com^$document
 ||filkhabr.com^$document
 ||filmlocos.com/shop^$document
 ||filmsjp.com^$document
@@ -3464,6 +3469,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fuwafuwarilife.net^$document
 ||fuyoyose.com^$document
 ||fuyuhanabi.com^$document
+||fuzyapk.io^$document
 ||fvte.pskgu.ru^$document
 ||fvxdpbpv.r.us-east-1.awstrack.me^$document
 ||fw-works-various.com^$document
@@ -6436,6 +6442,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||modfyp.io^$document
 ||modhello.com^$document
 ||modilimitado.io^$document
+||modlmh.cx^$document
 ||modsmaniac.com^$document
 ||modspoti.com^$document
 ||modtoapk.com^$document
@@ -6839,6 +6846,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netmirrors.org^$document
 ||netmirrortv.com.in^$document
 ||netmodapk.app^$document
+||netmodflix.com^$document
 ||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
 ||netouyonews.net^$document
@@ -6968,6 +6976,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nita.blog.jp^$document
 ||nitamono.nitadls.com^$document
 ||niterune.com^$document
+||nitflixapk.com^$document
 ||nithraplywoodandhardware.com^$document
 ||niziero.net^$document
 ||nizipro.com^$document
@@ -7032,6 +7041,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/1121raian^$document
 ||note.com/24hs_ksrr44^$document
 ||note.com/2ch3ch^$document
+||note.com/2choozumou^$document
 ||note.com/4jinooyaji^$document
 ||note.com/50it^$document
 ||note.com/5656remon5656^$document
@@ -7123,6 +7133,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/fumiura^$document
 ||note.com/futamen^$document
 ||note.com/gad_hammocchi^$document
+||note.com/gadge_log^$document
 ||note.com/gadget8^$document
 ||note.com/gadget_news^$document
 ||note.com/gadgeter_117^$document
@@ -7157,7 +7168,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/hamu_3nd^$document
 ||note.com/happy_cobra8643^$document
 ||note.com/haraguchikazu^$document
+||note.com/hayamamasami^$document
 ||note.com/herry^$document
+||note.com/high_harihari^$document
 ||note.com/hima2b4^$document
 ||note.com/hirokazumineral^$document
 ||note.com/hirotoinfo^$document
@@ -7186,6 +7199,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/iphone1678^$document
 ||note.com/iphone_air^$document
 ||note.com/iswanin2^$document
+||note.com/it_introduce^$document
 ||note.com/itzakkilab^$document
 ||note.com/j_yuto^$document
 ||note.com/japan_cio_info^$document
@@ -7227,6 +7241,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/koreaiimono^$document
 ||note.com/koshiki_nakano^$document
 ||note.com/kosuke_agos^$document
+||note.com/kotori_gadget^$document
 ||note.com/kototamashacho^$document
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
@@ -7237,6 +7252,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kyari_mon^$document
 ||note.com/l_mrk^$document
 ||note.com/labo_rainbow^$document
+||note.com/large_jaguar4528^$document
 ||note.com/left^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
@@ -7396,6 +7412,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/shinko_joho_news^$document
 ||note.com/shinkouya_1453^$document
 ||note.com/shinri_test^$document
+||note.com/shogo_0125^$document
 ||note.com/shoji_orihara^$document
 ||note.com/show6254^$document
 ||note.com/shure8888^$document
@@ -7430,6 +7447,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/tenorsharejp^$document
 ||note.com/teraweb^$document
 ||note.com/thase70^$document
+||note.com/thehikaku^$document
 ||note.com/thug_business^$document
 ||note.com/tiger_stlv^$document
 ||note.com/tmg500^$document
@@ -10014,6 +10032,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||theytpremium.com^$document
 ||thijsvandenhaak.com^$document
 ||thinbug.com^$document
+||thinkkers.com^$document
 ||thiplog.pondya.com^$document
 ||thirdeye24.com^$document
 ||thisav.com^$document
@@ -10062,6 +10081,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tklog.work^$document
 ||tkm-3.com^$document
 ||tktktakunet.com^$document
+||tl.modw.net^$document
 ||tlauncher.amebaownd.com^$document
 ||tlauncher.co.com^$document
 ||tlauncher.com.tr^$document
@@ -10586,6 +10606,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||victon.jp^$document
 ||victorlengler.com^$document
 ||victorraulrr.info^$document
+||victorraulrr.net^$document
 ||video-distribution.jp^$document
 ||video-twimg-eroman.mystrikingly.com^$document
 ||video.twimg.jp^$document
@@ -11104,6 +11125,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.apk20.com^$document
 ||www.apk3.com^$document
 ||www.apk4fun.com^$document
+||www.apkdelisi.net^$document
 ||www.apkfiles.com^$document
 ||www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram^$document
 ||www.apkmirror.com/apk/databite/graph-messenger^$document
@@ -12172,6 +12194,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.nelpur.shop^$document
 ||www.nemlis.com^$document
 ||www.nesabamedia.com^$document
+||www.netflixmod.com^$document
 ||www.netmirrors.app^$document
 ||www.netoraseclub.com^$document
 ||www.networkmoaleji2024.online^$document
@@ -12877,6 +12900,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.yumee.online^$document
 ||www.yumerohashi.com^$document
 ||www.yunbiyo6.com^$document
+||www.yunnx.com^$document
 ||www.yurakaze.com^$document
 ||www.yurikago-blogu.com^$document
 ||www.yurimmm3.com^$document
