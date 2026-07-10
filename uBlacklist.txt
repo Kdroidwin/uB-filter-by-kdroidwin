@@ -1,6 +1,12 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://gamekillerapp.com/*
+*://www.metatvapk.com/*
+*://*.xiaohei.com/*
+*://xiaohei.com/*
+*://getmodnow.com/*
+*://flixosm.com/*
 *://*.a3erf.com/*
 *://note.com/vs_item/*
 *://note.com/1525qualified/*
