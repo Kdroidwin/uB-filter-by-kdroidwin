@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://appleshinja.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -11704,6 +11703,7 @@
 *://applenge-media.com/*
 *://applepandac.com/*
 *://applepayer.net/*
+*://appleshinja.com/*
 *://appleslide.com/*
 *://appli-world.jp/posts/15380*
 *://appli-world.jp/posts/18197*

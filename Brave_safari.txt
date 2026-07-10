@@ -1035,6 +1035,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||applenge-media.com^$document
 ||applepandac.com^$document
 ||applepayer.net^$document
+||appleshinja.com^$document
 ||appleslide.com^$document
 ||appli-world.jp/posts/15380^$document
 ||appli-world.jp/posts/18197^$document
