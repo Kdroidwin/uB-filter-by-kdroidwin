@@ -3284,6 +3284,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||flgas.com^$document
 ||flhzjo.com^$document
 ||flix2day.com^$document
+||flixosm.com^$document
 ||float.fun^$document
 ||floatcenter.jp^$document
 ||floras.co.in^$document
@@ -3526,6 +3527,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gamegadget.jp^$document
 ||gamehub-lite.com^$document
 ||gamejksokuhou.com^$document
+||gamekillerapp.com^$document
 ||gamemodfree.com^$document
 ||gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se^$document
 ||gamepcfull.com^$document
@@ -3674,6 +3676,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getitintopc.com^$document
 ||getkmspico.com^$document
 ||getkmspico.medium.com^$document
+||getmodnow.com^$document
 ||getmodpc.net^$document
 ||getmodsapk.com/youtube-revanced-extended-mod-apk^$document
 ||getmodsapk.com^$document
@@ -7040,6 +7043,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.ambitiousai.co.jp^$document
 ||note.com/0219toton/n/n010fc309fe3e^$document
 ||note.com/1121raian^$document
+||note.com/1525qualified^$document
 ||note.com/24hs_ksrr44^$document
 ||note.com/2ch3ch^$document
 ||note.com/2choozumou^$document
@@ -7254,6 +7258,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/l_mrk^$document
 ||note.com/labo_rainbow^$document
 ||note.com/large_jaguar4528^$document
+||note.com/large_macaw8016^$document
 ||note.com/left^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
@@ -7343,6 +7348,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/orangeitems^$document
 ||note.com/oripa_kensyo^$document
 ||note.com/orisusarusan^$document
+||note.com/oshabaku^$document
 ||note.com/otosan_creation^$document
 ||note.com/outdoorlifestyle^$document
 ||note.com/oyvn^$document
@@ -7474,6 +7480,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/vivid_cosmos9883^$document
 ||note.com/viwizard_jp^$document
 ||note.com/vpn_lab^$document
+||note.com/vs_item^$document
 ||note.com/wareomou_yueni^$document
 ||note.com/watab2000^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
@@ -7872,6 +7879,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||outletfinalsale.com^$document
 ||outlookfestival.jp^$document
 ||output-egl.com^$document
+||outputsblog.com^$document
 ||overcoder.net^$document
 ||overforty-man.com^$document
 ||overlack.jp^$document
@@ -11338,6 +11346,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.codenong.com^$document
 ||www.coder.work^$document
 ||www.coimbranoivos.com^$document
+||www.cola507.com^$document
 ||www.colomboezio.com^$document
 ||www.colorfulbox.jp^$document
 ||www.columbia-fit.com^$document
@@ -12102,6 +12111,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.mercedesme.jp^$document
 ||www.mercure.jp^$document
 ||www.mermaidsofearth.com^$document
+||www.metatvapk.com^$document
 ||www.micasaluxuries.com^$document
 ||www.michelesantarsiere.it^$document
 ||www.micolla.co.jp^$document
@@ -12957,6 +12967,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xertinos.com^$document
 ||xharuchannel.com^$document
 ||xhentai.jp^$document
+||xiaohei.com^$document
 ||xingfulife.xyz^$document
 ||xiordiagonalbesos.com^$document
 ||xis2p9rqc.wydawnictwopbb.pl^$document

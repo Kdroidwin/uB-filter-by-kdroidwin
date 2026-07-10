@@ -1,20 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://gamekillerapp.com/*
-*://www.metatvapk.com/*
-*://*.xiaohei.com/*
-*://xiaohei.com/*
-*://getmodnow.com/*
-*://flixosm.com/*
 *://*.a3erf.com/*
-*://note.com/vs_item/*
-*://note.com/1525qualified/*
-*://note.com/large_macaw8016/*
 *://*.addness.co.jp/*
-*://www.cola507.com/*
-*://note.com/oshabaku/*
-*://outputsblog.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -10854,6 +10842,7 @@
 *://*.ws/?a.*
 *://*.wujigu.com/*
 *://*.xbuba.com/*
+*://*.xiaohei.com/*
 *://*.xmobile-allagi.jp/*
 *://*.xn--cckzbc7izeb1c5341c2y2d.jp/*
 *://*.xstack.ru/*
@@ -13931,6 +13920,7 @@
 *://flgas.com/*
 *://flhzjo.com/*
 *://flix2day.com/*
+*://flixosm.com/*
 *://float.fun/*
 *://floatcenter.jp/*
 *://floras.co.in/*
@@ -14169,6 +14159,7 @@
 *://gamegadget.jp/*
 *://gamehub-lite.com/*
 *://gamejksokuhou.com/*
+*://gamekillerapp.com/*
 *://gamemodfree.com/*
 *://gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se/*
 *://gamepcfull.com/*
@@ -14316,6 +14307,7 @@
 *://getitintopc.com/*
 *://getkmspico.com/*
 *://getkmspico.medium.com/*
+*://getmodnow.com/*
 *://getmodpc.net/*
 *://getmodsapk.com/*
 *://getmodsapk.com/youtube-revanced-extended-mod-apk/*
@@ -17619,6 +17611,7 @@
 *://note.ambitiousai.co.jp/*
 *://note.com/0219toton/n/n010fc309fe3e*
 *://note.com/1121raian/*
+*://note.com/1525qualified/*
 *://note.com/24hs_ksrr44/*
 *://note.com/2ch3ch/*
 *://note.com/2choozumou/*
@@ -17837,6 +17830,7 @@
 *://note.com/l_mrk/*
 *://note.com/labo_rainbow/*
 *://note.com/large_jaguar4528/*
+*://note.com/large_macaw8016/*
 *://note.com/left/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
@@ -17926,6 +17920,7 @@
 *://note.com/orangeitems/*
 *://note.com/oripa_kensyo/*
 *://note.com/orisusarusan/*
+*://note.com/oshabaku/*
 *://note.com/otosan_creation/*
 *://note.com/outdoorlifestyle/*
 *://note.com/oyvn/*
@@ -18057,6 +18052,7 @@
 *://note.com/vivid_cosmos9883/*
 *://note.com/viwizard_jp/*
 *://note.com/vpn_lab/*
+*://note.com/vs_item/*
 *://note.com/wareomou_yueni/*
 *://note.com/watab2000/*
 *://note.com/wataru057/n/n1616ce92e51f
@@ -18447,6 +18443,7 @@
 *://outletfinalsale.com/*
 *://outlookfestival.jp/*
 *://output-egl.com/*
+*://outputsblog.com/*
 *://overcoder.net/*
 *://overforty-man.com/*
 *://overlack.jp/*
@@ -21749,6 +21746,7 @@
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.coimbranoivos.com/*
+*://www.cola507.com/*
 *://www.colomboezio.com/*
 *://www.colorfulbox.jp/*
 *://www.columbia-fit.com/*
@@ -22514,6 +22512,7 @@
 *://www.mercedesme.jp/*
 *://www.mercure.jp/*
 *://www.mermaidsofearth.com/*
+*://www.metatvapk.com/*
 *://www.micasaluxuries.com/*
 *://www.micasita.fr/*.htm
 *://www.michelesantarsiere.it/*
@@ -23367,6 +23366,7 @@
 *://xertinos.com/*
 *://xharuchannel.com/*
 *://xhentai.jp/*
+*://xiaohei.com/*
 *://xingfulife.xyz/*
 *://xiordiagonalbesos.com/*
 *://xis2p9rqc.wydawnictwopbb.pl/*
