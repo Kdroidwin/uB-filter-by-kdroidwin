@@ -5,7 +5,6 @@
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
-*://appdraft.sakura.ne.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -11705,6 +11704,7 @@
 *://appbu.jp/*
 *://appdoze.com/*
 *://appdoze.net/*
+*://appdraft.sakura.ne.jp/*
 *://applenge-media.com/*
 *://applepandac.com/*
 *://applepayer.net/*

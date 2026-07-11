@@ -1033,6 +1033,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||appbu.jp^$document
 ||appdoze.com^$document
 ||appdoze.net^$document
+||appdraft.sakura.ne.jp^$document
 ||applenge-media.com^$document
 ||applepandac.com^$document
 ||applepayer.net^$document
