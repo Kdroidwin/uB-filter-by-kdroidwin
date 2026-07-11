@@ -3,10 +3,8 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://*.ajjnoj.blog.jp/*
-*://*.appdraft.sakura.ne.jp/*
 *://*.adpon.net/*
-*://adpon.net/*
+*://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -285,6 +283,7 @@
 *://*.apkshub.com/*
 *://*.apktodo.io/*
 *://*.app/ms/register?redirect=%2Findex.php?shopdetail/*
+*://*.appdraft.sakura.ne.jp/*
 *://*.ar/?a=0*
 *://*.ar/?a=1*
 *://*.ar/?a=2*
@@ -11208,6 +11207,7 @@
 *://adonisgreen.jp/*
 *://adown.itself.pics/*
 *://adpeak.net/*
+*://adpon.net/*
 *://ads.google.cn/*
 *://adspamblock.com/*
 *://aduaff202501.wpx.jp/*

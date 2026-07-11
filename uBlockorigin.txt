@@ -512,6 +512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adonisgreen.jp^$document
 ||adown.itself.pics^$document
 ||adpeak.net^$document
+||adpon.net^$document
 ||ads.google.cn^$document
 ||adspamblock.com^$document
 ||aduaff202501.wpx.jp^$document
