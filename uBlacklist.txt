@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://*.diagnoseo.com/*
-*://diagnoseo.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
@@ -2985,6 +2983,7 @@
 *://*.de/?_g=9
 *://*.dejidownloaddoujin.net/*
 *://*.developreference.com/*
+*://*.diagnoseo.com/*
 *://*.divxland.org/*
 *://*.dk/comment.php?*
 *://*.dmm-mania.com/*
@@ -13034,6 +13033,7 @@
 *://dhotiib0.tambuntuition.com/*
 *://di-academy.org/*
 *://diadozer.my1.ru/*
+*://diagnoseo.com/*
 *://dialcafe.tokyo/*
 *://dialhello.com/*
 *://diamondsrental.com/*

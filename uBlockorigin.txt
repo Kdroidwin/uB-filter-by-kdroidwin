@@ -2383,6 +2383,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dhotiib0.tambuntuition.com^$document
 ||di-academy.org^$document
 ||diadozer.my1.ru^$document
+||diagnoseo.com^$document
 ||dialcafe.tokyo^$document
 ||dialhello.com^$document
 ||diamondsrental.com^$document

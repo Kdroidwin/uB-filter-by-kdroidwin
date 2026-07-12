@@ -2126,6 +2126,7 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="dhotiib0.tambuntuition.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="di-academy.org"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="diadozer.my1.ru"][data-ved]:upward(3)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="diagnoseo.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="dialcafe.tokyo"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="dialhello.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="diamondsrental.com"][data-ved]:upward(3)
