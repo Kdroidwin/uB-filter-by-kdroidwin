@@ -24071,7 +24071,6 @@ title/熱愛発覚/
 title/特价/
 title/犯人は誰？名前/
 title/珍品】/
-title/現在の顔/
 title/生い立ちがすごい⁈/
 title/結婚した理由について徹底解説/
 title/結婚していた？/
@@ -24091,8 +24090,6 @@ title/販売割引商品/
 title/購入廉価/
 title/超便宜/
 title/超音波加湿器 - /
-title/転生も/
-title/顔バレ/
 title/顔写真はや高校は？結婚/
 title/顔画像やFacebook/
 title/顔画像やface/
