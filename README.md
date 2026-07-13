@@ -135,6 +135,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 役に立たないランキングサイトなど
   - 「〇〇 おすすめ」「〇〇 比較」
 
+- プレスリリースサイト
+  - PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
+
 - フィッシングサイト（偽サイト）
 
 - 誤情報サイト
@@ -160,7 +163,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 中身が広告・アフィリエイト中心
 
 - ドロップキャッチ
-- PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
+
 
 - 注意すべきTLD（悪用率が比較的高い）
   - `.best` `.click` `.top` `.cfd` `.cyou` `.sbs` `.cm` `.cf` `.my`
