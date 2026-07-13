@@ -407,6 +407,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||8mato.jp^$document
 ||8qkm8kho.danieladondi.it^$document
 ||91top.cn^$document
+||93rd-alljapanihc.jp^$document
 ||94.130.227.93^$document
 ||9510804.slot27.online^$document
 ||98kopi.ru^$document
@@ -494,6 +495,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||actualizate.ar^$document
 ||ad-nex.com^
 ||ad5a0.cn^$document
+||adablog123.blog.fc2.com^$document
 ||adathi-havicoco.com^$document
 ||adblock-browser.jp.uptodown.com^$document
 ||adblockbrowser.org^$document
@@ -1896,6 +1898,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chinesedialectgeography.jp^$document
 ||chingqiu.com^$document
 ||chirkrpy.jettysuites.com^$document
+||chisan-eco.jp^$document
 ||chiyuki.jp^$document
 ||chlog.work^$document
 ||chmate.en.greenxf.com^$document
@@ -2560,6 +2563,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-maturi.com^$document
 ||doujin-mitsukeru.com^$document
 ||doujin-ntr.com^$document
+||doujin-ranks.com^$document
 ||doujin-raw.com^$document
 ||doujin-select.net^$document
 ||doujin-selection.com^$document
@@ -3000,6 +3004,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-jp.org^$document
 ||eromanga-library.com^$document
 ||eromanga-mangacoo.com^$document
+||eromanga-muryou-hitomi-50.net^$document
 ||eromanga-muryou.jp^$document
 ||eromanga-navi.net^$document
 ||eromanga-preview.com^$document
@@ -4104,6 +4109,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||haraguti.com^$document
 ||harajuku-life.com^$document
 ||harbingerfurniture.lt^$document
+||hardboiled-wieneryakisoba.jp^$document
 ||harehare-style.com^$document
 ||haremarublog.com^$document
 ||harikastore.online^$document
@@ -4310,6 +4316,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-hentairaw.lsrv.jp^$document
 ||hitomi-laa.net^$document
 ||hitomi-manga-hentai.com^$document
+||hitomi-mangaraw01.com^$document
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
@@ -4332,6 +4339,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitoshitorendo.blog.ss-blog.jp^$document
 ||hitotumakansatu.net^$document
 ||hitoyoshi-hp.jp^$document
+||hitozuma-ntr-manga.com^$document
 ||hitsukeyaku.com^$document
 ||hituzinokegari.com^$document
 ||hiwatashishachu.jp^$document
@@ -5101,6 +5109,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||katuru.com^$document
 ||katzesokuhou.com^$document
 ||kavehogal.agenturasusan.sk^$document
+||kawagoe-hatsukari.jp^$document
 ||kawagopro.com^$document
 ||kawai-yusuke.info^$document
 ||kawaii-osu.com^$document
@@ -5353,6 +5362,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kohtaroblog.com^$document
 ||koicha1990.com^$document
 ||koidora.com^$document
+||koikiss-comic.com^$document
 ||koimitsu.com^$document
 ||koimousagi.com^$document
 ||koisnap.com^$document
@@ -5965,6 +5975,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga-bang.com^$document
 ||manga-comicoro.com^$document
 ||manga-dl.pai-navi.com^$document
+||manga-dokuha.com^$document
 ||manga-doujinero.com^$document
 ||manga-ebookservice.com^$document
 ||manga-ganma.com^$document
@@ -5981,6 +5992,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga-style.jp^$document
 ||manga-tachiyomi.com^$document
 ||manga-teacher.com^$document
+||manga-webp.com^$document
 ||manga-world.me^$document
 ||manga.aoyama-zero.com^$document
 ||manga.chateaucom.jp^$document
@@ -6009,6 +6021,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga1000.su^$document
 ||manga1001.club.atlaq.com^$document
 ||manga1001.pro.atlaq.com^$document
+||manga18r.com^$document
 ||manga2.md-sass.com^$document
 ||manga2026.wew.jp^$document
 ||mangaair.xsrv.jp^$document
@@ -6024,6 +6037,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mangaland.wpx.jp^$document
 ||mangamotomaru.com^$document
 ||mangamu.com^$document
+||mangan-king.com^$document
 ||mangan1.seesaa.net^$document
 ||manganista.net^$document
 ||mangaportal.jp^$document
@@ -6289,6 +6303,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||miiio.jp^$document
 ||miima.jp^$document
 ||miiolo.com^$document
+||mijika-ero.net^$document
 ||mika-blog28.com^$document
 ||mikafs.com^$document
 ||mikanillust.work^$document
@@ -6688,6 +6703,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nakadori.yokohama^$document
 ||nakamo.top^$document
 ||nakanoman.net^$document
+||nakao-co.jp^$document
 ||nakarashi.wpx.jp^$document
 ||nakasuga13.com^$document
 ||nakayoshiblog.com^$document
@@ -8118,6 +8134,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||plrm.me^$document
 ||plsd0nate.github.io^$document
 ||plth.me^$document
+||plumadona.com^$document
 ||plumblossombakery.com^$document
 ||plumeria-esthe.jp^$document
 ||plus.fm-p.jp^$document
@@ -8441,6 +8458,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ratio.thyshopp.life^$document
 ||rausu-daiichi-hotel.jp^$document
 ||raw-momonga.com^$document
+||raw.45rina.com^$document
 ||raw.dmm-mania.com^$document
 ||raw.githubusercontent.com/*/*KMS*auto*$all
 ||raw.githubusercontent.com/*/*KMS*pico*$all
@@ -10782,6 +10800,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wani-digi.com^$document
 ||wansei.com^$document
 ||wanwanwan.co.jp^$document
+||wanwonderfes.com^$document
 ||wapfdzs.cn^$document
 ||waplusapp.org^$document
 ||waqr.xxasj.cn^$document
@@ -10926,6 +10945,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wondia.net^$document
 ||woodlandgreencondo.com^$document
 ||woods-of-hamada.com^$document
+||wordsandsounds.jp^$document
 ||wordsoption.com^$document
 ||work-mama-life.com^$document
 ||work-well.org^$document
@@ -13032,6 +13052,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com^$document
 ||xn--n8j6d907hrs8bj2b2h181k.com^$document
 ||xn--n8jp1dzg352nqxguyjbwdy31bkf1alt3c.com^$document
+||xn--n8jp1dzg801ngmaq12a4qui95g.com^$document
 ||xn--n8jtc6ad0nv19pp9cstj8xjljc.net^$document
 ||xn--n8jtcxe5c344rqxguyj4o1dj8yb.com^$document
 ||xn--n8jyp3b884top8c.net^$document

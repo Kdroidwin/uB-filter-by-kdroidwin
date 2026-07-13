@@ -3,27 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://eromanga-muryou-hitomi-50.net/*
-*://raw.45rina.com/*
-*://kawagoe-hatsukari.jp/*
-*://wordsandsounds.jp/*
-*://plumadona.com/*
-*://xn--n8jp1dzg801ngmaq12a4qui95g.com/*
-*://hitozuma-ntr-manga.com/*
-*://nakao-co.jp/*
-*://manga18r.com/*
-*://hitomi-mangaraw01.com/*
-*://wanwonderfes.com/*
-*://chisan-eco.jp/*
-*://koikiss-comic.com/*
-*://93rd-alljapanihc.jp/*
-*://manga-dokuha.com/*
-*://doujin-ranks.com/*
-*://hardboiled-wieneryakisoba.jp/*
-*://manga-webp.com/*
-*://mangan-king.com/*
-*://mijika-ero.net/*
-*://adablog123.blog.fc2.com/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11125,6 +11104,7 @@
 *://8mato.jp/*
 *://8qkm8kho.danieladondi.it/*
 *://91top.cn/*
+*://93rd-alljapanihc.jp/*
 *://94.130.227.93/*
 *://9510804.slot27.online/*
 *://98kopi.ru/*
@@ -11210,6 +11190,7 @@
 *://activators4windows.com/*
 *://actualizate.ar/*
 *://ad5a0.cn/*
+*://adablog123.blog.fc2.com/*
 *://adathi-havicoco.com/*
 *://adblock-browser.jp.uptodown.com/*
 *://adblockbrowser.org/*
@@ -12576,6 +12557,7 @@
 *://chinesedialectgeography.jp/*
 *://chingqiu.com/*
 *://chirkrpy.jettysuites.com/*
+*://chisan-eco.jp/*
 *://chiyuki.jp/*
 *://chlog.work/*
 *://chmate.en.greenxf.com/*
@@ -13230,6 +13212,7 @@
 *://doujin-maturi.com/*
 *://doujin-mitsukeru.com/*
 *://doujin-ntr.com/*
+*://doujin-ranks.com/*
 *://doujin-raw.com/*
 *://doujin-select.net/*
 *://doujin-selection.com/*
@@ -13667,6 +13650,7 @@
 *://eromanga-jp.org/*
 *://eromanga-library.com/*
 *://eromanga-mangacoo.com/*
+*://eromanga-muryou-hitomi-50.net/*
 *://eromanga-muryou.jp/*
 *://eromanga-navi.net/*
 *://eromanga-preview.com/*
@@ -14756,6 +14740,7 @@
 *://haraguti.com/*
 *://harajuku-life.com/*
 *://harbingerfurniture.lt/*
+*://hardboiled-wieneryakisoba.jp/*
 *://harehare-style.com/*
 *://haremarublog.com/*
 *://harikastore.online/*
@@ -14961,6 +14946,7 @@
 *://hitomi-hentairaw.lsrv.jp/*
 *://hitomi-laa.net/*
 *://hitomi-manga-hentai.com/*
+*://hitomi-mangaraw01.com/*
 *://hitomi-nhentai.com/*
 *://hitomi-official.jp/*
 *://hitomi-raw-eromanga.com/*
@@ -14983,6 +14969,7 @@
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hitotumakansatu.net/*
 *://hitoyoshi-hp.jp/*
+*://hitozuma-ntr-manga.com/*
 *://hitsukeyaku.com/*
 *://hituzinokegari.com/*
 *://hiwatashishachu.jp/*
@@ -15736,6 +15723,7 @@
 *://katuru.com/*
 *://katzesokuhou.com/*
 *://kavehogal.agenturasusan.sk/*
+*://kawagoe-hatsukari.jp/*
 *://kawagopro.com/*
 *://kawai-yusuke.info/*
 *://kawaii-osu.com/*
@@ -15984,6 +15972,7 @@
 *://kohtaroblog.com/*
 *://koicha1990.com/*
 *://koidora.com/*
+*://koikiss-comic.com/*
 *://koimitsu.com/*
 *://koimousagi.com/*
 *://koisnap.com/*
@@ -16582,6 +16571,7 @@
 *://manga-bang.com/*
 *://manga-comicoro.com/*
 *://manga-dl.pai-navi.com/*
+*://manga-dokuha.com/*
 *://manga-doujinero.com/*
 *://manga-ebookservice.com/*
 *://manga-ganma.com/*
@@ -16598,6 +16588,7 @@
 *://manga-style.jp/*
 *://manga-tachiyomi.com/*
 *://manga-teacher.com/*
+*://manga-webp.com/*
 *://manga-world.me/*
 *://manga.aoyama-zero.com/*
 *://manga.chateaucom.jp/*
@@ -16626,6 +16617,7 @@
 *://manga1000.su/*
 *://manga1001.club.atlaq.com/*
 *://manga1001.pro.atlaq.com/*
+*://manga18r.com/*
 *://manga2.md-sass.com/*
 *://manga2026.wew.jp/*
 *://mangaair.xsrv.jp/*
@@ -16641,6 +16633,7 @@
 *://mangaland.wpx.jp/*
 *://mangamotomaru.com/*
 *://mangamu.com/*
+*://mangan-king.com/*
 *://mangan1.seesaa.net/*
 *://manganista.net/*
 *://mangaportal.jp/*
@@ -16901,6 +16894,7 @@
 *://miiio.jp/*
 *://miima.jp/*
 *://miiolo.com/*
+*://mijika-ero.net/*
 *://mika-blog28.com/*
 *://mikafs.com/*
 *://mikanillust.work/*
@@ -17292,6 +17286,7 @@
 *://nakadori.yokohama/*
 *://nakamo.top/*
 *://nakanoman.net/*
+*://nakao-co.jp/*
 *://nakarashi.wpx.jp/*
 *://nakasuga13.com/*
 *://nakayoshiblog.com/*
@@ -18710,6 +18705,7 @@
 *://plrm.me/*
 *://plsd0nate.github.io/*
 *://plth.me/*
+*://plumadona.com/*
 *://plumblossombakery.com/*
 *://plumeria-esthe.jp/*
 *://plus.fm-p.jp/*
@@ -19006,6 +19002,7 @@
 *://ratio.thyshopp.life/*
 *://rausu-daiichi-hotel.jp/*
 *://raw-momonga.com/*
+*://raw.45rina.com/*
 *://raw.dmm-mania.com/*
 *://raw.wpx.jp/*
 *://raw0105.wew.jp/*
@@ -21225,6 +21222,7 @@
 *://wani-digi.com/*
 *://wansei.com/*
 *://wanwanwan.co.jp/*
+*://wanwonderfes.com/*
 *://wapfdzs.cn/*
 *://waplusapp.org/*
 *://waqr.xxasj.cn/*
@@ -21353,6 +21351,7 @@
 *://wondia.net/*
 *://woodlandgreencondo.com/*
 *://woods-of-hamada.com/*
+*://wordsandsounds.jp/*
 *://wordsoption.com/*
 *://work-mama-life.com/*
 *://work-well.org/*
@@ -23453,6 +23452,7 @@
 *://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*
 *://xn--n8j6d907hrs8bj2b2h181k.com/*
 *://xn--n8jp1dzg352nqxguyjbwdy31bkf1alt3c.com/*
+*://xn--n8jp1dzg801ngmaq12a4qui95g.com/*
 *://xn--n8jtc6ad0nv19pp9cstj8xjljc.net/*
 *://xn--n8jtcxe5c344rqxguyj4o1dj8yb.com/*
 *://xn--n8jyp3b884top8c.net/*
