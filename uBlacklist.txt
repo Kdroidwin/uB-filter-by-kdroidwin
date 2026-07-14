@@ -1,3 +1,12 @@
+*://eromangamania.com/*
+*://yogamotto.com/*
+*://doujin.yogamotto.com/*
+*://*.yogamotto.com/*
+*://amulai.blog/*
+*://eromanga-kensaku.com/*
+*://www.doujinflix.com/*
+*://hippy-bopotra.ssl-lolipop.jp/*
+*://gravia-navi.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
