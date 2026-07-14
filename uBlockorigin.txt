@@ -4742,6 +4742,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||istguzelmi.online^$document
 ||it-biz.online^$document
 ||it-cxy.top^$document
+||it-kingdom.com^$document
 ||it-tehnik.ru^$document
 ||it-trend.jp/vpn/article/48-0076^$document
 ||it-trend.jp^$document

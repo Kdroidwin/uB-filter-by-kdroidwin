@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://it-kingdom.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -15365,6 +15364,7 @@
 *://istguzelmi.online/*
 *://it-biz.online/*
 *://it-cxy.top/*
+*://it-kingdom.com/*
 *://it-tehnik.ru/*
 *://it-trend.jp/*
 *://it-trend.jp/vpn/article/48-0076*
