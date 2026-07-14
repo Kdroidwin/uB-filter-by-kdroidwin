@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://it-kingdom.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
