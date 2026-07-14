@@ -1,16 +1,3 @@
-*://eromangamania.com/*
-*://yogamotto.com/*
-*://www.eromanga-muryou-hitomi-50.net/*
-*://book.plumadona.com/*
-*://kunjuan.jp/*
-*://xn--ickth537i4gtzxgbn6b.com/*
-*://doujin.yogamotto.com/*
-*://*.yogamotto.com/*
-*://amulai.blog/*
-*://eromanga-kensaku.com/*
-*://www.doujinflix.com/*
-*://hippy-bopotra.ssl-lolipop.jp/*
-*://gravia-navi.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -10865,6 +10852,7 @@
 *://*.yaraon-blog.com/*
 *://*.yaraon.blog109.fc2.com/*
 *://*.yo.zgserver.com/*
+*://*.yogamotto.com/*
 *://*.younggeeks.in/*
 *://*.youtube.com.vn/*
 *://*.z36.web.core.windows.net/*
@@ -11499,6 +11487,7 @@
 *://amorcos.ocnk.net/*
 *://amour-takarazuka.jp/*
 *://amprime.hatenablog.com/*
+*://amulai.blog/*
 *://amy1181.com/*
 *://an1.ca/*
 *://an1.co.in/*
@@ -12266,6 +12255,7 @@
 *://book.himepai.com/*
 *://book.mynavi.jp/ashita_magazine/china-vpn-ucss/*
 *://book.nukinuki.blog/*
+*://book.plumadona.com/*
 *://book.st-hakky.com/*
 *://bookandbedtokyo.com/*
 *://bookcafedays.com/*
@@ -13244,6 +13234,7 @@
 *://doujin.shidashi-chiba.jp/*
 *://doujin.ton-ton.jp/*
 *://doujin.wtwhd.com/*
+*://doujin.yogamotto.com/*
 *://doujin2.makianosaihu.com/*
 *://doujin2026.wew.jp/*
 *://doujinbank.com/*
@@ -13661,6 +13652,7 @@
 *://eromanga-house.com/*
 *://eromanga-island.com/*
 *://eromanga-jp.org/*
+*://eromanga-kensaku.com/*
 *://eromanga-library.com/*
 *://eromanga-mangacoo.com/*
 *://eromanga-muryou-hitomi-50.net/*
@@ -13685,6 +13677,7 @@
 *://eromangagaga.wpx.jp/*
 *://eromangajiru.com/*
 *://eromangajukujo.com/*
+*://eromangamania.com/*
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
 *://eromangarev.blog/*
@@ -14543,6 +14536,7 @@
 *://graph-messenger.jp.malavida.com/*
 *://graph-messenger.jp.uptodown.com/*
 *://graphenephone.store/*
+*://gravia-navi.com/*
 *://gray.pochasiko.com/*
 *://grayelectricllc.com/*
 *://greating-job.com/*
@@ -14930,6 +14924,7 @@
 *://hino-world.com/*
 *://hinomasahi.com/*
 *://hipopotasu.com/*
+*://hippy-bopotra.ssl-lolipop.jp/*
 *://hiraku946.jp/*
 *://hiramine.xyz/*
 *://hiroboucafe.com/*
@@ -16102,6 +16097,7 @@
 *://kumablog-usa.com/*
 *://kumamoto-waterlife.jp/*
 *://kumitrend.com/*
+*://kunjuan.jp/*
 *://kupipokupki.online/*
 *://kurabuchionsen.com/*
 *://kurachan1.com/*
@@ -21988,6 +21984,7 @@
 *://www.dosaaf79region.ru/*
 *://www.doujin-log.com/*
 *://www.doujin-today.shop/*
+*://www.doujinflix.com/*
 *://www.doujinmanga.jp/*
 *://www.doujinonline.com/*
 *://www.dounyan.com/*
@@ -22070,6 +22067,7 @@
 *://www.eromanga-muryou-hitomi-47.net/*
 *://www.eromanga-muryou-hitomi-48.net/*
 *://www.eromanga-muryou-hitomi-49.net/*
+*://www.eromanga-muryou-hitomi-50.net/*
 *://www.eromanga-muryou-matome-hentai.net/*
 *://www.eromanga-raw-muryou-9.net/*
 *://www.eromangadoujin.com/*
@@ -23554,6 +23552,7 @@
 *://xn--hekm0a443zu0m.xyz/*
 *://xn--hhr831fjwhg9i.jp/*
 *://xn--ick3b8eyct505c6fc.net/*
+*://xn--ickth537i4gtzxgbn6b.com/*
 *://xn--ickth539fgvd9p8cl5j.com/*
 *://xn--ickth739fone1maw701a.jp/*
 *://xn--icktho25pytlfkn.com/*
@@ -23721,6 +23720,7 @@
 *://yo-san-chi.info/*
 *://yo-shi-ka-nicopuro.com/*
 *://yodleona.svtoma.com/*
+*://yogamotto.com/*
 *://yogozansu.jp/*
 *://yoimono-matome.com/*
 *://yoitoki.jp/*

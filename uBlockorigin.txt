@@ -803,6 +803,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||amour-takarazuka.jp^$document
 ||amp.amebaownd.com^$document
 ||amprime.hatenablog.com^$document
+||amulai.blog^$document
 ||amy1181.com^$document
 ||an1.ca^$document
 ||an1.co.in^$document
@@ -1587,6 +1588,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||book.himepai.com^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
 ||book.nukinuki.blog^$document
+||book.plumadona.com^$document
 ||book.st-hakky.com^$document
 ||bookandbedtokyo.com^$document
 ||bookcafedays.com^$document
@@ -2582,6 +2584,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.shidashi-chiba.jp^$document
 ||doujin.ton-ton.jp^$document
 ||doujin.wtwhd.com^$document
+||doujin.yogamotto.com^$document
 ||doujin2.makianosaihu.com^$document
 ||doujin2026.wew.jp^$document
 ||doujinbank.com^$document
@@ -3002,6 +3005,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-house.com^$document
 ||eromanga-island.com^$document
 ||eromanga-jp.org^$document
+||eromanga-kensaku.com^$document
 ||eromanga-library.com^$document
 ||eromanga-mangacoo.com^$document
 ||eromanga-muryou-hitomi-50.net^$document
@@ -3026,6 +3030,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromangagaga.wpx.jp^$document
 ||eromangajiru.com^$document
 ||eromangajukujo.com^$document
+||eromangamania.com^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
 ||eromangarev.blog^$document
@@ -3898,6 +3903,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||graph-messenger.jp.malavida.com^$document
 ||graph-messenger.jp.uptodown.com^$document
 ||graphenephone.store^$document
+||gravia-navi.com^$document
 ||gray.pochasiko.com^$document
 ||grayelectricllc.com^$document
 ||greating-job.com^$document
@@ -4287,6 +4293,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hino-world.com^$document
 ||hinomasahi.com^$document
 ||hipopotasu.com^$document
+||hippy-bopotra.ssl-lolipop.jp^$document
 ||hiraku946.jp^$document
 ||hiramine.xyz^$document
 ||hiroboucafe.com^$document
@@ -5480,6 +5487,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kumablog-usa.com^$document
 ||kumamoto-waterlife.jp^$document
 ||kumitrend.com^$document
+||kunjuan.jp^$document
 ||kupipokupki.online^$document
 ||kurabuchionsen.com^$document
 ||kurachan1.com^$document
@@ -11572,6 +11580,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.dosaaf79region.ru^$document
 ||www.doujin-log.com^$document
 ||www.doujin-today.shop^$document
+||www.doujinflix.com^$document
 ||www.doujinmanga.jp^$document
 ||www.doujinonline.com^$document
 ||www.dounyan.com^$document
@@ -11654,6 +11663,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-47.net^$document
 ||www.eromanga-muryou-hitomi-48.net^$document
 ||www.eromanga-muryou-hitomi-49.net^$document
+||www.eromanga-muryou-hitomi-50.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
 ||www.eromangadoujin.com^$document
@@ -13141,6 +13151,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--hekm0a443zu0m.xyz^$document
 ||xn--hhr831fjwhg9i.jp^$document
 ||xn--ick3b8eyct505c6fc.net^$document
+||xn--ickth537i4gtzxgbn6b.com^$document
 ||xn--ickth539fgvd9p8cl5j.com^$document
 ||xn--ickth739fone1maw701a.jp^$document
 ||xn--icktho25pytlfkn.com^$document
@@ -13310,6 +13321,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yo-shi-ka-nicopuro.com^$document
 ||yo.zgserver.com^$document
 ||yodleona.svtoma.com^$document
+||yogamotto.com^$document
 ||yogozansu.jp^$document
 ||yoimono-matome.com^$document
 ||yoitoki.jp^$document
