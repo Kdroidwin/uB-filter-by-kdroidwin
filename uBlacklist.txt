@@ -3,6 +3,11 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://bitrefiil.com/*
+*://bitrrefill.com/*
+*://bitrefillgift.com/*
+*://gift-mecrypto.io/*
+*://giftme-crypto.io/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
