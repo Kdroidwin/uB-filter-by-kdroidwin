@@ -1,13 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://debridhub.com/*
-*://codeberg.pages/*
-*://www.kumagai.com/*
-*://www.manga-tanoshi.com/*
-*://miraiand.com/*
-*://note.com/workwithai/*
-*://booktakeaway.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -12278,6 +12271,7 @@
 *://books.awaisora.com/*
 *://books.dmm-mania.com/*
 *://books.makianosaihu.com/*
+*://booktakeaway.com/*
 *://bookwiz.me/*
 *://boqxywd.art/*
 *://border-verse.jp/*
@@ -12683,6 +12677,7 @@
 *://code.ooaks.co.jp/*
 *://codeacademyug.org/*
 *://codeberg.com/*
+*://codeberg.pages/*
 *://codederg.cm/*
 *://codederg.com/*
 *://codederg.org/*
@@ -12978,6 +12973,7 @@
 *://deaino-onayami.com/*
 *://dearteenme.com/*
 *://deatonhospital.com/*
+*://debridhub.com/*
 *://debruinmode.nl/*
 *://decopachi.com/*
 *://dedat.xyz/*
@@ -16977,6 +16973,7 @@
 *://miragesoft.jp/*
 *://mirai-guide.com/*
 *://mirai-tohoku.jp/*
+*://miraiand.com/*
 *://miraie.org/*
 *://mirailab-blog.com/*
 *://mirandadeutsch.com/*
@@ -18198,6 +18195,7 @@
 *://note.com/watechexplorers/*
 *://note.com/webcommu_sub/*
 *://note.com/wise_liger7796/*
+*://note.com/workwithai/*
 *://note.com/writer_syota/*
 *://note.com/xminami/*
 *://note.com/yamachan_5lc/*
@@ -22519,6 +22517,7 @@
 *://www.kouyu0528.com/*
 *://www.kpshop.jp/*
 *://www.krph.jp/*
+*://www.kumagai.com/*
 *://www.kumamero.net/*
 *://www.kumanego.jp/*
 *://www.kumasasa.com/*
@@ -22611,6 +22610,7 @@
 *://www.maneki-rus.ru/*
 *://www.manekineko-k.com/*
 *://www.maneo.jp/*
+*://www.manga-tanoshi.com/*
 *://www.mangabiyori.online/*
 *://www.manganoie.com/*
 *://www.mangaraw-hitomi-dame.cfbx.jp/*

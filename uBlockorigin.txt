@@ -1604,6 +1604,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||books.awaisora.com^$document
 ||books.dmm-mania.com^$document
 ||books.makianosaihu.com^$document
+||booktakeaway.com^$document
 ||bookwiz.me^$document
 ||boqxywd.art^$document
 ||border-verse.jp^$document
@@ -2019,6 +2020,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||code.ooaks.co.jp^$document
 ||codeacademyug.org^$document
 ||codeberg.com^$document
+||codeberg.pages^$document
 ||codederg.cm^$document
 ||codederg.com^$document
 ||codederg.org^$document
@@ -2321,6 +2323,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||deaino-onayami.com^$document
 ||dearteenme.com^$document
 ||deatonhospital.com^$document
+||debridhub.com^$document
 ||debruinmode.nl^$document
 ||decopachi.com^$document
 ||dedat.xyz^$document
@@ -6381,6 +6384,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||miragesoft.jp^$document
 ||mirai-guide.com^$document
 ||mirai-tohoku.jp^$document
+||miraiand.com^$document
 ||miraie.org^$document
 ||mirailab-blog.com^$document
 ||mirandadeutsch.com^$document
@@ -7615,6 +7619,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/watechexplorers^$document
 ||note.com/webcommu_sub^$document
 ||note.com/wise_liger7796^$document
+||note.com/workwithai^$document
 ||note.com/writer_syota^$document
 ||note.com/xminami^$document
 ||note.com/yamachan_5lc^$document
@@ -12114,6 +12119,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kouyu0528.com^$document
 ||www.kpshop.jp^$document
 ||www.krph.jp^$document
+||www.kumagai.com^$document
 ||www.kumamero.net^$document
 ||www.kumanego.jp^$document
 ||www.kumasasa.com^$document
@@ -12203,6 +12209,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.maneki-rus.ru^$document
 ||www.manekineko-k.com^$document
 ||www.maneo.jp^$document
+||www.manga-tanoshi.com^$document
 ||www.mangabiyori.online^$document
 ||www.manganoie.com^$document
 ||www.mangaraw-hitomi-dame.cfbx.jp^$document
