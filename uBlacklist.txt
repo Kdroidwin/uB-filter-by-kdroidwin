@@ -3,11 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://bitrefiil.com/*
-*://bitrrefill.com/*
-*://bitrefillgift.com/*
-*://gift-mecrypto.io/*
-*://giftme-crypto.io/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12118,7 +12113,10 @@
 *://bitlord.jp.malavida.com/*
 *://bitlord.jp.uptodown.com/*
 *://bitlorddl.com/*
+*://bitrefiil.com/*
+*://bitrefillgift.com/*
 *://bitregions.com/*
+*://bitrrefill.com/*
 *://bitsend.jp/*
 *://bitspirit.en.filerox.com/*
 *://bitspirit.en.uptodown.com/*
@@ -14347,6 +14345,8 @@
 *://ghostphone.co/*
 *://gi-o.com/*
 *://gifslangen.com/*
+*://gift-mecrypto.io/*
+*://giftme-crypto.io/*
 *://giftpedia.jp/*
 *://gifu-taikyo.jp/*
 *://gigazine.net/news/20150521-adblock-browser/*

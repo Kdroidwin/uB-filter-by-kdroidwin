@@ -1444,7 +1444,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bitlord.jp.malavida.com^$document
 ||bitlord.jp.uptodown.com^$document
 ||bitlorddl.com^$document
+||bitrefiil.com^$document
+||bitrefillgift.com^$document
 ||bitregions.com^$document
+||bitrrefill.com^$document
 ||bitsend.jp^$document
 ||bitspirit.en.filerox.com^$document
 ||bitspirit.en.uptodown.com^$document
@@ -3707,6 +3710,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ghostphone.co^$document
 ||gi-o.com^$document
 ||gifslangen.com^$document
+||gift-mecrypto.io^$document
+||giftme-crypto.io^$document
 ||giftpedia.jp^$document
 ||gifu-taikyo.jp^$document
 ||gigazine.net/news/20150521-adblock-browser^$document
