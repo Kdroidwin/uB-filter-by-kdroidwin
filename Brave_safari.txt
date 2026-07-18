@@ -10375,7 +10375,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||toyota-phv.jp^$document
 ||tpb.party^$document
 ||tpw9le6.calanchipiceni.it^$document
-||tr.ee^$document
 ||tr.koreanshh.kr.ua^$document
 ||tr.koreansji.co.ua^$document
 ||trace-kyoto.com^$document
@@ -10641,6 +10640,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uravation.com^$document
 ||urayasu-brighton.netlify.app^$document
 ||ureba.jp^$document
+||ureluv.com^$document
 ||uriboumiracle.com^$document
 ||urls.g.forms.cn^$document
 ||urotanblog.com^$document

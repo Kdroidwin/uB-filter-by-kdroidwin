@@ -10640,6 +10640,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uravation.com^$document
 ||urayasu-brighton.netlify.app^$document
 ||ureba.jp^$document
+||ureluv.com^$document
 ||uriboumiracle.com^$document
 ||urls.g.forms.cn^$document
 ||urotanblog.com^$document
