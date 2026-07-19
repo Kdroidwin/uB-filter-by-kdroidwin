@@ -1,6 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ||cdn-ak.f.st-hatena.com/images/fotolife/s/sorasanai58/20260712/20260712160638.png$image
+sagirare.hatenablog.com##.hatenablog-entry.entry-content > div > [href^="https://www.infotop.jp/click.php"]
 *$document,ipaddress=172.237.146.46
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
