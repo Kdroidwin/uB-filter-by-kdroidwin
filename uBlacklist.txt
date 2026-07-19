@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://newdoujin.syumilog-engineer.com/*
-*://portion-spa.com/*
-*://syumilog-engineer.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
@@ -17495,6 +17492,7 @@
 *://newbalanlife.com/*
 *://newbedev.com/*
 *://newdays-fresh.com/*
+*://newdoujin.syumilog-engineer.com/*
 *://newenoking-kaitori.com/*
 *://newerlokas.online/*
 *://newme-school.co.jp/*
@@ -20364,6 +20362,7 @@
 *://syphs0mo.suriacarrental.com.my/*
 *://syufu-bu.com/*
 *://syumatsusekai-football.com/*
+*://syumilog-engineer.com/*
 *://syundoku.jp/*
 *://sz-kentos.jp/*
 *://sz163.top/*

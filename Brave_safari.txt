@@ -6914,6 +6914,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||newbalanlife.com^$document
 ||newbedev.com^$document
 ||newdays-fresh.com^$document
+||newdoujin.syumilog-engineer.com^$document
 ||newenoking-kaitori.com^$document
 ||newerlokas.online^$document
 ||newme-school.co.jp^$document
@@ -9890,6 +9891,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sysadminde.com^$document
 ||syufu-bu.com^$document
 ||syumatsusekai-football.com^$document
+||syumilog-engineer.com^$document
 ||syundoku.jp^$document
 ||sz-kentos.jp^$document
 ||sz163.top^$document
