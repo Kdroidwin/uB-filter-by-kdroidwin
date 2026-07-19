@@ -3,11 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://fantaslipp.com/*
-*://doramonn.com/*
-*://wanpincang.com/*
-*://endinfly.com/*
-*://beardsley-jp.com/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12022,6 +12017,7 @@
 *://be-marry.com/*
 *://beadsxbeads.com/*
 *://beararms.gr/*
+*://beardsley-jp.com/*
 *://beasyouareramana.com/*
 *://beatriceinsurance.com/*
 *://beauty.hotpepper.jp/kr/slnH000501341/blog/bidA045501774.html
@@ -13194,6 +13190,7 @@
 *://dorama-anime.com/*
 *://dorama-netabare.com/*
 *://doramamiyo-yo.com/*
+*://doramonn.com/*
 *://doramonxx.com/*
 *://doraprojects.net/*
 *://doraraku.com/*
@@ -13499,6 +13496,7 @@
 *://enchantmedia.co.jp/*
 *://end-reason.unij.co.jp/*
 *://endia.net/*
+*://endinfly.com/*
 *://endlesstripgoo.com/*
 *://endo-shihou.jp/*
 *://endride.jp/*
@@ -13830,6 +13828,7 @@
 *://fanmake-blog.com/*
 *://fanplus.co.kr/*
 *://fanshub.jp/*
+*://fantaslipp.com/*
 *://fanza-com.mystrikingly.com/*
 *://fanza.coideco.jp/*
 *://fanza.hentai-raw.com/*
@@ -21347,6 +21346,7 @@
 *://wander-freely.com/*
 *://wangbaobei.cn/*
 *://wani-digi.com/*
+*://wanpincang.com/*
 *://wansei.com/*
 *://wanwanwan.co.jp/*
 *://wanwonderfes.com/*

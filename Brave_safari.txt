@@ -1348,6 +1348,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||be-marry.com^$document
 ||beadsxbeads.com^$document
 ||beararms.gr^$document
+||beardsley-jp.com^$document
 ||beasyouareramana.com^$document
 ||beatriceinsurance.com^$document
 ||beauty.hotpepper.jp/kr/slnH000610961^$document
@@ -2539,6 +2540,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dorama-anime.com^$document
 ||dorama-netabare.com^$document
 ||doramamiyo-yo.com^$document
+||doramonn.com^$document
 ||doramonxx.com^$document
 ||doraprojects.net^$document
 ||doraraku.com^$document
@@ -2846,6 +2848,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||enchantmedia.co.jp^$document
 ||end-reason.unij.co.jp^$document
 ||endia.net^$document
+||endinfly.com^$document
 ||endlesstripgoo.com^$document
 ||endo-shihou.jp^$document
 ||endride.jp^$document
@@ -3182,6 +3185,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanmake-blog.com^$document
 ||fanplus.co.kr^$document
 ||fanshub.jp^$document
+||fantaslipp.com^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
 ||fanza.hentai-raw.com^$document
@@ -10919,6 +10923,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wander-freely.com^$document
 ||wangbaobei.cn^$document
 ||wani-digi.com^$document
+||wanpincang.com^$document
 ||wansei.com^$document
 ||wanwanwan.co.jp^$document
 ||wanwonderfes.com^$document
