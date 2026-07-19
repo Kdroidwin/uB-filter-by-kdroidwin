@@ -93,6 +93,7 @@ nukieroge.com##a[href*="hbox.jp"]
 nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
 romsns.com##.idb-btn
+sagirare.hatenablog.com##.hatenablog-entry.entry-content > div > [href^="https://www.infotop.jp/click.php"]
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
 socialxup.com##.lg\:hidden.sm\:mt-8.mt-6.order-\[40\] > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
 socialxup.com##.scrollbar-hide.overflow-y-auto.max-h-\[calc\(100vh-5rem\)\].top-16.sticky.flex-shrink-0.w-72.lg\:block.hidden > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
@@ -630,6 +631,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ak.akhbara24.news^$document
 ||akachan-meimei.com^$document
 ||akaczute.com^$document
+||akahadayaki.jp^$document
 ||akaitasuki.com^$document
 ||akanbo-media.jp^$document
 ||akari-trend.com^$document
@@ -1796,6 +1798,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ccm.net^$document
 ||ccs-sakusei.onelink.me^$document
 ||ccsggw.cn^$document
+||cdn-ak.f.st-hatena.com/images/fotolife/s/sorasanai58/20260712/20260712160638.png$image
 ||cdn.99kia.com^$document
 ||ceapronutrdcongo.org^$document
 ||cebidm8t.tambuntuition.com^$document
@@ -2509,6 +2512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojin-pick.jp^$document
 ||dojin-review-navi.com^$document
 ||dojin.holito-kouso.jp^$document
+||dojin315.com^$document
 ||dojinfanza.com^$document
 ||dojingame.net^$document
 ||dojinmanga.net^$document
@@ -2607,6 +2611,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinichiba.com^$document
 ||doujinkan.com^$document
 ||doujinlink.com^$document
+||doujinmanga-komishiru.com^$document
 ||doujinmm.dlold.net^$document
 ||doujinnews.com^$document
 ||doujinraw.com^$document
@@ -3040,6 +3045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromangajiru.com^$document
 ||eromangajukujo.com^$document
 ||eromangamania.com^$document
+||eromanganew.com^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
 ||eromangarev.blog^$document
@@ -5512,6 +5518,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kurashi-rinkaku.hatenablog.com^$document
 ||kurashiinfo1.com^$document
 ||kurashilatte.hatenablog.jp^$document
+||kuratafukuoka.com^$document
 ||kurayama.jp^$document
 ||kurenaikenjiro.com^$document
 ||kurimegane.com^$document
@@ -8320,6 +8327,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||porn-selection.net^$document
 ||poroshop.online^$document
 ||portable4pc.com^$document
+||portion-spa.com^$document
 ||pos.eapp168.com^$document
 ||posg.jp^$document
 ||posgradounap.com^$document
@@ -8433,6 +8441,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pured.doorblog.jp^$document
 ||purellc.base.shop^$document
 ||puremods.net^$document
+||puresnorkeling.com^$document
 ||purisoku.com^$document
 ||purisvhx.treasureshotel.com^$document
 ||purogirls.com^$document
@@ -10307,6 +10316,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tomorrownk.info^$document
 ||tomosaki-photo.jp^$document
 ||tomosan-blog.com^$document
+||tomoxx.com^$document
 ||tomoya-blog.com^$document
 ||ton-union.de^$document
 ||tono-gozaru.jp^$document
@@ -13363,6 +13373,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yorozoonews.jp^$document
 ||yorozu-cl.com^$document
 ||yorozu-do.com^$document
+||yoruochi.com^$document
 ||yosemi-7.com^$document
 ||yoshiblonet.com^$document
 ||yoshiemon-docodemopocket.com^$document

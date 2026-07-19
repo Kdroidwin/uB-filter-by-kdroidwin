@@ -3,15 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://kuratafukuoka.com/*
-*://akahadayaki.jp/*
-*://doujinmanga-komishiru.com/*
-*://puresnorkeling.com/*
-*://portion-spa.com/*
-*://yoruochi.com/*
-*://eromanganew.com/*
-*://tomoxx.com/*
-*://dojin315.com/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11329,6 +11320,7 @@
 *://ajin-movie.com/*
 *://ak.akhbara24.news/*
 *://akaczute.com/*
+*://akahadayaki.jp/*
 *://akaitasuki.com/*
 *://akanbo-media.jp/*
 *://akari-trend.com/*
@@ -13168,6 +13160,7 @@
 *://dojin-pick.jp/*
 *://dojin-review-navi.com/*
 *://dojin.holito-kouso.jp/*
+*://dojin315.com/*
 *://dojinfanza.com/*
 *://dojingame.net/*
 *://dojinmanga.net/*
@@ -13266,6 +13259,7 @@
 *://doujinichiba.com/*
 *://doujinkan.com/*
 *://doujinlink.com/*
+*://doujinmanga-komishiru.com/*
 *://doujinmm.dlold.net/*
 *://doujinnews.com/*
 *://doujinraw.com/*
@@ -13696,6 +13690,7 @@
 *://eromangajiru.com/*
 *://eromangajukujo.com/*
 *://eromangamania.com/*
+*://eromanganew.com/*
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
 *://eromangarev.blog/*
@@ -16131,6 +16126,7 @@
 *://kurashi-rinkaku.hatenablog.com/*
 *://kurashiinfo1.com/*
 *://kurashilatte.hatenablog.jp/*
+*://kuratafukuoka.com/*
 *://kurayama.jp/*
 *://kurenaikenjiro.com/*
 *://kurimegane.com/*
@@ -18899,6 +18895,7 @@
 *://porn-selection.net/*
 *://poroshop.online/*
 *://portable4pc.com/*
+*://portion-spa.com/*
 *://pos.eapp168.com/*
 *://posg.jp/*
 *://posgradounap.com/*
@@ -19008,6 +19005,7 @@
 *://pured.doorblog.jp/*
 *://purellc.base.shop/*
 *://puremods.net/*
+*://puresnorkeling.com/*
 *://purisvhx.treasureshotel.com/*
 *://purogirls.com/*
 *://purple-novel.com/*
@@ -20772,6 +20770,7 @@
 *://tomorrownk.info/*
 *://tomosaki-photo.jp/*
 *://tomosan-blog.com/*
+*://tomoxx.com/*
 *://tomoya-blog.com/*
 *://ton-union.de/*
 *://tono-gozaru.jp/*
@@ -23770,6 +23769,7 @@
 *://yorozoonews.jp/*
 *://yorozu-cl.com/*
 *://yorozu-do.com/*
+*://yoruochi.com/*
 *://yosemi-7.com/*
 *://yoshiblonet.com/*
 *://yoshiemon-docodemopocket.com/*
