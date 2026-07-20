@@ -4147,6 +4147,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||harrysdial.com^$document
 ||haru-journal.com^$document
 ||haru-lab.jp^$document
+||haru-mathematics.com^$document
 ||harublooming.jp^$document
 ||harubo-blog.com^$document
 ||harugon12.com^$document

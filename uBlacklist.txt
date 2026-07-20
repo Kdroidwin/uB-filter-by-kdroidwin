@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://haru-mathematics.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -14778,6 +14777,7 @@
 *://harrysdial.com/*
 *://haru-journal.com/*
 *://haru-lab.jp/*
+*://haru-mathematics.com/*
 *://harublooming.jp/*
 *://harubo-blog.com/*
 *://harugon12.com/*
