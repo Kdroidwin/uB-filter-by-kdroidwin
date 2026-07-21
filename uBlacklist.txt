@@ -1,4 +1,3 @@
-*://www.da-rank.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21999,6 +21998,7 @@
 *://www.cyberpatrolg.com/cpg/*
 *://www.cyberuk.uk/*
 *://www.czjmjd.cn/*
+*://www.da-rank.com/*
 *://www.dailymail.co.uk/*
 *://www.dailymail.com/*
 *://www.daizu-lab.jp/*

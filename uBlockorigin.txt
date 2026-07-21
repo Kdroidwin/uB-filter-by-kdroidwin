@@ -11597,6 +11597,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.cyberpatrolg.com/cpg^$document
 ||www.cyberuk.uk^$document
 ||www.czjmjd.cn^$document
+||www.da-rank.com^$document
 ||www.dailymail.co.uk^$document
 ||www.dailymail.com^$document
 ||www.daizu-lab.jp^$document
