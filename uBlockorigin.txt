@@ -1,6 +1,10 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ||nordvpn.com/ja/?srsltid=$document
+||vvhatsapp.$document
+||rnicrosoft.$document
+||iine.me.$document
+||1ine.me.$document
 *$document,ipaddress=172.237.146.46
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
