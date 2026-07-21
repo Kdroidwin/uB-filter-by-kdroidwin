@@ -1,40 +1,4 @@
 *://*.000webhostapp.com/*
-*://abderomanga.wew.jp/*
-*://www.okusama-tkb.com/*
-*://eroebon.com/*
-*://rawdoujin.wew.jp/*
-*://elo-manga.com/*
-*://www.eromanga-attack-unreal-2.net/*
-*://sony-wx.blog.jp/*
-*://eromanga-plus.com/*
-*://hitozumanga.wpx.jp/*
-*://xn--vbku12ga165c36hx3py05bbja.jp/*
-*://nightreview.net/*
-*://www.mochii-hokuou.com/vpn-ranking/*
-*://www.youtube.com/watch?v=b7hCF0cGqyI
-*://vpnj.jp/*
-*://enechange.jp/*
-*://www.trifa.co/ja/column/vpn/*
-*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10274035950
-*://bestvpn.jp/*
-*://sni-hub.com/*
-*://note.com/vpn_life/*
-*://suika-v2.com/*
-*://bokunotebook.com/*
-*://internet.iid.co.jp/*
-*://securitysoft-vpn.news.mynavi.jp/category/vpn/*
-*://www.youtube.com/watch?v=A5bY-WbMLM8
-*://lifebythethames.com/nordvpn-pr/*
-*://www.aspicjapan.org/*
-*://order.nordvpn.com/*
-*://www.best-vpn-japan.com/*
-*://lih.co.jp/*
-*://vpn-hikaku.net/*
-*://top.vpnpro.com/*
-*://m.youtube.com/watch?v=rxjOff3h4U8*
-*://m.youtube.com/watch?v=9L2r5oBJJBE
-*://vpngaido.com/*
-*://nordvpn.com/ja/?srsltid=*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -11183,6 +11147,7 @@
 *://abccttoo.com/*
 *://abcd-blog.com/*
 *://abchomepreschool.com/*
+*://abderomanga.wew.jp/*
 *://abdo.abdowap.com.ru/*
 *://abe-eishirou.jp/*
 *://abe3-blog.com/*
@@ -12099,6 +12064,7 @@
 *://bestone.allabout.co.jp/*
 *://bestpresent.jp/*
 *://bestrilke.com/*
+*://bestvpn.jp/*
 *://bestways.jp/*
 *://besunet.com/*
 *://bethelcc.net/*
@@ -12278,6 +12244,7 @@
 *://bokuhaka-anime.com/*
 *://bokukuma.com/*
 *://bokunoheroaccount.com/*
+*://bokunotebook.com/*
 *://bokuokun.com/*
 *://bokusuk.com/*
 *://bomberosvoluntariostequisquiapan.org/*
@@ -13054,6 +13021,7 @@
 *://destinationdothan.com/*
 *://destruction-movie.com/*
 *://detail-news.com/*
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10274035950
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10300323310*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11291897171*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12260669862*
@@ -13500,6 +13468,7 @@
 *://elle-dk.com/*
 *://elle0211.com/*
 *://elleetlui.org/*
+*://elo-manga.com/*
 *://elovafi.immunityassist.sk/*
 *://eltonitokazu.com/*
 *://elvar.ee/*
@@ -13540,6 +13509,7 @@
 *://endo-shihou.jp/*
 *://endride.jp/*
 *://ene-po.com/*
+*://enechange.jp/*
 *://energeful.com/*
 *://enerjialbana.online/*
 *://enews-one.com/*
@@ -13670,6 +13640,7 @@
 *://erodoujinlog.com/*
 *://erodoujinmanga.com/*
 *://erodoujinview.com/*
+*://eroebon.com/*
 *://eroepub.com/*
 *://eroero-manga.jp/*
 *://eroero-manga.net/*
@@ -13708,6 +13679,7 @@
 *://eromanga-muryou-hitomi-50.net/*
 *://eromanga-muryou.jp/*
 *://eromanga-navi.net/*
+*://eromanga-plus.com/*
 *://eromanga-preview.com/*
 *://eromanga-rainbow.com/*
 *://eromanga-storage.jp/*
@@ -15033,6 +15005,7 @@
 *://hitotumakansatu.net/*
 *://hitoyoshi-hp.jp/*
 *://hitozuma-ntr-manga.com/*
+*://hitozumanga.wpx.jp/*
 *://hitsukeyaku.com/*
 *://hituzinokegari.com/*
 *://hiwatashishachu.jp/*
@@ -15351,6 +15324,7 @@
 *://intermax.co.jp/*
 *://intermedialabo.com/*
 *://internet-various.com/*
+*://internet.iid.co.jp/*
 *://internet.netoff.co.jp/*
 *://internetexpo.net/*
 *://inthadoor.com/*
@@ -16322,6 +16296,7 @@
 *://life-long-friend-ship.net/*
 *://life-mens.com/*
 *://life.oricon.co.jp/*
+*://lifebythethames.com/nordvpn-pr/*
 *://lifehack-sasaki.com/*
 *://lifehacktivist.com/*
 *://lifeinfo.tokyo/*
@@ -16337,6 +16312,7 @@
 *://lightofhopealliance.org/*
 *://ligshtshot.site/*
 *://liguelabatt.com/*
+*://lih.co.jp/*
 *://likklemai.com/*
 *://likublog.com/*
 *://lilla-flower.com/*
@@ -16523,6 +16499,8 @@
 *://m.sugar-style.com/*
 *://m.uechairs.cn/*
 *://m.utoo.cniic.cn/*
+*://m.youtube.com/watch?v=9L2r5oBJJBE
+*://m.youtube.com/watch?v=rxjOff3h4U8*
 *://m.yuugafas.com/*
 *://m1bpk6f0e.dottoremiascolti.it/*
 *://m7dhmwrggg3045bg0d0zuw55ybx.live/*
@@ -17610,6 +17588,7 @@
 *://nichiyaku.info/*
 *://niconicojikkyou.com/*
 *://nicoriblog.com/*
+*://nightreview.net/*
 *://nigiwasu.com/*
 *://nihon-ichi.jp/*
 *://niigata.mypl.net/*
@@ -17692,6 +17671,7 @@
 *://nontan-blog.com/*
 *://nonzyoruno-miyazaki.jp/*
 *://nordinkole.nl/*
+*://nordvpn.com/ja/?srsltid=*
 *://nordvpn.com/ja/blog/secure-browser/*
 *://nori-crypto.jp/*
 *://noromis.com/*
@@ -18238,6 +18218,7 @@
 *://note.com/vivid_cosmos9883/*
 *://note.com/viwizard_jp/*
 *://note.com/vpn_lab/*
+*://note.com/vpn_life/*
 *://note.com/vs_item/*
 *://note.com/wareomou_yueni/*
 *://note.com/watab2000/*
@@ -18541,6 +18522,7 @@
 *://orange-pop.com/*
 *://orangectytv.com/*
 *://orangepostreason.com/*
+*://order.nordvpn.com/*
 *://oremanga.tokyo/*
 *://orenburg.ko-snegiri.ru/*
 *://oreno-nijigen.com/*
@@ -19185,6 +19167,7 @@
 *://raw2.dmm-mania.com/*
 *://rawapk.com/*
 *://rawcomic.wew.jp/*
+*://rawdoujin.wew.jp/*
 *://rawmanga.jp/*
 *://rawmanga.wew.jp/*
 *://rawmanga.wpx.jp/*
@@ -19687,6 +19670,7 @@
 *://second.jyoho-library.com/*
 *://second.ux-design.blog/*
 *://secret-alone-time.com/*
+*://securitysoft-vpn.news.mynavi.jp/category/vpn/*
 *://securitysoftguide.com/*
 *://see-d.jp/*
 *://seed-pocket2.com/*
@@ -19992,6 +19976,7 @@
 *://snapseed.online/*
 *://snaptikdl.net/*
 *://snews.fromation.co.jp/*
+*://sni-hub.com/*
 *://sniperkozu.com/*
 *://snolderen.dk/*
 *://snow-onyx.com/*
@@ -20039,6 +20024,7 @@
 *://sonodamama.com/*
 *://sonohanasi.com/*
 *://sonopol.com/*
+*://sony-wx.blog.jp/*
 *://sootythq.redeagle-security.com/*
 *://sora-ala.com/*
 *://sorahime.com/*
@@ -20293,6 +20279,7 @@
 *://sugoihentai.work/*
 *://sugoitokyo.com/*
 *://suigeneric00001728.imweb.me/*
+*://suika-v2.com/*
 *://suika-v4.com/*
 *://suimin.biz/*
 *://suishotamako.net/*
@@ -20824,6 +20811,7 @@
 *://tools.anquanclub.cn/*
 *://toorublog.com/*
 *://top.manga-ganma.com/*
+*://top.vpnpro.com/*
 *://topcasinosdirectory.com/*
 *://topfifty.uk/*
 *://topgun.ffwpu.app/*
@@ -21322,6 +21310,7 @@
 *://voxmovies.net/*
 *://voyderuta.com/*
 *://vplayer.onelink.me/*
+*://vpn-hikaku.net/*
 *://vpn-info.jp/*
 *://vpn-labo.com/*
 *://vpn-magazine.com/*
@@ -21334,8 +21323,10 @@
 *://vpnavi.jp/*
 *://vpncafe.io/best-vpn/*
 *://vpncafe.net/*
+*://vpngaido.com/*
 *://vpninfo.dk/*
 *://vpninfo.jp/*
+*://vpnj.jp/*
 *://vpnjapan.wpx.jp/*
 *://vpnlove.me/*
 *://vpnmedia.jp/*
@@ -21774,6 +21765,7 @@
 *://www.asjp.cerist.dz/*
 *://www.asp-as.com/*
 *://www.aspenart.org/*
+*://www.aspicjapan.org/*
 *://www.assabah-news.com/*
 *://www.astoryofmasasstruggles.com/*
 *://www.astuhanke.fi/*
@@ -21823,6 +21815,7 @@
 *://www.bedruthan.com/*
 *://www.bem-movie.jp/*
 *://www.berluti.cn/*
+*://www.best-vpn-japan.com/*
 *://www.bestmamafinds.com/*
 *://www.betternet.co/*
 *://www.beyourlover.co.jp/*
@@ -22126,6 +22119,7 @@
 *://www.ermenekturkuaz.com/*
 *://www.eroerocomic.net/*
 *://www.erohimedoujin.com/*
+*://www.eromanga-attack-unreal-2.net/*
 *://www.eromanga-attack2000.net/*
 *://www.eromanga-doujin-hentai01.net/*
 *://www.eromanga-doujin-hentai2000.net/*
@@ -22762,6 +22756,7 @@
 *://www.mnmch.com/*
 *://www.mobi-connect.net/*
 *://www.mocamocablog.com/*
+*://www.mochii-hokuou.com/vpn-ranking/*
 *://www.mochiteasaku.com/*
 *://www.modathink.com/*
 *://www.modroid-apk.store/*
@@ -22869,6 +22864,7 @@
 *://www.okazu01.com/*
 *://www.okazurand.net/*
 *://www.okichizuru.com/*
+*://www.okusama-tkb.com/*
 *://www.olioclemente.shop/*
 *://www.olympichp.com/*
 *://www.omigotopress.jp/*
@@ -23347,6 +23343,7 @@
 *://www.trendy-life33.com/*
 *://www.trenink.info/*
 *://www.tricompany.ru/*
+*://www.trifa.co/ja/column/vpn/*
 *://www.triptravel.me/*
 *://www.truecaller.com/*
 *://www.trusted-addon.xyz/*
@@ -23512,11 +23509,13 @@
 *://www.youtube.com/shorts/_nx0bbUAwY4*
 *://www.youtube.com/user/hatimaki73*
 *://www.youtube.com/watch?v=7gwXKSRuErY*
+*://www.youtube.com/watch?v=A5bY-WbMLM8
 *://www.youtube.com/watch?v=AsWhEONwpBU*
 *://www.youtube.com/watch?v=FKGmwfEDpCA*
 *://www.youtube.com/watch?v=KiHxZnVa0Q0
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
 *://www.youtube.com/watch?v=W3UefS_kUE8*
+*://www.youtube.com/watch?v=b7hCF0cGqyI
 *://www.youtube.com/watch?v=eh0r02080tk*
 *://www.youtube.com/watch?v=ph8Y1NswR6c*
 *://www.ysrcp.info/*
@@ -23684,6 +23683,7 @@
 *://xn--u9jyg9a3a5nxbyc8771bj6d2p3cpe1b34iyp2bgcf.com/*
 *://xn--uckgyp4c3cw980gi5c.com/*
 *://xn--v8j5erc2dzq151nh8xbs53d.jp/*
+*://xn--vbku12ga165c36hx3py05bbja.jp/*
 *://xn--w8j2jlh648lkma978ho4i.com/*
 *://xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 *://xn--xyv715c.com/*
