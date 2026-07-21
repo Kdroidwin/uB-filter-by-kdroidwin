@@ -1,3 +1,9 @@
+*://r-portal.gmo-research.ai/*
+*://www.noiat.co.jp/*
+*://life.oricon.co.jp/*
+*://startup2009.jp/*
+*://entertainment.iid.co.jp/*
+*://items.customlife.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
