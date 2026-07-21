@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://www.bbc-tv.co.jp/vod-column/*
-*://entame.netoff.co.jp/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
@@ -13544,6 +13542,7 @@
 *://entame.2play.game/*
 *://entame.blog/*
 *://entame.homes/*
+*://entame.netoff.co.jp/*
 *://entame000ss.seesaa.net/*
 *://entame0510.xyz/*
 *://entame1000.com/*
@@ -21778,6 +21777,7 @@
 *://www.baseballhurray.com/*
 *://www.batcaveca.com/*
 *://www.baume-et-mercier.cn/*
+*://www.bbc-tv.co.jp/vod-column/*
 *://www.bbc2021.jp/*
 *://www.bdo-mingo7244.net/*
 *://www.bdzmfcq.cn/*

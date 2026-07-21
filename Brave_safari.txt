@@ -2897,6 +2897,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||entame.2play.game^$document
 ||entame.blog^$document
 ||entame.homes^$document
+||entame.netoff.co.jp^$document
 ||entame000ss.seesaa.net^$document
 ||entame0510.xyz^$document
 ||entame1000.com^$document
@@ -11374,6 +11375,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.baseballhurray.com^$document
 ||www.batcaveca.com^$document
 ||www.baume-et-mercier.cn^$document
+||www.bbc-tv.co.jp/vod-column^$document
 ||www.bbc2021.jp^$document
 ||www.bdo-mingo7244.net^$document
 ||www.bdzmfcq.cn^$document
