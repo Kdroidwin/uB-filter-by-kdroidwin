@@ -1,9 +1,3 @@
-*://r-portal.gmo-research.ai/*
-*://www.noiat.co.jp/*
-*://life.oricon.co.jp/*
-*://startup2009.jp/*
-*://entertainment.iid.co.jp/*
-*://items.customlife.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13573,6 +13567,7 @@
 *://entertainment-sports.com/*
 *://entertainment-topics.jp/*
 *://entertainment-watch.com/*
+*://entertainment.iid.co.jp/*
 *://entertainment.k-topmedia.com/*
 *://entertainment64.xyz/*
 *://entertainment777.com/*
@@ -15404,6 +15399,7 @@
 *://item.rakuten.co.jp/norton/*
 *://item.woomy.me/*
 *://itemcube.jp/*
+*://items.customlife.co.jp/*
 *://iti-inc.co.jp/*
 *://ito-movie.jp/*
 *://itokoichi.hatenadiary.com/*
@@ -16288,6 +16284,7 @@
 *://liemu669.com/*
 *://life-long-friend-ship.net/*
 *://life-mens.com/*
+*://life.oricon.co.jp/*
 *://lifehack-sasaki.com/*
 *://lifehacktivist.com/*
 *://lifeinfo.tokyo/*
@@ -19080,6 +19077,7 @@
 *://qwq-min.com/*
 *://qxlqgdx.studio/*
 *://qy62ijjz2.benecicios-bancorrientes.online/*
+*://r-portal.gmo-research.ai/*
 *://r-press.su/*
 *://r18-ai.com/*
 *://r18.hotel3.jp/*
@@ -20156,6 +20154,7 @@
 *://starrymountain.org/*
 *://stars-kings.com/*
 *://startup-live.jp/*
+*://startup2009.jp/*
 *://starwars.ru/*
 *://staseon.com/*
 *://statapk.com/*
@@ -22805,6 +22804,7 @@
 *://www.nliwfyz.cn/*
 *://www.no.reply.japex.ru/*
 *://www.nobusan1975.com/*
+*://www.noiat.co.jp/*
 *://www.noritsubushi.online/*
 *://www.norte-ii.com/*
 *://www.noureldin-lawfirm.com/*

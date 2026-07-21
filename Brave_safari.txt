@@ -2922,6 +2922,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||entertainment-sports.com^$document
 ||entertainment-topics.jp^$document
 ||entertainment-watch.com^$document
+||entertainment.iid.co.jp^$document
 ||entertainment.k-topmedia.com^$document
 ||entertainment64.xyz^$document
 ||entertainment777.com^$document
@@ -4778,6 +4779,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||item.rakuten.co.jp/norton^$document
 ||item.woomy.me^$document
 ||itemcube.jp^$document
+||items.customlife.co.jp^$document
 ||iti-inc.co.jp^$document
 ||ito-movie.jp^$document
 ||itokoichi.hatenadiary.com^$document
@@ -5678,6 +5680,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||liemu669.com^$document
 ||life-long-friend-ship.net^$document
 ||life-mens.com^$document
+||life.oricon.co.jp^$document
 ||lifehack-sasaki.com^$document
 ||lifehack2ch.livedoor.biz^$document
 ||lifehacktivist.com^$document
@@ -8530,6 +8533,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||qwq-min.com^$document
 ||qxlqgdx.studio^$document
 ||qy62ijjz2.benecicios-bancorrientes.online^$document
+||r-portal.gmo-research.ai^$document
 ||r-press.su^$document
 ||r18-ai.com^$document
 ||r18.hotel3.jp^$document
@@ -9670,6 +9674,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||starrymountain.org^$document
 ||stars-kings.com^$document
 ||startup-live.jp^$document
+||startup2009.jp^$document
 ||starwars.ru^$document
 ||staseon.com^$document
 ||statapk.com^$document
@@ -12393,6 +12398,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.nliwfyz.cn^$document
 ||www.no.reply.japex.ru^$document
 ||www.nobusan1975.com^$document
+||www.noiat.co.jp^$document
 ||www.noritsubushi.online^$document
 ||www.norte-ii.com^$document
 ||www.noureldin-lawfirm.com^$document
