@@ -10128,6 +10128,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tetsuya-cpa.com^$document
 ||tetsuya-next.com^$document
 ||tetu-hop.com^$document
+||tetumemo.com^$document
 ||tevetamw.com^$document
 ||texasoutlawsusa.com^$document
 ||tfg-fc.net^$document

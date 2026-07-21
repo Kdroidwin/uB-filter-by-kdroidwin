@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://tetumemo.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -20591,6 +20590,7 @@
 *://tetsuya-cpa.com/*
 *://tetsuya-next.com/*
 *://tetu-hop.com/*
+*://tetumemo.com/*
 *://tevetamw.com/*
 *://texasoutlawsusa.com/*
 *://tfg-fc.net/*
