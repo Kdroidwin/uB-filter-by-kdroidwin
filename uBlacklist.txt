@@ -2,6 +2,8 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://www.bbc-tv.co.jp/vod-column/*
+*://entame.netoff.co.jp/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
