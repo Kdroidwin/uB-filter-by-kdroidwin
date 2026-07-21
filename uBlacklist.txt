@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://uyauya-saving-life.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -21143,6 +21142,7 @@
 *://uugwidnrfbb.com/*
 *://uverfan.com/*
 *://uwmadisonpoker.com/*
+*://uyauya-saving-life.com/*
 *://uz.queenmobile.me/*
 *://v.52proxy.xyz/*
 *://v.baran24.com/*

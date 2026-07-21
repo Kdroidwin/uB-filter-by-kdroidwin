@@ -10705,6 +10705,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uverfan.com^$document
 ||uwenku.com^$document
 ||uwmadisonpoker.com^$document
+||uyauya-saving-life.com^$document
 ||uz.queenmobile.me^$document
 ||v.52proxy.xyz^$document
 ||v.baran24.com^$document
