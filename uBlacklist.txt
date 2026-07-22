@@ -1,28 +1,4 @@
 *://*.000webhostapp.com/*
-*://nishizawasatoshi.com/*
-*://*.kunjuan.jp/*
-*://hitomi-raw2.wew.jp/*
-*://possi452.hatenadiary.jp/*
-*://doujinfanza.com/*
-*://hentai-raw.wew.jp/*
-*://manganotatsujin.jp/*
-*://funin-ryoritsu.jp/*
-*://r18index.net/*
-*://adult.coideco.jp/*
-*://beyond-inc.jp/*
-*://kelu.jp/*
-*://felice-co.jp/*
-*://otona-radar.jp/*
-*://www.nijigen-mazoblog.com/*
-*://alpha.hentai-raw.net/*
-*://r18.utsuru.jp/*
-*://www.andalyfe-cbd.jp/*
-*://mangadoujinero.net/*
-*://xxx.coffee-days.jp/*
-*://jav-mania.com/*
-*://www.dj-adb.com/*
-*://momongarawhitomi.jp/*
-*://masutabe.info/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -5979,6 +5955,7 @@
 *://*.kiby.jp/*
 *://*.kimuta1105.livedoor.blog/*
 *://*.kokunanmonomousu.com/*
+*://*.kunjuan.jp/*
 *://*.kushi-mc.net/*
 *://*.la/?_g=*
 *://*.latestmodapks.com/*
@@ -11251,6 +11228,7 @@
 *://adult-otona.tokyo/*
 *://adult-select.com/*
 *://adult.asoku.net/*
+*://adult.coideco.jp/*
 *://adult.z-z.jp/*
 *://adult21ero.com/*
 *://adultdojin.jp/*
@@ -11428,6 +11406,7 @@
 *://almoosahomehealthcare.org/*
 *://alnaimistudios.com/*
 *://alpha-box.jp/*
+*://alpha.hentai-raw.net/*
 *://alpinearagon.com/*
 *://alprazolamfaq.com/*
 *://alps-stech.jp/products/*
@@ -12101,6 +12080,7 @@
 *://besunet.com/*
 *://bethelcc.net/*
 *://better-information.com/*
+*://beyond-inc.jp/*
 *://beypark7.com/*
 *://bg-mania.jp/*
 *://bh-clearance.com/*
@@ -13299,6 +13279,7 @@
 *://doujindayo.com/*
 *://doujineroman.wpx.jp/*
 *://doujinevent.com/*
+*://doujinfanza.com/*
 *://doujinfree.com/*
 *://doujingpt.com/*
 *://doujinhook.net/*
@@ -13930,6 +13911,7 @@
 *://feeb.jp/*
 *://feizeus.com/*
 *://feizeus2.com/*
+*://felice-co.jp/*
 *://femimatsu.com/*
 *://fenergybd.com/*
 *://ferquem.com/*
@@ -14169,6 +14151,7 @@
 *://fund.lifeplay.co.jp/*
 *://fundacionbuenasemilla.org/*
 *://funfuntanoshii.com/*
+*://funin-ryoritsu.jp/*
 *://funlifehack.com/*
 *://funmodapk.com/*
 *://funmovelearn.com/*
@@ -14912,6 +14895,7 @@
 *://hentai-raw-manga.jp/*
 *://hentai-raw.com/*
 *://hentai-raw.net/*
+*://hentai-raw.wew.jp/*
 *://hentai-tok.com/*
 *://hentai.coffee-days.jp/*
 *://hentai.gger.jp/*
@@ -15041,6 +15025,7 @@
 *://hitomi-raw-eromanga.com/*
 *://hitomi-raw.cfbx.jp/*
 *://hitomi-raw.lsrv.jp/*
+*://hitomi-raw2.wew.jp/*
 *://hitomi-vg.com/*
 *://hitomi.momonga-raw.com/*
 *://hitomia.com/*
@@ -15553,6 +15538,7 @@
 *://japex.ru/*
 *://jardinesjusto.com/*
 *://jaropan.pages.dev/*
+*://jav-mania.com/*
 *://javelinmitsu.com/*
 *://javten.com/*
 *://javy.jp/*
@@ -15872,6 +15858,7 @@
 *://kekkon874.com/*
 *://kekvr55qs.aarmarcalderas.es/*
 *://kelsey-asbillenude.nude.com/*
+*://kelu.jp/*
 *://kelvinshi.me/*
 *://kemono-friends-shop.net/*
 *://kemono-friendsbbs.com/*
@@ -16743,6 +16730,7 @@
 *://mangacafe-jupiter.com/*
 *://mangachuuu.jp/*
 *://mangacomic.wpx.jp/*
+*://mangadoujinero.net/*
 *://mangafan.biz/*
 *://mangakaiwai.com/*
 *://mangakaiwai.wpx.jp/*
@@ -16752,6 +16740,7 @@
 *://mangan-king.com/*
 *://mangan1.seesaa.net/*
 *://manganista.net/*
+*://manganotatsujin.jp/*
 *://mangaportal.jp/*
 *://mangaroo.jp/*
 *://mangatameshiyomi.com/*
@@ -16825,6 +16814,7 @@
 *://master--endoflife-date.netlify.app/*
 *://master--helm-dev.netlify.app/*
 *://master.tech-camp.in/*
+*://masutabe.info/*
 *://masyuo.com/*
 *://mata-ashita.com/*
 *://matce.cn/*
@@ -17215,6 +17205,7 @@
 *://momonga-raw.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momongaraw.jp/*
+*://momongarawhitomi.jp/*
 *://momongasan.com/*
 *://momongasan.wpx.jp/*
 *://momonoyakata.com/*
@@ -17693,6 +17684,7 @@
 *://nisanakadar.online/*
 *://nishichibayk-dc.com/*
 *://nishinono.com/*
+*://nishizawasatoshi.com/*
 *://nissancagayandeoro.com/*
 *://nisshin-kogyo.jp/*
 *://nisshinne.life/*
@@ -18681,6 +18673,7 @@
 *://otomeexpert.com/*
 *://otona-comic.com/*
 *://otona-freecomic.jp/*
+*://otona-radar.jp/*
 *://otonaclub.mixh.jp/*
 *://otonakensaku.com/*
 *://otonano-erokatsu.net/*
@@ -19013,6 +19006,7 @@
 *://positive-lab365days.com/*
 *://positivelog.net/*
 *://possi452.hateblo.jp/*
+*://possi452.hatenadiary.jp/*
 *://postcrux.com/*
 *://postly.app/*
 *://pot-blog.com/*
@@ -19187,8 +19181,10 @@
 *://r-press.su/*
 *://r18-ai.com/*
 *://r18.hotel3.jp/*
+*://r18.utsuru.jp/*
 *://r18books.yogamotto.com/*
 *://r18erodoujin.com/*
+*://r18index.net/*
 *://r2.community.samsung.com/*
 *://r25.jp/*
 *://r27kt256.r.us-east-1.awstrack.me/*
@@ -21816,6 +21812,7 @@
 *://www.amjad.xyz/*
 *://www.amourinteriors.in/*
 *://www.analytiqs.io/*
+*://www.andalyfe-cbd.jp/*
 *://www.andbeans.jp/*
 *://www.andresen-erhverv.dk/*
 *://www.androeed.cc/*
@@ -22150,6 +22147,7 @@
 *://www.directstrata.com/*
 *://www.diskgarage.com/*
 *://www.displayexpo.jp/*
+*://www.dj-adb.com/*
 *://www.djengduedd.com/*
 *://www.dm-s.co.jp/*
 *://www.doctorgreen.com/*
@@ -22949,6 +22947,7 @@
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
 *://www.nigehbancompoundingpharmacy.com/*
+*://www.nijigen-mazoblog.com/*
 *://www.niksonline.com/*
 *://www.nishino-it-office.com/*
 *://www.nishinomiya-city.jp/*
@@ -23841,6 +23840,7 @@
 *://xvpn.io/*
 *://xvxv-min.com/*
 *://xxkaiwai.com/*
+*://xxx.coffee-days.jp/*
 *://xxx.hotel3.jp/*
 *://xxx.konan-connect.jp/*
 *://xxx.oz-bread.com/*
