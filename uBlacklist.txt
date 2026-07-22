@@ -13011,7 +13011,6 @@
 *://dekunoboh.com/*
 *://delafosse.immo/*
 *://delicious-info.com/*
-*://delishkitchen.tv/*
 *://deliteapks.com/*
 *://dellasanta.ch/*
 *://delshahdriving.com/*
