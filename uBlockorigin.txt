@@ -2363,7 +2363,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dekunoboh.com^$document
 ||delafosse.immo^$document
 ||delicious-info.com^$document
-||delishkitchen.tv^$document
 ||deliteapks.com^$document
 ||dellasanta.ch^$document
 ||delshahdriving.com^$document
