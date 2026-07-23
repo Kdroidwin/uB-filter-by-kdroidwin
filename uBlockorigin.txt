@@ -1874,13 +1874,21 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||character-movie.jp^$document
 ||characterland.jp^$document
 ||chasochaso.com^$document
+||chat.aichatapp.ai^$document
 ||chat.badate.work^$document
+||chatai.org^$document
 ||chateauduroi.co^$document
+||chatgpt.jp.net^$document
 ||chatgpt4000.com^$document
+||chatgptjapan.org^$document
+||chatgptjp.com^$document
 ||chatgptmod-apk.com^$document
 ||chatgptmodapk.com^$document
 ||chatgptmodapk.org^$document
 ||chatgptmodapks.com^$document
+||chatjapanese.jp^$document
+||chatjapanese.org^$document
+||chatopenai.jp^$document
 ||chayquan.com^$document
 ||che-guevara.jp^$document
 ||cheat-sokuhou.com^$document
@@ -3954,6 +3962,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||goversys.com^$document
 ||govorite.ru^$document
 ||gpslp-ptp5.vercel.app^$document
+||gptjp.io^$document
+||gptjp.org^$document
 ||grabmodapk.com^$document
 ||grace17.com^$document
 ||gracefulwolf.com^$document
@@ -8019,6 +8029,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ootdctyt.com^$document
 ||op1.info^$document
 ||opc3.bandom.info^$document
+||openai-chatgpt.jp^$document
 ||openew.app^$document
 ||opensea.io^$document
 ||oppai-sand.com^$document
@@ -13358,6 +13369,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--gmqq4uh6g2jap9qu5bm96ab51a5id.com^$document
 ||xn--gmqq4uh6guy8aj2b.com^$document
 ||xn--gmqr7jwxkm49aj2b.seesaa.net^$document
+||xn--gpt-1l4bk4a7o.com^$document
 ||xn--h9jepie9n6a5394exeq51z.com^$document
 ||xn--hekm0a443zu0m.xyz^$document
 ||xn--hhr831fjwhg9i.jp^$document
