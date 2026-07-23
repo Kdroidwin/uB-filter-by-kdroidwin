@@ -1,5 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://the-fool-project.jp/*
+*://doujin.studio-yh.jp/*
+*://www.karzusp.net/*
+*://doujinmanga-rank.jp/*
+*://www.aisex.jp/*
+*://hnaojisan.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
