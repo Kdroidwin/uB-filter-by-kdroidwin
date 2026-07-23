@@ -122,6 +122,7 @@
 ||assets.msn.com^
 ||mobile.events.data.microsoft.com^
 
+||assets.adobedtm.com^
 
 
 ||report.vphoneosapp.com^
