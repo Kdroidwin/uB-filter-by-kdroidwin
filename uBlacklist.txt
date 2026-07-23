@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.huffingtonpost.jp/*
-*://www.touka-komeko.com/*
-*://chiiki-sousei.com/*
-*://note.com/yuka_dondondon/*
-*://note.com/females_db_park/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -12574,6 +12569,7 @@
 *://chiematome.com/*
 *://chihirotokae.com/*
 *://chii-memo.com/*
+*://chiiki-sousei.com/*
 *://chiirosan.com/*
 *://chikanyanta.com/*
 *://chikiyasuibuki1104.com/*
@@ -17864,6 +17860,7 @@
 *://note.com/eru1881/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/fair_godwit545/*
+*://note.com/females_db_park/*
 *://note.com/fine_gerbil9006/*
 *://note.com/fit_hyssop6243/*
 *://note.com/fit_quince2164/*
@@ -18328,6 +18325,7 @@
 *://note.com/yubaku/*
 *://note.com/yudexai/*
 *://note.com/yuga_hashimoto/*
+*://note.com/yuka_dondondon/*
 *://note.com/yuka_ti/*
 *://note.com/yukarin_english/*
 *://note.com/yuki_note_1/*
@@ -22513,6 +22511,7 @@
 *://www.hs-partner.hamburg/*
 *://www.hsselite.com/*
 *://www.hube.jp/*
+*://www.huffingtonpost.jp/*
 *://www.hybrid-analysis.com/*
 *://www.i-dont-care-about-cookies.eu/*
 *://www.ibaozhen.xyz/*
@@ -23458,6 +23457,7 @@
 *://www.toshima-sdgs.jp/*
 *://www.totalav.com/*
 *://www.totalexpo.ru/*
+*://www.touka-komeko.com/*
 *://www.tourconnection.travel/*
 *://www.toynutz.com/*
 *://www.trade-trade.shop/*
