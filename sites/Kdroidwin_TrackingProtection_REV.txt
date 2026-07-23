@@ -137,6 +137,7 @@
 ||path1.xtracloud.net^
 ||jsb-sg.byteoversea.com^
 ||frontier-va.byteoversea.com^
+||darkreader.org^
 
 !Meta
 ||edge-mqtt.facebook.com^
