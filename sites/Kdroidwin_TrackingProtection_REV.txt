@@ -110,6 +110,8 @@
 
 
 ||static.pgsharp.com^
+||f.pgsharp.com^
+
 
 ||location.services.mozilla.com^
 
