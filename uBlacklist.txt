@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://www.huffingtonpost.jp/*
+*://www.touka-komeko.com/*
+*://chiiki-sousei.com/*
 *://note.com/yuka_dondondon/*
 *://note.com/females_db_park/*
 *://*.16892.net/*
