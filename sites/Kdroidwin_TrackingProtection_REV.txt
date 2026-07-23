@@ -45,11 +45,10 @@
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
-||clientmetrics-pa.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
-||clienttracing-pa.googleapis.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||content-autofill.googleapis.com^
 ||android-context-data.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||pjt-knowledge.firebaseapp.com^
