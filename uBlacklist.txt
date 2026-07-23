@@ -1,11 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://the-fool-project.jp/*
-*://doujin.studio-yh.jp/*
-*://www.karzusp.net/*
-*://doujinmanga-rank.jp/*
-*://www.aisex.jp/*
-*://hnaojisan.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -13275,6 +13269,7 @@
 *://doujin.moshiero.cfbx.jp/*
 *://doujin.s-resist.jp/*
 *://doujin.shidashi-chiba.jp/*
+*://doujin.studio-yh.jp/*
 *://doujin.ton-ton.jp/*
 *://doujin.wtwhd.com/*
 *://doujin.yogamotto.com/*
@@ -13294,6 +13289,7 @@
 *://doujinkan.com/*
 *://doujinlink.com/*
 *://doujinmanga-komishiru.com/*
+*://doujinmanga-rank.jp/*
 *://doujinmm.dlold.net/*
 *://doujinnews.com/*
 *://doujinraw.com/*
@@ -15071,6 +15067,7 @@
 *://hmd.site/*
 *://hmfes.com/*
 *://hmoeta.com/*
+*://hnaojisan.com/*
 *://hngez.dottoremiascolti.it/*
 *://hnt.co.jp/*
 *://hnv.jp/*
@@ -20709,6 +20706,7 @@
 *://thdzohzbf.ftpark.pl/*
 *://the-cyclebreakers.com/*
 *://the-decision-lab.com/*
+*://the-fool-project.jp/*
 *://the-greatest-dj-of-all-time.technobit.online/*
 *://the-jet-sleeper.com/*
 *://the-personal-gym.com/*
@@ -21784,6 +21782,7 @@
 *://www.ais-esim.com/*
 *://www.aisato.info/*
 *://www.aiseesoft.jp/tutorials/android-root-app.html*
+*://www.aisex.jp/*
 *://www.aiwa-digital.shop/*
 *://www.aixdsp.com/*
 *://www.ajcybersecurity.com/*
@@ -22655,6 +22654,7 @@
 *://www.kanesk.cn/*
 *://www.kape.com/*
 *://www.karkasi.online/*
+*://www.karzusp.net/*
 *://www.kashi-mo.com/*
 *://www.kawa.coffee/*
 *://www.kazenodenwa.com/*

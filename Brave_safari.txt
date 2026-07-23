@@ -2619,6 +2619,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.moshiero.cfbx.jp^$document
 ||doujin.s-resist.jp^$document
 ||doujin.shidashi-chiba.jp^$document
+||doujin.studio-yh.jp^$document
 ||doujin.ton-ton.jp^$document
 ||doujin.wtwhd.com^$document
 ||doujin.yogamotto.com^$document
@@ -2638,6 +2639,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinkan.com^$document
 ||doujinlink.com^$document
 ||doujinmanga-komishiru.com^$document
+||doujinmanga-rank.jp^$document
 ||doujinmm.dlold.net^$document
 ||doujinnews.com^$document
 ||doujinraw.com^$document
@@ -4434,6 +4436,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hmd.site^$document
 ||hmfes.com^$document
 ||hmoeta.com^$document
+||hnaojisan.com^$document
 ||hngez.dottoremiascolti.it^$document
 ||hnt.co.jp^$document
 ||hnv.jp^$document
@@ -10239,6 +10242,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||thdzohzbf.ftpark.pl^$document
 ||the-cyclebreakers.com^$document
 ||the-decision-lab.com^$document
+||the-fool-project.jp^$document
 ||the-greatest-dj-of-all-time.technobit.online^$document
 ||the-jet-sleeper.com^$document
 ||the-personal-gym.com^$document
@@ -11377,6 +11381,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.ais-esim.com^$document
 ||www.aisato.info^$document
 ||www.aiseesoft.jp/tutorials/android-root-app.html^$document
+||www.aisex.jp^$document
 ||www.aiwa-digital.shop^$document
 ||www.aixdsp.com^$document
 ||www.ajcybersecurity.com^$document
@@ -12251,6 +12256,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kanesk.cn^$document
 ||www.kape.com^$document
 ||www.karkasi.online^$document
+||www.karzusp.net^$document
 ||www.kashi-mo.com^$document
 ||www.kawa.coffee^$document
 ||www.kazenodenwa.com^$document
