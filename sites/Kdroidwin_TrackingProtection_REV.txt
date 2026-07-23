@@ -24,7 +24,7 @@
 ||firebaseinstallations.googleapis.com^
 ||appsgrowthpromo-pa.googleapis.com^
 ||voilatile-pa.googleapis.com^
-||clientmetrics-pa.googleapis.com^
+||crashlytics.com^
 ||proactivebackend-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
@@ -65,7 +65,7 @@
 ||adjust.world^
 ||adjust.com^
 
-||crashlytics.com^
+
 ||app-measurement.com^
 ||browser-intake-datadoghq.com^
 ||sentry.io^
