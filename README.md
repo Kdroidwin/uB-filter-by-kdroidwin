@@ -171,6 +171,8 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 
 - 注意すべきドメインパターン
   - `za.com` `sa.com` `ru.com`　悪質なサイトによく使われる。
+ 
+※海賊版サイト、著作権侵害サイト、CSAMは基本的にブロックしません。
 
 <br>
 <br>
