@@ -124,7 +124,7 @@
 
 ||assets.adobedtm.com^
 
-
+||click.tver.jp^
 ||report.vphoneosapp.com^
 ||thefacux.com^
 ||goomaphy.com^
