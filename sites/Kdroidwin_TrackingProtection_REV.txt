@@ -139,7 +139,12 @@
 ||frontier-va.byteoversea.com^
 ||darkreader.org^
 
-!Meta
+! Meta
 ||edge-mqtt.facebook.com^
 ||i-fallback.instagram.com^
 ||graph.facebook.com^
+
+! 1DM
+||apps2sd.info^
+@@||www.apps2sd.info/idm/filters.txt^
+
