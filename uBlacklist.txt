@@ -1,6 +1,15 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://revanced.vercel.app/*
+*://revanced.en.uptodown.com/*
+*://morphe-youtube.ru.malavida.com/*
+*://www.apklinker.com/*
+*://youtube-morphe.en.aptoide.com/*
+*://www.malavida.com/*
+*://youtube-morphe.cn.aptoide.com/*
+*://androidapplications.store/*
+*://kotomix.hatenablog.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
