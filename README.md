@@ -134,8 +134,13 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - SEOスパム
   - 評価基準がアフィリエイトや報酬重視
   - 役に立たないランキングサイトなど
-  - 「〇〇 おすすめ」「〇〇 比較」
+  - 「〇〇 おすすめ」「〇〇 比較」「○○は終了？」
   - おすすめVPNなど
+  - 検索上位を狙う構成
+  - キーワードを何度も繰り返し、文字数が多い
+  - 結論が曖昧
+  - 内容の重複が多い
+  - 「○○はどこで買える？」「○○の理由を徹底解説」
 
 - プレスリリースサイト
   - PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
