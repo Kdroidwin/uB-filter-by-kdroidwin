@@ -9081,7 +9081,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||s-direct.online^$document
 ||s-seals.co.jp^$document
 ||s-street.jp^$document
-||s.cinemacafe.net^$document
 ||s.id^$document
 ||s.newscafe.ne.jp^$document
 ||s0ft4pc.com^$document
