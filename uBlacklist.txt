@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://annas-archive.pm/*
-*://annas-archive.li/*
-*://revancedapp.download/*
-*://vanced.io/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -11586,6 +11582,8 @@
 *://anmin579.com/*
 *://anna-advisors.com/*
 *://annaishimasuyo.com/*
+*://annas-archive.li/*
+*://annas-archive.pm/*
 *://annbiyou.com/*
 *://annneme.net/*
 *://announcer-room.net/*
@@ -19417,6 +19415,7 @@
 *://revancedapk.com/*
 *://revancedapk.net/*
 *://revancedapk.org/*
+*://revancedapp.download/*
 *://revancedapp.io/*
 *://revancedapp.net/*
 *://revancedapp.netlify.app/*
@@ -21313,6 +21312,7 @@
 *://vanced.app/*
 *://vanced.com.co/*
 *://vanced.en.filerox.com/*
+*://vanced.io/*
 *://vanced.jp.uptodown.com/*
 *://vanced.me/*
 *://vanced.net/*

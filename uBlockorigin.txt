@@ -900,6 +900,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anmin579.com^$document
 ||anna-advisors.com^$document
 ||annaishimasuyo.com^$document
+||annas-archive.li^$document
+||annas-archive.pm^$document
 ||annbiyou.com^$document
 ||annneme.net^$document
 ||announcer-room.net^$document
@@ -8878,6 +8880,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revancedapk.com^$document
 ||revancedapk.net^$document
 ||revancedapk.org^$document
+||revancedapp.download^$document
 ||revancedapp.io^$document
 ||revancedapp.net^$document
 ||revancedapp.netlify.app^$document
@@ -10871,6 +10874,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vanced.app^$document
 ||vanced.com.co^$document
 ||vanced.en.filerox.com^$document
+||vanced.io^$document
 ||vanced.jp.uptodown.com^$document
 ||vanced.me^$document
 ||vanced.net^$document
