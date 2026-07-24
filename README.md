@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 ```
 AdGuard DNSやAdGuard Home、AdGuardモバイルアプリユーザー向け
 プライバシー重視の方以外は購読しないでください。
-誤ブロックも多いです。
+誤ブロックも多いです。[これ](https://github.com/Kdroidwin/Kdroidwin-Tracking-Protection)の後継です。
 
 <br>
 <br>
