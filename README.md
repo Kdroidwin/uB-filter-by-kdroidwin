@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 
 
-# uBlock Origin 用フィルターの種類
+# uBlock Origin,AdGuard 用フィルターの種類
 
 
 -購読を押してください。
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 
 - uB-filter-by-kdroidwin(uBO&AdGuard)
-[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt&title=Block%20malicious%20websites%20by%20Kdroidwin)
+[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt&title=uB-filter-by-kdroidwin)
 
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
