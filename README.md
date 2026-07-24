@@ -101,6 +101,18 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 <br>
 <br>
 
+- Kdroidwin_TrackingProtection_REV
+```
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/Kdroidwin_TrackingProtection_REV.txt
+```
+AdGuard DNSやAdGuard Home、AdGuardモバイルアプリユーザー向け
+プライバシー重視の方以外は購読しないでください。
+誤ブロックも多いです。
+
+<br>
+<br>
+<br>
+
 # Brave Shields &Safariコンテンツブロッカー&1DM 用フィルターの種類
 ```
 https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/Brave_safari.txt
