@@ -114,19 +114,20 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - いかがでしたか系（デマ・芸能ゴシップ）
   - 根拠なしのセンセーショナル見出し
 
-- 悪質アフィリエイトサイト（報酬優先ランキング）
+- 悪質アフィリエイト ランキングサイト（報酬優先ランキング）
   - 商品比較が曖昧
   - 「報酬が高い順」など不透明なランキング
 
-- 悪質アフィリエイト記事（自社製品・ステマ）
+- 悪質アフィリエイト記事（自社製品・ステマなど）
   - 批判や欠点が書かれていない
   - CTA（購入誘導）が過剰
 
 - 偽レビューサイト（R18漫画・ガジェット等、AI生成含む）
   - 同じ文言のコピペが多い
   - 実体験の裏付けが弱い
+  - スペック表記のみ
 
-- 詐欺サイト
+- 詐欺サイト、フィッシングサイト
 
 - サポート詐欺／不正リダイレクト
 
@@ -138,9 +139,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - プレスリリースサイト
   - PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
 
-- フィッシングサイト（偽サイト）
+- 偽サイト
 
-- 誤情報サイト
+- 誤情報サイト（陰謀論など）
 
 - 危険なソフト配布サイト（マルウェア）
   - 前科ありのサイトも含む
@@ -164,6 +165,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 
 - ドロップキャッチ
 
+- 悪質な情報商材関連
+  - Brain,Tips,一部note,オンラインサロン
+  - 令和の虎、ホリエモン、Addness、驚き屋
 
 - 注意すべきTLD（悪用率が比較的高い）
   - `.best` `.click` `.top` `.cfd` `.cyou` `.sbs` `.cm` `.cf` `.my`
