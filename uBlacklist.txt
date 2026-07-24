@@ -1,5 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://annas-archive.pm/*
+*://annas-archive.li/*
+*://revancedapp.download/*
+*://vanced.io/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
