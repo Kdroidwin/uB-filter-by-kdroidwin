@@ -135,6 +135,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 評価基準がアフィリエイトや報酬重視
   - 役に立たないランキングサイトなど
   - 「〇〇 おすすめ」「〇〇 比較」
+  - おすすめVPNなど
 
 - プレスリリースサイト
   - PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
@@ -168,6 +169,13 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - 悪質な情報商材関連
   - Brain,Tips,一部note,オンラインサロン
   - 令和の虎、ホリエモン、Addness、驚き屋
+
+- 評判が悪いセキュリティソフト
+  - McAfee、アバスト
+
+- 信頼できないVPN（ExpressVPNなど）
+- 評判が悪いサービス
+  - GMO系 など 
 
 - 注意すべきTLD（悪用率が比較的高い）
   - `.best` `.click` `.top` `.cfd` `.cyou` `.sbs` `.cm` `.cf` `.my`
