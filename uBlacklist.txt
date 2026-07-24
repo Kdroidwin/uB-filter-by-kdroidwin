@@ -1,15 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://revanced.vercel.app/*
-*://revanced.en.uptodown.com/*
-*://morphe-youtube.ru.malavida.com/*
-*://www.apklinker.com/*
-*://youtube-morphe.en.aptoide.com/*
-*://www.malavida.com/*
-*://youtube-morphe.cn.aptoide.com/*
-*://androidapplications.store/*
-*://kotomix.hatenablog.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -11529,6 +11520,7 @@
 *://android.hehezhou.cn/*
 *://androidadbdriver.com/*
 *://androidapp.jp.net/*
+*://androidapplications.store/*
 *://androidappsapk.co/*
 *://androidiani.net/*
 *://androidiapk.com/*
@@ -16160,6 +16152,7 @@
 *://kotaroworld.com/*
 *://kotohogi.life/*
 *://kotoko18.com/*
+*://kotomix.hatenablog.com/*
 *://kotomononavi.com/*
 *://kotonavi777.com/*
 *://kotti.biz/*
@@ -17289,6 +17282,7 @@
 *://morozvest.ru/*
 *://morphe-app.com/*
 *://morphe-official.com/*
+*://morphe-youtube.ru.malavida.com/*
 *://morpheapp.net/*
 *://morphemanager.com/*
 *://morumoru1426.com/*
@@ -19407,6 +19401,7 @@
 *://revanced.cloud/*
 *://revanced.dev/*
 *://revanced.en.softonic.com/*
+*://revanced.en.uptodown.com/*
 *://revanced.freedown.io/*
 *://revanced.info/*
 *://revanced.io/*
@@ -19420,6 +19415,7 @@
 *://revanced.to/*
 *://revanced.tools/*
 *://revanced.tube/*
+*://revanced.vercel.app/*
 *://revanced.wiki/*
 *://revancedapk.com/*
 *://revancedapk.net/*
@@ -21875,6 +21871,7 @@
 *://www.apk4fun.com/*
 *://www.apkdelisi.net/*
 *://www.apkfiles.com/*
+*://www.apklinker.com/*
 *://www.apkmirror.com/apk/%E7%8C%AB%E8%80%B3%E5%B7%A5%E5%9D%8A/nekogram/*
 *://www.apkmirror.com/apk/databite/graph-messenger/*
 *://www.apknougat.com/*
@@ -22810,6 +22807,7 @@
 *://www.maidencane.com/*
 *://www.maidoshop.com/*
 *://www.makemydayjapan.com/*
+*://www.malavida.com/*
 *://www.malavida.com/en/soft/youtube-revanced/*
 *://www.mamainfo.net/*
 *://www.mamatysarees.com/*
@@ -24016,6 +24014,8 @@
 *://youtube-guidance.com/*
 *://youtube-jyoho.jp/*
 *://youtube-lect.jp/*
+*://youtube-morphe.cn.aptoide.com/*
+*://youtube-morphe.en.aptoide.com/*
 *://youtube-music.mundoperfecto.net/*
 *://youtube-revanced.apktodo.io/*
 *://youtube-revanced.jp.malavida.com/*
