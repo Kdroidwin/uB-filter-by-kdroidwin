@@ -180,9 +180,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 前科ありのサイトも含む
    
 -  偽ダウンロードボタン／広告トリック
-  - 広告ボタンをダウンロードと誤認させる配置
-  - 複数の紛らわしいボタン
-  - uBlock Originで消えていない一部広告
+   - 広告ボタンをダウンロードと誤認させる配置
+   - 複数の紛らわしいボタン
+   - uBlock Originで消えていない一部広告
 
 
 
