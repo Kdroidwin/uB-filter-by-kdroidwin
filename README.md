@@ -189,6 +189,13 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 
 - 評判が悪いセキュリティソフト
   - McAfee、アバスト
+ 
+- 潜在的リスクのあるサービス
+  - このサービスの代替サービスがあることがリストインする必須条件
+  - 運営が過去に何か問題を起こしていることが多い
+  - プライバシー的に良くない
+  - おすすめできないサービス
+
 
 - 信頼できないVPN（ExpressVPNなど）
 - 評判が悪いサービス
