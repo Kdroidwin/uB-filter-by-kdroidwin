@@ -139,10 +139,6 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 実体験の裏付けが弱い
   - スペック表記のみ
 
-- 詐欺サイト、フィッシングサイト
-
-- サポート詐欺／不正リダイレクト
-
 - SEOスパム
   - 評価基準がアフィリエイトや報酬重視
   - 役に立たないランキングサイトなど
@@ -157,12 +153,8 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - プレスリリースサイト
   - PRTimes https://github.com/Kdroidwin/uB-filter-by-kdroidwin/issues/12
 
-- 偽サイト
 
-- 誤情報サイト（陰謀論など）
-
-- 危険なソフト配布サイト（マルウェア）
-  - 前科ありのサイトも含む
+- 誤情報サイト（陰謀論、フェイクニュースなど）
 
 - 悪質なまとめサイト（デマ拡散）
   - 出典不明の情報を寄せ集め
@@ -172,14 +164,27 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 事実誤認が頻繁
   - 訂正履歴や更新履歴がない
 
-- 偽ダウンロードボタン／広告トリック
+- クリックベイトサイト
+  - 見出しと本文の乖離が大きい
+  - 中身が広告・アフィリエイト中心
+
+- ロシアや中国等のプロパガンダサイト
+
+- 詐欺サイト、フィッシングサイト
+
+- サポート詐欺／不正リダイレクト
+
+- 偽サイト
+
+- 危険なソフト配布サイト（マルウェア）
+  - 前科ありのサイトも含む
+   
+-  偽ダウンロードボタン／広告トリック
   - 広告ボタンをダウンロードと誤認させる配置
   - 複数の紛らわしいボタン
   - uBlock Originで消えていない一部広告
 
-- クリックベイトサイト
-  - 見出しと本文の乖離が大きい
-  - 中身が広告・アフィリエイト中心
+
 
 - ドロップキャッチ
 
@@ -187,17 +192,15 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - Brain,Tips,一部note,オンラインサロン
   - 令和の虎、ホリエモン、Addness、驚き屋
 
-- 評判が悪いセキュリティソフト
-  - McAfee、アバスト
  
 - 潜在的リスクのあるサービス
   - このサービスの代替サービスがあることがリストインする必須条件
   - 運営が過去に何か問題を起こしていることが多い
   - プライバシー的に良くない
   - おすすめできないサービス
+  - 信頼できないVPNなど（ExpressVPNなど）
+  - 評判が悪いセキュリティソフト
 
-
-- 信頼できないVPN（ExpressVPNなど）
 - 評判が悪いサービス
   - GMO系 など 
 
