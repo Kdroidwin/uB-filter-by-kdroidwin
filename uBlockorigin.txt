@@ -130,7 +130,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||*bank-co-jp.com^$document
 ||*bank-co-jp.net^$document
 ||*bank-jp.site^$document
-||*cracked-games.*^$all
 ||*getintopc.com^$all
 ||*kickasstorrents.*^$all
 ||*kms-pico*.*^$all,to=~forums.mydigitallife.net
@@ -162,7 +161,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||-co-jp.wiki^$document
 ||-co-jp.work^$document
 ||-co-jp.xyz^$document
-||-jp.co^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -9260,7 +9258,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sbenny.com^$document
 ||sber.me^$document
 ||sblog51.net^$document
-||sbs^$doc,to=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs|~moritake.sbs|~hiroruri.sbs|~sitterservice-beyond.sbs|~airbnb-o-hama.sbs|~javbus.sbs|~www.jilewangchao.sbs|~av4us.sbs|~kakyo.sbs|~ehimedoyoukai.sbs
+||sbs^$doc,to=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs|~moritake.sbs|~hiroruri.sbs|~sitterservice-beyond.sbs|~airbnb-o-hama.sbs|~javbus.sbs|~www.jilewangchao.sbs|~av4us.sbs|~kakyo.sbs|~ehimedoyoukai.sbs|~endless.sbs
 ||scaleqa.com^$document
 ||scan.page^$document
 ||scarystories.jp^$document
