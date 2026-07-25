@@ -1,5 +1,3 @@
-*://olive-spa.com/*
-*://takuanpiri.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18575,6 +18573,7 @@
 *://oldexpo.com/*
 *://oldnavy.gap.cn/*
 *://olertwsi.com/*
+*://olive-spa.com/*
 *://oll42z3.neurofaszia-therapie.de/*
 *://ollyfactory.com/*
 *://olucroir.com/*
@@ -20630,6 +20629,7 @@
 *://takosu6129.fun/*
 *://taksiduraklari.xyz/*
 *://taku218.com/*
+*://takuanpiri.com/*
 *://takudeli.com/*
 *://takulog2020.com/*
 *://takumiworld.xyz/*
