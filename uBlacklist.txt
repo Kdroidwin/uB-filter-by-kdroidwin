@@ -1,5 +1,3 @@
-*://note.com/elimaga/*
-*://nistrel.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17736,6 +17734,7 @@
 *://nissancagayandeoro.com/*
 *://nisshin-kogyo.jp/*
 *://nisshinne.life/*
+*://nistrel.com/*
 *://nita.blog.jp/*
 *://nitamono.nitadls.com/*
 *://niterune.com/*
@@ -17905,6 +17904,7 @@
 *://note.com/duppyclub/*
 *://note.com/egao_no_care_nao/*
 *://note.com/ekokosu/*
+*://note.com/elimaga/*
 *://note.com/eru1881/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/fair_godwit545/*

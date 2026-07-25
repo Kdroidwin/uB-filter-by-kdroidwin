@@ -7160,6 +7160,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nissancagayandeoro.com^$document
 ||nisshin-kogyo.jp^$document
 ||nisshinne.life^$document
+||nistrel.com^$document
 ||nita.blog.jp^$document
 ||nitamono.nitadls.com^$document
 ||niterune.com^$document
@@ -7327,6 +7328,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/duppyclub^$document
 ||note.com/egao_no_care_nao^$document
 ||note.com/ekokosu^$document
+||note.com/elimaga^$document
 ||note.com/eru1881^$document
 ||note.com/f00b4r/n/n1fe7afacadd7^$document
 ||note.com/fair_godwit545^$document
