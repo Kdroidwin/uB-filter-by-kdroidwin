@@ -1,36 +1,3 @@
-*://note.com/picaso_youtube/*
-*://doukaiko.jp/*
-*://t2-3d.jp/*
-*://ninnkidoujinnavnyki.com/*
-*://hmanga-best.com/*
-*://asianoneta.blog.jp/*
-*://codefree.kitashooo.com/*
-*://hima-labo.hatenablog.com/*
-*://rikutaro.jp/*
-*://motokase.com/*
-*://sputnikglobe.com/*
-*://www.rbth.com/*
-*://www.gamingdeputy.com/*
-*://radiojukebox.eu/*
-*://reiwa-ni-ikiru.com/*
-*://xn--n8jv600a.net/*
-*://arcanaapp.com/*
-*://future-next.com/*
-*://genkipolitan.com/*
-*://globo-site.com/*
-*://ipadmod.net/*
-*://www.ishamachi.com/*
-*://note.com/jijineta_world/*
-*://personalgimmick.com/*
-*://ameblo.jp/64152966/*
-*://pentacles1.com/*
-*://rainbow-school.info/*
-*://kizuki.rainbow-school.info/*
-*://nijinogakko.jugem.jp/*
-*://spicomi.net/*
-*://teddyangel.com/*
-*://tsukareme-ganseihirou8.com/*
-*://xn--8stu92aslz3bk.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11470,6 +11437,7 @@
 *://amaninmega-club.com/*
 *://amanioil.com/*
 *://amberdeer6769896.com/*
+*://ameblo.jp/64152966/*
 *://ameblo.jp/akiaki150/*
 *://ameblo.jp/am123456789a/*
 *://ameblo.jp/and-gretel*
@@ -11801,6 +11769,7 @@
 *://arakure.net/*
 *://araou.jp/*
 *://arasa-mama.com/*
+*://arcanaapp.com/*
 *://archimedes-movie.jp/*
 *://archivando.jp/*
 *://archive.org/details/Office2016PermanentActivatorUltimate1.7*
@@ -11873,6 +11842,7 @@
 *://ashitamohare.com/*
 *://ashitasekaiga.jp/*
 *://ashradar.com/*
+*://asianoneta.blog.jp/*
 *://asifkhanshakir.com/*
 *://asilisas.buzz/*
 *://asitanokakehasi.blog.ss-blog.jp/*
@@ -12749,6 +12719,7 @@
 *://codederg.com/*
 *://codederg.org/*
 *://codeerg.com/*
+*://codefree.kitashooo.com/*
 *://codegrepr.com/*
 *://codeguides.site/*
 *://coderoad.ru/*
@@ -13345,6 +13316,7 @@
 *://doujinshinsaku.com/*
 *://doujinsokuhou45.com/*
 *://doujinwiki.com/*
+*://doukaiko.jp/*
 *://doutera.com/*
 *://douyasu.blog.jp/*
 *://douzin-daisuki.com/*
@@ -14219,6 +14191,7 @@
 *://futanarist.com/*
 *://futboltactix.com/*
 *://futosoku.com/*
+*://future-next.com/*
 *://future-sparkling.com/*
 *://futurepark.team-lab.cn/*
 *://futurerobot.online/*
@@ -14399,6 +14372,7 @@
 *://genkimaru1.livedoor.blog/*
 *://genkimorizou.com/*
 *://genkimura.net/*
+*://genkipolitan.com/*
 *://genkithings.jp/*
 *://genovasmma.com/*
 *://genremag.com/*
@@ -14538,6 +14512,7 @@
 *://globalsun.jp/*
 *://globaxiscorp.com/*
 *://globeflightdeals.com/*
+*://globo-site.com/*
 *://glocalnet.jp/*
 *://glotoolhub.com/*
 *://glowluxv.com/*
@@ -15016,6 +14991,7 @@
 *://hikoukigumo2024.com/*
 *://hill-challenge.jp/*
 *://hilokume.jp/*
+*://hima-labo.hatenablog.com/*
 *://hima-po.com/*
 *://himalayas.app/*
 *://himamanga.com/*
@@ -15109,6 +15085,7 @@
 *://hm.info/*
 *://hmaga-life.com/*
 *://hman-hman.com/*
+*://hmanga-best.com/*
 *://hmanganavi.com/*
 *://hmd.site/*
 *://hmfes.com/*
@@ -15438,6 +15415,7 @@
 *://ioritenrsa.xyz/*
 *://iot.dxhub.co.jp/articles/14_pr76tg5
 *://iowadotlandsales.com/*
+*://ipadmod.net/*
 *://iphglobal.com/*
 *://iphone-displayreparatur.eu/*
 *://iphone-mania.jp/*
@@ -16037,6 +16015,7 @@
 *://kitsac1001.com/*
 *://kiyo0406.com/*
 *://kiyoxmao.com/*
+*://kizuki.rainbow-school.info/*
 *://kk-hiroshima.net/*
 *://kk-information.com/*
 *://kk1212.com/*
@@ -17325,6 +17304,7 @@
 *://moteo.best/*
 *://motetsu.com/*
 *://motochanblog.com/*
+*://motokase.com/*
 *://motorlife-world.com/*
 *://motorx6d.sarangkkb.com/*
 *://motoyun-anl.com/*
@@ -17719,6 +17699,7 @@
 *://nijiholo-local.jp/*
 *://nijihorosokuvtubermatome.com/*
 *://nijiironosakana.com/*
+*://nijinogakko.jugem.jp/*
 *://nijipaco.com/*
 *://nijtbsupply.com/*
 *://nikkan-shufu.com/*
@@ -17729,6 +17710,7 @@
 *://nilebasin.org/*
 *://nina.webapp.pink/*
 *://ninnintrends.com/*
+*://ninnkidoujinnavnyki.com/*
 *://nipponnowadai.com/*
 *://niratamajournal.com/*
 *://niravselection.com/*
@@ -18013,6 +17995,7 @@
 *://note.com/japan_cio_info/*
 *://note.com/japanpromos/*
 *://note.com/jigami/*
+*://note.com/jijineta_world/*
 *://note.com/jikenwo_kaimei/*
 *://note.com/jitan_kurashi/*
 *://note.com/jjka1414/*
@@ -18192,6 +18175,7 @@
 *://note.com/penginadaafi/*
 *://note.com/pet_supply/*
 *://note.com/photograpy_tips/*
+*://note.com/picaso_youtube/*
 *://note.com/pinchichan2/*
 *://note.com/pixel8a9/*
 *://note.com/planetofgori/*
@@ -18866,6 +18850,7 @@
 *://pelulog.com/*
 *://penghuothgroup.com/*
 *://penguinblog.work/*
+*://pentacles1.com/*
 *://pentagonpapers-movie.jp/*
 *://pentanews.net/*
 *://pepms.icu/*
@@ -18876,6 +18861,7 @@
 *://perla.si/*
 *://persimmonichinaru.com/*
 *://person.sakura.ne.jp/*
+*://personalgimmick.com/*
 *://personifundas.com/*
 *://perspective.wp-x.jp/*
 *://pesktop.com/*
@@ -19251,12 +19237,14 @@
 *://rabbanmoto.com/*
 *://rabitsokuhou.2chblog.jp/*
 *://rabwatalriyad.com/*
+*://radiojukebox.eu/*
 *://radiolav.ru/*
 *://radiopica.net/*
 *://rafafernandezphotography.com/*
 *://ragsoutfitters.com/*
 *://raifuappu.com/*
 *://rail-inn.com/*
+*://rainbow-school.info/*
 *://rainbowtransfer.com/*
 *://rainmakerofnews.com/*
 *://rairai0707.com/*
@@ -19364,6 +19352,7 @@
 *://reicherumama.com/*
 *://reinforz.co.jp/*
 *://reitoratube.com/*
+*://reiwa-ni-ikiru.com/*
 *://reiwabook.blog/*
 *://reiwanotora.jp/*
 *://rekisiru.com/*
@@ -19500,6 +19489,7 @@
 *://rika333ep.com/*
 *://rikeilifeblog.com/*
 *://riko-ai.com/*
+*://rikutaro.jp/*
 *://rillyblog.net/*
 *://rily.miya-rin7.com/*
 *://rimowakaigaitenbai.com/*
@@ -20221,6 +20211,7 @@
 *://speeder-x.com/*
 *://speedy-senkyo.hatenadiary.jp/*
 *://speedycolt.com/*
+*://spicomi.net/*
 *://spicymadonna.com/*
 *://spinaltap.jp/*
 *://spirit.aptty.com/*
@@ -20293,6 +20284,7 @@
 *://sprunkikiss.cc/*
 *://sprunkilove.org/*
 *://sprunkisinner.cc/*
+*://sputnikglobe.com/*
 *://squashsite.world/*
 *://squirrel-storage.jp/*
 *://srcboat.fi/*
@@ -20561,6 +20553,7 @@
 *://t.me/s/OfficialFTUApps?before=466*
 *://t.me/sotaproject/*
 *://t.spnews5.me/*
+*://t2-3d.jp/*
 *://t2m.io/*
 *://t3n.me/*
 *://ta-see.com/*
@@ -20700,6 +20693,7 @@
 *://techzapk.net/*
 *://tecn.apice-tec.co.jp/*
 *://tecnohumanismo.online/*
+*://teddyangel.com/*
 *://tee1515.com/*
 *://teeeerapon.com/*
 *://teg.sesses.info/*
@@ -21139,6 +21133,7 @@
 *://tsuisoku.com/*
 *://tsuji-papa.com/*
 *://tsukae.ru/*
+*://tsukareme-ganseihirou8.com/*
 *://tsuki-ai.co.jp/*
 *://tsukiakari-boutique.com/*
 *://tsukimiru.com/*
@@ -22405,6 +22400,7 @@
 *://www.gameloop.com/*
 *://www.gamesload.com/*
 *://www.gamestorrents.app/*
+*://www.gamingdeputy.com/*
 *://www.gangnamunni.com/*
 *://www.gangniunnayanfoundation.org/*
 *://www.gao200529.top/*
@@ -22609,6 +22605,7 @@
 *://www.irigasi.info/*
 *://www.irisohyama.co.jp/products/electrical-appliances/seasonal-appliances/humidifier/ultrasonic/ultrasonic-humidifier-water-supply-from-above-type*
 *://www.iruka-travel.com/*
+*://www.ishamachi.com/*
 *://www.ishidasui-ten.com/*
 *://www.ishikikaikaku.jp/*
 *://www.iskra-r.ru/*
@@ -23194,6 +23191,7 @@
 *://www.rastanhealth.com/*
 *://www.rayjonesdigital.com/*
 *://www.rbbtoday.com/*
+*://www.rbth.com/*
 *://www.rcv.co.jp/*
 *://www.rdcjtws.cn/*
 *://www.rdgstl.com/*
@@ -23794,6 +23792,7 @@
 *://xn--5cktamn1e3cza4749gkla.com/*
 *://xn--7ck4axdc4icb0947dwse.com/*
 *://xn--7frp6a51ujmfxo1adfzuzk37c.com/*
+*://xn--8stu92aslz3bk.net/*
 *://xn--98jxb5dua6581cp0kbh0h.com/*
 *://xn--b9jtjxa7aj6131e.com/*
 *://xn--bdkyb7dr864au6ub.com/*
@@ -23837,6 +23836,7 @@
 *://xn--n8jp1dzg801ngmaq12a4qui95g.com/*
 *://xn--n8jtc6ad0nv19pp9cstj8xjljc.net/*
 *://xn--n8jtcxe5c344rqxguyj4o1dj8yb.com/*
+*://xn--n8jv600a.net/*
 *://xn--n8jyp3b884top8c.net/*
 *://xn--nbkt22gzudwn9b.jp/*
 *://xn--nckxaw3lrb7by753hi5c.net/*
