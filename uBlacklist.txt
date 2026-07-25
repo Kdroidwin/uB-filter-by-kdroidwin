@@ -1,28 +1,3 @@
-*://ikeda-toshie.com/*
-*://corowaku-memo.com/*
-*://osutaka.com/*
-*://niiuf1hckvrtyjxfsury.stores.jp/*
-*://aiart-school.com/*
-*://ms.aiart-school.com/*
-*://note.com/chiharu_aiart/*
-*://m-mami.jp/*
-*://hakushi-s-school.teachable.com/*
-*://www.instagram.com/myulier_aiart/*
-*://genai.dmm.com/*
-*://resemom.jp/*
-*://tokyo-ai-sch.com/*
-*://ai-plus.school/*
-*://sim-fan.com/*
-*://wacaruwifi.xsrv.jp/*
-*://www.rnb.co.jp/*
-*://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/osusume-vpn-site/bltd5eb8630759b5b53*
-*://www.youtube.com/watch?v=tHTy2wOf7CM*
-*://vpnsetsu.com/*
-*://kyozon.net/*
-*://www.youtube.com/watch?v=6lvZTkPzbh0
-*://chatgptjapan.seesaa.net/*
-*://vado-buy.com/*
-*://feparmtt.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11302,6 +11277,7 @@
 *://ai-l.net/*
 *://ai-lab-jp.com/*
 *://ai-official.jp/*
+*://ai-plus.school/*
 *://ai-skill-academy.netlify.app/*
 *://ai-skill.jp/*
 *://ai-uruoi.com/*
@@ -11310,6 +11286,7 @@
 *://ai.dounavi.net/*
 *://ai4chat.co/*
 *://aianimal.p2.weblife.me/*
+*://aiart-school.com/*
 *://aiboku-com.vercel.app/*
 *://aibus.co.uk/*
 *://aichansblog.com/*
@@ -12571,6 +12548,7 @@
 *://chatgpt.jp.net/*
 *://chatgpt4000.com/*
 *://chatgptjapan.org/*
+*://chatgptjapan.seesaa.net/*
 *://chatgptjp.com/*
 *://chatgptmod-apk.com/*
 *://chatgptmodapk.com/*
@@ -12871,6 +12849,7 @@
 *://coronnoblog.com/*
 *://cororotan.com/*
 *://corosuke-anything-talk.net/*
+*://corowaku-memo.com/*
 *://corp.omake.co.jp/*
 *://corpsync365.pro/*
 *://cosmosports.jp/*
@@ -13958,6 +13937,7 @@
 *://felice-co.jp/*
 *://femimatsu.com/*
 *://fenergybd.com/*
+*://feparmtt.com/*
 *://ferquem.com/*
 *://fesoku.net/*
 *://festy.jp/*
@@ -14386,6 +14366,7 @@
 *://gen-shun.com/*
 *://gen-zai.com/*
 *://gen51.net/*
+*://genai.dmm.com/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
 *://generative-agents.co.jp/*
@@ -14750,6 +14731,7 @@
 *://haku.blue/*
 *://hakuraimobile.cart.fc2.com/*
 *://hakusensha.tameshiyo.me/*
+*://hakushi-s-school.teachable.com/*
 *://hal08.com/*
 *://halilibrahimoslo.online/*
 *://halnostyle.com/*
@@ -15308,6 +15290,7 @@
 *://ikari-movie.com/*
 *://ikawamototaka.com/*
 *://ike-net.jp/*
+*://ikeda-toshie.com/*
 *://ikeda-yoshitaka.jp/*
 *://ikedahayato.com/*
 *://ikehaya.com/*
@@ -16279,6 +16262,7 @@
 *://kyounootomo.com/*
 *://kyoutei-report.com/*
 *://kyoyo-renai.com/*
+*://kyozon.net/*
 *://kyozon.net/list/vpn-recommended/*
 *://kyun2-girls.com/*
 *://kyushuoen-yahoo.co/*
@@ -16581,6 +16565,7 @@
 *://lzz-mall.com/*
 *://m-artist.net/*
 *://m-lifeblog.com/*
+*://m-mami.jp/*
 *://m-melody.jp/*
 *://m-uroko.com/*
 *://m-view.jp/*
@@ -17353,6 +17338,7 @@
 *://mrlmhcx4.r.eu-west-1.awstrack.me/*
 *://mrs.seven-area.com/*
 *://ms-engineer.jp/*
+*://ms.aiart-school.com/*
 *://msfreeb.com/*
 *://msfuturestories.ru/*
 *://msk-radio.com/*
@@ -17717,6 +17703,7 @@
 *://nigiwasu.com/*
 *://nihon-ichi.jp/*
 *://niigata.mypl.net/*
+*://niiuf1hckvrtyjxfsury.stores.jp/*
 *://niji-doujin.jp/*
 *://niji.e-r-o-anime.xyz/*
 *://nijigen.joshiana-room.com/*
@@ -17879,6 +17866,7 @@
 *://note.com/chawanwabita/*
 *://note.com/cheeky_thyme7377/*
 *://note.com/chic_sorrel1534/*
+*://note.com/chiharu_aiart/*
 *://note.com/chizuru1122/*
 *://note.com/chocolateflower/*
 *://note.com/cio_travel/*
@@ -18714,6 +18702,7 @@
 *://osusume-matome.2chblog.jp/*
 *://osusume.best/*
 *://osusume.mynavi.jp/*
+*://osutaka.com/*
 *://ot2512.com/*
 *://ota-goods.info/*
 *://otaetae.com/*
@@ -19416,6 +19405,7 @@
 *://repromusic.com/*
 *://rere.jp/beginners/249062/*
 *://resditen.com/*
+*://resemom.jp/*
 *://reservas.narbonawines.com/*
 *://resoea.co/*
 *://resource.gatecoin.online/*
@@ -20044,6 +20034,7 @@
 *://sikosiko.syokusamen.com/*
 *://silkenfeline.com/*
 *://silver-allure.com/*
+*://sim-fan.com/*
 *://sim-studio-unify.com/*
 *://simkids.jp/*
 *://simple-coordinate-blog.com/*
@@ -20948,6 +20939,7 @@
 *://tokuneta.info/*
 *://tokupine.com/*
 *://tokutas.com/*
+*://tokyo-ai-sch.com/*
 *://tokyo-animetourism-2023.jp/*
 *://tokyo-animetourism.jp/*
 *://tokyo-city-girl.com/*
@@ -21362,6 +21354,7 @@
 *://vabiruonline.com/*
 *://vacancesmartinique.fr/*
 *://vaccr.org/*
+*://vado-buy.com/*
 *://vadunasy.xyz/*
 *://vagabr.online/*
 *://valor0code.com/*
@@ -21513,6 +21506,7 @@
 *://vpnmedia.jp/*
 *://vpnnippon.jp/*
 *://vpnserver.sakura.ne.jp/*
+*://vpnsetsu.com/*
 *://vpnveteran.com/*
 *://vr-mania.com/*
 *://vrcl.uk/*
@@ -21537,6 +21531,7 @@
 *://waarinbeleggen2021.nl/*
 *://wacaru-net.co.jp/*
 *://wacarunet.jp/*
+*://wacaruwifi.xsrv.jp/*
 *://wack-idoll.com/*
 *://wadai-are.com/*
 *://wadai-journal.com/*
@@ -22469,6 +22464,7 @@
 *://www.gmt-online.jp/*
 *://www.gnesin-academy.ru/*
 *://www.go-japan.cn/*
+*://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/osusume-vpn-site/bltd5eb8630759b5b53*
 *://www.gohawaii.cn/*
 *://www.gokurakunet.org/*
 *://www.goldads.cn/*
@@ -22620,6 +22616,7 @@
 *://www.insta360.cn/*
 *://www.instagram.cn/*
 *://www.instagram.com/hianime.official/*
+*://www.instagram.com/myulier_aiart/*
 *://www.intambwemedia.com/*
 *://www.intel.cn/*
 *://www.intel.ru/*
@@ -23260,6 +23257,7 @@
 *://www.rizapgroup.com/*
 *://www.rizinlog.shop/*
 *://www.rmrs.info/*
+*://www.rnb.co.jp/*
 *://www.roboticsafrica.com/*
 *://www.rockajaponica.com/*
 *://www.rocketflush.vip/*
@@ -23720,6 +23718,7 @@
 *://www.youki8322.com/*
 *://www.youtube.com/shorts/_nx0bbUAwY4*
 *://www.youtube.com/user/hatimaki73*
+*://www.youtube.com/watch?v=6lvZTkPzbh0
 *://www.youtube.com/watch?v=7gwXKSRuErY*
 *://www.youtube.com/watch?v=A5bY-WbMLM8
 *://www.youtube.com/watch?v=AsWhEONwpBU*
@@ -23730,6 +23729,7 @@
 *://www.youtube.com/watch?v=b7hCF0cGqyI
 *://www.youtube.com/watch?v=eh0r02080tk*
 *://www.youtube.com/watch?v=ph8Y1NswR6c*
+*://www.youtube.com/watch?v=tHTy2wOf7CM*
 *://www.ysrcp.info/*
 *://www.yugoten.jp/*
 *://www.yukiewithdownloads.com/*
