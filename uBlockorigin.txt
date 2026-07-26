@@ -1091,6 +1091,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||arakure.net^$document
 ||araou.jp^$document
 ||arasa-mama.com^$document
+||arc-ocean.jp^$document
 ||arcanaapp.com^$document
 ||archimedes-movie.jp^$document
 ||archivando.jp^$document
@@ -2548,6 +2549,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojicco.com^$document
 ||dojin-asedaku.cyou^$document
 ||dojin-db.com^$document
+||dojin-fes.com^$document
 ||dojin-pick.jp^$document
 ||dojin-raw.com^$document
 ||dojin-review-navi.com^$document
@@ -2565,6 +2567,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dokigensen-magazin.com^$document
 ||dokodekau.hatenablog.com^$document
 ||dokopon.com^$document
+||dokuha.jp^$document
 ||dokukinokoblog.com^$document
 ||dokushoaoki.com^$document
 ||dokusyoka2narou.com^$document
@@ -3480,6 +3483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||from0to1.jp^$document
 ||from48to100-lifeplan.com^$document
 ||front-back.net^$document
+||frontier-pr.jp^$document
 ||frostshaper.solutions^$document
 ||frostwire.com^$document
 ||fruit727.com^$document
@@ -3788,6 +3792,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gezumi.jp^$document
 ||gf-01.com^$document
 ||gfjapan2022.jp^$document
+||gfs.tokyo^$document
 ||ggdata1.cnr.cn^$document
 ||ghaderipro.com^$document
 ||ghib-mori.com^$document
@@ -6529,6 +6534,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-av01.com^$document
 ||missav-downloader.org^$document
 ||missav-fc2ppv.jp^$document
+||missav-fc2ppv02.com^$document
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
@@ -7299,6 +7305,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/clean_sage687^$document
 ||note.com/clear_broom7878^$document
 ||note.com/clear_coot175^$document
+||note.com/cocoryou886710^$document
 ||note.com/cool_egret501^$document
 ||note.com/counselor_risa^$document
 ||note.com/cozy_plover2302^$document
@@ -8758,6 +8765,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rausu-daiichi-hotel.jp^$document
 ||raw-momonga.com^$document
 ||raw-momonga01.com^$document
+||raw-momonga02.com^$document
 ||raw.45rina.com^$document
 ||raw.dmm-mania.com^$document
 ||raw.githubusercontent.com/*/*KMS*auto*$all
@@ -10262,6 +10270,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tenbus.info^$document
 ||tender-feelings.com^$document
 ||tendo-ayumifarm.jp^$document
+||tendresse.shop^$document
 ||tenis.hotsport.rs^$document
 ||tenkahyakken-zan.jp^$document
 ||tenkoushoujo.com^$document
@@ -11922,6 +11931,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-48.net^$document
 ||www.eromanga-muryou-hitomi-49.net^$document
 ||www.eromanga-muryou-hitomi-50.net^$document
+||www.eromanga-muryou-hitomi-52.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
 ||www.eromangadoujin.com^$document
@@ -12914,6 +12924,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sdor.cn^$document
 ||www.seattlepremiumheadshots.com^$document
 ||www.sebastianoferrari.com^$document
+||www.second8-55.com^$document
 ||www.sector9-jp.com^$document
 ||www.seedhub-int.com^$document
 ||www.seiten-movie.com^$document
