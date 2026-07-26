@@ -123,6 +123,8 @@
 ||officecdn.microsoft.com^
 ||assets.msn.com^
 ||mobile.events.data.microsoft.com^
+||live.com^
+
 
 ||assets.adobedtm.com^
 
@@ -145,6 +147,8 @@
 ||edge-mqtt.facebook.com^
 ||i-fallback.instagram.com^
 ||graph.facebook.com^
+
+
 
 ! 1DM
 ||apps2sd.info^
