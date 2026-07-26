@@ -5829,7 +5829,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||link.gevents.cn^$document
 ||link.photoprism.app^$document
 ||link0plus-czdbb5cgd4bbebab.z01.azurefd.net^$document
-||linkbio.co^$document
 ||links.giveawayoftheday.com^$document
 ||linksnavi.com^$document
 ||linoo7.com^$document
