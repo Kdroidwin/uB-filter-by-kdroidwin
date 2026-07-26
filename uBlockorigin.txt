@@ -12264,6 +12264,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.jana-atur.com^$document
 ||www.january202024.com^$document
 ||www.japan-osaka.cn^$document
+||www.japan-ssfc.com^$document
 ||www.japanartscraft.com^$document
 ||www.japanonesecurity.jp^$document
 ||www.japex.ru^$document
