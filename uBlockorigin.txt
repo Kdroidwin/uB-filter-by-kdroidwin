@@ -1,6 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||onelink.shein.com$document
 *$document,ipaddress=172.237.146.46
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
@@ -8035,6 +8034,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||onecall2ch.com^$document
 ||onegionegi.com^$document
 ||oneheart65.net^$document
+||onelink.shein.com$document
 ||onemarketplacestop.com^$document
 ||onepiece-hq.com^$document
 ||onestep.thick.jp^$document

@@ -8034,6 +8034,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||onecall2ch.com^$document
 ||onegionegi.com^$document
 ||oneheart65.net^$document
+||onelink.shein.com$document
 ||onemarketplacestop.com^$document
 ||onepiece-hq.com^$document
 ||onestep.thick.jp^$document
