@@ -16432,7 +16432,6 @@
 *://link.gevents.cn/*
 *://link.photoprism.app/*
 *://link0plus-czdbb5cgd4bbebab.z01.azurefd.net/*
-*://linkbio.co/*
 *://links.giveawayoftheday.com/*
 *://linksnavi.com/*
 *://linoo7.com/*
