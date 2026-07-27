@@ -1,11 +1,9 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-||app.net27.cc/*.apk$document
-||netmiror.com/download-app$document
-.*.cdn.digitaloceanspaces.com$document
 *$document,ipaddress=172.237.146.46
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
+.*.cdn.digitaloceanspaces.com$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -1047,6 +1045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||app.famitsu.com/category/android-apps/android-recommend^$document
 ||app.joinin.online^$document
 ||app.lastpass.com^$document
+||app.net27.cc/*.apk$document
 ||app.sendright.jp^$document
 ||app.sensortower.com^$document
 ||app.wefi.co^$document
@@ -5400,6 +5399,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kirari-n.com^$document
 ||kirarinaruto.jp^$document
 ||kireinotane.jp^$document
+||kirikiroid2.com^$document
 ||kirishima-live.jpn.org^$document
 ||kiritoblog.com^$document
 ||kiritsu.jp^$document
@@ -7012,6 +7012,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netflixmirorr.com^$document
 ||netflixmirrorr.com^$document
 ||nethougaku.com^$document
+||netmiror.com/download-app$document
 ||netmirror-apk.net^$document
 ||netmirror.com.de^$document
 ||netmirror.com.pk^$document

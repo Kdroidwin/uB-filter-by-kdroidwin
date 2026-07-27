@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://kirikiroid2.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16011,6 +16010,7 @@
 *://kirari-n.com/*
 *://kirarinaruto.jp/*
 *://kireinotane.jp/*
+*://kirikiroid2.com/*
 *://kirishima-live.jpn.org/*
 *://kiritoblog.com/*
 *://kiritsu.jp/*
