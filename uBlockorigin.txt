@@ -518,7 +518,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adown.itself.pics^$document
 ||adpeak.net^$document
 ||adpon.net^$document
-||ads.google.cn^$document
 ||adspamblock.com^$document
 ||aduaff202501.wpx.jp^$document
 ||adult-ai.net^$document
@@ -1387,7 +1386,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bela-movie.com^$document
 ||bellavista.club^$document
 ||bellblo.com^$document
-||bellcurve.jp^$document
 ||belle-rencontre.site^$document
 ||belleeaupiscine.fr^$document
 ||belltree1994.com^$document
@@ -1717,7 +1715,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||burro.onerise.info^$document
 ||burusoku-vip.com^$document
 ||business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html^$document
-||business.site^$document
 ||business.slot42.online^$document
 ||businessgiftdepot.com^$document
 ||bustabitseller.com^$document
@@ -2414,8 +2411,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||deux.ero-jungle.cfbx.jp^$document
 ||dev-jpbl.emtg.xyz^$document
 ||dev.bimm.com^$document
-||developer.android.google.cn^$document
-||developers.google.cn^$document
 ||device.panasonic.cn^$document
 ||deyar-sa.com^$document
 ||dftvtrb.bar^$document
@@ -2521,7 +2516,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||docomo-gakuwari.jp^$document
 ||docomo.cc^$document
 ||docs.2rmlab.com^$document
-||docs.amazonaws.cn^$document
 ||docs.aws.amazon.ex1.https.443.ipv6.faw.com.cn^$document
 ||docs.demo.mschool.cn^$document
 ||docs.getquicker.cn^$document
@@ -2529,7 +2523,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn^$document
 ||docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
 ||docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
-||docs.nvidia.cn^$document
 ||docs.usbx.me^$document
 ||doctor-assist.japan-entertainment.mhx.jp^$document
 ||doctor-pie.com^$document
@@ -2719,7 +2712,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dreaming-hill1539.yokohama^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
-||dribbble.com^$document
 ||dripmoreeu.com^$document
 ||drivesurje.jp^$document
 ||drollwolf.com^$document
@@ -3922,7 +3914,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gokigenteikoku.jp^$document
 ||goku-tsuma.net^$document
 ||gokyuzuvebalon.com^$document
-||golang.google.cn^$document
 ||goldenevent.pl^$document
 ||goldenheartmediation.com^$document
 ||goldenkings.bl.kuroco-img.app^$document
@@ -9707,7 +9698,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||soulflowertrain.com^$document
 ||souljazzfunk.com^$document
 ||sound-treatment.tokyo^$document
-||source.android.google.cn^$document
 ||sourceforge.net/projects/revanced-extended-byie^$document
 ||sourl.cn^$document
 ||sours.jp^$document
@@ -12646,7 +12636,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.nuddlifetokyo.com^$document
 ||www.nukistream.com^$document
 ||www.nuplas-uae.com^$document
-||www.nvidia.cn^$document
 ||www.nyaa.eu^$document
 ||www.nyc-guitars.com^$document
 ||www.ocgracefulsmiles.com^$document
