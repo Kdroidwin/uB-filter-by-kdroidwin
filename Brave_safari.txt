@@ -6964,7 +6964,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||necoarashi.com^$document
 ||necocoto.com^$document
 ||necrosm.com^$document
-||neetola.com^$document
 ||neggy-blog.com^$document
 ||negiblo.com^$document
 ||negisoku.com^$document
