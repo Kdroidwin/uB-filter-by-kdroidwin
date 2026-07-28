@@ -11214,7 +11214,6 @@
 *://adown.itself.pics/*
 *://adpeak.net/*
 *://adpon.net/*
-*://ads.google.cn/*
 *://adspamblock.com/*
 *://aduaff202501.wpx.jp/*
 *://adult-ai.net/*
@@ -12056,7 +12055,6 @@
 *://bela-movie.com/*
 *://bellavista.club/*
 *://bellblo.com/*
-*://bellcurve.jp/*
 *://belle-rencontre.site/*
 *://belleeaupiscine.fr/*
 *://belltree1994.com/*
@@ -12381,7 +12379,6 @@
 *://burro.onerise.info/*
 *://burusoku-vip.com/*
 *://business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html*
-*://business.site/*
 *://business.slot42.online/*
 *://businessgiftdepot.com/*
 *://bustabitseller.com/*
@@ -13064,8 +13061,6 @@
 *://deux.ero-jungle.cfbx.jp/*
 *://dev-jpbl.emtg.xyz/*
 *://dev.bimm.com/*
-*://developer.android.google.cn/*
-*://developers.google.cn/*
 *://device.panasonic.cn/*
 *://deyar-sa.com/*
 *://dftvtrb.bar/*
@@ -13170,7 +13165,6 @@
 *://docomo-gakuwari.jp/*
 *://docomo.cc/*
 *://docs.2rmlab.com/*
-*://docs.amazonaws.cn/*
 *://docs.aws.amazon.ex1.https.443.ipv6.faw.com.cn/*
 *://docs.demo.mschool.cn/*
 *://docs.getquicker.cn/*
@@ -13178,7 +13172,6 @@
 *://docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn/*
 *://docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
 *://docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
-*://docs.nvidia.cn/*
 *://docs.usbx.me/*
 *://doctor-assist.japan-entertainment.mhx.jp/*
 *://doctor-pie.com/*
@@ -13368,7 +13361,6 @@
 *://dreaming-hill1539.yokohama/*
 *://dreamriverpress.com/*
 *://dressy.pla-cole.wedding/*
-*://dribbble.com/*
 *://dripmoreeu.com/*
 *://drivesurje.jp/*
 *://drollwolf.com/*
@@ -14554,7 +14546,6 @@
 *://gokigenteikoku.jp/*
 *://goku-tsuma.net/*
 *://gokyuzuvebalon.com/*
-*://golang.google.cn/*
 *://goldenevent.pl/*
 *://goldenheartmediation.com/*
 *://goldenkings.bl.kuroco-img.app/*
@@ -20199,7 +20190,6 @@
 *://soulflowertrain.com/*
 *://souljazzfunk.com/*
 *://sound-treatment.tokyo/*
-*://source.android.google.cn/*
 *://sourceforge.net/projects/revanced-extended-byie/*
 *://sourl.cn/*
 *://sours.jp/*
@@ -23053,7 +23043,6 @@
 *://www.nuddlifetokyo.com/*
 *://www.nukistream.com/*
 *://www.nuplas-uae.com/*
-*://www.nvidia.cn/*
 *://www.nyaa.eu/*
 *://www.nyc-guitars.com/*
 *://www.ocgracefulsmiles.com/*
