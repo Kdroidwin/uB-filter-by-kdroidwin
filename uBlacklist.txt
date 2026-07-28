@@ -11756,7 +11756,6 @@
 *://apps2app.com/*
 *://appsonwindows.com/*
 *://appstorrent.ru/*
-*://appteka.store/*
 *://appvalley-apk.com/*
 *://appvn.com/*
 *://aptme.xyz/*
