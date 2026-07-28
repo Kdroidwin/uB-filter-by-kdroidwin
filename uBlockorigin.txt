@@ -1078,7 +1078,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apps2app.com^$document
 ||appsonwindows.com^$document
 ||appstorrent.ru^$document
-||appteka.store^$document
 ||appvalley-apk.com^$document
 ||appvn.com^$document
 ||aptme.xyz^$document
