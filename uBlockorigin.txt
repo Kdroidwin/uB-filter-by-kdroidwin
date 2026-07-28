@@ -10476,6 +10476,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tokotokotopic.com^$document
 ||tokuibunya636.com^$document
 ||tokuneta.info^$document
+||tokuphone.com^$document
 ||tokupine.com^$document
 ||tokutas.com^$document
 ||tokyo-ai-sch.com^$document

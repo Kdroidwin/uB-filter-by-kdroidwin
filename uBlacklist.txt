@@ -1,4 +1,3 @@
-*://tokuphone.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -20932,6 +20931,7 @@
 *://tokotokotopic.com/*
 *://tokuibunya636.com/*
 *://tokuneta.info/*
+*://tokuphone.com/*
 *://tokupine.com/*
 *://tokutas.com/*
 *://tokyo-ai-sch.com/*
