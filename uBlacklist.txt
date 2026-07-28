@@ -11141,7 +11141,6 @@
 *://aalhoyr.cn/*
 *://aap.skr.jp/*
 *://aapks.app/*
-*://aasc.or.jp/*
 *://abc-co.ru/*
 *://abc.us.org/*
 *://abccmoo.com/*
@@ -11239,7 +11238,6 @@
 *://adultvideomihoudai.com/*
 *://adusasan.com/*
 *://adv.tokyo-np.co.jp/prtimes/*
-*://advancecommunity.org/*
 *://advancedgloskinclinicpune.com/*
 *://advansteadily2310.com/*
 *://aeonculture.info/*
@@ -11410,7 +11408,6 @@
 *://alpha.hentai-raw.net/*
 *://alpinearagon.com/*
 *://alprazolamfaq.com/*
-*://alps-stech.jp/products/*
 *://alqaedtranslation.com/*
 *://alrescha.work/*
 *://alsocarrat.com/*
@@ -11537,7 +11534,6 @@
 *://angelnews.net/*
 *://angl.jp/*
 *://angolanoar.online/*
-*://angular-ja.netlify.app/*
 *://ani-chat.net/*
 *://anianitarou.com/*
 *://aniberuu.fc2.net/*
@@ -18818,7 +18814,6 @@
 *://paradiseflowersnyc.com/*
 *://paradises.jp/*
 *://parallelworld-lovestory.jp/*
-*://paralymart.or.jp/*
 *://pararazom.com/*
 *://parcomun.org/*
 *://paridom.wiki/*
