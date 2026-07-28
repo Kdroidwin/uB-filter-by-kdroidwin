@@ -11853,6 +11853,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.doujinnuma.com^$document
 ||www.doujinonline.com^$document
 ||www.dounyan.com^$document
+||www.downkuai.com^$document
 ||www.dq-9.info^$document
 ||www.draker-deck.com^$document
 ||www.drbakierdem.com^$document

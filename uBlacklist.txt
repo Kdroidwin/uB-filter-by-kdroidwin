@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.downkuai.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -22254,6 +22253,7 @@
 *://www.doujinnuma.com/*
 *://www.doujinonline.com/*
 *://www.dounyan.com/*
+*://www.downkuai.com/*
 *://www.dq-9.info/*
 *://www.draker-deck.com/*
 *://www.drbakierdem.com/*
