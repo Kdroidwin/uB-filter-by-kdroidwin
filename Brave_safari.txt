@@ -445,7 +445,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aalhoyr.cn^$document
 ||aap.skr.jp^$document
 ||aapks.app^$document
-||aasc.or.jp^$document
 ||abc-co.ru^$document
 ||abc.us.org^$document
 ||abccmoo.com^$document
@@ -543,7 +542,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adultvideomihoudai.com^$document
 ||adusasan.com^$document
 ||adv.tokyo-np.co.jp/prtimes^$document
-||advancecommunity.org^$document
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
 ||ae-pic-a1.aliexpress-media.com/kf/S41f264ddb8b541f186e14f8a3c35a76fu.png$image
@@ -557,7 +555,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||afiri-star.com^$document
 ||aflciopokerroom.com^$document
 ||afmd.xxasj.cn^$document
-||africa.iclei.org^$document
 ||afsupo.click^$document
 ||againagesxrx.xyz^$document
 ||agentlerdentist.com^$document
@@ -728,7 +725,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||alpha.hentai-raw.net^$document
 ||alpinearagon.com^$document
 ||alprazolamfaq.com^$document
-||alps-stech.jp/products^$document
 ||alqaedtranslation.com^$document
 ||alrescha.work^$document
 ||alsocarrat.com^$document
@@ -854,7 +850,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||angelnews.net^$document
 ||angl.jp^$document
 ||angolanoar.online^$document
-||angular-ja.netlify.app^$document
 ||ani-chat.net^$document
 ||anianitarou.com^$document
 ||aniberuu.fc2.net^$document
@@ -8255,7 +8250,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||paradiseflowersnyc.com^$document
 ||paradises.jp^$document
 ||parallelworld-lovestory.jp^$document
-||paralymart.or.jp^$document
 ||pararazom.com^$document
 ||parcomun.org^$document
 ||paridom.wiki^$document
