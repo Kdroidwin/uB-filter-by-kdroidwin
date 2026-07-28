@@ -1,5 +1,3 @@
-*://*.fromation.co.jp/*
-*://fromation.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -3786,6 +3784,7 @@
 *://*.fluffyfables.com/*
 *://*.forese.life/*
 *://*.fr/index*.php//?*
+*://*.fromation.co.jp/*
 *://*.gamemodfree.com/*
 *://*.games/?t.*
 *://*.ge/*.shtml
@@ -14109,6 +14108,7 @@
 *://frog-kero.com/*
 *://from0to1.jp/*
 *://from48to100-lifeplan.com/*
+*://fromation.co.jp/*
 *://front-back.net/*
 *://frontier-pr.jp/*
 *://frostshaper.solutions/*

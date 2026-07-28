@@ -3470,6 +3470,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||frog-kero.com^$document
 ||from0to1.jp^$document
 ||from48to100-lifeplan.com^$document
+||fromation.co.jp^$document
 ||front-back.net^$document
 ||frontier-pr.jp^$document
 ||frostshaper.solutions^$document
