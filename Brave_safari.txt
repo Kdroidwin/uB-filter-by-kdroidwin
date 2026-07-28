@@ -368,7 +368,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||6xz1gd.cn^$document
 ||6yfik268.r.us-east-1.awstrack.me^$document
 ||7-zip.opensource.jp^$document
-||7063762596.pngseza.gov.pg^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
 ||7376-news.com^$document
@@ -2151,7 +2150,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||common-topics.com^$document
 ||commonsphere.jp^$document
 ||community.camp-fire.jp^$document
-||community.fabric.microsoft.com^$document
 ||community.tubebuddy.com^$document
 ||comodohotel-oita.jp^$document
 ||compare-comare.com^$document
@@ -2252,7 +2250,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cspa79c.jp^$document
 ||cspsacademy.com^$document
 ||css-diner.netlify.app^$document
-||cswinternal.osu.edu^$document
 ||cszkmgb.biz^$document
 ||cubesolution.pk^$document
 ||cuebic.co.jp^$document
@@ -2453,6 +2450,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||different-cute-brain.glitch.me^$document
 ||digicamenote.com^$document
 ||digimaga.jp^$document
+||digirise.school^$document
 ||digispacestudio.com^$document
 ||digital-mediablo.com^$document
 ||digital-shift.jp^$document
@@ -2634,6 +2632,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.bkrb.net^$document
 ||doujin.chateaucom.jp^$document
 ||doujin.dldlinks.com^$document
+||doujin.fan^$document
 ||doujin.furukawakan.jp^$document
 ||doujin.himepai.com^$document
 ||doujin.hiraku946.jp^$document
@@ -3261,6 +3260,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanshub.jp^$document
 ||fantaslipp.com^$document
 ||fanza-com.mystrikingly.com^$document
+||fanza-news.com^$document
 ||fanza.coideco.jp^$document
 ||fanza.hentai-raw.com^$document
 ||fanzabooks.com^$document
@@ -6832,6 +6832,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mykkb.kkb.kg^$document
 ||myownlife.blog^$document
 ||mypage.sorotouch.cn^$document
+||myspace-player.com^$document
 ||mysticabyss.jp^$document
 ||mytrend.info^$document
 ||myxstalk.lol^$document
@@ -6904,7 +6905,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nankyokugodzilla.com^$document
 ||nannanw.com^$document
 ||nanonano.me^$document
-||nanya.soisweb.uwm.edu^$document
 ||nanyanostore.com^$document
 ||nao-games.com^$document
 ||nao-newpaper.com^$document
@@ -8659,9 +8659,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||qazuaqh.guru^$document
 ||qedev.com^$document
 ||qerutshop.com^$document
-||qiita.com/jahidulseo^$document
 ||qimwtgra.biz^$document
-||qlgreer.soisweb.uwm.edu^$document
 ||qliziwo.cn^$document
 ||qltone.com^$document
 ||qna.habr.com^$document
@@ -10804,7 +10802,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uchiyakeiblog.com^$document
 ||ucla-seis.vercel.app^$document
 ||ucwjg.com^$document
-||udemy.benesse.co.jp^$document
 ||uebu-kaihatsu.jp.net^$document
 ||uefir.com^$document
 ||uelog.com^$document
@@ -10858,7 +10855,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||updays.me^$document
 ||uprass.com^$document
 ||uprobrocher.ucoz.ru^$document
-||uprrp.edu^$document
 ||upteck.cl^$document
 ||uquum.com^$document
 ||ur16.jp^$document
@@ -11476,7 +11472,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.akhbar-tibiyaa.shop^$document
 ||www.akira-5.work^$document
 ||www.akiradrive.com^$document
-||www.akitashoten.co.jp^$document
 ||www.akrain.org^$document
 ||www.akraindodo-go.net^$document
 ||www.albarr.in^$document
@@ -12008,7 +12003,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.fountainyouth.org^$document
 ||www.fpservicesnc.com^$document
 ||www.freedomken.com^$document
-||www.freee.co.jp^$document
 ||www.frontier-dojo.com^$document
 ||www.frostwire.com^$document
 ||www.ftuapps.me^$document
@@ -12019,7 +12013,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.fuliivh.cn^$document
 ||www.fulimdk.cn^$document
 ||www.fuliolj.cn^$document
-||www.fultoncountyga.gov^$document
 ||www.fundesmag.org^$document
 ||www.fungame.net.cn^$document
 ||www.g42ux8h.cn^$document
@@ -12403,7 +12396,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kutombawewe.net^$document
 ||www.kwkoeey.cn^$document
 ||www.kwurfreaplur224-nifty.xyz^$document
-||www.kyodotokyo.com^$document
 ||www.kyogendanshi.com^$document
 ||www.la-lafood.ru^$document
 ||www.laddertechnologies.com^$document
@@ -12690,7 +12682,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.optadvocats.com^$document
 ||www.orbitxtechnologiesllc.com^$document
 ||www.orchidlifestyle.com^$document
-||www.oreilly.co.jp^$document
 ||www.oritwolf.com^$document
 ||www.ortopedia.congresord.com^$document
 ||www.otisnature.com^$document
@@ -12867,7 +12858,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.rizapgroup.com^$document
 ||www.rizinlog.shop^$document
 ||www.rmrs.info^$document
-||www.rnb.co.jp^$document
 ||www.roboticsafrica.com^$document
 ||www.rockajaponica.com^$document
 ||www.rocketflush.vip^$document
@@ -12950,7 +12940,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.shikoku-taikonohana.com^$document
 ||www.shikonote.com^$document
 ||www.shimane-misato.jp^$document
-||www.shimotsuke.co.jp^$document
 ||www.shinanonouen.jp^$document
 ||www.shinchan-social.jp^$document
 ||www.shinei-inc-net.com^$document
@@ -13011,7 +13000,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.soltron.jp^$document
 ||www.solveforum.com^$document
 ||www.sonpunoyumeburogu.com^$document
-||www.sony.ru^$document
 ||www.sophia-sw.jp^$document
 ||www.sora-ten.com^$document
 ||www.soratobuiruka.com^$document
@@ -13767,7 +13755,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yudainews.com^$document
 ||yuerika.com^$document
 ||yugioh20th.com^$document
-||yugiohblog.konami.com^$document
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
 ||yui-cni.cv^$document

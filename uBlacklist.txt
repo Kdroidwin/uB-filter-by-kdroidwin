@@ -1,7 +1,3 @@
-*://digirise.school/*
-*://doujin.fan/*
-*://fanza-news.com/*
-*://myspace-player.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13103,6 +13099,7 @@
 *://different-cute-brain.glitch.me/*
 *://digicamenote.com/*
 *://digimaga.jp/*
+*://digirise.school/*
 *://digispacestudio.com/*
 *://digital-mediablo.com/*
 *://digital-shift.jp/*
@@ -13283,6 +13280,7 @@
 *://doujin.bkrb.net/*
 *://doujin.chateaucom.jp/*
 *://doujin.dldlinks.com/*
+*://doujin.fan/*
 *://doujin.furukawakan.jp/*
 *://doujin.himepai.com/*
 *://doujin.hiraku946.jp/*
@@ -13903,6 +13901,7 @@
 *://fanshub.jp/*
 *://fantaslipp.com/*
 *://fanza-com.mystrikingly.com/*
+*://fanza-news.com/*
 *://fanza.coideco.jp/*
 *://fanza.hentai-raw.com/*
 *://fanzabooks.com/*
@@ -17417,6 +17416,7 @@
 *://mykkb.kkb.kg/*
 *://myownlife.blog/*
 *://mypage.sorotouch.cn/*
+*://myspace-player.com/*
 *://mysticabyss.jp/*
 *://mytrend.info/*
 *://n-trend.com/*

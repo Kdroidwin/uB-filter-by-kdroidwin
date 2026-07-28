@@ -2450,6 +2450,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||different-cute-brain.glitch.me^$document
 ||digicamenote.com^$document
 ||digimaga.jp^$document
+||digirise.school^$document
 ||digispacestudio.com^$document
 ||digital-mediablo.com^$document
 ||digital-shift.jp^$document
@@ -2631,6 +2632,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.bkrb.net^$document
 ||doujin.chateaucom.jp^$document
 ||doujin.dldlinks.com^$document
+||doujin.fan^$document
 ||doujin.furukawakan.jp^$document
 ||doujin.himepai.com^$document
 ||doujin.hiraku946.jp^$document
@@ -3258,6 +3260,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanshub.jp^$document
 ||fantaslipp.com^$document
 ||fanza-com.mystrikingly.com^$document
+||fanza-news.com^$document
 ||fanza.coideco.jp^$document
 ||fanza.hentai-raw.com^$document
 ||fanzabooks.com^$document
@@ -6829,6 +6832,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mykkb.kkb.kg^$document
 ||myownlife.blog^$document
 ||mypage.sorotouch.cn^$document
+||myspace-player.com^$document
 ||mysticabyss.jp^$document
 ||mytrend.info^$document
 ||myxstalk.lol^$document
