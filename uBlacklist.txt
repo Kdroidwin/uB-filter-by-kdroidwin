@@ -11065,7 +11065,6 @@
 *://6xz1gd.cn/*
 *://6yfik268.r.us-east-1.awstrack.me/*
 *://7-zip.opensource.jp/*
-*://7063762596.pngseza.gov.pg/*
 *://7227125.slot47.online/*
 *://73569.gatecoin.online/*
 *://7376-news.com/*
@@ -12802,7 +12801,6 @@
 *://common-topics.com/*
 *://commonsphere.jp/*
 *://community.camp-fire.jp/*
-*://community.fabric.microsoft.com/*
 *://community.tubebuddy.com/*
 *://comodohotel-oita.jp/*
 *://compare-comare.com/*
@@ -12900,7 +12898,6 @@
 *://cspa79c.jp/*
 *://cspsacademy.com/*
 *://css-diner.netlify.app/*
-*://cswinternal.osu.edu/*
 *://cszkmgb.biz/*
 *://cubesolution.pk/*
 *://cuebic.co.jp/*
@@ -17486,7 +17483,6 @@
 *://nankyokugodzilla.com/*
 *://nannanw.com/*
 *://nanonano.me/*
-*://nanya.soisweb.uwm.edu/*
 *://nanyanostore.com/*
 *://nao-games.com/*
 *://nao-newpaper.com/*
@@ -19207,9 +19203,7 @@
 *://qatchdigital.com/*
 *://qazuaqh.guru/*
 *://qerutshop.com/*
-*://qiita.com/jahidulseo/*
 *://qimwtgra.biz/*
-*://qlgreer.soisweb.uwm.edu/*
 *://qliziwo.cn/*
 *://qltone.com/*
 *://qoo-weblife.com/*
@@ -21248,7 +21242,6 @@
 *://uchiyakeiblog.com/*
 *://ucla-seis.vercel.app/*
 *://ucwjg.com/*
-*://udemy.benesse.co.jp/*
 *://uelog.com/*
 *://ueno-tokyo.com/*
 *://ufovpn.io/*
@@ -21874,7 +21867,6 @@
 *://www.akhbar-tibiyaa.shop/*
 *://www.akira-5.work/*
 *://www.akiradrive.com/*
-*://www.akitashoten.co.jp/*
 *://www.akrain.org/*
 *://www.akraindodo-go.net/*
 *://www.albarr.in/*
@@ -22407,7 +22399,6 @@
 *://www.fountainyouth.org/*
 *://www.fpservicesnc.com/*
 *://www.freedomken.com/*
-*://www.freee.co.jp/*
 *://www.frontier-dojo.com/*
 *://www.frostwire.com/*
 *://www.ftuapps.me/*
@@ -22418,7 +22409,6 @@
 *://www.fuliivh.cn/*
 *://www.fulimdk.cn/*
 *://www.fuliolj.cn/*
-*://www.fultoncountyga.gov/*
 *://www.fundesmag.org/*
 *://www.fungame.net.cn/*
 *://www.g42ux8h.cn/*
@@ -22799,7 +22789,6 @@
 *://www.kutombawewe.net/*
 *://www.kwkoeey.cn/*
 *://www.kwurfreaplur224-nifty.xyz/*
-*://www.kyodotokyo.com/*
 *://www.kyogendanshi.com/*
 *://www.la-lafood.ru/*
 *://www.laddertechnologies.com/*
@@ -23095,7 +23084,6 @@
 *://www.optadvocats.com/*
 *://www.orbitxtechnologiesllc.com/*
 *://www.orchidlifestyle.com/*
-*://www.oreilly.co.jp/*
 *://www.oritwolf.com/*
 *://www.ortopedia.congresord.com/*
 *://www.otisnature.com/*
@@ -23272,7 +23260,6 @@
 *://www.rizapgroup.com/*
 *://www.rizinlog.shop/*
 *://www.rmrs.info/*
-*://www.rnb.co.jp/*
 *://www.roboticsafrica.com/*
 *://www.rockajaponica.com/*
 *://www.rocketflush.vip/*
@@ -23355,7 +23342,6 @@
 *://www.shikoku-taikonohana.com/*
 *://www.shikonote.com/*
 *://www.shimane-misato.jp/*
-*://www.shimotsuke.co.jp/*
 *://www.shinanonouen.jp/*
 *://www.shinchan-social.jp/*
 *://www.shinei-inc-net.com/*
@@ -23416,7 +23402,6 @@
 *://www.soltron.jp/*
 *://www.solveforum.com/*
 *://www.sonpunoyumeburogu.com/*
-*://www.sony.ru/*
 *://www.sophia-sw.jp/*
 *://www.sora-ten.com/*
 *://www.soratobuiruka.com/*
@@ -24165,7 +24150,6 @@
 *://yudainews.com/*
 *://yuerika.com/*
 *://yugioh20th.com/*
-*://yugiohblog.konami.com/*
 *://yuhiko-blog1.com/*
 *://yuhiya1627.com/*
 *://yui-cni.cv/*
