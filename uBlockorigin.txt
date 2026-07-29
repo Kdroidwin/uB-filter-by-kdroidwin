@@ -2289,6 +2289,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||d4d.online^$document
 ||da-shinta.hatenablog.com^$document
 ||dab2c848.xyz^$document
+||dai1k1.substack.com^$document
 ||daigaku-hyoban.jp^$document
 ||daigakuyabai.com^$document
 ||daigoblog.net^$document
@@ -5827,6 +5828,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||linksnavi.com^$document
 ||linoo7.com^$document
 ||linosy.com^$document
+||linux-terminal.com^$document
 ||lisae.me.uk^$document
 ||liskul.com^$document
 ||lissora-jp.com^$document
@@ -6062,6 +6064,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||majisuka.net^$document
 ||major.yoshilover.com^$document
 ||majudacu.xyz^$document
+||makabemai.com^$document
 ||make.powerautomate.cn^$document
 ||makemiracle-blog.com^$document
 ||makeyourbenefit.com^$document
@@ -7372,6 +7375,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/hachiojiiphone^$document
 ||note.com/hadesun^$document
 ||note.com/haitenjp^$document
+||note.com/hajimesoruna^$document
 ||note.com/haken_se_30manen^$document
 ||note.com/hakuo416^$document
 ||note.com/hakuou_ai^$document
@@ -7426,6 +7430,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/itzakkilab^$document
 ||note.com/j_yuto^$document
 ||note.com/japan_cio_info^$document
+||note.com/japan_miyu_^$document
 ||note.com/japanpromos^$document
 ||note.com/jigami^$document
 ||note.com/jijineta_world^$document
@@ -7435,6 +7440,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/jolly_dunlin344^$document
 ||note.com/jolly_stilt46^$document
 ||note.com/joxit^$document
+||note.com/joyous_kalmia512^$document
 ||note.com/juku_support^$document
 ||note.com/junjun_biyori^$document
 ||note.com/junnakazawa^$document
@@ -7459,6 +7465,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kaumae_kaden^$document
 ||note.com/kaumaememo^$document
 ||note.com/kaz_kashiwagi^$document
+||note.com/kazu8a8^$document
 ||note.com/kazu_feelin^$document
 ||note.com/kazumi_muraki^$document
 ||note.com/kchan_blog^$document
@@ -7587,6 +7594,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/norito_hiraoka^$document
 ||note.com/note_izak17^$document
 ||note.com/note_rakuten23^$document
+||note.com/notede_1manen^$document
 ||note.com/nyam_stady^$document
 ||note.com/ojirolian^$document
 ||note.com/okinisezu^$document
@@ -7599,6 +7607,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/oripa_kensyo^$document
 ||note.com/orisusarusan^$document
 ||note.com/oshabaku^$document
+||note.com/oshokrk^$document
 ||note.com/otosan_creation^$document
 ||note.com/otsuki_days^$document
 ||note.com/outdoorlifestyle^$document
@@ -7627,6 +7636,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/pure_eider7665^$document
 ||note.com/q17q^$document
 ||note.com/quality_compass^$document
+||note.com/quemriru^$document
 ||note.com/quirky_lion3847^$document
 ||note.com/rabirabi1^$document
 ||note.com/raita_hayami^$document
@@ -7697,6 +7707,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/sim_mobile^$document
 ||note.com/simsmagadget^$document
 ||note.com/sknet_sougou^$document
+||note.com/skt0302^$document
 ||note.com/soh_ainsight^$document
 ||note.com/solo_dev_jp^$document
 ||note.com/sorakiba190107^$document
@@ -7722,6 +7733,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/takuma1201^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
+||note.com/taraco_mom^$document
 ||note.com/tasty_holly7883^$document
 ||note.com/tasty_okapi8736^$document
 ||note.com/tasty_rhino5561^$document
@@ -7790,6 +7802,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/you3_jp^$document
 ||note.com/youichi0989^$document
 ||note.com/youmadesign^$document
+||note.com/yu9_ltx^$document
 ||note.com/yubaku^$document
 ||note.com/yudexai^$document
 ||note.com/yuga_hashimoto^$document
@@ -9499,6 +9512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shribalajipharmacycollege.in/items^$document
 ||shrine-carine.com^$document
 ||shsb-siddessen.de^$document
+||shubihiro.com^$document
 ||shufu-run.net^$document
 ||shufuwork.com^$document
 ||shuhu-tomo-blog.com^$document
@@ -9562,6 +9576,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||skets.jp^$document
 ||skill-hacks.co.jp^$document
 ||skillboosthub.link^$document
+||skillguide.tech^$document
 ||skillhub.jp^$document
 ||skinvy.in^$document
 ||skipnpk.top^$document

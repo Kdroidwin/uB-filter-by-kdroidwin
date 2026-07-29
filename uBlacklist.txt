@@ -1,19 +1,3 @@
-*://dai1k1.substack.com/*
-*://shubihiro.com/*
-*://makabemai.com/*
-*://linux-terminal.com/*
-*://*.linux-terminal.com/*
-*://skillguide.tech/*
-*://note.com/taraco_mom/*
-*://note.com/yu9_ltx/*
-*://note.com/oshokrk/*
-*://note.com/quemriru/*
-*://note.com/skt0302/*
-*://note.com/kazu8a8/*
-*://note.com/hajimesoruna/*
-*://note.com/japan_miyu_/*
-*://note.com/joyous_kalmia512/*
-*://note.com/notede_1manen/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -5977,6 +5961,7 @@
 *://*.la/?_g=*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
+*://*.linux-terminal.com/*
 *://*.loan/*
 *://*.lt/?a=0*
 *://*.lt/?a=1*
@@ -12955,6 +12940,7 @@
 *://d4d.online/*
 *://da-shinta.hatenablog.com/*
 *://dab2c848.xyz/*
+*://dai1k1.substack.com/*
 *://daigaku-hyoban.jp/*
 *://daigakuyabai.com/*
 *://daigoblog.net/*
@@ -16447,6 +16433,7 @@
 *://linksnavi.com/*
 *://linoo7.com/*
 *://linosy.com/*
+*://linux-terminal.com/*
 *://lisae.me.uk/*
 *://liskul.com/*
 *://lissora-jp.com/*
@@ -16679,6 +16666,7 @@
 *://majisuka.net/*
 *://major.yoshilover.com/*
 *://majudacu.xyz/*
+*://makabemai.com/*
 *://make.powerautomate.cn/*
 *://makemiracle-blog.com/*
 *://makeyourbenefit.com/*
@@ -17964,6 +17952,7 @@
 *://note.com/hachiojiiphone/*
 *://note.com/hadesun/*
 *://note.com/haitenjp/*
+*://note.com/hajimesoruna/*
 *://note.com/haken_se_30manen/*
 *://note.com/hakuo416/*
 *://note.com/hakuou_ai/*
@@ -18019,6 +18008,7 @@
 *://note.com/itzakkilab/*
 *://note.com/j_yuto/*
 *://note.com/japan_cio_info/*
+*://note.com/japan_miyu_/*
 *://note.com/japanpromos/*
 *://note.com/jigami/*
 *://note.com/jijineta_world/*
@@ -18028,6 +18018,7 @@
 *://note.com/jolly_dunlin344/*
 *://note.com/jolly_stilt46/*
 *://note.com/joxit/*
+*://note.com/joyous_kalmia512/*
 *://note.com/juku_support/*
 *://note.com/junjun_biyori/*
 *://note.com/junnakazawa/*
@@ -18052,6 +18043,7 @@
 *://note.com/kaumae_kaden/*
 *://note.com/kaumaememo/*
 *://note.com/kaz_kashiwagi/*
+*://note.com/kazu8a8/*
 *://note.com/kazu_feelin/*
 *://note.com/kazumi_muraki/*
 *://note.com/kchan_blog/*
@@ -18180,6 +18172,7 @@
 *://note.com/norito_hiraoka/*
 *://note.com/note_izak17/*
 *://note.com/note_rakuten23/*
+*://note.com/notede_1manen/*
 *://note.com/nyam_stady/*
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
@@ -18192,6 +18185,7 @@
 *://note.com/oripa_kensyo/*
 *://note.com/orisusarusan/*
 *://note.com/oshabaku/*
+*://note.com/oshokrk/*
 *://note.com/otosan_creation/*
 *://note.com/otsuki_days/*
 *://note.com/outdoorlifestyle/*
@@ -18220,6 +18214,7 @@
 *://note.com/pure_eider7665/*
 *://note.com/q17q/*
 *://note.com/quality_compass*
+*://note.com/quemriru/*
 *://note.com/quirky_lion3847/*
 *://note.com/rabirabi1*
 *://note.com/raita_hayami/*
@@ -18290,6 +18285,7 @@
 *://note.com/sim_mobile/*
 *://note.com/simsmagadget/*
 *://note.com/sknet_sougou*
+*://note.com/skt0302/*
 *://note.com/soh_ainsight/*
 *://note.com/solo_dev_jp/*
 *://note.com/sorakiba190107/*
@@ -18315,6 +18311,7 @@
 *://note.com/takuma1201/*
 *://note.com/takumi333/*
 *://note.com/takumi_hakata/*
+*://note.com/taraco_mom/*
 *://note.com/tasty_holly7883/*
 *://note.com/tasty_okapi8736/*
 *://note.com/tasty_rhino5561/*
@@ -18383,6 +18380,7 @@
 *://note.com/you3_jp/*
 *://note.com/youichi0989/*
 *://note.com/youmadesign/*
+*://note.com/yu9_ltx/*
 *://note.com/yubaku/*
 *://note.com/yudexai/*
 *://note.com/yuga_hashimoto/*
@@ -20023,6 +20021,7 @@
 *://shribalajipharmacycollege.in/items/*
 *://shrine-carine.com/*
 *://shsb-siddessen.de/*
+*://shubihiro.com/*
 *://shufu-run.net/*
 *://shufuwork.com/*
 *://shuhu-tomo-blog.com/*
@@ -20084,6 +20083,7 @@
 *://skets.jp/*
 *://skill-hacks.co.jp/*
 *://skillboosthub.link/*
+*://skillguide.tech/*
 *://skillhub.jp/*
 *://skinvy.in/*
 *://skipnpk.top/*
