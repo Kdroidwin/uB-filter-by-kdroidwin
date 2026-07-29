@@ -5316,6 +5316,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kickasstorrents.to^$document
 ||kicks-blog.com^$document
 ||kifvx.com^$document
+||kigyo.gmo^$document
 ||kigyoka-shacho.com^$document
 ||kigyolog.com^$document
 ||kihachi-log.com^$document

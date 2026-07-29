@@ -1,4 +1,3 @@
-*://kigyo.gmo/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15931,6 +15930,7 @@
 *://kickasstorrents.to/*
 *://kicks-blog.com/*
 *://kifvx.com/*
+*://kigyo.gmo/*
 *://kigyoka-shacho.com/*
 *://kigyolog.com/*
 *://kihachi-log.com/*
