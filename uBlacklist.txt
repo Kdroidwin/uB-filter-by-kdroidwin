@@ -1,3 +1,8 @@
+*://dai1k1.substack.com/*
+*://shubihiro.com/*
+*://makabemai.com/*
+*://linux-terminal.com/*
+*://*.linux-terminal.com/*
 *://skillguide.tech/*
 *://note.com/taraco_mom/*
 *://note.com/yu9_ltx/*
