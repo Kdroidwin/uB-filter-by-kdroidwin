@@ -1,21 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://zl.webridge.net/*
-*://securitysoft-vpn.news.mynavi.jp/*
-*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12239599407*
-*://kanritools.com/blog/*
-*://www.youtube.com/watch?v=RP8hX4EIQeM*
-*://vpn.co.jp/*
-*://*.cocol.co.jp/*
-*://beaconlink.jp/*
-*://camera-jct.com/*
-*://pixela.co.jp/*
-*://note.com/skkoto/*
-*://note.com/gadget_sale_/*
-*://note.com/toridai_com/*
-*://note.com/takaya76jp/*
-*://note.com/gadget_soku/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -2402,6 +2387,7 @@
 *://*.co/?z=7*
 *://*.co/?z=8*
 *://*.co/?z=9*
+*://*.cocol.co.jp/*
 *://*.com.ar/?*
 *://*.com.au/content.php?q=*
 *://*.com.au/products.php?*
@@ -12047,6 +12033,7 @@
 *://bddy.me/*
 *://be-3679.about.gitlab-review.app/*
 *://be-marry.com/*
+*://beaconlink.jp/*
 *://beadsxbeads.com/*
 *://beararms.gr/*
 *://beardsley-jp.com/*
@@ -12441,6 +12428,7 @@
 *://calleo.be/*
 *://caltechbd.com/*
 *://cambridge-india.org/*
+*://camera-jct.com/*
 *://cameronlorenc.com/*
 *://camp.trainocate.co.jp/*
 *://campanellafishing.shogic.xyz/*
@@ -13069,6 +13057,7 @@
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10274035950
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10300323310*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11291897171*
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12239599407*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12260669862*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14306456639*
 *://detective-blog.com/*
@@ -15820,6 +15809,7 @@
 *://kannao3939.com/*
 *://kanohiro.com/*
 *://kanpoucyayonchiyu.com/*
+*://kanritools.com/blog/*
 *://kansai-u.tameshiyo.me/*
 *://kansuke.doorblog.jp/*
 *://kantaiki0219.com/*
@@ -17941,6 +17931,8 @@
 *://note.com/gadget_maru/*
 *://note.com/gadget_news/*
 *://note.com/gadget_rupaso/*
+*://note.com/gadget_sale_/*
+*://note.com/gadget_soku/*
 *://note.com/gadgeter_117/*
 *://note.com/gadgetmaniacs/*
 *://note.com/gadgettarou/*
@@ -18299,6 +18291,7 @@
 *://note.com/side_hustle_40/*
 *://note.com/sim_mobile/*
 *://note.com/simsmagadget/*
+*://note.com/skkoto/*
 *://note.com/sknet_sougou*
 *://note.com/skt0302/*
 *://note.com/soh_ainsight/*
@@ -18320,6 +18313,7 @@
 *://note.com/taisya/*
 *://note.com/taka_matsu1/*
 *://note.com/takako_yamane/*
+*://note.com/takaya76jp/*
 *://note.com/takayanagi_koi/*
 *://note.com/takkatw/*
 *://note.com/takkxi/*
@@ -18346,6 +18340,7 @@
 *://note.com/tokotoko_2025/*
 *://note.com/tom485/*
 *://note.com/torataka50/*
+*://note.com/toridai_com/*
 *://note.com/totalnewsworld/*
 *://note.com/toy_hobby/*
 *://note.com/toyoshi_y1126/*
@@ -18969,6 +18964,7 @@
 *://pittsburghdancexplosion.com/*
 *://pixabay.com/*
 *://pixel-leaker.com/*
+*://pixela.co.jp/*
 *://pixibank.com/*
 *://pixls.jp/*
 *://pixt.me/*
@@ -19846,6 +19842,7 @@
 *://second.jyoho-library.com/*
 *://second.ux-design.blog/*
 *://secret-alone-time.com/*
+*://securitysoft-vpn.news.mynavi.jp/*
 *://securitysoft-vpn.news.mynavi.jp/category/vpn/*
 *://securitysoftguide.com/*
 *://see-d.jp/*
@@ -21517,6 +21514,7 @@
 *://vpn-labo.com/*
 *://vpn-magazine.com/*
 *://vpn-sensei.com/*
+*://vpn.co.jp/*
 *://vpn.hikakusite.co.jp/*
 *://vpn.jpn.com/*
 *://vpn.nsspirt-cashf2.com/*
@@ -23748,6 +23746,7 @@
 *://www.youtube.com/watch?v=FKGmwfEDpCA*
 *://www.youtube.com/watch?v=KiHxZnVa0Q0
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
+*://www.youtube.com/watch?v=RP8hX4EIQeM*
 *://www.youtube.com/watch?v=W3UefS_kUE8*
 *://www.youtube.com/watch?v=b7hCF0cGqyI
 *://www.youtube.com/watch?v=eh0r02080tk*
@@ -24344,6 +24343,7 @@
 *://zjkqcbx.cn/*
 *://zkimtm.com/*
 *://zkteco-ea.com/*
+*://zl.webridge.net/*
 *://zld.mjlhepii.biz/*
 *://zlib-official.com/*
 *://zlib.is/*
