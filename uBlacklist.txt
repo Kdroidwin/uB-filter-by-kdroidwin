@@ -1,6 +1,16 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://zl.webridge.net/*
+*://securitysoft-vpn.news.mynavi.jp/*
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12239599407*
+*://kanritools.com/blog/*
+*://www.youtube.com/watch?v=RP8hX4EIQeM*
+*://vpn.co.jp/*
+*://*.cocol.co.jp/*
+*://beaconlink.jp/*
+*://camera-jct.com/*
+*://pixela.co.jp/*
 *://note.com/skkoto/*
 *://note.com/gadget_sale_/*
 *://note.com/toridai_com/*
