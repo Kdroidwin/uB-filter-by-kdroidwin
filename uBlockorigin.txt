@@ -523,6 +523,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adult-hkk.net^$document
 ||adult-manga-dojin.com^$document
 ||adult-manga-japan.com^$document
+||adult-manga-soko.jp^$document
 ||adult-manga.jp/for-you-free^$document
 ||adult-manga.net^$document
 ||adult-otona.tokyo^$document
@@ -2445,6 +2446,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||digirise.ai^$document
 ||digirise.school^$document
 ||digispacestudio.com^$document
+||digital-doujin.com^$document
 ||digital-mediablo.com^$document
 ||digital-shift.jp^$document
 ||digital-trend.reinforz.co.jp^$document
@@ -4458,6 +4460,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hmaga-life.com^$document
 ||hman-hman.com^$document
 ||hmanga-best.com^$document
+||hmanga0713r.online^$document
 ||hmanganavi.com^$document
 ||hmd.site^$document
 ||hmfes.com^$document
@@ -5644,6 +5647,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kxpe.xxasj.cn^$document
 ||kxvfelo.cn^$document
 ||kyiy.xxasj.cn^$document
+||kyokasho.ritsuto.org^$document
 ||kyokyu.net^$document
 ||kyonyu-review.xyz^$document
 ||kyonyumanga.wpx.jp^$document
@@ -5799,6 +5803,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ligshtshot.site^$document
 ||liguelabatt.com^$document
 ||lih.co.jp^$document
+||likeseiyu.com^$document
 ||likklemai.com^$document
 ||likublog.com^$document
 ||lilla-flower.com^$document
@@ -6531,6 +6536,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-downloader.org^$document
 ||missav-fc2ppv.jp^$document
 ||missav-fc2ppv02.com^$document
+||missav-fc2ppv03.com^$document
+||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
@@ -7026,6 +7033,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||netmirrortv.com.in^$document
 ||netmodapk.app^$document
 ||netmodflix.com^$document
+||netokore.com^$document
 ||netori.dejidownloaddoujin.net^$document
 ||netou.mion.main.jp^$document
 ||netouyonews.net^$document
@@ -7870,6 +7878,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ntg-guinee.com^$document
 ||ntr-archives.com^$document
 ||ntr-doujin.com^$document
+||ntrbssblog.com^$document
 ||ntrwife.com^$document
 ||ntryomimono.com^$document
 ||ntvsports.jp^$document
@@ -8160,6 +8169,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otaetae.com^$document
 ||otagameblog.com^$document
 ||otakamu.com^$document
+||otakudoujinshack.com^$document
 ||otakumania.jp^$document
 ||otakumix.doorblog.jp^$document
 ||otakuraw.com^$document
@@ -8555,6 +8565,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||primasport.ru^$document
 ||prime1studio.shop^$document
 ||princefrequentbuyer.com^$document
+||prism-life.com^$document
 ||privacyinthenetwork.com^$document
 ||privacyphoneaustralia.com.au^$document
 ||privatevpn.com^$document
@@ -9010,6 +9021,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rise-story.jp^$document
 ||risposta.org^$document
 ||risshikaikan.jp^$document
+||ritsuto.jp^$document
 ||ritual-profi.ru^$document
 ||rizap.jp^$document
 ||rk91v2nf.r.us-east-1.awstrack.me^$document
@@ -9327,6 +9339,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||second.jyoho-library.com^$document
 ||second.ux-design.blog^$document
 ||secret-alone-time.com^$document
+||secretdreamlibrary.com^$document
 ||securitysoft-vpn.news.mynavi.jp/category/vpn^$document
 ||securitysoft-vpn.news.mynavi.jp^$document
 ||securitysoftguide.com^$document
@@ -10448,6 +10461,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||timetf.com^$document
 ||tims-fuku.work^$document
 ||tingogtang.shop^$document
+||tinsalo0425.com^$document
 ||tips.jp^$document
 ||tipsforlifestyles.com^$document
 ||tir-major-nik.ru^$document
@@ -10618,6 +10632,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tr.koreansji.co.ua^$document
 ||trace-kyoto.com^$document
 ||tracey.egyptianculture.net/^$document
+||track-nationalchampionships.jp^$document
 ||track.japex.ru^$document
 ||trafficnews.jp^$document
 ||trainwithkodi.com^$document
@@ -11465,6 +11480,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.agronet.jp^$document
 ||www.ahe-oho.com^$document
 ||www.aichi-now.cn^$document
+||www.aichifarmnavi.jp^$document
 ||www.aifbmhc.cn^$document
 ||www.ailabsuccess.com^$document
 ||www.aimusic.salon^$document
@@ -12393,6 +12409,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.koregasiritai.com^$document
 ||www.koshien-dvd.com^$document
 ||www.kotitietokone.fi/products^$document
+||www.koukoku.jp^$document
 ||www.koutantei.biz^$document
 ||www.kouyu0528.com^$document
 ||www.kpshop.jp^$document
@@ -12408,6 +12425,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kusogakiblog.com^$document
 ||www.kutombawewe.net^$document
 ||www.kwkoeey.cn^$document
+||www.kwm.co.jp^$document
 ||www.kwurfreaplur224-nifty.xyz^$document
 ||www.kyogendanshi.com^$document
 ||www.la-lafood.ru^$document

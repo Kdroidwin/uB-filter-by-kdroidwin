@@ -1,22 +1,3 @@
-*://www.koukoku.jp/*
-*://tinsalo0425.com/*
-*://www.kwm.co.jp/*
-*://kyokasho.ritsuto.org/*
-*://ritsuto.jp/*
-*://prism-life.com/*
-*://*.hosyuushop.jp/*
-*://ntrbssblog.com/*
-*://missav-fc2ppvjp01.com/*
-*://secretdreamlibrary.com/*
-*://www.aichifarmnavi.jp/*
-*://otakudoujinshack.com/*
-*://adult-manga-soko.jp/*
-*://netokore.com/*
-*://track-nationalchampionships.jp/*
-*://missav-fc2ppv03.com/*
-*://hmanga0713r.online/*
-*://digital-doujin.com/*
-*://likeseiyu.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -4597,6 +4578,7 @@
 *://*.hitomila.blog/*
 *://*.hnt.co.jp/*
 *://*.honmadekka-channel.com/*
+*://*.hosyuushop.jp/*
 *://*.hu/*.phtml
 *://*.hu/?a=0
 *://*.hu/?a=0*
@@ -11242,6 +11224,7 @@
 *://adult-hkk.net/*
 *://adult-manga-dojin.com/*
 *://adult-manga-japan.com/*
+*://adult-manga-soko.jp/*
 *://adult-manga.jp/for-you-free*
 *://adult-manga.net/*
 *://adult-otona.tokyo/*
@@ -13119,6 +13102,7 @@
 *://digirise.ai/*
 *://digirise.school/*
 *://digispacestudio.com/*
+*://digital-doujin.com/*
 *://digital-mediablo.com/*
 *://digital-shift.jp/*
 *://digital-trend.reinforz.co.jp/*
@@ -15112,6 +15096,7 @@
 *://hmaga-life.com/*
 *://hman-hman.com/*
 *://hmanga-best.com/*
+*://hmanga0713r.online/*
 *://hmanganavi.com/*
 *://hmd.site/*
 *://hmfes.com/*
@@ -16275,6 +16260,7 @@
 *://kxpe.xxasj.cn/*
 *://kxvfelo.cn/*
 *://kyiy.xxasj.cn/*
+*://kyokasho.ritsuto.org/*
 *://kyokyu.net/*
 *://kyonyu-review.xyz/*
 *://kyonyumanga.wpx.jp/*
@@ -16426,6 +16412,7 @@
 *://ligshtshot.site/*
 *://liguelabatt.com/*
 *://lih.co.jp/*
+*://likeseiyu.com/*
 *://likklemai.com/*
 *://likublog.com/*
 *://lilla-flower.com/*
@@ -17144,6 +17131,8 @@
 *://missav-downloader.org/*
 *://missav-fc2ppv.jp/*
 *://missav-fc2ppv02.com/*
+*://missav-fc2ppv03.com/*
+*://missav-fc2ppvjp01.com/*
 *://missav.com/*
 *://missav2026-doujin.com/*
 *://missav39.jp/*
@@ -17630,6 +17619,7 @@
 *://netmirrortv.com.in/*
 *://netmodapk.app/*
 *://netmodflix.com/*
+*://netokore.com/*
 *://netori.dejidownloaddoujin.net/*
 *://netou.mion.main.jp/*
 *://netouyonews.net/*
@@ -18469,6 +18459,7 @@
 *://ntg-guinee.com/*
 *://ntr-archives.com/*
 *://ntr-doujin.com/*
+*://ntrbssblog.com/*
 *://ntrwife.com/*
 *://ntryomimono.com/*
 *://ntvsports.jp/*
@@ -18750,6 +18741,7 @@
 *://otaetae.com/*
 *://otagameblog.com/*
 *://otakamu.com/*
+*://otakudoujinshack.com/*
 *://otakumania.jp/*
 *://otakumix.doorblog.jp/*
 *://otakuraw.com/*
@@ -19147,6 +19139,7 @@
 *://primasport.ru/*
 *://prime1studio.shop/*
 *://princefrequentbuyer.com/*
+*://prism-life.com/*
 *://privacyinthenetwork.com/*
 *://privacyphoneaustralia.com.au/*
 *://privatevpn.com/*
@@ -19564,6 +19557,7 @@
 *://risazoo.com/*
 *://rise-story.jp/*
 *://risshikaikan.jp/*
+*://ritsuto.jp/*
 *://ritual-profi.ru/*
 *://rizap.jp/*
 *://rk91v2nf.r.us-east-1.awstrack.me/*
@@ -19862,6 +19856,7 @@
 *://second.jyoho-library.com/*
 *://second.ux-design.blog/*
 *://secret-alone-time.com/*
+*://secretdreamlibrary.com/*
 *://securitysoft-vpn.news.mynavi.jp/*
 *://securitysoft-vpn.news.mynavi.jp/category/vpn/*
 *://securitysoftguide.com/*
@@ -20929,6 +20924,7 @@
 *://timetf.com/*
 *://tims-fuku.work/*
 *://tingogtang.shop/*
+*://tinsalo0425.com/*
 *://tips.jp/*
 *://tipsforlifestyles.com/*
 *://tir-major-nik.ru/*
@@ -21092,6 +21088,7 @@
 *://tr.koreansji.co.ua/*
 *://trace-kyoto.com/*
 *://tracey.egyptianculture.net//*
+*://track-nationalchampionships.jp/*
 *://track.japex.ru/*
 *://trafficnews.jp/*
 *://trainwithkodi.com/*
@@ -21888,6 +21885,7 @@
 *://www.agronet.jp/*
 *://www.ahe-oho.com/*
 *://www.aichi-now.cn/*
+*://www.aichifarmnavi.jp/*
 *://www.aifbmhc.cn/*
 *://www.ailabsuccess.com/*
 *://www.aimusic.salon/*
@@ -22814,6 +22812,7 @@
 *://www.koregasiritai.com/*
 *://www.koshien-dvd.com/*
 *://www.kotitietokone.fi/products/*
+*://www.koukoku.jp/*
 *://www.koutantei.biz/*
 *://www.kouyu0528.com/*
 *://www.kpshop.jp/*
@@ -22829,6 +22828,7 @@
 *://www.kusogakiblog.com/*
 *://www.kutombawewe.net/*
 *://www.kwkoeey.cn/*
+*://www.kwm.co.jp/*
 *://www.kwurfreaplur224-nifty.xyz/*
 *://www.kyogendanshi.com/*
 *://www.la-lafood.ru/*
