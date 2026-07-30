@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://note.com/skkoto/*
+*://note.com/gadget_sale_/*
+*://note.com/toridai_com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
