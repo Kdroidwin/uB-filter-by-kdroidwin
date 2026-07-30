@@ -1,4 +1,3 @@
-*://digirise.ai/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13098,6 +13097,7 @@
 *://different-cute-brain.glitch.me/*
 *://digicamenote.com/*
 *://digimaga.jp/*
+*://digirise.ai/*
 *://digirise.school/*
 *://digispacestudio.com/*
 *://digital-mediablo.com/*
