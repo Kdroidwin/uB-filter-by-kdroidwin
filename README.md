@@ -92,9 +92,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 
 - Block specific note by Kdroidwin
-[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt&title=Block%20specific%20note%20by%20Kdroidwin)
+[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt&title=Block%20specific%20note%20by%20Kdroidwin)
 ```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt
 ```
 一部の中身のないnote記事をnote内のおすすめやnote内の検索結果から非表示にします。（実験的）
 
