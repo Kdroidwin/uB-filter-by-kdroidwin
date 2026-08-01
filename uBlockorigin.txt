@@ -581,6 +581,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ai-plus.school^$document
 ||ai-skill-academy.netlify.app^$document
 ||ai-skill.jp^$document
+||ai-sns-strategy-lp.vercel.app^$document
 ||ai-uruoi.com^$document
 ||ai.45rina.com^$document
 ||ai.doujin-comic.com^$document

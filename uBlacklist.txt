@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://ai-sns-strategy-lp.vercel.app/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -11282,6 +11281,7 @@
 *://ai-plus.school/*
 *://ai-skill-academy.netlify.app/*
 *://ai-skill.jp/*
+*://ai-sns-strategy-lp.vercel.app/*
 *://ai-uruoi.com/*
 *://ai.45rina.com/*
 *://ai.doujin-comic.com/*
