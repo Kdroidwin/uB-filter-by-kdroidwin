@@ -1,3 +1,8 @@
+*://choke-point.com/*
+*://itop-vpn.jp.uptodown.com/*
+*://play.google.com/store/apps/details?id=com.itop.vpnpro*
+*://apps.apple.com/jp/app/itop-vpn-*
+*://hard-mode.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
