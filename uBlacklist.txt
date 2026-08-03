@@ -2,6 +2,7 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://btmoneycoach.xsrv.jp/*
 *://ritsuto.org/*
 *://note.com/ritsuto2525/*
 *://masao-ai.web.app/*
