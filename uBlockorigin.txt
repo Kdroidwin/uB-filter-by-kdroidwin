@@ -1536,6 +1536,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blog.lorentzca.me^$document
 ||blog.myplace-events.com^$document
 ||blog.triedge-lab.com^$document
+||blogdemoai.com^$document
 ||blogjuicy.com^$document
 ||blogkanbee.info^$document
 ||blogrou.com^$document
@@ -1650,6 +1651,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bqt.sakura.ne.jp^$document
 ||br-vestnik.online^$document
 ||brain-contents.com^$document
+||brain-holdings.com^$document
 ||brain-market.com^$document
 ||brains.hatenablog.com^$document
 ||brand-website-alpha.vercel.app^$document
@@ -1691,6 +1693,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bstk.me^$document
 ||btc-savior.co.jp^$document
 ||btj-trend-lab.com^$document
+||btmoneycoach.xsrv.jp^$document
 ||btslove7.com^$document
 ||bucky-blog.com^$document
 ||buddy-training.com^$document
@@ -5227,6 +5230,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kasimakadar.online^$document
 ||kasparblumen.ch^$document
 ||kasu-min.com^$document
+||kasumi-days.com^$document
 ||kasumidesign.com^$document
 ||kataomoi3.com^$document
 ||kate7.sakura.ne.jp^$document
@@ -6247,6 +6251,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||masakblog.com^$document
 ||masami0328.com^$document
 ||masamurai.com^$document
+||masao-ai.web.app^$document
 ||masaourino40.com^$document
 ||masarusu.com^$document
 ||masatonoblog.com^$document
@@ -7305,6 +7310,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/cheeky_thyme7377^$document
 ||note.com/chic_sorrel1534^$document
 ||note.com/chiharu_aiart^$document
+||note.com/chinanezu^$document
 ||note.com/chizuru1122^$document
 ||note.com/chocolateflower^$document
 ||note.com/cio_travel^$document
@@ -7414,6 +7420,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/hit_ranking^$document
 ||note.com/hitobashira_^$document
 ||note.com/hitotsu_ai^$document
+||note.com/hituji1234^$document
 ||note.com/hiyuyosu^$document
 ||note.com/hobichil^$document
 ||note.com/hokanobeat^$document
@@ -7549,6 +7556,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
 ||note.com/marumaruikuji^$document
+||note.com/masa_wunder^$document
 ||note.com/masasan731^$document
 ||note.com/mayako_room^$document
 ||note.com/mdsmys^$document
@@ -7652,6 +7660,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/punimaru_dev^$document
 ||note.com/pure_donkey1452^$document
 ||note.com/pure_eider7665^$document
+||note.com/pyoko55^$document
 ||note.com/q17q^$document
 ||note.com/quality_compass^$document
 ||note.com/quemriru^$document
@@ -7684,6 +7693,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/ripe_colt128^$document
 ||note.com/ripe_liger4801^$document
 ||note.com/ripon1039^$document
+||note.com/ritsuto2525^$document
 ||note.com/ropponginza^$document
 ||note.com/roshalke^$document
 ||note.com/rosy_puma879^$document
@@ -9026,6 +9036,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||risposta.org^$document
 ||risshikaikan.jp^$document
 ||ritsuto.jp^$document
+||ritsuto.org^$document
 ||ritual-profi.ru^$document
 ||rizap.jp^$document
 ||rk91v2nf.r.us-east-1.awstrack.me^$document
@@ -13808,6 +13819,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yukiq.com^$document
 ||yukirinhappy.com^$document
 ||yukisako.com^$document
+||yukisako99.com^$document
 ||yukitokyo.jp^$document
 ||yuko0125.com^$document
 ||yukoblog.net^$document

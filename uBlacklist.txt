@@ -2,18 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://btmoneycoach.xsrv.jp/*
-*://ritsuto.org/*
-*://note.com/ritsuto2525/*
-*://masao-ai.web.app/*
-*://note.com/masa_wunder/*
-*://kasumi-days.com/*
-*://note.com/pyoko55/*
-*://note.com/chinanezu/*
-*://note.com/hituji1234/*
-*://brain-holdings.com/*
-*://yukisako99.com/*
-*://blogdemoai.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
 *://*.ajjnoj.blog.jp/*
@@ -12221,6 +12209,7 @@
 *://blog.lorentzca.me/*
 *://blog.myplace-events.com/*
 *://blog.triedge-lab.com/*
+*://blogdemoai.com/*
 *://blogjuicy.com/*
 *://blogkanbee.info/*
 *://blogrou.com/*
@@ -12333,6 +12322,7 @@
 *://bq2ldnzzl.nordic-walking-schule-brita-becker.de/*
 *://br-vestnik.online/*
 *://brain-contents.com/*
+*://brain-holdings.com/*
 *://brain-market.com/*
 *://brains.hatenablog.com/*
 *://brand-website-alpha.vercel.app/*
@@ -12373,6 +12363,7 @@
 *://bstk.me/*
 *://btc-savior.co.jp/*
 *://btj-trend-lab.com/*
+*://btmoneycoach.xsrv.jp/*
 *://btslove7.com/*
 *://bucky-blog.com/*
 *://buddy-training.com/*
@@ -15860,6 +15851,7 @@
 *://kasimakadar.online/*
 *://kasparblumen.ch/*
 *://kasu-min.com/*
+*://kasumi-days.com/*
 *://kasumidesign.com/*
 *://kataomoi3.com/*
 *://kate7.sakura.ne.jp/*
@@ -16861,6 +16853,7 @@
 *://masakblog.com/*
 *://masami0328.com/*
 *://masamurai.com/*
+*://masao-ai.web.app/*
 *://masaourino40.com/*
 *://masarusu.com/*
 *://masatonoblog.com/*
@@ -17898,6 +17891,7 @@
 *://note.com/cheeky_thyme7377/*
 *://note.com/chic_sorrel1534/*
 *://note.com/chiharu_aiart/*
+*://note.com/chinanezu/*
 *://note.com/chizuru1122/*
 *://note.com/chocolateflower/*
 *://note.com/cio_travel/*
@@ -18007,6 +18001,7 @@
 *://note.com/hit_ranking/*
 *://note.com/hitobashira_/*
 *://note.com/hitotsu_ai/*
+*://note.com/hituji1234/*
 *://note.com/hiyuyosu/*
 *://note.com/hobichil/*
 *://note.com/hokanobeat/*
@@ -18143,6 +18138,7 @@
 *://note.com/mankensensei/*
 *://note.com/maron2023/*
 *://note.com/marumaruikuji/*
+*://note.com/masa_wunder/*
 *://note.com/masasan731/*
 *://note.com/mayako_room/*
 *://note.com/mdsmys/*
@@ -18246,6 +18242,7 @@
 *://note.com/punimaru_dev/*
 *://note.com/pure_donkey1452/*
 *://note.com/pure_eider7665/*
+*://note.com/pyoko55/*
 *://note.com/q17q/*
 *://note.com/quality_compass*
 *://note.com/quemriru/*
@@ -18278,6 +18275,7 @@
 *://note.com/ripe_colt128/*
 *://note.com/ripe_liger4801/*
 *://note.com/ripon1039/*
+*://note.com/ritsuto2525/*
 *://note.com/ropponginza/*
 *://note.com/roshalke/*
 *://note.com/rosy_puma879/*
@@ -19576,6 +19574,7 @@
 *://rise-story.jp/*
 *://risshikaikan.jp/*
 *://ritsuto.jp/*
+*://ritsuto.org/*
 *://ritual-profi.ru/*
 *://rizap.jp/*
 *://rk91v2nf.r.us-east-1.awstrack.me/*
@@ -24228,6 +24227,7 @@
 *://yukiq.com/*
 *://yukirinhappy.com/*
 *://yukisako.com/*
+*://yukisako99.com/*
 *://yukitokyo.jp/*
 *://yuko0125.com/*
 *://yukoblog.net/*
