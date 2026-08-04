@@ -1,3 +1,6 @@
+*://touchai.jp/*
+*://blog.serverworks.co.jp/*
+*://pas0na.com/*
 *://note.com/poko_fukugyou/*
 *://note.com/mbbs/*
 *://*.digirise.ai/*
