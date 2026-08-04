@@ -9,6 +9,7 @@ uBlacklist＆uBlock Origin用のフィルター　
 # Changelog(変更履歴)
 
 [完全な変更履歴](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/commits/main/)
+<br>
 ⭐️を押せば重要な変更があったときに通知します。
 <br>
 <br>
