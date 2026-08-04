@@ -1,13 +1,3 @@
-*://touchai.jp/*
-*://blog.serverworks.co.jp/*
-*://pas0na.com/*
-*://note.com/poko_fukugyou/*
-*://note.com/mbbs/*
-*://*.digirise.ai/*
-*://jinrai.co.jp/*
-*://note.com/momotro018/*
-*://zenn.dev/tmasuyama1114/*
-*://note.com/kakumitsu/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -2995,6 +2985,7 @@
 *://*.dejidownloaddoujin.net/*
 *://*.developreference.com/*
 *://*.diagnoseo.com/*
+*://*.digirise.ai/*
 *://*.divxland.org/*
 *://*.dk/comment.php?*
 *://*.dmm-mania.com/*
@@ -12218,6 +12209,7 @@
 *://blog.livedoor.jp/zzcj/*
 *://blog.lorentzca.me/*
 *://blog.myplace-events.com/*
+*://blog.serverworks.co.jp/*
 *://blog.triedge-lab.com/*
 *://blogdemoai.com/*
 *://blogjuicy.com/*
@@ -15637,6 +15629,7 @@
 *://jinenbo.info/*
 *://jinkanra.com/*
 *://jinpyo.jp/*
+*://jinrai.co.jp/*
 *://jinsei-cinema.jp/*
 *://jinsei0826.com/*
 *://jisedai.me/*
@@ -18073,6 +18066,7 @@
 *://note.com/kadenz/*
 *://note.com/kakaokakao1230/*
 *://note.com/kakip0115/*
+*://note.com/kakumitsu/*
 *://note.com/kamanyan01/*
 *://note.com/kanasawa9420/*
 *://note.com/kangaeru_genba/*
@@ -18152,6 +18146,7 @@
 *://note.com/masa_wunder/*
 *://note.com/masasan731/*
 *://note.com/mayako_room/*
+*://note.com/mbbs/*
 *://note.com/mdsmys/*
 *://note.com/mens_strategy_k/*
 *://note.com/mental_marcy/*
@@ -18173,6 +18168,7 @@
 *://note.com/mofu_pan/*
 *://note.com/mogushi/*
 *://note.com/mokyuchan/*
+*://note.com/momotro018/*
 *://note.com/monetking0209*
 *://note.com/morin4g4/*
 *://note.com/moteotokolabo/*
@@ -18243,6 +18239,7 @@
 *://note.com/planetofgori/*
 *://note.com/pocketstudio/*
 *://note.com/poi_nem/*
+*://note.com/poko_fukugyou/*
 *://note.com/ponta0921/*
 *://note.com/poppson/*
 *://note.com/powertanishi*
@@ -18880,6 +18877,7 @@
 *://partshufu.com/*
 *://parupunte-life.com/*
 *://pas-pol-shop.com/*
+*://pas0na.com/*
 *://pasinta.com/*
 *://pasmo10.jp/*
 *://pass.workhub.site/*
@@ -21104,6 +21102,7 @@
 *://tottori-brotherandsister.jp/*
 *://tottori-covid19.netlify.app/*
 *://totutottuan.com/*
+*://touchai.jp/*
 *://touhoku-shigoto.jp/*
 *://touhokujrst.club/*
 *://tourukaustoglee.net/*
@@ -24360,6 +24359,7 @@
 *://zenmate.jp.uptodown.com/*
 *://zenn-news.net/*
 *://zenn.dev/ktg/articles/e9a24adf14e8bc*
+*://zenn.dev/tmasuyama1114/*
 *://zenn.dev/watab2000/*
 *://zennnews.com/*
 *://zenpenkoukai.com/*

@@ -1535,6 +1535,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blog.livedoor.jp/zzcj^$document
 ||blog.lorentzca.me^$document
 ||blog.myplace-events.com^$document
+||blog.serverworks.co.jp^$document
 ||blog.triedge-lab.com^$document
 ||blogdemoai.com^$document
 ||blogjuicy.com^$document
@@ -5001,6 +5002,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jinenbo.info^$document
 ||jinkanra.com^$document
 ||jinpyo.jp^$document
+||jinrai.co.jp^$document
 ||jinsei-cinema.jp^$document
 ||jinsei0826.com^$document
 ||jisedai.me^$document
@@ -7481,6 +7483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kadenz^$document
 ||note.com/kakaokakao1230^$document
 ||note.com/kakip0115^$document
+||note.com/kakumitsu^$document
 ||note.com/kamanyan01^$document
 ||note.com/kanasawa9420^$document
 ||note.com/kangaeru_genba^$document
@@ -7560,6 +7563,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/masa_wunder^$document
 ||note.com/masasan731^$document
 ||note.com/mayako_room^$document
+||note.com/mbbs^$document
 ||note.com/mdsmys^$document
 ||note.com/mens_strategy_k^$document
 ||note.com/mental_marcy^$document
@@ -7581,6 +7585,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/mofu_pan^$document
 ||note.com/mogushi^$document
 ||note.com/mokyuchan^$document
+||note.com/momotro018^$document
 ||note.com/monetking0209^$document
 ||note.com/morin4g4^$document
 ||note.com/moteotokolabo^$document
@@ -7651,6 +7656,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/planetofgori^$document
 ||note.com/pocketstudio^$document
 ||note.com/poi_nem^$document
+||note.com/poko_fukugyou^$document
 ||note.com/ponta0921^$document
 ||note.com/poppson^$document
 ||note.com/powertanishi^$document
@@ -8299,6 +8305,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||partshufu.com^$document
 ||parupunte-life.com^$document
 ||pas-pol-shop.com^$document
+||pas0na.com^$document
 ||pasinta.com^$document
 ||pasmo10.jp^$document
 ||pass.workhub.site^$document
@@ -10634,6 +10641,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tottori-brotherandsister.jp^$document
 ||tottori-covid19.netlify.app^$document
 ||totutottuan.com^$document
+||touchai.jp^$document
 ||touhoku-shigoto.jp^$document
 ||touhokujrst.club^$document
 ||tourukaustoglee.net^$document
@@ -13944,6 +13952,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||zenmate.com^$document
 ||zenmate.jp.uptodown.com^$document
 ||zenn-news.net^$document
+||zenn.dev/tmasuyama1114^$document
 ||zenn.dev/watab2000^$document
 ||zennnews.com^$document
 ||zenpenkoukai.com^$document
