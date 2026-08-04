@@ -1,4 +1,3 @@
-*://note.com/oren_46902/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18213,6 +18212,7 @@
 *://note.com/open_fennel6445/*
 *://note.com/open_hare4661/*
 *://note.com/orangeitems/*
+*://note.com/oren_46902/*
 *://note.com/oripa_kensyo/*
 *://note.com/orisusarusan/*
 *://note.com/oshabaku/*

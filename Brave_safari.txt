@@ -7630,6 +7630,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/open_fennel6445^$document
 ||note.com/open_hare4661^$document
 ||note.com/orangeitems^$document
+||note.com/oren_46902^$document
 ||note.com/oripa_kensyo^$document
 ||note.com/orisusarusan^$document
 ||note.com/oshabaku^$document
