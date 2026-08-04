@@ -193,7 +193,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
   - 令和の虎、ホリエモン、Addness、驚き屋
 
  
-- 潜在的リスクのあるサービス
+- 潜在的リスクのあるサービス、リスクウェア
   - このサービスの代替サービスがあることがリストインする必須条件
   - 運営が過去に何か問題を起こしていることが多い
   - プライバシー的に良くない
