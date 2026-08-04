@@ -1,7 +1,3 @@
-*://lp.solomon-world.jp/*
-*://solomon-world.jp/*
-*://proof0309.com/*
-*://wakurakulab.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16543,6 +16539,7 @@
 *://lovewagonblog.wordpress.com/*
 *://lowcostoutsource.com/*
 *://lp.buzayookaki.com/*
+*://lp.solomon-world.jp/*
 *://lps.nanoartmarket.com/*
 *://lqvaqpeq.com/*
 *://lrkdn.kvjody.biz/*
@@ -19188,6 +19185,7 @@
 *://prometiz.xyz/*
 *://promotion.weassist.jp/*
 *://promotions.champs-sportsclub.com/*
+*://proof0309.com/*
 *://proteamworks.com/*
 *://protect-honor.hatenablog.com/*
 *://protonge.com/*
@@ -20230,6 +20228,7 @@
 *://solare-academy.com/*
 *://solife-a.com/*
 *://sollastudio.net/*
+*://solomon-world.jp/*
 *://solutionsbyswain.com/*
 *://solveforum.com/*
 *://somsalut.com/item.php?products/*
@@ -21623,6 +21622,7 @@
 *://wakasiru.com/*
 *://wakatte-tv.net/*
 *://wakayama-johall.com/*
+*://wakurakulab.com/*
 *://wakuwakuenta.com/*
 *://walkable-2020.com/*
 *://wallmountpros.com/*

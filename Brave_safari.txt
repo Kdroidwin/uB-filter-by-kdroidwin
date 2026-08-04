@@ -5931,6 +5931,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lovewagonblog.wordpress.com^$document
 ||lowcostoutsource.com^$document
 ||lp.buzayookaki.com^$document
+||lp.solomon-world.jp^$document
 ||lps.nanoartmarket.com^$document
 ||lqvaqpeq.com^$document
 ||lrkdn.kvjody.biz^$document
@@ -8612,6 +8613,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||prometiz.xyz^$document
 ||promotion.weassist.jp^$document
 ||promotions.champs-sportsclub.com^$document
+||proof0309.com^$document
 ||proteamworks.com^$document
 ||protect-honor.hatenablog.com^$document
 ||protonge.com^$document
@@ -9724,6 +9726,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||solare-academy.com^$document
 ||solife-a.com^$document
 ||sollastudio.net^$document
+||solomon-world.jp^$document
 ||solutionsbyswain.com^$document
 ||solveforum.com^$document
 ||solvusoft.com^$document
@@ -11191,6 +11194,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wakatte-tv.net^$document
 ||wakayama-johall.com^$document
 ||wake-up-neo.com^$document
+||wakurakulab.com^$document
 ||wakuwakuenta.com^$document
 ||walkable-2020.com^$document
 ||wallmountpros.com^$document
