@@ -2,6 +2,8 @@
 *://note.com/mbbs/*
 *://*.digirise.ai/*
 *://jinrai.co.jp/*
+*://note.com/momotro018/*
+*://zenn.dev/tmasuyama1114/*
 *://note.com/kakumitsu/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
