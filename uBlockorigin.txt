@@ -1168,6 +1168,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||asitanotane.hatenablog.com^$document
 ||asjapanesu.click^$document
 ||ask-dev.ru^$document
+||ask21.jp^$document
 ||askchords.com^$document
 ||askcodez.com^$document
 ||askmrcoupon.com^$document
@@ -1238,6 +1239,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||avast.it4win.com^$document
 ||avcatalog.jp^$document
 ||avfor.osaka^$document
+||avgle.blog^$document
 ||aviator-movie.jp^$document
 ||avobild.life^$document
 ||avtonomka-service.online^$document
@@ -2131,6 +2133,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||comic.syumilog-engineer.com^$document
 ||comic.wew.jp^$document
 ||comic0706f.site^$document
+||comic0801g.site^$document
 ||comic0yen.com^$document
 ||comic1.lsv.jp^$document
 ||comic104.com^$document
@@ -2564,6 +2567,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojinsite.wpx.jp^$document
 ||dokdok2023.jp^$document
 ||dokidoki-info.com^$document
+||dokidokiraw.com^$document
 ||dokigensen-magazin.com^$document
 ||dokodekau.hatenablog.com^$document
 ||dokopon.com^$document
@@ -2615,6 +2619,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-erogazou.com^$document
 ||doujin-erokyonyu.adult-h.com^$document
 ||doujin-eromanga.adult-h.com^$document
+||doujin-free.avgle.blog^$document
 ||doujin-hiroba.com^$document
 ||doujin-hive.com^$document
 ||doujin-library.com^$document
@@ -3016,6 +3021,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ero-manga.cfbx.jp^$document
 ||ero-manga.fanzafanza.com^$document
 ||ero-manga.the-universe-lab.com^$document
+||ero-manga.tokyo^$document
 ||ero-momonga.com^$document
 ||ero-ny.cfbx.jp^$document
 ||ero-ny.com^$document
@@ -3105,6 +3111,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga.regalo-net.jp^$document
 ||eromanga.syukujono-mori.com^$document
 ||eromanga.un-gluten.jp^$document
+||eromanga0728j.online^$document
 ||eromangagaga.wpx.jp^$document
 ||eromangajiru.com^$document
 ||eromangajukujo.com^$document
@@ -6178,11 +6185,13 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manga.okabasyo.com^$document
 ||manga.pai-navi.com^$document
 ||manga.pink^$document
+||manga.studio-yh.jp^$document
 ||manga.tengoku-ero.com^$document
 ||manga.tokyo.jp^$document
 ||manga.ton-ton.jp^$document
 ||manga.tuber-ch.com^$document
 ||manga.wife-ntr.com^$document
+||manga0702v.website^$document
 ||manga0yen.com^$document
 ||manga1000.su^$document
 ||manga1001.club.atlaq.com^$document
@@ -6686,6 +6695,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momonga-km.com^$document
 ||momonga-raw.com^$document
 ||momonga-raw01.com^$document
+||momonga-raw02.com^$document
 ||momonga.hitomi-manga-hentai.com^$document
 ||momongaraw.jp^$document
 ||momongarawhitomi.jp^$document
@@ -10001,6 +10011,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||strongcorner.net^$document
 ||strufin.in^$document
 ||stube.info^$document
+||studio-yh.jp^$document
 ||studioebi.com^$document
 ||studionobres.com^$document
 ||style-hack.tokyo^$document
@@ -11107,6 +11118,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vivi-mall.com^$document
 ||vivi-water.com^$document
 ||vividib.com^$document
+||vjct.jp^$document
 ||vjuyzylf.digital^$document
 ||vloglabo.com^$document
 ||vls51wg.h-arlt-fotografie.de^$document
@@ -12005,6 +12017,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eroerocomic.net^$document
 ||www.erohimedoujin.com^$document
 ||www.eromanga-attack-unreal-2.net^$document
+||www.eromanga-attack-unreal.net^$document
 ||www.eromanga-attack2000.net^$document
 ||www.eromanga-doujin-hentai01.net^$document
 ||www.eromanga-doujin-hentai2000.net^$document

@@ -1,18 +1,3 @@
-*://ask21.jp/*
-*://dokidokiraw.com/*
-*://vjct.jp/*
-*://manga0702v.website/*
-*://momonga-raw02.com/*
-*://manga.studio-yh.jp/*
-*://studio-yh.jp/*
-*://*.studio-yh.jp/*
-*://ero-manga.tokyo/*
-*://www.eromanga-attack-unreal.net/*
-*://doujin-free.avgle.blog/*
-*://*.avgle.blog/*
-*://avgle.blog/*
-*://eromanga0728j.online/*
-*://comic0801g.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -563,6 +548,7 @@
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
+*://*.avgle.blog/*
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
 *://*.az/*.shtm
@@ -9741,6 +9727,7 @@
 *://*.store/?z=8*
 *://*.store/?z=9*
 *://*.string.quest/*
+*://*.studio-yh.jp/*
 *://*.studio/?a=0*
 *://*.studio/?a=1*
 *://*.studio/?a=2*
@@ -11869,6 +11856,7 @@
 *://asitanotane.hatenablog.com/*
 *://asjapanesu.click/*
 *://ask-dev.ru/*
+*://ask21.jp/*
 *://askchords.com/*
 *://askcodez.com/*
 *://askmrcoupon.com/*
@@ -11932,6 +11920,7 @@
 *://avast.it4win.com/*
 *://avcatalog.jp/*
 *://avfor.osaka/*
+*://avgle.blog/*
 *://aviator-movie.jp/*
 *://avobild.life/*
 *://avtonomka-service.online/*
@@ -12806,6 +12795,7 @@
 *://comic.syumilog-engineer.com/*
 *://comic.wew.jp/*
 *://comic0706f.site/*
+*://comic0801g.site/*
 *://comic0yen.com/*
 *://comic1.lsv.jp/*
 *://comic104.com/*
@@ -13237,6 +13227,7 @@
 *://dojinsite.wpx.jp/*
 *://dokdok2023.jp/*
 *://dokidoki-info.com/*
+*://dokidokiraw.com/*
 *://dokigensen-magazin.com/*
 *://dokodekau.hatenablog.com/*
 *://dokopon.com/*
@@ -13288,6 +13279,7 @@
 *://doujin-erogazou.com/*
 *://doujin-erokyonyu.adult-h.com/*
 *://doujin-eromanga.adult-h.com/*
+*://doujin-free.avgle.blog/*
 *://doujin-hiroba.com/*
 *://doujin-hive.com/*
 *://doujin-library.com/*
@@ -13686,6 +13678,7 @@
 *://ero-manga.cfbx.jp/*
 *://ero-manga.fanzafanza.com/*
 *://ero-manga.the-universe-lab.com/*
+*://ero-manga.tokyo/*
 *://ero-momonga.com/*
 *://ero-ny.cfbx.jp/*
 *://ero-ny.com/*
@@ -13775,6 +13768,7 @@
 *://eromanga.regalo-net.jp/*
 *://eromanga.syukujono-mori.com/*
 *://eromanga.un-gluten.jp/*
+*://eromanga0728j.online/*
 *://eromangagaga.wpx.jp/*
 *://eromangajiru.com/*
 *://eromangajukujo.com/*
@@ -16801,11 +16795,13 @@
 *://manga.okabasyo.com/*
 *://manga.pai-navi.com/*
 *://manga.pink/*
+*://manga.studio-yh.jp/*
 *://manga.tengoku-ero.com/*
 *://manga.tokyo.jp/*
 *://manga.ton-ton.jp/*
 *://manga.tuber-ch.com/*
 *://manga.wife-ntr.com/*
+*://manga0702v.website/*
 *://manga0yen.com/*
 *://manga1000.su/*
 *://manga1001.club.atlaq.com/*
@@ -17299,6 +17295,7 @@
 *://momonga-km.com/*
 *://momonga-raw.com/*
 *://momonga-raw01.com/*
+*://momonga-raw02.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momongaraw.jp/*
 *://momongarawhitomi.jp/*
@@ -20504,6 +20501,7 @@
 *://strongcorner.net/*
 *://strufin.in/*
 *://stube.info/*
+*://studio-yh.jp/*
 *://studioebi.com/*
 *://studionobres.com/*
 *://style-hack.tokyo/*
@@ -21569,6 +21567,7 @@
 *://vivi-mall.com/*
 *://vivi-water.com/*
 *://vividib.com/*
+*://vjct.jp/*
 *://vjuyzylf.digital/*
 *://vloglabo.com/*
 *://vls51wg.h-arlt-fotografie.de/*
@@ -22433,6 +22432,7 @@
 *://www.eroerocomic.net/*
 *://www.erohimedoujin.com/*
 *://www.eromanga-attack-unreal-2.net/*
+*://www.eromanga-attack-unreal.net/*
 *://www.eromanga-attack2000.net/*
 *://www.eromanga-doujin-hentai01.net/*
 *://www.eromanga-doujin-hentai2000.net/*
