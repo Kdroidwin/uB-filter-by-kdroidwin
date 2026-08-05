@@ -1,26 +1,3 @@
-*://www.threadpost.jp/*
-*://raw-momonga03.com/*
-*://comic0706f.site/*
-*://missav-fc2ppv04.com/*
-*://hitomi-missav01.com/*
-*://bazzcomic.com/*
-*://hitomibazz.com/*
-*://pepper-edit.net/*
-*://momonga-raw01.com/*
-*://note.com/shirasaki_souma/*
-*://note.com/ai_platform/*
-*://note.com/dapper_phlox8142/*
-*://note.com/dr_yutai/*
-*://note.com/pc_masami/*
-*://note.com/investor_tak3/*
-*://note.com/podosan/*
-*://note.com/hirohikonotes/*
-*://note.com/smallmedx_1/*
-*://note.com/amasuki/*
-*://note.com/tetsunain_game/*
-*://note.com/humble_rose2342/*
-*://note.com/sugurukun_ai/*
-*://note.com/19851220/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12049,6 +12026,7 @@
 *://bazu-word.com/*
 *://bazuyomi.com/*
 *://bazz-labo.com/*
+*://bazzcomic.com/*
 *://bb-com.conohawing.com/*
 *://bbb2infap002-it.labo.sbb-sys.info/*
 *://bbhylife.com/*
@@ -12812,6 +12790,7 @@
 *://comic.seven-area.com/*
 *://comic.syumilog-engineer.com/*
 *://comic.wew.jp/*
+*://comic0706f.site/*
 *://comic0yen.com/*
 *://comic1.lsv.jp/*
 *://comic104.com/*
@@ -15092,6 +15071,7 @@
 *://hitomi-laa.net/*
 *://hitomi-manga-hentai.com/*
 *://hitomi-mangaraw01.com/*
+*://hitomi-missav01.com/*
 *://hitomi-nhentai.com/*
 *://hitomi-official.jp/*
 *://hitomi-raw-eromanga.com/*
@@ -15101,6 +15081,7 @@
 *://hitomi-vg.com/*
 *://hitomi.momonga-raw.com/*
 *://hitomia.com/*
+*://hitomibazz.com/*
 *://hitomibook.com/*
 *://hitomila.blog/*
 *://hitomila.co.jp/*
@@ -17177,6 +17158,7 @@
 *://missav-fc2ppv.jp/*
 *://missav-fc2ppv02.com/*
 *://missav-fc2ppv03.com/*
+*://missav-fc2ppv04.com/*
 *://missav-fc2ppvjp01.com/*
 *://missav.com/*
 *://missav2026-doujin.com/*
@@ -17301,6 +17283,7 @@
 *://momoko-no-trend2503.com/*
 *://momonga-km.com/*
 *://momonga-raw.com/*
+*://momonga-raw01.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momongaraw.jp/*
 *://momongarawhitomi.jp/*
@@ -17862,6 +17845,7 @@
 *://note.com/1031310/*
 *://note.com/1121raian/*
 *://note.com/1525qualified/*
+*://note.com/19851220/*
 *://note.com/24hs_ksrr44/*
 *://note.com/2ch3ch/*
 *://note.com/2choozumou/*
@@ -17878,6 +17862,7 @@
 *://note.com/ai_business_navi/*
 *://note.com/ai_freak/*
 *://note.com/ai_gig_girl/*
+*://note.com/ai_platform/*
 *://note.com/ai_urawaza_lab/*
 *://note.com/ai_zap/*
 *://note.com/aichanworld/*
@@ -17892,6 +17877,7 @@
 *://note.com/alive_dahlia5267/*
 *://note.com/ama_zon_smart/*
 *://note.com/amagitsune/*
+*://note.com/amasuki/*
 *://note.com/amazon_sale_now/*
 *://note.com/androiddimension/*
 *://note.com/androidgeek
@@ -17951,6 +17937,7 @@
 *://note.com/daikyo_2026/*
 *://note.com/daito2001/*
 *://note.com/dapper_boar1528*
+*://note.com/dapper_phlox8142/*
 *://note.com/dear_pipit1400/*
 *://note.com/decoboco_sisters/*
 *://note.com/deft_hosta7020/*
@@ -17959,6 +17946,7 @@
 *://note.com/device_textbook/*
 *://note.com/direct_style/*
 *://note.com/doriontrade/*
+*://note.com/dr_yutai/*
 *://note.com/dream1004*
 *://note.com/drneurosur/*
 *://note.com/duppyclub/*
@@ -18031,6 +18019,7 @@
 *://note.com/high_harihari/*
 *://note.com/hima2b4/*
 *://note.com/hiroaki06/*
+*://note.com/hirohikonotes/*
 *://note.com/hirokazumineral/*
 *://note.com/hirotoinfo/*
 *://note.com/hit_ranking/*
@@ -18052,6 +18041,7 @@
 *://note.com/hot_violet5335/*
 *://note.com/hsp_kazu/*
 *://note.com/huge_roses2687/*
+*://note.com/humble_rose2342/*
 *://note.com/husigi92_iclud/*
 *://note.com/icchi_thoughts/*
 *://note.com/icicle9/*
@@ -18064,6 +18054,7 @@
 *://note.com/infomerit/*
 *://note.com/invester_suya/*
 *://note.com/investment_happy/*
+*://note.com/investor_tak3/*
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
 *://note.com/iswanin2/*
@@ -18261,6 +18252,7 @@
 *://note.com/oyvn/*
 *://note.com/parsonalsecret/*
 *://note.com/paul1211/*
+*://note.com/pc_masami/*
 *://note.com/penginadaafi/*
 *://note.com/pet_supply/*
 *://note.com/photograpy_tips/*
@@ -18269,6 +18261,7 @@
 *://note.com/pixel8a9/*
 *://note.com/planetofgori/*
 *://note.com/pocketstudio/*
+*://note.com/podosan/*
 *://note.com/poi_nem/*
 *://note.com/poko_fukugyou/*
 *://note.com/ponta0921/*
@@ -18349,6 +18342,7 @@
 *://note.com/shinkouya_1453/*
 *://note.com/shinri_test/*
 *://note.com/shiny_daphne505/*
+*://note.com/shirasaki_souma/*
 *://note.com/shogo_0125/*
 *://note.com/shoji_orihara/*
 *://note.com/show6254/*
@@ -18359,6 +18353,7 @@
 *://note.com/skkoto/*
 *://note.com/sknet_sougou*
 *://note.com/skt0302/*
+*://note.com/smallmedx_1/*
 *://note.com/soh_ainsight/*
 *://note.com/solo_dev_jp/*
 *://note.com/sorakiba190107/*
@@ -18366,6 +18361,7 @@
 *://note.com/sports_fun/*
 *://note.com/startupm/*
 *://note.com/strong_power/*
+*://note.com/sugurukun_ai/*
 *://note.com/sumaho_hikaku/*
 *://note.com/sumahoseeker/*
 *://note.com/super_whale223/*
@@ -18395,6 +18391,7 @@
 *://note.com/techpapa_lab/*
 *://note.com/tenorsharejp/*
 *://note.com/teraweb/*
+*://note.com/tetsunain_game/*
 *://note.com/thase70/*
 *://note.com/thehikaku/*
 *://note.com/thug_business/*
@@ -18958,6 +18955,7 @@
 *://pentagonpapers-movie.jp/*
 *://pentanews.net/*
 *://pepms.icu/*
+*://pepper-edit.net/*
 *://peppermint-angel.com/*
 *://perfecttidygame.net/*
 *://perfectworld.shop/*
@@ -19394,6 +19392,7 @@
 *://raw-momonga.com/*
 *://raw-momonga01.com/*
 *://raw-momonga02.com/*
+*://raw-momonga03.com/*
 *://raw.45rina.com/*
 *://raw.dmm-mania.com/*
 *://raw.wpx.jp/*
@@ -23626,6 +23625,7 @@
 *://www.theunhappyrich.com/*
 *://www.thomasfrissant.com/*
 *://www.thousandsmiles.uk/*
+*://www.threadpost.jp/*
 *://www.threescoops.shop/*
 *://www.tienkenandassociates.com/*
 *://www.tiktok.com/ug/incentive/*
