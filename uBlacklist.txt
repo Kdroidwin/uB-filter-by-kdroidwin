@@ -1,23 +1,3 @@
-*://erobrowsergame.net/*
-*://doujin-analytics.com/*
-*://note.com/limber_tapir7999/*
-*://note.com/aishibox/*
-*://note.com/reboot_ojisan/*
-*://note.com/anatato_jp/*
-*://note.com/cos_cameraman1/*
-*://note.com/gabugadget/*
-*://note.com/zerohari/*
-*://note.com/naturemotoken/*
-*://note.com/joyfull_2525/*
-*://note.com/primu_20251202/*
-*://note.com/zap9488/*
-*://note.com/staybronze/*
-*://note.com/fashere/*
-*://note.com/tomorrow56/*
-*://note.com/super_iris9045/*
-*://note.com/ddsatouattak/*
-*://note.com/kemushi_san/*
-*://note.com/thegadget/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13296,6 +13276,7 @@
 *://dougaguild.xsrv.jp/*
 *://doujiiin.com/*
 *://doujin-ai.com/*
+*://doujin-analytics.com/*
 *://doujin-archive.com/*
 *://doujin-authors.com/*
 *://doujin-comics.toremani.com/*
@@ -13720,6 +13701,7 @@
 *://erobooker.com/*
 *://erobookjapan.com/*
 *://erobooks.makianosaihu.com/*
+*://erobrowsergame.net/*
 *://erocomi.kou-web.com/*
 *://erocomic-love.net/*
 *://erocomic-navi.com/*
@@ -17907,6 +17889,7 @@
 *://note.com/ai_zap/*
 *://note.com/aichanworld/*
 *://note.com/aigadgetlab/*
+*://note.com/aishibox/*
 *://note.com/aitaku2510/*
 *://note.com/aiwriter0116/*
 *://note.com/akagami/*
@@ -17919,6 +17902,7 @@
 *://note.com/amagitsune/*
 *://note.com/amasuki/*
 *://note.com/amazon_sale_now/*
+*://note.com/anatato_jp/*
 *://note.com/androiddimension/*
 *://note.com/androidgeek
 *://note.com/androidgeek/*
@@ -17964,6 +17948,7 @@
 *://note.com/clear_coot175/*
 *://note.com/cocoryou886710/*
 *://note.com/cool_egret501/*
+*://note.com/cos_cameraman1/*
 *://note.com/counselor_risa/*
 *://note.com/cozy_plover2302/*
 *://note.com/cream_corone/*
@@ -17979,6 +17964,7 @@
 *://note.com/daito2001/*
 *://note.com/dapper_boar1528*
 *://note.com/dapper_phlox8142/*
+*://note.com/ddsatouattak/*
 *://note.com/dear_pipit1400/*
 *://note.com/decoboco_sisters/*
 *://note.com/deft_hosta7020/*
@@ -17998,6 +17984,7 @@
 *://note.com/eru1881/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/fair_godwit545/*
+*://note.com/fashere/*
 *://note.com/females_db_park/*
 *://note.com/fine_gerbil9006/*
 *://note.com/fit_hyssop6243/*
@@ -18010,6 +17997,7 @@
 *://note.com/fumiura/*
 *://note.com/futamen/*
 *://note.com/fuwari_daily/*
+*://note.com/gabugadget/*
 *://note.com/gad_hammocchi/*
 *://note.com/gadge_log/*
 *://note.com/gadgesoji/*
@@ -18115,6 +18103,7 @@
 *://note.com/jolly_dunlin344/*
 *://note.com/jolly_stilt46/*
 *://note.com/joxit/*
+*://note.com/joyfull_2525/*
 *://note.com/joyous_kalmia512/*
 *://note.com/juku_support/*
 *://note.com/junjun_biyori/*
@@ -18149,6 +18138,7 @@
 *://note.com/kei_music_gadget/*
 *://note.com/keizai_kousatsu/*
 *://note.com/kemuri123/*
+*://note.com/kemushi_san/*
 *://note.com/ken_tsuiki/*
 *://note.com/kenhonda/*
 *://note.com/keshikakeuranai/*
@@ -18186,6 +18176,7 @@
 *://note.com/light_hare9068/*
 *://note.com/light_right_/*
 *://note.com/like_bonobo2466/*
+*://note.com/limber_tapir7999/*
 *://note.com/lithe_viper8252/*
 *://note.com/lively_impala470/*
 *://note.com/lofty_skink4202/*
@@ -18251,6 +18242,7 @@
 *://note.com/naoki_iphone/*
 *://note.com/naruhoneru/*
 *://note.com/natsssssuki/*
+*://note.com/naturemotoken/*
 *://note.com/nayoshi_engineer/*
 *://note.com/neet_1226/*
 *://note.com/nekoyorozu/*
@@ -18312,6 +18304,7 @@
 *://note.com/powertanishi*
 *://note.com/pragmalife/*
 *://note.com/prime_codephone/*
+*://note.com/primu_20251202/*
 *://note.com/proper_gnu4086/*
 *://note.com/prorautatie/*
 *://note.com/protect_ebay/*
@@ -18331,6 +18324,7 @@
 *://note.com/ready_bison5376/*
 *://note.com/ready_newt6023/*
 *://note.com/realme_note/*
+*://note.com/reboot_ojisan/*
 *://note.com/regal_allium4153/*
 *://note.com/reiwamoney1/*
 *://note.com/relaxmax/*
@@ -18403,10 +18397,12 @@
 *://note.com/spiritual_taiken/*
 *://note.com/sports_fun/*
 *://note.com/startupm/*
+*://note.com/staybronze/*
 *://note.com/strong_power/*
 *://note.com/sugurukun_ai/*
 *://note.com/sumaho_hikaku/*
 *://note.com/sumahoseeker/*
+*://note.com/super_iris9045/*
 *://note.com/super_whale223/*
 *://note.com/super_whale4189/*
 *://note.com/syashinsuki/*
@@ -18436,6 +18432,7 @@
 *://note.com/teraweb/*
 *://note.com/tetsunain_game/*
 *://note.com/thase70/*
+*://note.com/thegadget/*
 *://note.com/thehikaku/*
 *://note.com/thug_business/*
 *://note.com/tiger_stlv/*
@@ -18444,6 +18441,7 @@
 *://note.com/tmobile_kevin/*
 *://note.com/tokotoko_2025/*
 *://note.com/tom485/*
+*://note.com/tomorrow56/*
 *://note.com/torataka50/*
 *://note.com/toridai_com/*
 *://note.com/totalnewsworld/*
@@ -18512,8 +18510,10 @@
 *://note.com/yutori_kurashi/*
 *://note.com/yuueki_osusume/*
 *://note.com/yzrswork/*
+*://note.com/zap9488/*
 *://note.com/zatsugaku_iroiro/*
 *://note.com/zenipen/*
+*://note.com/zerohari/*
 *://note.com/zerozero_x/*
 *://note.com/zonzonzonmo_chan/*
 *://notebookers.jp/*
