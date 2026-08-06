@@ -793,6 +793,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/pisu-tabi^$document
 ||ameblo.jp/plus2222^$document
 ||ameblo.jp/targeteddamage^$document
+||ameblo.jp/techtell360^$document
 ||ameblo.jp/teihenmachi^$document
 ||ameblo.jp/unarigoe^$document
 ||ameblo.jp/uriutsu-123^$document
@@ -1365,6 +1366,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bd.vizeo.eu^$document
 ||bddy.me^$document
 ||be-3679.about.gitlab-review.app^$document
+||be-habit.com^$document
 ||be-marry.com^$document
 ||beaconlink.jp^$document
 ||beadsxbeads.com^$document
@@ -2287,6 +2289,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cyberapp.ru^$document
 ||cyberbiatch.com^$document
 ||cyberghost-vpn.jp.malavida.com^$document
+||cybernews.com/ja/best-vpn^$document
 ||cyberpour.com^$document
 ||cybersecurity-jp.com/contents/internet^$document
 ||cybrigtejtreexrx.xyz^$document
@@ -9483,6 +9486,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shenghuobao.net^$document
 ||shenjpvip.com^$document
 ||shiawaseninaritai.com^$document
+||shibainu-vpn.jp^$document
 ||shibutaisai.com^$document
 ||shicony.com^$document
 ||shidashi-chiba.jp^$document
@@ -11155,6 +11159,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vplayer.onelink.me^$document
 ||vpn-hikaku.net^$document
 ||vpn-info.jp^$document
+||vpn-lab.kimihiko.jp^$document
 ||vpn-labo.com^$document
 ||vpn-magazine.com^$document
 ||vpn-sensei.com^$document
@@ -12309,6 +12314,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.ihomegypt.com^$document
 ||www.iid.co.jp^$document
 ||www.ijuin.info^$document
+||www.ikatakoblog.com^$document
 ||www.ikegami-hihuka.xyz^$document
 ||www.ikujineko.com^$document
 ||www.ikushimatarushima.jp^$document

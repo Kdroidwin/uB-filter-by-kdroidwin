@@ -1,11 +1,3 @@
-*://www.ikatakoblog.com/*
-*://ameblo.jp/techtell360/*
-*://echowear.co.jp/*
-*://www.youtube.com/watch?v=9ikRC7OhK5k
-*://cybernews.com/ja/best-vpn/*
-*://shibainu-vpn.jp/*
-*://vpn-lab.kimihiko.jp/*
-*://be-habit.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11494,6 +11486,7 @@
 *://ameblo.jp/pisu-tabi/*
 *://ameblo.jp/plus2222/*
 *://ameblo.jp/targeteddamage/*
+*://ameblo.jp/techtell360/*
 *://ameblo.jp/teihenmachi/*
 *://ameblo.jp/unarigoe/*
 *://ameblo.jp/uriutsu-123/*
@@ -12051,6 +12044,7 @@
 *://bd.vizeo.eu/*
 *://bddy.me/*
 *://be-3679.about.gitlab-review.app/*
+*://be-habit.com/*
 *://be-marry.com/*
 *://beaconlink.jp/*
 *://beadsxbeads.com/*
@@ -12954,6 +12948,7 @@
 *://cyberapp.ru/*
 *://cyberbiatch.com/*
 *://cyberghost-vpn.jp.malavida.com/*
+*://cybernews.com/ja/best-vpn/*
 *://cyberpour.com/*
 *://cybersecurity-jp.com/contents/internet/*
 *://cybrigtejtreexrx.xyz/*
@@ -13470,6 +13465,7 @@
 *://echizen-kanikanitei.jp/*
 *://echomedia.co.jp/*
 *://echour.com/*
+*://echowear.co.jp/*
 *://eclat-tokyo.jp/*
 *://eclesar1.over-blog.com/*
 *://ecmusika.com/*
@@ -20015,6 +20011,7 @@
 *://shenjpvip.com/*
 *://sherbatovelite.com/detail*
 *://shiawaseninaritai.com/*
+*://shibainu-vpn.jp/*
 *://shibutaisai.com/*
 *://shicony.com/*
 *://shidashi-chiba.jp/*
@@ -21612,6 +21609,7 @@
 *://vplayer.onelink.me/*
 *://vpn-hikaku.net/*
 *://vpn-info.jp/*
+*://vpn-lab.kimihiko.jp/*
 *://vpn-labo.com/*
 *://vpn-magazine.com/*
 *://vpn-sensei.com/*
@@ -22729,6 +22727,7 @@
 *://www.ihomegypt.com/*
 *://www.iid.co.jp/*
 *://www.ijuin.info/*
+*://www.ikatakoblog.com/*
 *://www.ikegami-hihuka.xyz/*
 *://www.ikujineko.com/*
 *://www.ikushimatarushima.jp/*
@@ -23850,6 +23849,7 @@
 *://www.youtube.com/user/hatimaki73*
 *://www.youtube.com/watch?v=6lvZTkPzbh0
 *://www.youtube.com/watch?v=7gwXKSRuErY*
+*://www.youtube.com/watch?v=9ikRC7OhK5k
 *://www.youtube.com/watch?v=A5bY-WbMLM8
 *://www.youtube.com/watch?v=AsWhEONwpBU*
 *://www.youtube.com/watch?v=FKGmwfEDpCA*
