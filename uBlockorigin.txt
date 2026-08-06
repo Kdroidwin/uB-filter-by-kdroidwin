@@ -2045,7 +2045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cn/visa.co.jp$doc
 ||cndl.synology.cn^$document
 ||co-family.net^$document
-||co-jp.com^
+||co-jp.com^$document
 ||coachlovey.com^$document
 ||coca-book.com^$document
 ||coccomama.com^$document
@@ -4823,7 +4823,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ioritenrsa.xyz^$document
 ||iowadotlandsales.com^$document
 ||ipadmod.net^$document
-||ipcgames.com/ocean-of-games/*
+||ipcgames.com/ocean-of-games^$document
 ||iphglobal.com^$document
 ||iphone-displayreparatur.eu^$document
 ||iphone-mania.jp/news-490014^$document
@@ -8815,7 +8815,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||raku.fyi^$document
 ||rakuc.co^$document
 ||rakuenta.com^$document
-||rakut*.co^
+||rakut*.co^$document
 ||rakuten-viki.hatenablog.com^$document
 ||rakuten.tameshiyo.me^$document
 ||rakutens-jp.shop^$document
@@ -9228,8 +9228,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sa.com^$document,to=~sfec.sa.com|~sac.sa.com
 ||sa.rdy.jp^$document
 ||saabu.ba-koshi.com^$document
-||sabucaru.com
-||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
 ||sac-a-main.org^$document
@@ -13968,8 +13966,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
 ||za.com^$document,to=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com
-||zaichan-blog.com
-||zaichan-blog.com^$document
 ||zainale.net^$document
 ||zaintech.co.id^$document
 ||zaitakusyufu.net^$document
