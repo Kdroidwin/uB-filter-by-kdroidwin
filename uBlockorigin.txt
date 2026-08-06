@@ -1773,6 +1773,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||caltechbd.com^$document
 ||cambridge-india.org^$document
 ||camera-jct.com^$document
+||camera.shouhinlab.fun^$document
 ||cameronlorenc.com^$document
 ||camp.trainocate.co.jp^$document
 ||campanellafishing.shogic.xyz^$document
@@ -6242,6 +6243,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mapimark.com^$document
 ||mappifyerapp.com^$document
 ||maqamemansoor.com^$document
+||mar-labo.com^$document
 ||marathonman-europe.com^$document
 ||mariaugusto.com^$document
 ||mariayuri28.com^$document
@@ -7283,6 +7285,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/4jinooyaji^$document
 ||note.com/50it^$document
 ||note.com/5656remon5656^$document
+||note.com/777_001^$document
 ||note.com/88gold88^$document
 ||note.com/accha123^$document
 ||note.com/addness_recruit^$document
@@ -7333,6 +7336,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/bright_llama373^$document
 ||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
+||note.com/camera_lab^$document
 ||note.com/carreer^$document
 ||note.com/cc21257^$document
 ||note.com/chaen_channel^$document
@@ -7378,6 +7382,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/dream1004^$document
 ||note.com/drneurosur^$document
 ||note.com/duppyclub^$document
+||note.com/ebe0911^$document
 ||note.com/egao_no_care_nao^$document
 ||note.com/ekokosu^$document
 ||note.com/elimaga^$document
@@ -7677,6 +7682,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/otsuki_days^$document
 ||note.com/outdoorlifestyle^$document
 ||note.com/oyvn^$document
+||note.com/p_bunseki^$document
 ||note.com/parsonalsecret^$document
 ||note.com/paul1211^$document
 ||note.com/pc_masami^$document
@@ -7858,6 +7864,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/watechexplorers^$document
 ||note.com/webcommu_sub^$document
 ||note.com/wise_liger7796^$document
+||note.com/wise_moose8648^$document
 ||note.com/workwithai^$document
 ||note.com/writer_syota^$document
 ||note.com/xminami^$document
@@ -9589,6 +9596,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shortcake.carepro.co.jp^$document
 ||shorturl.biz.weibo.cn^$document
 ||shoshinshanoyakata.com^$document
+||shouhinlab.fun^$document
 ||shounenki.jp^$document
 ||shouwano-idol.com^$document
 ||showa-g.org^$document

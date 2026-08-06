@@ -1,12 +1,3 @@
-*://note.com/777_001/*
-*://note.com/ebe0911/*
-*://note.com/wise_moose8648/*
-*://camera.shouhinlab.fun/*
-*://shouhinlab.fun/*
-*://*.shouhinlab.fun/*
-*://mar-labo.com/*
-*://note.com/p_bunseki/*
-*://note.com/camera_lab/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -9187,6 +9178,7 @@
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
 *://*.shidashi-chiba.jp/*
+*://*.shouhinlab.fun/*
 *://*.siwib.org/*
 *://*.sk/?*.html*
 *://*.sk/?a=0*
@@ -12455,6 +12447,7 @@
 *://caltechbd.com/*
 *://cambridge-india.org/*
 *://camera-jct.com/*
+*://camera.shouhinlab.fun/*
 *://cameronlorenc.com/*
 *://camp.trainocate.co.jp/*
 *://campanellafishing.shogic.xyz/*
@@ -16860,6 +16853,7 @@
 *://mapimark.com/*
 *://mappifyerapp.com/*
 *://maqamemansoor.com/*
+*://mar-labo.com/*
 *://marathonman-europe.com/*
 *://mariaugusto.com/*
 *://mariayuri28.com/*
@@ -17877,6 +17871,7 @@
 *://note.com/4jinooyaji/*
 *://note.com/50it/*
 *://note.com/5656remon5656/*
+*://note.com/777_001/*
 *://note.com/88gold88/*
 *://note.com/accha123/*
 *://note.com/acehaoreda11/n/n5b5727be25e2*
@@ -17930,6 +17925,7 @@
 *://note.com/bright_llama373/*
 *://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*
+*://note.com/camera_lab/*
 *://note.com/carreer/*
 *://note.com/cc21257/*
 *://note.com/chaen_channel/*
@@ -17975,6 +17971,7 @@
 *://note.com/dream1004*
 *://note.com/drneurosur/*
 *://note.com/duppyclub/*
+*://note.com/ebe0911/*
 *://note.com/egao_no_care_nao/*
 *://note.com/ekokosu/*
 *://note.com/elimaga/*
@@ -18275,6 +18272,7 @@
 *://note.com/otsuki_days/*
 *://note.com/outdoorlifestyle/*
 *://note.com/oyvn/*
+*://note.com/p_bunseki/*
 *://note.com/parsonalsecret/*
 *://note.com/paul1211/*
 *://note.com/pc_masami/*
@@ -18456,6 +18454,7 @@
 *://note.com/watechexplorers/*
 *://note.com/webcommu_sub/*
 *://note.com/wise_liger7796/*
+*://note.com/wise_moose8648/*
 *://note.com/workwithai/*
 *://note.com/writer_syota/*
 *://note.com/xminami/*
@@ -20120,6 +20119,7 @@
 *://shortcake.carepro.co.jp/*
 *://shorturl.biz.weibo.cn/*
 *://shoshinshanoyakata.com/*
+*://shouhinlab.fun/*
 *://shounenki.jp/*
 *://shouwano-idol.com/*
 *://showa-g.org/*
