@@ -19763,7 +19763,6 @@
 *://sa-ta-mi.com/*
 *://sa.rdy.jp/*
 *://saabu.ba-koshi.com/*
-*://sabucaru.com/*
 *://saburokuday.jp/*
 *://sabusuku.net/*
 *://sac-a-main.org/*
@@ -24381,7 +24380,6 @@
 *://z-z.jp/*
 *://z.ksmlc.cn/*
 *://z56.nextguest.app/*
-*://zaichan-blog.com/*
 *://zaintech.co.id/*
 *://zaitakusyufu.net/*
 *://zakeru.com/*
