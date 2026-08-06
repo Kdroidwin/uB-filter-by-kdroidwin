@@ -3,6 +3,8 @@
 *://note.com/wise_moose8648/*
 *://camera.shouhinlab.fun/*
 *://shouhinlab.fun/*
+*://*.shouhinlab.fun/*
+*://mar-labo.com/*
 *://note.com/p_bunseki/*
 *://note.com/camera_lab/*
 *://*.000webhostapp.com/*
