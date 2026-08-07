@@ -90,12 +90,12 @@ jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyphone"])
 jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyPhone"])
 jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyphone"])
 jp.mercari.com##html:has(meta[name="description"][content*="Antispyphone"])
+jp.mercari.com##html:has(meta[name="description"][content*="antispyphone"])
 jp.mercari.com##html:has(meta[name="description"][content*="GrapheneOS"])
 jp.mercari.com##html:has(meta[name="description"][content*="Grapheneos"])
 jp.mercari.com##html:has(meta[name="description"][content*="GrapheneOS"])
 jp.mercari.com##html:has(meta[name="description"][content*="Grapheneos"])
 jp.mercari.com##html:has(meta[name="description"][content*="GRAPHENEOS"])
-jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイ"])
 jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイフォン"])
 jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイフォン"])
 jp.mercari.com##html:has(meta[name="description"][content*="グラフェンOS"])
@@ -9189,6 +9189,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||romance-lab.jp^$document
 ||romeoandrosaline.com^$document
 ||romhacking.ru^$document
+||romptn.com^$document
 ||romsdroid.com^$document
 ||romsns.com^$document
 ||ronherman.shop^$document
@@ -11311,6 +11312,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wakamesan-blog.com^$document
 ||wakara.co.jp^$document
 ||wakarannavi.com^$document
+||wakariyasukuosieruyo.blog^$document
 ||wakasiru.com^$document
 ||wakatte-tv.net^$document
 ||wakayama-johall.com^$document
@@ -14039,6 +14041,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||z-library.wiki^$document
 ||z-z.jp^$document
 ||z.ksmlc.cn^$document
+||z3bd4217-stylesheet.hachepaille.fr^$document
 ||z56.nextguest.app^$document
 ||za.com^$document,domain=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com
 ||zainale.net^$document
