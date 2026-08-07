@@ -2,6 +2,34 @@
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
+jp.mercari.com##html:has(meta[name="description"][content*="GrapheneOS"])
+jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイフォン"])
+jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyPhone"])
+jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
+jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyphone"])
+jp.mercari.com##html:has(meta[name="description"][content*="Grapheneos"])
+jp.mercari.com##html:has(meta[name="description"][content*="GrapheneOS"])
+jp.mercari.com##html:has(meta[name="description"][content*="Grapheneos"])
+jp.mercari.com##html:has(meta[name="description"][content*="GRAPHENEOS"])
+jp.mercari.com##html:has(meta[name="description"][content*="グラフェンOS"])
+jp.mercari.com##html:has(meta[name="description"][content*="グラフェンオーエス"])
+jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイフォン"])
+jp.mercari.com##html:has(meta[name="description"][content*="アンチスパイ"])
+jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyPhone"])
+jp.mercari.com##html:has(meta[name="description"][content*="AntiSpyphone"])
+jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
+jp.mercari.com##html:has(meta[name="description"][content*="AntiSpy Phone"])
+jp.mercari.com##html:has(meta[name="description"][content*="Anti-spy phone"])
+jp.mercari.com##html:has(meta[name="description"][content*="Antispyphone"])
+jp.mercari.com##html:has(meta[name="description"][content*="プライバシーフォン"])
+jp.mercari.com##html:has(meta[name="description"][content*="写真のみ"])
+jp.mercari.com##html:has(meta[name="description"][content*="写真だけ"])
+jp.mercari.com##html:has(meta[name="description"][content*="画像のみ"])
+jp.mercari.com##html:has(meta[name="description"][content*="画像だけ"])
+jp.mercari.com##html:has(meta[name="description"][content*="写真をお送りします"])
+jp.mercari.com##html:has(meta[name="description"][content*="画像をお送りします"])
+jp.mercari.com##html:has(meta[name="description"][content*="写真のみの出品"])
+jp.mercari.com##html:has(meta[name="description"][content*="画像のみの出品"])
 .*.cdn.digitaloceanspaces.com$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
