@@ -1,9 +1,3 @@
-*://magical.tokyo/*
-*://hitomin.dis-1983.jp/*
-*://*.dis-1983.jp/*
-*://dis-1983.jp/*
-*://doujinanalytica.com/*
-*://juno-beauty-pe-form.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -2993,6 +2987,7 @@
 *://*.developreference.com/*
 *://*.diagnoseo.com/*
 *://*.digirise.ai/*
+*://*.dis-1983.jp/*
 *://*.divxland.org/*
 *://*.dk/comment.php?*
 *://*.dmm-mania.com/*
@@ -13142,6 +13137,7 @@
 *://dikegllelove.com/*
 *://diomandeshoes.com/*
 *://direct-app.onelink.me/*
+*://dis-1983.jp/*
 *://disability-talent.com/*
 *://disad.engyate.run/*
 *://disagreeable.biz/*
@@ -13325,6 +13321,7 @@
 *://doujin.yogamotto.com/*
 *://doujin2.makianosaihu.com/*
 *://doujin2026.wew.jp/*
+*://doujinanalytica.com/*
 *://doujinbank.com/*
 *://doujincco-ero.com/*
 *://doujinclub.net/*
@@ -15112,6 +15109,7 @@
 *://hitomilla.com/*
 *://hitomiman-momon.net/*
 *://hitomimangaraw.wew.jp/*
+*://hitomin.dis-1983.jp/*
 *://hitomin.wpx.jp/*
 *://hitomiraw-manga01.com/*
 *://hitomisiri.com/*
@@ -15764,6 +15762,7 @@
 *://junchandream.com/*
 *://juncook.com/*
 *://junkfreeemail.com/*
+*://juno-beauty-pe-form.com/*
 *://junpei-sugiyama.com/*
 *://junrin.xyz/*
 *://jupontyi.jettysuites.com/*
@@ -16685,6 +16684,7 @@
 *://magazinehack.com/*
 *://magi.camp/*
 *://magic-panda.com/*
+*://magical.tokyo/*
 *://magicwands1.com/*
 *://magisk-manager.malavida.com/*
 *://magisk-manager.softonic.ru/*

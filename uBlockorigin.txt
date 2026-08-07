@@ -2475,6 +2475,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dikegllelove.com^$document
 ||diomandeshoes.com^$document
 ||direct-app.onelink.me^$document
+||dis-1983.jp^$document
 ||disability-talent.com^$document
 ||disad.engyate.run^$document
 ||disagreeable.biz^$document
@@ -2658,6 +2659,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.yogamotto.com^$document
 ||doujin2.makianosaihu.com^$document
 ||doujin2026.wew.jp^$document
+||doujinanalytica.com^$document
 ||doujinbank.com^$document
 ||doujincco-ero.com^$document
 ||doujinclub.net^$document
@@ -4461,6 +4463,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomilla.com^$document
 ||hitomiman-momon.net^$document
 ||hitomimangaraw.wew.jp^$document
+||hitomin.dis-1983.jp^$document
 ||hitomin.wpx.jp^$document
 ||hitomiraw-manga01.com^$document
 ||hitomisiri.com^$document
@@ -5127,6 +5130,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||junchandream.com^$document
 ||juncook.com^$document
 ||junkfreeemail.com^$document
+||juno-beauty-pe-form.com^$document
 ||junpei-sugiyama.com^$document
 ||junrin.xyz^$document
 ||jupontyi.jettysuites.com^$document
@@ -6063,6 +6067,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||magazinehack.com^$document
 ||magi.camp^$document
 ||magic-panda.com^$document
+||magical.tokyo^$document
 ||magicwands1.com^$document
 ||magisk-manager.malavida.com^$document
 ||magisk-manager.softonic.ru^$document
