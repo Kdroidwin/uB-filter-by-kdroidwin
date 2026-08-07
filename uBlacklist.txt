@@ -1,10 +1,3 @@
-*://alicemama.kocorono-net.com/*
-*://www.kocorono-net.com/*
-*://kagurazakamiracle.com/*
-*://note.com/rutasotorui/*
-*://note.com/teruko_jmyg/*
-*://ameblo.jp/usaginobike/*
-*://missav58.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11393,6 +11386,7 @@
 *://alharbistores.com/*
 *://alhibah-plus.com/*
 *://ali2.ru/*
+*://alicemama.kocorono-net.com/*
 *://alicepatinvestments.com/*
 *://alife-lalala.com/*
 *://alisonn.blog106.fc2.com/*
@@ -11499,6 +11493,7 @@
 *://ameblo.jp/teihenmachi/*
 *://ameblo.jp/unarigoe/*
 *://ameblo.jp/uriutsu-123/*
+*://ameblo.jp/usaginobike/*
 *://ameblo.jp/viwizardjp/*
 *://ameblo.jp/wakukoro5656/*
 *://ameblo.jp/windows-11-pc/*
@@ -15814,6 +15809,7 @@
 *://kagelife.com/*
 *://kagerou-kazoku.com/*
 *://kagoshima2023-sailing.com/*
+*://kagurazakamiracle.com/*
 *://kaguyasama-movie.com/*
 *://kaigaiceleb.com/*
 *://kaigaijyunbi.xsrv.jp/*
@@ -17198,6 +17194,7 @@
 *://missav39.jp/*
 *://missav53.jp/*
 *://missav55.jp/*
+*://missav58.jp/*
 *://missavtv.com/*
 *://missfanzaav.com/*
 *://misuteri-enblog.com/*
@@ -18364,6 +18361,7 @@
 *://note.com/rosy_puma879/*
 *://note.com/royal_hawk3525/*
 *://note.com/ruria_aria88/*
+*://note.com/rutasotorui/*
 *://note.com/ryoutakaaan/*
 *://note.com/ryuhat/*
 *://note.com/ryuushin/*
@@ -18443,6 +18441,7 @@
 *://note.com/techpapa_lab/*
 *://note.com/tenorsharejp/*
 *://note.com/teraweb/*
+*://note.com/teruko_jmyg/*
 *://note.com/tetsunain_game/*
 *://note.com/thase70/*
 *://note.com/thegadget/*
@@ -22932,6 +22931,7 @@
 *://www.kitchensbyeileen.com/*
 *://www.klsuperstore.com/*
 *://www.kobe-studyabroad.jp/*
+*://www.kocorono-net.com/*
 *://www.kodakalaris.cn/*
 *://www.kodakaranoyu.jp/*
 *://www.kokajin-wedding.com/*

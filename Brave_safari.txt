@@ -718,6 +718,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||alharbistores.com^$document
 ||alhibah-plus.com^$document
 ||ali2.ru^$document
+||alicemama.kocorono-net.com^$document
 ||alicepatinvestments.com^$document
 ||aliexpress.ru^$document
 ||alife-lalala.com^$document
@@ -825,6 +826,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/teihenmachi^$document
 ||ameblo.jp/unarigoe^$document
 ||ameblo.jp/uriutsu-123^$document
+||ameblo.jp/usaginobike^$document
 ||ameblo.jp/viwizardjp^$document
 ||ameblo.jp/wakukoro5656^$document
 ||ameblo.jp/windows-11-pc^$document
@@ -5203,6 +5205,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kagelife.com^$document
 ||kagerou-kazoku.com^$document
 ||kagoshima2023-sailing.com^$document
+||kagurazakamiracle.com^$document
 ||kaguyasama-movie.com^$document
 ||kaigaiceleb.com^$document
 ||kaigaijyunbi.xsrv.jp^$document
@@ -6614,6 +6617,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav39.jp^$document
 ||missav53.jp^$document
 ||missav55.jp^$document
+||missav58.jp^$document
 ||missavtv.com^$document
 ||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
@@ -7794,6 +7798,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/rosy_puma879^$document
 ||note.com/royal_hawk3525^$document
 ||note.com/ruria_aria88^$document
+||note.com/rutasotorui^$document
 ||note.com/ryoutakaaan^$document
 ||note.com/ryuhat^$document
 ||note.com/ryuushin^$document
@@ -7873,6 +7878,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/techpapa_lab^$document
 ||note.com/tenorsharejp^$document
 ||note.com/teraweb^$document
+||note.com/teruko_jmyg^$document
 ||note.com/tetsunain_game^$document
 ||note.com/thase70^$document
 ||note.com/thegadget^$document
@@ -12538,6 +12544,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kitchensbyeileen.com^$document
 ||www.klsuperstore.com^$document
 ||www.kobe-studyabroad.jp^$document
+||www.kocorono-net.com^$document
 ||www.kodakalaris.cn^$document
 ||www.kodakaranoyu.jp^$document
 ||www.kokajin-wedding.com^$document
