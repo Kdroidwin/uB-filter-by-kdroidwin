@@ -1,6 +1,3 @@
-*://note.com/yamada_simple/*
-*://note.com/umayado_ai/*
-*://note.com/mute_donkey754/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18245,6 +18242,7 @@
 *://note.com/muratooo/*
 *://note.com/muryoudouga*
 *://note.com/musk_music/*
+*://note.com/mute_donkey754/*
 *://note.com/my_creator2/*
 *://note.com/myluck/*
 *://note.com/mymonolab/*
@@ -18467,6 +18465,7 @@
 *://note.com/trivia_kingdom/*
 *://note.com/tyajinn/*
 *://note.com/uber_tantan02*
+*://note.com/umayado_ai/*
 *://note.com/unikoukokun/*
 *://note.com/unique_chimp63/*
 *://note.com/unique_vole4285/*
@@ -18492,6 +18491,7 @@
 *://note.com/writer_syota/*
 *://note.com/xminami/*
 *://note.com/yamachan_5lc/*
+*://note.com/yamada_simple/*
 *://note.com/yamaguchi3forza*
 *://note.com/yamedoki4/*
 *://note.com/yarunara_ima/*
