@@ -1,17 +1,3 @@
-*://ghostshopjp.com/*
-*://note.com/ghostshopjp3553/*
-*://doujin.phototree.jp/*
-*://phototree.jp/*
-*://*.phototree.jp/*
-*://eroshort.com/*
-*://paris-saint-germain-ar.com/*
-*://adult-dojin-manga.com/*
-*://rawhentai.wpx.jp/*
-*://yutoku-ph.jp/*
-*://sanpuruya.jp/*
-*://private-note.jp/*
-*://myuryoudoujinnsennbaisokuhou.com/*
-*://raw-momonga04.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -7832,6 +7818,7 @@
 *://*.oz-bread.com/*
 *://*.ozawaren.com/*
 *://*.paridom.wiki/*
+*://*.phototree.jp/*
 *://*.pl/?*.html
 *://*.pl/?a=0
 *://*.pl/?a=0*
@@ -11240,6 +11227,7 @@
 *://adspamblock.com/*
 *://aduaff202501.wpx.jp/*
 *://adult-ai.net/*
+*://adult-dojin-manga.com/*
 *://adult-hkk.net/*
 *://adult-manga-dojin.com/*
 *://adult-manga-japan.com/*
@@ -13329,6 +13317,7 @@
 *://doujin.honmadekka-channel.com/*
 *://doujin.makianosaihu.com/*
 *://doujin.moshiero.cfbx.jp/*
+*://doujin.phototree.jp/*
 *://doujin.s-resist.jp/*
 *://doujin.shidashi-chiba.jp/*
 *://doujin.studio-yh.jp/*
@@ -13815,6 +13804,7 @@
 *://eronomori.com/*
 *://eropapa0808.work/*
 *://eroring.com/*
+*://eroshort.com/*
 *://erosico.com/*
 *://erosukebe-magazine.com/*
 *://erosummary.2chblog.jp/*
@@ -14482,6 +14472,7 @@
 *://ghaderipro.com/*
 *://ghib-mori.com/*
 *://ghostphone.co/*
+*://ghostshopjp.com/*
 *://gi-o.com/*
 *://gifslangen.com/*
 *://gift-mecrypto.io/*
@@ -17500,6 +17491,7 @@
 *://myspace-player.com/*
 *://mysticabyss.jp/*
 *://mytrend.info/*
+*://myuryoudoujinnsennbaisokuhou.com/*
 *://n-trend.com/*
 *://n-yu.com/*
 *://n2-ch.com/*
@@ -18045,6 +18037,7 @@
 *://note.com/geoscience16/*
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
+*://note.com/ghostshopjp3553/*
 *://note.com/gifted_dietes453/*
 *://note.com/gifted_ixora193/*
 *://note.com/gifted_panda2923/*
@@ -18972,6 +18965,7 @@
 *://pararazom.com/*
 *://parcomun.org/*
 *://paridom.wiki/*
+*://paris-saint-germain-ar.com/*
 *://parkourtokyo.com/*
 *://partner-gitlab.mioffice.cn/*
 *://partner.kkday.me/*
@@ -19054,6 +19048,7 @@
 *://phoenixglass.co.th/*
 *://phortaub.com/*
 *://photo-app.online/*
+*://phototree.jp/*
 *://php.rinet.ru/*
 *://phpa.me/*
 *://physicalsole.jp/*
@@ -19271,6 +19266,7 @@
 *://prism-life.com/*
 *://privacyinthenetwork.com/*
 *://privacyphoneaustralia.com.au/*
+*://private-note.jp/*
 *://privatevpn.com/*
 *://pro-woodfactory.com/*
 *://product.info/*
@@ -19466,6 +19462,7 @@
 *://raw-momonga01.com/*
 *://raw-momonga02.com/*
 *://raw-momonga03.com/*
+*://raw-momonga04.com/*
 *://raw.45rina.com/*
 *://raw.dmm-mania.com/*
 *://raw.wpx.jp/*
@@ -19474,6 +19471,7 @@
 *://rawapk.com/*
 *://rawcomic.wew.jp/*
 *://rawdoujin.wew.jp/*
+*://rawhentai.wpx.jp/*
 *://rawmanga.jp/*
 *://rawmanga.wew.jp/*
 *://rawmanga.wpx.jp/*
@@ -19903,6 +19901,7 @@
 *://sanluisobispogasprices.com/*
 *://sanosemi.info/*
 *://sanpo19.jp/*
+*://sanpuruya.jp/*
 *://sanro.cc/*
 *://sanservhygiene.co.zw/*
 *://sansyuen.jp/*
@@ -24397,6 +24396,7 @@
 *://yuruyuru-max.com/*
 *://yusuke-blog.com/*
 *://yutapon-blog.com/*
+*://yutoku-ph.jp/*
 *://yuu-yuu-infonews.com/*
 *://yuu01.jp/*
 *://yuugafas.com/*

@@ -548,6 +548,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adspamblock.com^$document
 ||aduaff202501.wpx.jp^$document
 ||adult-ai.net^$document
+||adult-dojin-manga.com^$document
 ||adult-hkk.net^$document
 ||adult-manga-dojin.com^$document
 ||adult-manga-japan.com^$document
@@ -1779,7 +1780,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||buzzscope.net^$document
 ||buzztopick.jp^$document
 ||buzzwriteyear.com^$document
-||by^$document,domain=~ami.by|~kogda.by|~hoster.by|~edostavka.by|~dorors.by|~apte4ka.by|~belarusbank.by|~auto1.by|~avtoradio.by|~sosedi.by|~newgrodno.by|~mila.by|~praca.by|~niasvizh.by|~rikc.by|~autolight.by|~oz.by|~atriline.by|~ati.by|~energyexpo.by|~gsmu.by|~a1.by|~rozybel.by|~emall.by|~cherehapa.by|~kudapostupat.by|~hcdinamo.by|~procvetok.by|~pogoda.by|~stbank.by|~training.by|~av.by|~pinskdrev.by|~mak.by|~belpost.by|~armtek.by|~luxexpress.by|~nashaniva.by|~lesta.by|~autogrodno.by|~belgee.by|~brestcity.by|~ksk.by|~ems.by|~kartoteka.by|~markformelle.by|~glmkk.by|~cravt.by|~myclinic.by|~aks.by|~groshyk.by|~7745.by|~kapusta.by|~galanteya.by|~zubronok.by|~zap.by|~gdz.by|~zoobazar.by|~vanille.by|~evaclinic.by|~amihome.by|~rabota.by|~remzona.by|~evropochta.by|~belta.by|~diy.by|~bseu.by|~henderson.by|~talon.by|~alixpartners.by|~goldapple.by|~gemma.by|~vatican.by|~megatop.by|~sneakers.by|~7karat.by|~5element.by|~infoflot.by|~evroopt.by|~belmeta.by|~santaretail.by|~runin.by|~ozon.by|~cpmvd.by|~terranova.by|~megaplan.by|~pzz.by|~autodna.by|~sport5.by|~pm.by|~bntu.by|~drupal.by|~realt.onliner.by|~myfin.by|~slivki.by|~teztour.by|~sportedu.by|~marko.by|~pac.by|~imsha.by|~sport-tv.by|~bricoman.by|~shor.by|~lode.by|~vtb.by|~sb.by|~abw.by|~ely.by|~nces.by|~belavia.by|~ibank.belinvestbank.by|~auto.kufar.by|~tilda.by|~poundfit.by|~moduspark.by|~tem.by|~superresheba.by|~browser.yandex.by|~telegraf.by|~belapb.by|~vitebsk.rabota.by|~pdd.by|~tochka.by|~catalog.onliner.by|~order.talon.by|~msso.by|~bild-shop.by|~bsb.by|~microsoft.by|~domkrat.by|~tech.onliner.by|~momondo.by|~table.belavia.by|~tix.by|~gomel.rabota.by|~salon.av.by|~xerox.by|~mtbank.by|~bitrix24.by|~btrans.by|~fix-price.by|~alcon.by|~lamoda.by|~parts.av.by|~minsktrans.by|~calc.evropochta.by|~realt.by|~less-shop.by|~moto.av.by|~air-shop.by|~booking.belavia.by|~transfermarkt.by|~gov.by|~edu.by|~ac.by
+||by^$document,domain=~ami.by|~kogda.by|~hoster.by|~edostavka.by|~dorors.by|~apte4ka.by|~belarusbank.by|~auto1.by|~avtoradio.by|~sosedi.by|~newgrodno.by|~mila.by|~praca.by|~niasvizh.by|~rikc.by|~autolight.by|~oz.by|~atriline.by|~ati.by|~energyexpo.by|~gsmu.by|~a1.by|~rozybel.by|~emall.by|~cherehapa.by|~kudapostupat.by|~hcdinamo.by|~procvetok.by|~pogoda.by|~stbank.by|~training.by|~av.by|~pinskdrev.by|~mak.by|~belpost.by|~armtek.by|~luxexpress.by|~nashaniva.by|~lesta.by|~autogrodno.by|~belgee.by|~brestcity.by|~ksk.by|~ems.by|~kartoteka.by|~markformelle.by|~glmkk.by|~cravt.by|~myclinic.by|~aks.by|~groshyk.by|~7745.by|~kapusta.by|~galanteya.by|~zubronok.by|~zap.by|~gdz.by|~zoobazar.by|~vanille.by|~evaclinic.by|~amihome.by|~rabota.by|~remzona.by|~evropochta.by|~belta.by|~diy.by|~bseu.by|~henderson.by|~talon.by|~alixpartners.by|~goldapple.by|~gemma.by|~vatican.by|~megatop.by|~sneakers.by|~7karat.by|~5element.by|~infoflot.by|~evroopt.by|~belmeta.by|~santaretail.by|~runin.by|~ozon.by|~cpmvd.by|~terranova.by|~megaplan.by|~pzz.by|~autodna.by|~sport5.by|~pm.by|~bntu.by|~drupal.by|~realt.onliner.by|~myfin.by|~slivki.by|~teztour.by|~sportedu.by|~marko.by|~pac.by|~imsha.by|~sport-tv.by|~bricoman.by|~shor.by|~lode.by|~vtb.by|~sb.by|~abw.by|~ely.by|~nces.by|~belavia.by|~ibank.belinvestbank.by|~auto.kufar.by|~tilda.by|~poundfit.by|~moduspark.by|~tem.by|~superresheba.by|~browser.yandex.by|~telegraf.by|~belapb.by|~vitebsk.rabota.by|~pdd.by|~tochka.by|~catalog.onliner.by|~order.talon.by|~msso.by|~bild-shop.by|~bsb.by|~microsoft.by|~domkrat.by|~tech.onliner.by|~momondo.by|~table.belavia.by|~tix.by|~gomel.rabota.by|~salon.av.by|~xerox.by|~mtbank.by|~bitrix24.by|~btrans.by|~fix-price.by|~alcon.by|~lamoda.by|~parts.av.by|~minsktrans.by|~calc.evropochta.by|~realt.by|~less-shop.by|~moto.av.by|~air-shop.by|~booking.belavia.by|~transfermarkt.by|~gov.by|~edu.by|~ac.by|~frdl.by
 ||byodoji.live^$document
 ||byp.yongjoo.za.com^$document
 ||byqz.uzvkniid.love^$document
@@ -2681,6 +2682,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.honmadekka-channel.com^$document
 ||doujin.makianosaihu.com^$document
 ||doujin.moshiero.cfbx.jp^$document
+||doujin.phototree.jp^$document
 ||doujin.s-resist.jp^$document
 ||doujin.shidashi-chiba.jp^$document
 ||doujin.studio-yh.jp^$document
@@ -3170,6 +3172,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eronomori.com^$document
 ||eropapa0808.work^$document
 ||eroring.com^$document
+||eroshort.com^$document
 ||erosico.com^$document
 ||erosukebe-magazine.com^$document
 ||erosummary.2chblog.jp^$document
@@ -3846,6 +3849,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ghaderipro.com^$document
 ||ghib-mori.com^$document
 ||ghostphone.co^$document
+||ghostshopjp.com^$document
 ||gi-o.com^$document
 ||gifslangen.com^$document
 ||gift-mecrypto.io^$document
@@ -6913,6 +6917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||myspace-player.com^$document
 ||mysticabyss.jp^$document
 ||mytrend.info^$document
+||myuryoudoujinnsennbaisokuhou.com^$document
 ||myxstalk.lol^$document
 ||n-trend.com^$document
 ||n-yu.com^$document
@@ -7469,6 +7474,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/geoscience16^$document
 ||note.com/getgadgetgot^$document
 ||note.com/getpoint_frommno^$document
+||note.com/ghostshopjp3553^$document
 ||note.com/gifted_dietes453^$document
 ||note.com/gifted_ixora193^$document
 ||note.com/gifted_panda2923^$document
@@ -8406,6 +8412,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pararazom.com^$document
 ||parcomun.org^$document
 ||paridom.wiki^$document
+||paris-saint-germain-ar.com^$document
 ||parkourtokyo.com^$document
 ||partner-gitlab.mioffice.cn^$document
 ||partner.kkday.me^$document
@@ -8494,6 +8501,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||phoenixglass.co.th^$document
 ||phortaub.com^$document
 ||photo-app.online^$document
+||phototree.jp^$document
 ||php.rinet.ru^$document
 ||phpa.me^$document
 ||physicalsole.jp^$document
@@ -8700,6 +8708,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||prism-life.com^$document
 ||privacyinthenetwork.com^$document
 ||privacyphoneaustralia.com.au^$document
+||private-note.jp^$document
 ||privatevpn.com^$document
 ||pro-woodfactory.com^$document
 ||product.info^$document
@@ -8920,6 +8929,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||raw-momonga01.com^$document
 ||raw-momonga02.com^$document
 ||raw-momonga03.com^$document
+||raw-momonga04.com^$document
 ||raw.45rina.com^$document
 ||raw.dmm-mania.com^$document
 ||raw.githubusercontent.com/*/*KMS*auto*$all
@@ -8931,6 +8941,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rawapk.com^$document
 ||rawcomic.wew.jp^$document
 ||rawdoujin.wew.jp^$document
+||rawhentai.wpx.jp^$document
 ||rawmanga.jp^$document
 ||rawmanga.wew.jp^$document
 ||rawmanga.wpx.jp^$document
@@ -9383,6 +9394,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sanluisobispogasprices.com^$document
 ||sanosemi.info^$document
 ||sanpo19.jp^$document
+||sanpuruya.jp^$document
 ||sanro.cc^$document
 ||sanservhygiene.co.zw^$document
 ||sansyuen.jp^$document
@@ -13992,6 +14004,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuruyuru-max.com^$document
 ||yusuke-blog.com^$document
 ||yutapon-blog.com^$document
+||yutoku-ph.jp^$document
 ||yuu-yuu-infonews.com^$document
 ||yuu01.jp^$document
 ||yuugafas.com^$document
