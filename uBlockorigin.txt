@@ -1571,7 +1571,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blog.livedoor.jp/zzcj^$document
 ||blog.lorentzca.me^$document
 ||blog.myplace-events.com^$document
-||blog.serverworks.co.jp^$document
 ||blog.triedge-lab.com^$document
 ||blogdemoai.com^$document
 ||blogjuicy.com^$document
@@ -2202,7 +2201,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||conedvirtual.com^$document
 ||confidencesteelbuilding.com^$document
 ||confidenow.com^$document
-||connect.panasonic.cn^$document
 ||connectedremag.com^$document
 ||conpapelesenusa.com^$document
 ||conponx2.com^$document
@@ -2460,7 +2458,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||deux.ero-jungle.cfbx.jp^$document
 ||dev-jpbl.emtg.xyz^$document
 ||dev.bimm.com^$document
-||device.panasonic.cn^$document
 ||deyar-sa.com^$document
 ||dftvtrb.bar^$document
 ||dfzmnriie.heidekevin.de^$document
@@ -4782,7 +4779,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||index.taimiah.org^$document
 ||indiespark.top^$document
 ||indoorzoku.com^$document
-||industrial.panasonic.cn^$document
 ||industriallicence.com^$document
 ||industrialwastecleanup.com^$document
 ||inest-inc.co.jp^$document
