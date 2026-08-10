@@ -12223,7 +12223,6 @@
 *://blog.livedoor.jp/zzcj/*
 *://blog.lorentzca.me/*
 *://blog.myplace-events.com/*
-*://blog.serverworks.co.jp/*
 *://blog.triedge-lab.com/*
 *://blogdemoai.com/*
 *://blogjuicy.com/*
@@ -12840,7 +12839,6 @@
 *://conedvirtual.com/*
 *://confidencesteelbuilding.com/*
 *://confidenow.com/*
-*://connect.panasonic.cn/*
 *://connectedremag.com/*
 *://conpapelesenusa.com/*
 *://conponx2.com/*
@@ -13096,7 +13094,6 @@
 *://deux.ero-jungle.cfbx.jp/*
 *://dev-jpbl.emtg.xyz/*
 *://dev.bimm.com/*
-*://device.panasonic.cn/*
 *://deyar-sa.com/*
 *://dftvtrb.bar/*
 *://dfzmnriie.heidekevin.de/*
@@ -15393,7 +15390,6 @@
 *://index.taimiah.org/*
 *://indiespark.top/*
 *://indoorzoku.com/*
-*://industrial.panasonic.cn/*
 *://industriallicence.com/*
 *://industrialwastecleanup.com/*
 *://inf.kimama2audio.com/*
