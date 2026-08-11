@@ -1,3 +1,13 @@
+*://r-gallery.jp/*
+*://dnscafe.jp/*
+*://juniorexpo2025.com/*
+*://expo2025-myaku-po.jp/*
+*://expo2025earthmart.jp/*
+*://www.expo2025-nakajima-attendant.jp/*
+*://expo2025-personalagent.com/*
+*://ww547.expo2025-personalagent.com/*
+*://expo2025earthmart-cast.jp/*
+*://clearsky-japan.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
