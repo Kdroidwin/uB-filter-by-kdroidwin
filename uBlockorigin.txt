@@ -918,6 +918,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||animepupiokun.doorblog.jp^$document
 ||animesoku.com^$document
 ||animetambouki.com^$document
+||animity.jp^$document
 ||animonogatari.com^$document
 ||anincline.com^$document
 ||anism.net^$document
@@ -1313,6 +1314,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||azukichi-trend.com^$document
 ||azukimama.com^$document
 ||azukisanchi.xsrv.jp^$document
+||azwvdq.wpx.jp^$document
 ||b-b-s.site^$document
 ||b-corsairs.bl.kuroco-img.app^$document
 ||b-short.link^$document
@@ -1633,6 +1635,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bokunotebook.com^$document
 ||bokuokun.com^$document
 ||bokusuk.com^$document
+||bokuto-watashi.com^$document
 ||bomberosvoluntariostequisquiapan.org^$document
 ||bonbabylon.stores.jp^$document
 ||bonblo.com^$document
@@ -1736,6 +1739,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||budgetworld.ru^$document
 ||budou-bowl.com^$document
 ||budurl.me^$document
+||bugdpt.com^$document
 ||buhidoh.blog.fc2.com^$document
 ||buibuidesu.jpn.org^$document
 ||bullbull11.com^$document
@@ -2167,6 +2171,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||comic.wew.jp^$document
 ||comic0706f.site^$document
 ||comic0801g.site^$document
+||comic0801m.site^$document
 ||comic0yen.com^$document
 ||comic1.lsv.jp^$document
 ||comic104.com^$document
@@ -3136,6 +3141,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-rainbow.com^$document
 ||eromanga-storage.jp^$document
 ||eromanga-vision.com^$document
+||eromanga-yomitai.com^$document
 ||eromanga-yomitai.work^$document
 ||eromanga-zone.com^$document
 ||eromanga-zukan.com^$document
@@ -3148,6 +3154,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga.regalo-net.jp^$document
 ||eromanga.syukujono-mori.com^$document
 ||eromanga.un-gluten.jp^$document
+||eromanga0725i.website^$document
 ||eromanga0728j.online^$document
 ||eromangagaga.wpx.jp^$document
 ||eromangajiru.com^$document
@@ -4489,6 +4496,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomibazz.com^$document
 ||hitomibook.com^$document
 ||hitomila.blog^$document
+||hitomila.click^$document
 ||hitomila.co.jp^$document
 ||hitomiland.com^$document
 ||hitomilla.com^$document
@@ -4502,6 +4510,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitorisanfan.com^$document
 ||hitoshitorendo.blog.ss-blog.jp^$document
 ||hitotumakansatu.net^$document
+||hitoyo-movie.jp^$document
 ||hitoyoshi-hp.jp^$document
 ||hitozuma-ntr-manga.com^$document
 ||hitozumanga.wpx.jp^$document
@@ -4623,6 +4632,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn^$document
 ||hu60.cn^$document
 ||huat.jp^$document
+||hub-luv.com^$document
 ||hub.apw.app^$document
 ||hub.docker.com^$document
 ||hueyacces.com^$document
@@ -8030,6 +8040,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||numaota.jp^$document
 ||numberthirteen.jp^$document
 ||nunnun-father.hatenablog.com^$document
+||nupu-comic.com^$document
 ||nurse-ms.com^$document
 ||nutrizionisti-online.com^$document
 ||nuxyanblog.com^$document
@@ -8902,6 +8913,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rank-king.jp^$document
 ||ranking.goo.ne.jp^$document
 ||rankingoo.net^$document
+||rankomi-eromanga.com^$document
 ||rankwa.com^$document
 ||rankwalker.com^$document
 ||ranky-ranking.net^$document

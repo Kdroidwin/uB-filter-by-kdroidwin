@@ -1,15 +1,3 @@
-*://animity.jp/*
-*://bokuto-watashi.com/*
-*://eromanga-yomitai.com/*
-*://hitoyo-movie.jp/*
-*://hub-luv.com/*
-*://rankomi-eromanga.com/*
-*://comic0801m.site/*
-*://nupu-comic.com/*
-*://eromanga0725i.website/*
-*://bugdpt.com/*
-*://azwvdq.wpx.jp/*
-*://hitomila.click/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11596,6 +11584,7 @@
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
 *://animetambouki.com/*
+*://animity.jp/*
 *://animonogatari.com/*
 *://anincline.com/*
 *://anism.net/*
@@ -11979,6 +11968,7 @@
 *://azukichi-trend.com/*
 *://azukimama.com/*
 *://azukisanchi.xsrv.jp/*
+*://azwvdq.wpx.jp/*
 *://b-b-s.site/*
 *://b-corsairs.bl.kuroco-img.app/*
 *://b-short.link/*
@@ -12297,6 +12287,7 @@
 *://bokunotebook.com/*
 *://bokuokun.com/*
 *://bokusuk.com/*
+*://bokuto-watashi.com/*
 *://bomberosvoluntariostequisquiapan.org/*
 *://bonbabylon.stores.jp/*
 *://bonblo.com/*
@@ -12397,6 +12388,7 @@
 *://budgetworld.ru/*
 *://budou-bowl.com/*
 *://budurl.me/*
+*://bugdpt.com/*
 *://buhidoh.blog.fc2.com/*
 *://buibuidesu.jpn.org/*
 *://bullbull11.com/*
@@ -12816,6 +12808,7 @@
 *://comic.wew.jp/*
 *://comic0706f.site/*
 *://comic0801g.site/*
+*://comic0801m.site/*
 *://comic0yen.com/*
 *://comic1.lsv.jp/*
 *://comic104.com/*
@@ -13781,6 +13774,7 @@
 *://eromanga-rainbow.com/*
 *://eromanga-storage.jp/*
 *://eromanga-vision.com/*
+*://eromanga-yomitai.com/*
 *://eromanga-yomitai.work/*
 *://eromanga-zone.com/*
 *://eromanga-zukan.com/*
@@ -13793,6 +13787,7 @@
 *://eromanga.regalo-net.jp/*
 *://eromanga.syukujono-mori.com/*
 *://eromanga.un-gluten.jp/*
+*://eromanga0725i.website/*
 *://eromanga0728j.online/*
 *://eromangagaga.wpx.jp/*
 *://eromangajiru.com/*
@@ -15120,6 +15115,7 @@
 *://hitomibazz.com/*
 *://hitomibook.com/*
 *://hitomila.blog/*
+*://hitomila.click/*
 *://hitomila.co.jp/*
 *://hitomiland.com/*
 *://hitomilla.com/*
@@ -15133,6 +15129,7 @@
 *://hitorisanfan.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hitotumakansatu.net/*
+*://hitoyo-movie.jp/*
 *://hitoyoshi-hp.jp/*
 *://hitozuma-ntr-manga.com/*
 *://hitozumanga.wpx.jp/*
@@ -15253,6 +15250,7 @@
 *://https--www--nihonkiin--or--jp.proxy.xuyi.gov.cn/*
 *://https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn/*
 *://hu60.cn/*
+*://hub-luv.com/*
 *://hub.apw.app/*
 *://hub.docker.com/*
 *://hueyacces.com/*
@@ -18606,6 +18604,7 @@
 *://numaota.jp/*
 *://numberthirteen.jp/*
 *://nunnun-father.hatenablog.com/*
+*://nupu-comic.com/*
 *://nurse-ms.com/*
 *://nutrizionisti-online.com/*
 *://nuxyanblog.com/*
@@ -19447,6 +19446,7 @@
 *://rank-king.jp/*
 *://ranking.goo.ne.jp/*
 *://rankingoo.net/*
+*://rankomi-eromanga.com/*
 *://rankwa.com/*
 *://rankwalker.com/*
 *://ranky-ranking.net/*
