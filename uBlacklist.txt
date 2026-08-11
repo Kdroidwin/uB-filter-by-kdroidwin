@@ -1,3 +1,7 @@
+*://kakakutenka-nagoya.jp/*
+*://kaomai-shouhinken.com/*
+*://aichi-nagoya-startups.jp/*
+*://notten-miyazaki.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
