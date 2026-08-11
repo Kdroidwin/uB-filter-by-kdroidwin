@@ -621,6 +621,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aiboku-com.vercel.app^$document
 ||aibus.co.uk^$document
 ||aichansblog.com^$document
+||aichi-nagoya-startups.jp^$document
 ||aichi-sports-kenren.jp^$document
 ||aichi-waza.jp^$document
 ||aichiya.jp^$document
@@ -5242,6 +5243,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kaizoku-movie.jp^$document
 ||kaji-amehare.com^$document
 ||kajjfawjagr.lfhfdfiehgg.com^$document
+||kakakutenka-nagoya.jp^$document
 ||kakegawacastle30.jp^$document
 ||kakeizunotobira.denshishosekidaio.com^$document
 ||kakusa.info^$document
@@ -5283,6 +5285,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kantaiki0219.com^$document
 ||kantan-douga.site^$document
 ||kanyako.com^$document
+||kaomai-shouhinken.com^$document
 ||kaonsb9v.virtual-na.org^$document
 ||kaori-happiness.jp^$document
 ||kaoriblog0808.com^$document
@@ -7990,6 +7993,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||notebookers.jp^$document
 ||notepm.jp^$document
 ||notsu08.com^$document
+||notten-miyazaki.jp^$document
 ||noudoofees.net^$document
 ||nougaku.saloon.jp^$document
 ||noureldin-lawfirm.com^$document

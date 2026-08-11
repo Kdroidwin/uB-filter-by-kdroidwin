@@ -1,7 +1,3 @@
-*://kakakutenka-nagoya.jp/*
-*://kaomai-shouhinken.com/*
-*://aichi-nagoya-startups.jp/*
-*://notten-miyazaki.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11303,6 +11299,7 @@
 *://aiboku-com.vercel.app/*
 *://aibus.co.uk/*
 *://aichansblog.com/*
+*://aichi-nagoya-startups.jp/*
 *://aichi-sports-kenren.jp/*
 *://aichi-waza.jp/*
 *://aichiya.jp/*
@@ -15851,6 +15848,7 @@
 *://kaizoku-movie.jp/*
 *://kaji-amehare.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
+*://kakakutenka-nagoya.jp/*
 *://kakegawacastle30.jp/*
 *://kakeizunotobira.denshishosekidaio.com/*
 *://kakusa.info/*
@@ -15890,6 +15888,7 @@
 *://kantaiki0219.com/*
 *://kantan-douga.site/*
 *://kanyako.com/*
+*://kaomai-shouhinken.com/*
 *://kaonsb9v.virtual-na.org/*
 *://kaori-happiness.jp/*
 *://kaoriblog0808.com/*
@@ -18558,6 +18557,7 @@
 *://notebookers.jp/*
 *://notepm.jp/*
 *://notsu08.com/*
+*://notten-miyazaki.jp/*
 *://noudoofees.net/*
 *://nougaku.saloon.jp/*
 *://noureldin-lawfirm.com/*
