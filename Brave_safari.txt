@@ -2055,6 +2055,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||claulimabrand.com^$document
 ||clean-scene.ca^$document
 ||cleangreenspk.com^$document
+||clearsky-japan.jp^$document
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
 ||click.mail1.welcomebreak.online^$document
@@ -2559,6 +2560,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dmpatent.com^$document
 ||dnbrchnk.com^$document
 ||dnrhoee.com^$document
+||dnscafe.jp^$document
 ||dntworkshop.com/detail^$document
 ||do.hiraku946.jp^$document
 ||do2512.com^$document
@@ -3259,6 +3261,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||expanet.jp^$document
 ||exploring4ever.com^$document
 ||expo-chikyu.com^$document
+||expo2025-myaku-po.jp^$document
+||expo2025-personalagent.com^$document
+||expo2025earthmart-cast.jp^$document
+||expo2025earthmart.jp^$document
 ||expomap.ru^$document
 ||express-vpn.jp.uptodown.com^$document
 ||expressbox.nl^$document
@@ -5169,6 +5175,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||junabroadinfo.com^$document
 ||junchandream.com^$document
 ||juncook.com^$document
+||juniorexpo2025.com^$document
 ||junkfreeemail.com^$document
 ||juno-beauty-pe-form.com^$document
 ||junpei-sugiyama.com^$document
@@ -8864,6 +8871,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||qwq-min.com^$document
 ||qxlqgdx.studio^$document
 ||qy62ijjz2.benecicios-bancorrientes.online^$document
+||r-gallery.jp^$document
 ||r-portal.gmo-research.ai^$document
 ||r-press.su^$document
 ||r18-ai.com^$document
@@ -11553,6 +11561,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ww38.torrent-file.top^$document
 ||ww38.vanced.app^$document
 ||ww4.fmovies.co^$document
+||ww547.expo2025-personalagent.com^$document
 ||ww9.fitgirl-repacks.xyz^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
@@ -12145,6 +12154,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.excite.co.jp/news/article/Prtimes$document
 ||www.exogear.jp^$document
 ||www.expected-value.com^$document
+||www.expo2025-nakajima-attendant.jp^$document
 ||www.expomascotasyanimales.com^$document
 ||www.expressvpn.com^$document
 ||www.eyecontactoptician.com^$document

@@ -1,13 +1,3 @@
-*://r-gallery.jp/*
-*://dnscafe.jp/*
-*://juniorexpo2025.com/*
-*://expo2025-myaku-po.jp/*
-*://expo2025earthmart.jp/*
-*://www.expo2025-nakajima-attendant.jp/*
-*://expo2025-personalagent.com/*
-*://ww547.expo2025-personalagent.com/*
-*://expo2025earthmart-cast.jp/*
-*://clearsky-japan.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12709,6 +12699,7 @@
 *://claulimabrand.com/*
 *://clean-scene.ca/*
 *://cleangreenspk.com/*
+*://clearsky-japan.jp/*
 *://cleartechrecruiting.com/*
 *://clibomanager.com/*
 *://click.mail1.welcomebreak.online/*
@@ -13204,6 +13195,7 @@
 *://dmpatent.com/*
 *://dnbrchnk.com/*
 *://dnrhoee.com/*
+*://dnscafe.jp/*
 *://dntworkshop.com/detail/*
 *://do.hiraku946.jp/*
 *://do2512.com/*
@@ -13898,6 +13890,10 @@
 *://expanet.jp/*
 *://exploring4ever.com/*
 *://expo-chikyu.com/*
+*://expo2025-myaku-po.jp/*
+*://expo2025-personalagent.com/*
+*://expo2025earthmart-cast.jp/*
+*://expo2025earthmart.jp/*
 *://expomap.ru/*
 *://express-vpn.jp.uptodown.com/*
 *://expressbox.nl/*
@@ -15784,6 +15780,7 @@
 *://junabroadinfo.com/*
 *://junchandream.com/*
 *://juncook.com/*
+*://juniorexpo2025.com/*
 *://junkfreeemail.com/*
 *://juno-beauty-pe-form.com/*
 *://junpei-sugiyama.com/*
@@ -19408,6 +19405,7 @@
 *://qwq-min.com/*
 *://qxlqgdx.studio/*
 *://qy62ijjz2.benecicios-bancorrientes.online/*
+*://r-gallery.jp/*
 *://r-portal.gmo-research.ai/*
 *://r-press.su/*
 *://r18-ai.com/*
@@ -21955,6 +21953,7 @@
 *://ww38.torrent-file.top/*
 *://ww38.vanced.app/*
 *://ww4.fmovies.co/*
+*://ww547.expo2025-personalagent.com/*
 *://ww9.fitgirl-repacks.xyz/*
 *://wwrbbuk.bar/*
 *://wwv-fmovies.com/*
@@ -22547,6 +22546,7 @@
 *://www.excite.co.jp/news/article/Prtimes*
 *://www.exogear.jp/*
 *://www.expected-value.com/*
+*://www.expo2025-nakajima-attendant.jp/*
 *://www.expomascotasyanimales.com/*
 *://www.expressvpn.com/*
 *://www.eyecontactoptician.com/*
