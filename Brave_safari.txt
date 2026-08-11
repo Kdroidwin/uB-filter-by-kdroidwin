@@ -8865,6 +8865,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||quick-timez.com^$document
 ||quickget.jp^$document
 ||quitoko.com^$document
+||qulalimstella.com^$document
 ||qunque.work^$document
 ||quocardpay.onelink.me^$document
 ||qvdwmm1j.r.ap-northeast-1.awstrack.me^$document
