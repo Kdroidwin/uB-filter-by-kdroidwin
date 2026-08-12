@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 [購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt&title=uB-filter-by-kdroidwin)
 
 ```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
 <br>
 <br>
