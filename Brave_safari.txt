@@ -3938,6 +3938,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gitlab.wmstudio.su^$document
 ||giugno-12.com^$document
 ||give-a-shot2020.com^$document
+||give.vercel.app^$document
 ||gizmodo.com/download^$document
 ||gj.enova.top^$document
 ||gkfnyskp.run^$document
@@ -6591,6 +6592,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||minacle.tokyo^$document
 ||minagu.co.jp^$document
 ||minahina.com^$document
+||minamijidoukan.sakura.ne.jp^$document
 ||minamikublog.com^$document
 ||mindaxis.me^$document
 ||mindhack2ch.com^$document
@@ -9819,6 +9821,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||smbc-card.*.*^$document
 ||smcw-member.jp^$document
 ||smdcgldv.art^$document
+||smile-kokoronobansoukouday2024.com^$document
 ||smile-life.blog^$document
 ||smilenarich.com^$document
 ||smileprodg.com^$document
@@ -11175,6 +11178,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vemcogroup.cn^$document
 ||venturegroupsom.com^$document
 ||verayoga.in^$document
+||vercel.vercel.app^$document
 ||verdy-kusunoki.jp^$document
 ||verdy-saijohigashi.jp^$document
 ||verelq.am^$document
@@ -11860,6 +11864,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.bodyesteeem.com^$document
 ||www.boku-kawa.com^$document
 ||www.bokunoheroaccount.com^$document
+||www.bokusui.com^$document
 ||www.boltd.in^$document
 ||www.bomberosbello.org^$document
 ||www.bon-holding.nl^$document

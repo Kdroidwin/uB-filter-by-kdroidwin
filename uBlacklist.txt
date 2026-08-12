@@ -1,8 +1,3 @@
-*://smile-kokoronobansoukouday2024.com/*
-*://minamijidoukan.sakura.ne.jp/*
-*://www.bokusui.com/*
-*://vercel.vercel.app/*
-*://give.vercel.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14566,6 +14561,7 @@
 *://gitlab.wmstudio.su/*
 *://giugno-12.com/*
 *://give-a-shot2020.com/*
+*://give.vercel.app/*
 *://gizmodo.com/download/*
 *://gj.enova.top/*
 *://gkfnyskp.run/*
@@ -17175,6 +17171,7 @@
 *://minabl.com/*
 *://minacle.tokyo/*
 *://minahina.com/*
+*://minamijidoukan.sakura.ne.jp/*
 *://minamikublog.com/*
 *://mindaxis.me/*
 *://mindhack2ch.com/*
@@ -20316,6 +20313,7 @@
 *://smartphone-note.com/revanced-easy/*
 *://smarttube.app/*
 *://smcw-member.jp/*
+*://smile-kokoronobansoukouday2024.com/*
 *://smile-life.blog/*
 *://smilenarich.com/*
 *://smileprodg.com/*
@@ -21610,6 +21608,7 @@
 *://vemcogroup.cn/*
 *://venturegroupsom.com/*
 *://verayoga.in/*
+*://vercel.vercel.app/*
 *://verdy-kusunoki.jp/*
 *://verdy-saijohigashi.jp/*
 *://verelq.am/*
@@ -22257,6 +22256,7 @@
 *://www.bodyesteeem.com/*
 *://www.boku-kawa.com/*
 *://www.bokunoheroaccount.com/*
+*://www.bokusui.com/*
 *://www.boltd.in/*
 *://www.bomberosbello.org/*
 *://www.bon-holding.nl/*
