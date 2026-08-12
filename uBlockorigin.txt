@@ -208,6 +208,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||1069boys.xyz^$document
 ||109618.xyz^$document
 ||111live.ru^$document
+||1126at.jp^$document
 ||11417920482.slot47.online^$document
 ||115e.cn^$document
 ||11channel.jp^$document
@@ -2691,6 +2692,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.s-resist.jp^$document
 ||doujin.shidashi-chiba.jp^$document
 ||doujin.studio-yh.jp^$document
+||doujin.techblog.jp^$document
 ||doujin.ton-ton.jp^$document
 ||doujin.wtwhd.com^$document
 ||doujin.yogamotto.com^$document
@@ -4494,6 +4496,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
+||hitomi-raw-hentai07.wew.jp^$document
 ||hitomi-raw.cfbx.jp^$document
 ||hitomi-raw.lsrv.jp^$document
 ||hitomi-raw2.wew.jp^$document
@@ -4502,6 +4505,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomia.com^$document
 ||hitomibazz.com^$document
 ||hitomibook.com^$document
+||hitomila-hitomillaa.com^$document
 ||hitomila.blog^$document
 ||hitomila.click^$document
 ||hitomila.co.jp^$document
