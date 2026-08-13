@@ -1,29 +1,3 @@
-*://arts-akita.net/*
-*://antispy.shop/?srsltid=*
-*://qiita.com/Yosshy_123/items/babeae6b2d69d1ec295f*
-*://note.com/antispyphone/*
-*://antispy.shop/discount/*
-*://note.com/nrhdojin/*
-*://note.com/morning_tech_jp/*
-*://note.com/gad_get_/*
-*://note.com/realchoice/*
-*://note.com/googlehappydays/*
-*://www.speedsystem-jp.com/*
-*://note.com/chic_borage6931/*
-*://note.com/tonym/*
-*://note.com/mayo_maoh/*
-*://note.com/makoto_kinogami/*
-*://note.com/rakumoba_dendo/*
-*://note.com/mild_badger6936/*
-*://note.com/maaiika_lab/*
-*://note.com/moja_109/*
-*://note.com/gentle_mole5600/*
-*://note.com/kou741/*
-*://note.com/sakuyomi_news/*
-*://note.com/modern_knot7158/*
-*://note.com/kamikami_first/*
-*://note.com/sugimon1905/*
-*://note.com/ranknote_re/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11649,9 +11623,11 @@
 *://anthology.blog/*
 *://anthonyleger.com/*
 *://antimatter-dimensions-mod.glitch.me/*
+*://antispy.shop/?srsltid=*
 *://antispy.shop/blogs/news/fake-antispyphone*
 *://antispy.shop/checkouts/*
 *://antispy.shop/collections/*
+*://antispy.shop/discount/*
 *://antispy.shop/pages/*
 *://antispy.shop/products/*
 *://antmomew.com/*
@@ -11854,6 +11830,7 @@
 *://artlabdaily.com/*
 *://artre60.com/*
 *://artroot.jp/*
+*://arts-akita.net/*
 *://artstg.team-lab.cn/*
 *://arty-matome.com/*
 *://artzone.jp/*
@@ -17972,6 +17949,7 @@
 *://note.com/androidgeek
 *://note.com/androidgeek/*
 *://note.com/animedaisukiminn/*
+*://note.com/antispyphone/*
 *://note.com/aomushi_15/*
 *://note.com/applemaniax/*
 *://note.com/aquafish/*
@@ -18000,6 +17978,7 @@
 *://note.com/chaen_channel/*
 *://note.com/chawanwabita/*
 *://note.com/cheeky_thyme7377/*
+*://note.com/chic_borage6931/*
 *://note.com/chic_sorrel1534/*
 *://note.com/chiharu_aiart/*
 *://note.com/chinanezu/*
@@ -18063,6 +18042,7 @@
 *://note.com/futamen/*
 *://note.com/fuwari_daily/*
 *://note.com/gabugadget/*
+*://note.com/gad_get_/*
 *://note.com/gad_hammocchi/*
 *://note.com/gadge_log/*
 *://note.com/gadgesoji/*
@@ -18083,6 +18063,7 @@
 *://note.com/garage_tk/*
 *://note.com/gekiatu777/*
 *://note.com/genial_okapi1028/*
+*://note.com/gentle_mole5600/*
 *://note.com/geoscience16/*
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
@@ -18093,6 +18074,7 @@
 *://note.com/go_cameraman/*
 *://note.com/goen_grapgic/*
 *://note.com/gominogomidame/*
+*://note.com/googlehappydays/*
 *://note.com/goph_/*
 *://note.com/gorilivesp/*
 *://note.com/gptdiet/*
@@ -18188,6 +18170,7 @@
 *://note.com/kakip0115/*
 *://note.com/kakumitsu/*
 *://note.com/kamanyan01/*
+*://note.com/kamikami_first/*
 *://note.com/kanasawa9420/*
 *://note.com/kangaeru_genba/*
 *://note.com/kankare/*
@@ -18220,6 +18203,7 @@
 *://note.com/kota_yukimi/*
 *://note.com/kotori_gadget/*
 *://note.com/kototamashacho/*
+*://note.com/kou741/*
 *://note.com/kouichi_0703/*
 *://note.com/kouki_k/*
 *://note.com/kuma_ai_studio/*
@@ -18257,9 +18241,11 @@
 *://note.com/lucid_weasel5472/*
 *://note.com/lucky_ai/*
 *://note.com/lulu_noah/*
+*://note.com/maaiika_lab/*
 *://note.com/magic_azalea1081/*
 *://note.com/maiko_muri/*
 *://note.com/mainichigadget/*
+*://note.com/makoto_kinogami/*
 *://note.com/makuring/*
 *://note.com/mangach/*
 *://note.com/mankensensei/*
@@ -18268,6 +18254,7 @@
 *://note.com/masa_wunder/*
 *://note.com/masasan731/*
 *://note.com/mayako_room/*
+*://note.com/mayo_maoh/*
 *://note.com/mbbs/*
 *://note.com/mdsmys/*
 *://note.com/mens_strategy_k/*
@@ -18279,6 +18266,7 @@
 *://note.com/mikami_01/*
 *://note.com/mikenecoya/*
 *://note.com/milbon_/*
+*://note.com/mild_badger6936/*
 *://note.com/mild_ruff676/*
 *://note.com/mingaje333/*
 *://note.com/mippasan/*
@@ -18286,13 +18274,16 @@
 *://note.com/mizuu_note1/*
 *://note.com/mnb196748/*
 *://note.com/mocchan/*
+*://note.com/modern_knot7158/*
 *://note.com/moeuhane22*
 *://note.com/mofu_pan/*
 *://note.com/mogushi/*
+*://note.com/moja_109/*
 *://note.com/mokyuchan/*
 *://note.com/momotro018/*
 *://note.com/monetking0209*
 *://note.com/morin4g4/*
+*://note.com/morning_tech_jp/*
 *://note.com/moteotokolabo/*
 *://note.com/motokoku/*
 *://note.com/mumu2212/*
@@ -18334,6 +18325,7 @@
 *://note.com/note_izak17/*
 *://note.com/note_rakuten23/*
 *://note.com/notede_1manen/*
+*://note.com/nrhdojin/*
 *://note.com/nyam_stady/*
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
@@ -18386,11 +18378,14 @@
 *://note.com/quirky_lion3847/*
 *://note.com/rabirabi1*
 *://note.com/raita_hayami/*
+*://note.com/rakumoba_dendo/*
 *://note.com/rakuten_mobile22/*
 *://note.com/ramenkt5/*
+*://note.com/ranknote_re/*
 *://note.com/rapid_turtle8466/*
 *://note.com/ready_bison5376/*
 *://note.com/ready_newt6023/*
+*://note.com/realchoice/*
 *://note.com/realme_note/*
 *://note.com/reboot_ojisan/*
 *://note.com/regal_allium4153/*
@@ -18430,6 +18425,7 @@
 *://note.com/safe_panda2627/*
 *://note.com/sagi3000/*
 *://note.com/sagihantai_note/*
+*://note.com/sakuyomi_news/*
 *://note.com/samon_daisuki/*
 *://note.com/sane_cedum9353/*
 *://note.com/sane_pothos8184/*
@@ -18468,6 +18464,7 @@
 *://note.com/startupm/*
 *://note.com/staybronze/*
 *://note.com/strong_power/*
+*://note.com/sugimon1905/*
 *://note.com/sugurukun_ai/*
 *://note.com/sumaho_hikaku/*
 *://note.com/sumahoseeker/*
@@ -18512,6 +18509,7 @@
 *://note.com/tokotoko_2025/*
 *://note.com/tom485/*
 *://note.com/tomorrow56/*
+*://note.com/tonym/*
 *://note.com/torataka50/*
 *://note.com/toridai_com/*
 *://note.com/totalnewsworld/*
@@ -19411,6 +19409,7 @@
 *://qatchdigital.com/*
 *://qazuaqh.guru/*
 *://qerutshop.com/*
+*://qiita.com/Yosshy_123/items/babeae6b2d69d1ec295f*
 *://qimwtgra.biz/*
 *://qliziwo.cn/*
 *://qltone.com/*
@@ -23656,6 +23655,7 @@
 *://www.sound.xyz/*
 *://www.sousacontabilidade.net/*
 *://www.spacioclub.ru/*
+*://www.speedsystem-jp.com/*
 *://www.spology.jp/*
 *://www.sports.ru/*
 *://www.sports2films.com/*
