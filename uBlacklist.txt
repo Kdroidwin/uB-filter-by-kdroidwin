@@ -14625,7 +14625,6 @@
 *://gmk.be/*
 *://gmmfprc.cn/*
 *://gmo-animation.com/*
-*://gmobb.jp/*
 *://gmstar.ca/*
 *://gnclhrkcaw.xyz/*
 *://gns.hotline.su/*
@@ -14748,7 +14747,6 @@
 *://griselymasajistas.com/*
 *://grnmaquinarias.com/*
 *://group-ka.de/*
-*://group.gmo/*
 *://group.ureru.co.jp/*
 *://groupbyte.ecstasybox.cfbx.jp/*
 *://groupie55.com/*
