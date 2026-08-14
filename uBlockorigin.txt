@@ -3191,6 +3191,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eroiai.com^$document
 ||eroiblog.wpx.jp^$document
 ||eroichi.com^$document
+||eroiinazuma.space^$document
 ||erojavtv.com^$document
 ||erologz.com^$document
 ||eromagan.com^$document
@@ -4198,6 +4199,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gwkzccabinet.com^$document
 ||gxh.sweetbuy.shop^$document
 ||gxt1831.com^$document
+||gyaru-archives.com^$document
 ||gykeyyyz.com^$document
 ||gyoukaijin-log.com^$document
 ||gyouza-yamatani.jp^$document
@@ -4592,6 +4594,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomia.com^$document
 ||hitomibazz.com^$document
 ||hitomibook.com^$document
+||hitomicomicraw.wew.jp^$document
 ||hitomila-hitomillaa.com^$document
 ||hitomila.blog^$document
 ||hitomila.click^$document
@@ -6729,6 +6732,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-fc2ppv02.com^$document
 ||missav-fc2ppv03.com^$document
 ||missav-fc2ppv04.com^$document
+||missav-fc2ppv05.com^$document
 ||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
 ||missav2026-doujin.com^$document
@@ -7815,6 +7819,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/moteotokolabo^$document
 ||note.com/motokoku^$document
 ||note.com/mumu2212^$document
+||note.com/murabito_kunn^$document
 ||note.com/muratooo^$document
 ||note.com/muryoudouga^$document
 ||note.com/musk_music^$document
@@ -8428,6 +8433,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||oshi-gadgetlog.hatenablog.com^$document
 ||oshi-gadgetlog.wk-lh.com^$document
 ||oshi-life.com^$document
+||oshicircle.com^$document
 ||oshikatsulife.blog.jp^$document
 ||oshikeiblog.com^$document
 ||oshinisasageru.com^$document
@@ -13854,6 +13860,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--t8jwa5c5a4ox83wkr7axhya.com^$document
 ||xn--u8jvc1drbz972aywbk0by95ffo1aqm1c.com^$document
 ||xn--u9j432gnvi3ia422j.com^$document
+||xn--u9j4fpij31l7bzacvhwiu.jp^$document
 ||xn--u9j4h1btf1e099q09k263anqcyt3hh8dr2w.com^$document
 ||xn--u9j5h1btf1ez99qnszei5c8ws.com^$document
 ||xn--u9jwf1a3e5cim8nrcti.xyz^$document
@@ -14256,6 +14263,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ze-pa.net^$document
 ||zedpalindia.com^$document
 ||zellijj.com^$document
+||zemi.email^$document
 ||zen-seer.com^$document
 ||zenipawer.com^$document
 ||zenmate.com^$document
