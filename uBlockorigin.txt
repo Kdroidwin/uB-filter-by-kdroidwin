@@ -4051,7 +4051,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gmk.be^$document
 ||gmmfprc.cn^$document
 ||gmo-animation.com^$document
-||gmobb.jp^$document
 ||gmstar.ca^$document
 ||gnclhrkcaw.xyz^$document
 ||gns.hotline.su^$document
@@ -4175,7 +4174,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||griselymasajistas.com^$document
 ||grnmaquinarias.com^$document
 ||group-ka.de^$document
-||group.gmo^$document
 ||group.ureru.co.jp^$document
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
