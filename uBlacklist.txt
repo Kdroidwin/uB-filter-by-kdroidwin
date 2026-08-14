@@ -1,4 +1,3 @@
-*://ppyrzjp.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -19333,6 +19332,7 @@
 *://ppgo.org/*
 *://pplclubcard.com/*
 *://ppt.dkgee.online/*
+*://ppyrzjp.com/*
 *://pr.go2senkyo.com/*
 *://pr.toriaez.jp/*
 *://pr0zel.top/*
