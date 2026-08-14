@@ -6739,6 +6739,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missavtv.com^$document
 ||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
+||mitaka-softball.jp^$document
 ||mitemi-n.jp^$document
 ||mitemiruno.com^$document
 ||mitene-gps.onelink.me^$document
