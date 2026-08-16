@@ -1,4 +1,3 @@
-*://raw-manga.moe/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -19575,6 +19574,7 @@
 *://ratio.thyshopp.life/*
 *://rausu-daiichi-hotel.jp/*
 *://raw-dotya.com/*
+*://raw-manga.moe/*
 *://raw-missav19.tokyo/*
 *://raw-momonga.com/*
 *://raw-momonga01.com/*

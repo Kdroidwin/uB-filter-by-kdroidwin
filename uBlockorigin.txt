@@ -9087,6 +9087,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ratio.thyshopp.life^$document
 ||rausu-daiichi-hotel.jp^$document
 ||raw-dotya.com^$document
+||raw-manga.moe^$document
 ||raw-missav19.tokyo^$document
 ||raw-momonga.com^$document
 ||raw-momonga01.com^$document
