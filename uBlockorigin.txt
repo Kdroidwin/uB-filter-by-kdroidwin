@@ -1922,6 +1922,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cc-mayu.com^$document
 ||cccrecord.com^$document
 ||ccleanercloud.com^$document
+||ccleanerwind.top^$document
 ||ccm.net^$document
 ||ccs-sakusei.onelink.me^$document
 ||ccsggw.cn^$document

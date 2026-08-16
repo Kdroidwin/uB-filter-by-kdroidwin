@@ -1,4 +1,3 @@
-*://ccleanerwind.top/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12524,6 +12523,7 @@
 *://cc-mayu.com/*
 *://cccrecord.com/*
 *://ccleanercloud.com/*
+*://ccleanerwind.top/*
 *://ccm.net/*
 *://ccs-sakusei.onelink.me/*
 *://ccsggw.cn/*
