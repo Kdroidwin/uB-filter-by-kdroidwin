@@ -1,4 +1,3 @@
-*://www.pengininfo.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -23434,6 +23433,7 @@
 *://www.pcprotect.com/*
 *://www.pekebatu.com/*
 *://www.pengh.cn/*
+*://www.pengininfo.com/*
 *://www.peoples.ru/*
 *://www.peradays.com/*
 *://www.permutive.online/*

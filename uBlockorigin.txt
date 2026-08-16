@@ -13082,6 +13082,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.pcprotect.com^$document
 ||www.pekebatu.com^$document
 ||www.pengh.cn^$document
+||www.pengininfo.com^$document
 ||www.peoples.ru^$document
 ||www.peradays.com^$document
 ||www.permutive.online^$document
