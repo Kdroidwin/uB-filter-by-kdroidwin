@@ -1,3 +1,9 @@
+*://momonga.humi.jp/*
+*://*.humi.jp/*
+*://eromanga-memory.com/*
+*://raw-dotya.com/*
+*://eromanga-tanken.com/*
+*://humi.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
