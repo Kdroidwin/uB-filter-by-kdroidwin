@@ -1,9 +1,3 @@
-*://momonga.humi.jp/*
-*://*.humi.jp/*
-*://eromanga-memory.com/*
-*://raw-dotya.com/*
-*://eromanga-tanken.com/*
-*://humi.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -5114,6 +5108,7 @@
 *://*.hu/?z=9
 *://*.hu/?z=9*
 *://*.huat.jp/*
+*://*.humi.jp/*
 *://*.icrt.cu/*
 *://*.id/?_g=*
 *://*.id/?a=0*
@@ -13805,6 +13800,7 @@
 *://eromanga-lab.com/*
 *://eromanga-library.com/*
 *://eromanga-mangacoo.com/*
+*://eromanga-memory.com/*
 *://eromanga-muryou-hitomi-50.net/*
 *://eromanga-muryou.jp/*
 *://eromanga-navi.net/*
@@ -13813,6 +13809,7 @@
 *://eromanga-rainbow.com/*
 *://eromanga-station.com/*
 *://eromanga-storage.jp/*
+*://eromanga-tanken.com/*
 *://eromanga-vision.com/*
 *://eromanga-yomitai.com/*
 *://eromanga-yomitai.work/*
@@ -15324,6 +15321,7 @@
 *://hulu-manual.com/*
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
+*://humi.jp/*
 *://hunting4gold.com/*
 *://hunyuanvideo.org/*
 *://hurtlocker.jp/*
@@ -17400,6 +17398,7 @@
 *://momonga-raw01.com/*
 *://momonga-raw02.com/*
 *://momonga.hitomi-manga-hentai.com/*
+*://momonga.humi.jp/*
 *://momongaraw.jp/*
 *://momongarawhitomi.jp/*
 *://momongasan.com/*
@@ -19574,6 +19573,7 @@
 *://rasu-t.jp/*
 *://ratio.thyshopp.life/*
 *://rausu-daiichi-hotel.jp/*
+*://raw-dotya.com/*
 *://raw-missav19.tokyo/*
 *://raw-momonga.com/*
 *://raw-momonga01.com/*
