@@ -1,6 +1,3 @@
-*://www.chatanshakyo.com/*
-*://toyooka-shiten.com/*
-*://f-challengelife.info/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13950,6 +13947,7 @@
 *://ey43.com/*
 *://eylamermer.5bweb.com/*
 *://ezcrack.info/*
+*://f-challengelife.info/*
 *://f-f-shukatsu.jp/*
 *://f-shirushi.com/*
 *://f-workstyle.com/*
@@ -21347,6 +21345,7 @@
 *://toy-box777.com/*
 *://toyama-asbb.com/*
 *://toyobaru.jp/*
+*://toyooka-shiten.com/*
 *://toyota-phv.jp/*
 *://tpb.party/*
 *://tpw9le6.calanchipiceni.it/*
@@ -22417,6 +22416,7 @@
 *://www.chaen-cafe.com/*
 *://www.challeup.com/*
 *://www.chanelal.com/*
+*://www.chatanshakyo.com/*
 *://www.chelsea-fc.ru/*
 *://www.chemours.cn/*
 *://www.chenarco.com/*

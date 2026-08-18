@@ -3364,6 +3364,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ey43.com^$document
 ||eylamermer.5bweb.com^$document
 ||ezcrack.info^$document
+||f-challengelife.info^$document
 ||f-f-shukatsu.jp^$document
 ||f-shirushi.com^$document
 ||f-workstyle.com^$document
@@ -10948,6 +10949,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||toy-box777.com^$document
 ||toyama-asbb.com^$document
 ||toyobaru.jp^$document
+||toyooka-shiten.com^$document
 ||toyota-phv.jp^$document
 ||tpb.party^$document
 ||tpw9le6.calanchipiceni.it^$document
@@ -12069,6 +12071,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.chaen-cafe.com^$document
 ||www.challeup.com^$document
 ||www.chanelal.com^$document
+||www.chatanshakyo.com^$document
 ||www.chelsea-fc.ru^$document
 ||www.chemours.cn^$document
 ||www.chenarco.com^$document
