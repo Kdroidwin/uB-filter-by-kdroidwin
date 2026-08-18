@@ -9800,7 +9800,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shiru-shiru.com^$document
 ||shirurin.com^$document
 ||shirushiru.com^$document
-||shiso-sns.jp^$document
 ||shisyamog29.com^$document
 ||shivtechinfo.com^$document
 ||shizuka0914.com^$document
@@ -12249,7 +12248,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.ehhp.xyz^$document
 ||www.eiga-yokai.jp^$document
 ||www.eighty6.xyz^$document
-||www.ekiten.jp^$document
 ||www.elanfurs.com^$document
 ||www.elitehome.rs^$document
 ||www.ellasgenetica.com^$document
