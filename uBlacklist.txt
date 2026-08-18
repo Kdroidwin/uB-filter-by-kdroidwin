@@ -20252,7 +20252,6 @@
 *://shiru-shiru.com/*
 *://shirurin.com/*
 *://shirushiru.com/*
-*://shiso-sns.jp/*
 *://shisyamog29.com/*
 *://shivtechinfo.com/*
 *://shizuka0914.com/*
@@ -22595,7 +22594,6 @@
 *://www.ehhp.xyz/*
 *://www.eiga-yokai.jp/*
 *://www.eighty6.xyz/*
-*://www.ekiten.jp/*
 *://www.elanfurs.com/*
 *://www.elitehome.rs/*
 *://www.ellasgenetica.com/*
