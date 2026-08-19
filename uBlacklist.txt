@@ -1,37 +1,3 @@
-*://hitodumaseikou.com/*
-*://iictokyoblog.jp/*
-*://11thjwhmhpt.jp/*
-/\.wpx\.jp\/[^\/]+\/d_\d{6}\//
-*://tomoiki-art.com/*
-*://kyoto-paris.net/*
-*://manganow.jp/*
-/\.email\/d_\d{6}/
-*://zubosiko.email/*
-*://premiumadv45.wpx.jp/*
-*://sankucho.jp/*
-*://www.love-juice.jp/*
-*://www.uminobon.net/*
-*://doujin-anime.com/*
-/https?:\/\/[^\/]+\.com\/products\/d_\d{6}\/?/
-*://www.nightlibletter.com/*
-*://nukemangensen.com/*
-*://otona-zukan.net/*
-*://windtone.jp/*
-*://djnavi.app/*
-*://doujinlabo.net/*
-*://www.eromanga-muryou-hitomi-42.net/*
-title/d_\d{6}/
-*://adultdouzin.com/*
-*://www.eromanga-muryou-hitomi-raw-1.net/*
-*://deli-m-time.com/*
-*://ijigen-live.com/*
-*://atsumi-naturerun.com/*
-*://hentai-market.net/*
-*://irodori-movie.jp/*
-*://ffo-pr.com/*
-*://jschn31.jp/*
-*://secret-taisei.com/*
-*://chigasaki-hanabi50.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -10941,6 +10907,7 @@ title/d_\d{6}/
 *://115e.cn/*
 *://11channel.jp/*
 *://11kamone.com/*
+*://11thjwhmhpt.jp/*
 *://120152.huobiglobal.online/*
 *://1211092.slot19.online/*
 *://1234arontoren.blog.fc2.com/*
@@ -11286,6 +11253,7 @@ title/d_\d{6}/
 *://adult.z-z.jp/*
 *://adult21ero.com/*
 *://adultdojin.jp/*
+*://adultdouzin.com/*
 *://adultemploymentagency.com/*
 *://adultgingin.com/*
 *://adultitemstore.com/*
@@ -11957,6 +11925,7 @@ title/d_\d{6}/
 *://atralso.com/*
 *://atre-club.jp/*
 *://atsu-blog.com/*
+*://atsumi-naturerun.com/*
 *://atsushi-hisatumi.amebaownd.com/posts/12184891/*
 *://atthelake.info/*
 *://attractions-music.jp/*
@@ -12660,6 +12629,7 @@ title/d_\d{6}/
 *://chicagone.com/*
 *://chichicafe.com/*
 *://chiematome.com/*
+*://chigasaki-hanabi50.com/*
 *://chihirotokae.com/*
 *://chii-memo.com/*
 *://chiiki-sousei.com/*
@@ -13115,6 +13085,7 @@ title/d_\d{6}/
 *://dekisoft.com/*
 *://dekunoboh.com/*
 *://delafosse.immo/*
+*://deli-m-time.com/*
 *://delicious-info.com/*
 *://deliteapks.com/*
 *://dellasanta.ch/*
@@ -13215,6 +13186,7 @@ title/d_\d{6}/
 *://django-jp.com/*
 *://djewelonline.com/*
 *://djn18.jp/*
+*://djnavi.app/*
 *://djsouljah.com/*
 *://djziy.com/*
 *://dk.mos.ru/*
@@ -13341,6 +13313,7 @@ title/d_\d{6}/
 *://doujin-ai.com/*
 *://doujin-analytics.com/*
 *://doujin-anime-mania.com/*
+*://doujin-anime.com/*
 *://doujin-archive.com/*
 *://doujin-authors.com/*
 *://doujin-comics.toremani.com/*
@@ -13400,6 +13373,7 @@ title/d_\d{6}/
 *://doujinhook.net/*
 *://doujinichiba.com/*
 *://doujinkan.com/*
+*://doujinlabo.net/*
 *://doujinlink.com/*
 *://doujinmanga-komishiru.com/*
 *://doujinmanga-rank.jp/*
@@ -14072,6 +14046,7 @@ title/d_\d{6}/
 *://fetishp.com/*
 *://feynman.co.jp/*
 *://fezyygqo.auslagerung-pastservice.de/*
+*://ffo-pr.com/*
 *://ffwpu.family/*
 *://ffwpu.jp/*
 *://fgaaaae.bar/*
@@ -15058,6 +15033,7 @@ title/d_\d{6}/
 *://hentai-covers.site/*
 *://hentai-manga-chu.com/*
 *://hentai-mangahitomi.com/*
+*://hentai-market.net/*
 *://hentai-momo.com/*
 *://hentai-online.com/*
 *://hentai-raw-manga.jp/*
@@ -15178,6 +15154,7 @@ title/d_\d{6}/
 *://hirugao.jp/*
 *://hirunaka.jp/*
 *://historia.work/*
+*://hitodumaseikou.com/*
 *://hitoga-suki.com/*
 *://hitohack.info/*
 *://hitomi--blog.com/*
@@ -15433,11 +15410,13 @@ title/d_\d{6}/
 *://ihayato.substack.com/*
 *://ihst.csd.auth.gr/*
 *://ihtiyacisoa.online/*
+*://iictokyoblog.jp/*
 *://iifpindia.com/*
 *://iipxfzme.ltd/*
 *://iiro-news.com/*
 *://iitdgroup.ru/*
 *://ijcnaxf.xyz/*
+*://ijigen-live.com/*
 *://ikagakun.hatenablog.com/*
 *://ikari-movie.com/*
 *://ikawamototaka.com/*
@@ -15596,6 +15575,7 @@ title/d_\d{6}/
 *://iro-iro.shiro-eiyoushi.com/*
 *://iro-patch-download.creativestrategypro.de/*
 *://irodori-cafeblog.com/*
+*://irodori-movie.jp/*
 *://irodori3.com/*
 *://irodori365.com/*
 *://irodoricard.base.shop/*
@@ -15849,6 +15829,7 @@ title/d_\d{6}/
 *://jpsoku.blog.jp/*
 *://jr-bentenhiroba.jp/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
+*://jschn31.jp/*
 *://jsmjapan.com/*
 *://jtb-hotspringtickets.vip/*
 *://jtb-hotspringtickets.xyz/*
@@ -16422,6 +16403,7 @@ title/d_\d{6}/
 *://kyokyu.net/*
 *://kyonyu-review.xyz/*
 *://kyonyumanga.wpx.jp/*
+*://kyoto-paris.net/*
 *://kyoudailanka.com/*
 *://kyoueisougou.com/*
 *://kyoukaran.com/*
@@ -16956,6 +16938,7 @@ title/d_\d{6}/
 *://mangan1.seesaa.net/*
 *://manganista.net/*
 *://manganotatsujin.jp/*
+*://manganow.jp/*
 *://mangaportal.jp/*
 *://mangaroo.jp/*
 *://mangatameshiyomi.com/*
@@ -18727,6 +18710,7 @@ title/d_\d{6}/
 *://nudge.works/*
 *://nufu.online/*
 *://nukeman.ero-wife.com/*
+*://nukemangensen.com/*
 *://nukeru-doujinshi.com/*
 *://nuki-dokoro.com/*
 *://nukicomics.com/*
@@ -19023,6 +19007,7 @@ title/d_\d{6}/
 *://otona-comic.com/*
 *://otona-freecomic.jp/*
 *://otona-radar.jp/*
+*://otona-zukan.net/*
 *://otonaclub.mixh.jp/*
 *://otonakensaku.com/*
 *://otonano-erokatsu.net/*
@@ -19396,6 +19381,7 @@ title/d_\d{6}/
 *://premiersoinnordik.com/*
 *://premiosdosan.com/*
 *://premistdome-run.jp/*
+*://premiumadv45.wpx.jp/*
 *://presclinic.com/*
 *://presencia.nepm.org/*
 *://present-life.tokyo/*
@@ -20052,6 +20038,7 @@ title/d_\d{6}/
 *://sandome-no-honesty.com/*
 *://sandstoneairportparking.com/*
 *://sangyo-mirai.jp/*
+*://sankucho.jp/*
 *://sanluisobispogasprices.com/*
 *://sanosemi.info/*
 *://sanpo19.jp/*
@@ -20143,6 +20130,7 @@ title/d_\d{6}/
 *://second.ux-design.blog/*
 *://secret-alone-time.com/*
 *://secret-pick.com/*
+*://secret-taisei.com/*
 *://secretdreamlibrary.com/*
 *://securitysoft-vpn.news.mynavi.jp/*
 *://securitysoft-vpn.news.mynavi.jp/category/vpn/*
@@ -21302,6 +21290,7 @@ title/d_\d{6}/
 *://tomiyamasayaka.com/*
 *://tommydiary.net/*
 *://tomoblog-life.com/*
+*://tomoiki-art.com/*
 *://tomoki-912.com/*
 *://tomomi22.com/*
 *://tomorrowgate.co.jp/*
@@ -22020,6 +22009,7 @@ title/d_\d{6}/
 *://windows7.cn/*
 *://windowsbit.net/*
 *://windowsmaster-test.chinacloudsites.cn/*
+*://windtone.jp/*
 *://windy-windy.net/*
 *://windypost.com/*
 *://wingear.jp/*
@@ -22672,6 +22662,7 @@ title/d_\d{6}/
 *://www.eromanga-muryou-hitomi-1999.net/*
 *://www.eromanga-muryou-hitomi-26.net/*
 *://www.eromanga-muryou-hitomi-40.net/*
+*://www.eromanga-muryou-hitomi-42.net/*
 *://www.eromanga-muryou-hitomi-43.net/*
 *://www.eromanga-muryou-hitomi-47.net/*
 *://www.eromanga-muryou-hitomi-48.net/*
@@ -22679,6 +22670,7 @@ title/d_\d{6}/
 *://www.eromanga-muryou-hitomi-50.net/*
 *://www.eromanga-muryou-hitomi-52.net/*
 *://www.eromanga-muryou-hitomi-53.net/*
+*://www.eromanga-muryou-hitomi-raw-1.net/*
 *://www.eromanga-muryou-matome-hentai.net/*
 *://www.eromanga-raw-muryou-9.net/*
 *://www.eromangadoujin.com/*
@@ -23201,6 +23193,7 @@ title/d_\d{6}/
 *://www.loserhub.cn/*
 *://www.lott-gaylor.com/*
 *://www.louisvuitton.me/*
+*://www.love-juice.jp/*
 *://www.lrq.me/*
 *://www.luft.co.jp/*
 *://www.luislimaluxuryyatchs.com/*
@@ -23393,6 +23386,7 @@ title/d_\d{6}/
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
 *://www.nigehbancompoundingpharmacy.com/*
+*://www.nightlibletter.com/*
 *://www.nijigen-mazoblog.com/*
 *://www.niksonline.com/*
 *://www.nishino-it-office.com/*
@@ -23940,6 +23934,7 @@ title/d_\d{6}/
 *://www.uchina-farm.jp/*
 *://www.uchina-web.co.jp/*
 *://www.uhrcgeneva.org/*
+*://www.uminobon.net/*
 *://www.underconnection.com/*
 *://www.uneteacoordinadoratpc.org/*
 *://www.uninvited.com/*
@@ -24715,6 +24710,7 @@ title/d_\d{6}/
 *://zsa9q04de98.xn--d1aby4ah.xn--p1ai/*
 *://zubnile.com/*
 *://zuboraaa-64.com/*
+*://zubosiko.email/*
 *://zuckyzczc.com/*
 *://zuhair-studios.com/*
 *://zuzukuntrend.com/*
@@ -24727,10 +24723,12 @@ title/d_\d{6}/
 /.*(tomoyoafuta).*/
 /\.com\/manga\/d_\d{6}/
 /\.com\/work\/d_\d{6}/
+/\.email\/d_\d{6}/
 /\.jp\/work\/d_\d{6}/
 /\.tokyo\/d_\d{6}/
 /\.wew.jp\/d_\d{6}/
 /\.wpx.jp\/d_\d{6}/
+/\.wpx\.jp\/[^\/]+\/d_\d{6}\//
 /book[^/]*\.com\/d_\d{6}(?:\/|$)/
 /book[^/]*\.jp\/d_\d{6}(?:\/|$)/
 /book[^/]*\.net\/d_\d{6}(?:\/|$)/
@@ -24758,6 +24756,7 @@ title/d_\d{6}/
 /hmanga[^/]*\.com\/d_\d{6}(?:\/|$)/
 /hmanga[^/]*\.jp\/d_\d{6}(?:\/|$)/
 /hmanga[^/]*\.net\/d_\d{6}(?:\/|$)/
+/https?:\/\/[^\/]+\.com\/products\/d_\d{6}\/?/
 /manga[^/]*\.com\/d_\d{6}(?:\/|$)/
 /manga[^/]*\.jp\/d_\d{6}(?:\/|$)/
 /manga[^/]*\.net\/d_\d{6}(?:\/|$)/
@@ -24837,6 +24836,7 @@ title/^(?=.*Amazon)(?=.*Premium Unlocked).*/
 title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
 title/^(?=.*漫画raw)(?=.*1001).*/
 title/^無題$/
+title/d_\d{6}/
 title/m.media-amazon.com/
 title/on PC with MEmu/
 title/pdfなどの違法海賊版サイト以外で全/
