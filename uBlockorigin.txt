@@ -1,13 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-/https?:\/\/[^/]*.net\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.com\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.jp\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.email\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.app\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.info\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.life\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.tv\/d_[0-9]{6}(?:\/|$)/$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -61,13 +53,21 @@
 /^https?:\/\/pay\.pay[^/.]*\.[^/]+/
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/(?=[^.]{16,}\.)(?=.*[a-z])(?=.*[0-9])[a-z0-9-]+\.[a-z0-9-]{1,60}\.[a-z0-9-]{1,60}\.amazonaws\.com(\/|$)/$document
+/https?:\/\/[^/]*.app\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/manga\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/work\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.com\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.email\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.info\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.jp/manga\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.jp/work\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.jp\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.life\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.net/manga\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.net/work\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.net\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.tokyo\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.tv\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.wew.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.wpx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
@@ -2367,6 +2367,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||crystal-seian.co.jp^$document
 ||cs60life.com^$document
 ||csgobetting.jp^$document
+||csm-fan.com^$document
 ||cspa79c.jp^$document
 ||cspsacademy.com^$document
 ||css-diner.netlify.app^$document
@@ -8413,7 +8414,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||openai-chatgpt.jp^$document
 ||openew.app^$document
 ||opensea.io^$document
+||opera-house.jp^$document
 ||oppai-sand.com^$document
+||oppai.app^$document
 ||oppai.ryohka.jp^$document
 ||opportunity.linkedin.cn^$document
 ||opticae.online^$document
@@ -8852,6 +8855,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||poteton.com^$document
 ||potofu.me/xxx-xxx^$document
 ||potoja.com^$document
+||potupo.com^$document
 ||pouchs.jp^$document
 ||poundtimes.com^$document
 ||powakitchen.site^$document
