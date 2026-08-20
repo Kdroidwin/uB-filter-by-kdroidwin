@@ -71,6 +71,7 @@
 /https?:\/\/[^/]*.wew.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.wpx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.cfbx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*comic[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
