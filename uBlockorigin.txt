@@ -54,6 +54,7 @@
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/(?=[^.]{16,}\.)(?=.*[a-z])(?=.*[0-9])[a-z0-9-]+\.[a-z0-9-]{1,60}\.[a-z0-9-]{1,60}\.amazonaws\.com(\/|$)/$document
 /https?:\/\/[^/]*.app\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*.cfbx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/manga\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/work\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com\/d_[0-9]{6}(?:\/|$)/$document
@@ -71,7 +72,6 @@
 /https?:\/\/[^/]*.wew.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.wpx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]*.cfbx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*book[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*comic[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
