@@ -1967,7 +1967,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cf2.top^$document
 ||cf962692.cloudfree.jp^$document
 ||cf^$doc,domain=~wacw.cf|~www.river.cf
-||cfbx.jp^$document
 ||cfd^$document,domain=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd|~neko.cfd|~backtesting.cfd|~lunastream.cfd|~turkhub23.cfd|~turkhub8.cfd|~turkhub26.cfd|~turkhub18.cfd|~31vakti93.cfd|~doeda83.cfd|~doeda56.cfd|~nanobanana.cfd|~midjourney.cfd|~wn03.cfd|~draxelio.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
@@ -2679,6 +2678,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojin-review-navi.com^$document
 ||dojin.holito-kouso.jp^$document
 ||dojin315.com^$document
+||dojindb.net^$document
 ||dojinfanza.com^$document
 ||dojingame.net^$document
 ||dojinmanga.net^$document
@@ -2781,6 +2781,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin0807u.site^$document
 ||doujin2.makianosaihu.com^$document
 ||doujin2026.wew.jp^$document
+||doujinadult.com^$document
 ||doujinanalytica.com^$document
 ||doujinbank.com^$document
 ||doujincco-ero.com^$document
@@ -3136,6 +3137,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||epson.ru^$document
 ||eqon.app^$document
 ||eraption.com^$document
+||erdj-island.com^$document
 ||erertic.dojin.com^$document
 ||ericsonmobile.com^$document
 ||erimakee.com^$document
@@ -3585,6 +3587,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||footballwarr.com^$document
 ||footforwardfootwear.com^$document
 ||for-food.online^$document
+||forbarcelonalovers.com^$document
 ||forbiddenwhisper.com^$document
 ||forese.life^$document
 ||forest-life-japan.com^$document
@@ -4336,6 +4339,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||happycock.club^$document
 ||happyjounal888.com^$document
 ||happylife50s.com^$document
+||happylifelive.jp^$document
 ||happymod-bk5.softonic-th.com^$document
 ||happymod-extra.ar.uptodown.com^$document
 ||happymod-extra.br.uptodown.com^$document
@@ -4617,6 +4621,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-vg.com^$document
 ||hitomi.median-net.jp^$document
 ||hitomi.momonga-raw.com^$document
+||hitomi.raw.cfbx.jp^$document
 ||hitomia.com^$document
 ||hitomibazz.com^$document
 ||hitomibook.com^$document
@@ -4774,6 +4779,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||human-profile.hatenablog.com^$document
 ||human.happinessisthailand.com^$document
 ||humi.jp^$document
+||hungryz.app^$document
 ||hunting4gold.com^$document
 ||hunyuanvideo.org^$document
 ||hurtlocker.jp^$document
@@ -6493,6 +6499,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||masutabe.info^$document
 ||masyuo.com^$document
 ||mata-ashita.com^$document
+||matakana.jp^$document
 ||matce.cn^$document
 ||match-mote.jp^$document
 ||matching-affi.jp^$document
@@ -6903,6 +6910,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momongarawhitomi.jp^$document
 ||momongasan.com^$document
 ||momongasan.wpx.jp^$document
+||momoniji.com^$document
 ||momonoyakata.com^$document
 ||momoon-ga.com^$document
 ||moms-happylife.com^$document
@@ -7377,6 +7385,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||niigata.mypl.net^$document
 ||niiuf1hckvrtyjxfsury.stores.jp^$document
 ||niji-doujin.jp^$document
+||niji-gazo.com/source/009^$document
 ||niji.e-r-o-anime.xyz^$document
 ||nijigen.joshiana-room.com^$document
 ||nijigenbomber.net^$document
@@ -9122,6 +9131,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ratio.thyshopp.life^$document
 ||rausu-daiichi-hotel.jp^$document
 ||raw-dotya.com^$document
+||raw-hitomi5.wew.jp^$document
 ||raw-manga.moe^$document
 ||raw-missav19.tokyo^$document
 ||raw-momonga.com^$document
@@ -12982,6 +12992,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.modroid-apk.store^$document
 ||www.moduloasr.com^$document
 ||www.moeasia.net^$document
+||www.moedb.net^$document
 ||www.mohammedmubinmallick.com^$document
 ||www.molly.online^$document
 ||www.momoshiro245.info^$document
