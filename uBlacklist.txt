@@ -1340,7 +1340,6 @@
 *://*.by/shop/cart/cart.aspx?*
 *://*.c-clays.com/*
 *://*.carnival00inkochi.jp/*
-*://*.cfbx.jp/*
 *://*.ch/?a=0*
 *://*.ch/?a=1*
 *://*.ch/?a=2*
@@ -12557,7 +12556,6 @@
 *://cezardouvretoi.fr/*
 *://cf2.top/*
 *://cf962692.cloudfree.jp/*
-*://cfbx.jp/*
 *://cfksaklwnx.xyz/*
 *://cg-corp.com/*
 *://cg.hnt.co.jp/*
