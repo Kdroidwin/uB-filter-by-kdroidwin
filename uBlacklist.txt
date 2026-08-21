@@ -1,4 +1,8 @@
 *://*.000webhostapp.com/*
+*://*.com/doujin/d_*
+*://erokatter.com/*
+*://*.comics.cfbx.jp/*
+*://les-koko.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
