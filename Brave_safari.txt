@@ -95,6 +95,8 @@
 /https?:\/\/[^/]*hitomi[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*hitomi[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*hitomi[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*hitomi[^/]*\.wew\.jp/$document
+/https?:\/\/[^/]*hitomi[^/]*\.wpx\.jp/$document
 /https?:\/\/[^/]*manga[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*manga[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*manga[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
@@ -102,6 +104,8 @@
 /https?:\/\/[^/]*missav[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*missav[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*missav[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*momon-ga[^/]*\.wew\.jp/$document
+/https?:\/\/[^/]*momon-ga[^/]*\.wpx\.jp/$document
 /https?:\/\/[^/]*nuki[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*nuki[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*nuki[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
@@ -111,6 +115,8 @@
 /https?:\/\/[^/]*raw[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*raw[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*raw[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]*raw[^/]*\.wew\.jp/$document
+/https?:\/\/[^/]*raw[^/]*\.wpx\.jp/$document
 /https?:\/\/[^/]*sex[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*sex[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*sex[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
@@ -845,6 +851,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||amacsindia.com^$document
 ||amadige.com^$document
 ||amaebi.co^$document
+||amagasaki-waterpark.com^$document
 ||amagoiruri.com^$document
 ||amagovalley.com^$document
 ||amaitime.com^$document
@@ -2207,6 +2214,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||collieme.com^$document
 ||collpachuncho.com^$document
 ||color-code.jp^$document
+||color-eromanga.com^$document
 ||color-laboratory.com^$document
 ||colorfully.app^$document
 ||coloria.jp^$document
@@ -3187,6 +3195,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erodouga-nadonado.com^$document
 ||erodoujin-lab.com^$document
 ||erodoujin-manman.com^$document
+||erodoujin-muryou.net^$document
 ||erodoujin-navi.com^$document
 ||erodoujincomic.com^$document
 ||erodoujinlog.com^$document
@@ -7561,6 +7570,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/chizuru1122^$document
 ||note.com/chocolateflower^$document
 ||note.com/cio_travel^$document
+||note.com/claudius_y^$document
 ||note.com/clean_echium264^$document
 ||note.com/clean_pothos9868^$document
 ||note.com/clean_sage687^$document
@@ -7820,6 +7830,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/magic_azalea1081^$document
 ||note.com/maiko_muri^$document
 ||note.com/mainichigadget^$document
+||note.com/majin_108^$document
 ||note.com/makoto_kinogami^$document
 ||note.com/makuring^$document
 ||note.com/mangach^$document
@@ -12248,6 +12259,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.dm-s.co.jp^$document
 ||www.doctorgreen.com^$document
 ||www.dohc.ie^$document
+||www.dokidokieroero.cfbx.jp^$document
 ||www.domainsherpa.com^$document
 ||www.doodsoft.cn^$document
 ||www.doorkeeper.jp^$document

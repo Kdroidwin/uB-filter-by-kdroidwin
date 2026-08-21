@@ -1,9 +1,3 @@
-*://note.com/majin_108/*
-*://note.com/claudius_y/*
-*://erodoujin-muryou.net/*
-*://color-eromanga.com/*
-*://www.dokidokieroero.cfbx.jp/*
-*://amagasaki-waterpark.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11460,6 +11454,7 @@
 *://amacsindia.com/*
 *://amadige.com/*
 *://amaebi.co/*
+*://amagasaki-waterpark.com/*
 *://amagoiruri.com/*
 *://amagovalley.com/*
 *://amaitime.com/*
@@ -12797,6 +12792,7 @@
 *://collieme.com/*
 *://collpachuncho.com/*
 *://color-code.jp/*
+*://color-eromanga.com/*
 *://color-laboratory.com/*
 *://colorfully.app/*
 *://coloria.jp/*
@@ -13770,6 +13766,7 @@
 *://erodouga-nadonado.com/*
 *://erodoujin-lab.com/*
 *://erodoujin-manman.com/*
+*://erodoujin-muryou.net/*
 *://erodoujin-navi.com/*
 *://erodoujincomic.com/*
 *://erodoujinlog.com/*
@@ -18073,6 +18070,7 @@
 *://note.com/chizuru1122/*
 *://note.com/chocolateflower/*
 *://note.com/cio_travel/*
+*://note.com/claudius_y/*
 *://note.com/clean_echium264/*
 *://note.com/clean_pothos9868/*
 *://note.com/clean_sage687/*
@@ -18333,6 +18331,7 @@
 *://note.com/magic_azalea1081/*
 *://note.com/maiko_muri/*
 *://note.com/mainichigadget/*
+*://note.com/majin_108/*
 *://note.com/makoto_kinogami/*
 *://note.com/makuring/*
 *://note.com/mangach/*
@@ -22590,6 +22589,7 @@
 *://www.dm-s.co.jp/*
 *://www.doctorgreen.com/*
 *://www.dohc.ie/*
+*://www.dokidokieroero.cfbx.jp/*
 *://www.domainsherpa.com/*
 *://www.doodsoft.cn/*
 *://www.doorkeeper.jp/*
