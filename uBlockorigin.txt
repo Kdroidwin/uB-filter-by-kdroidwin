@@ -7045,6 +7045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||murakamisayuri.jp^$document
 ||murasan-emblab.com^$document
 ||mure.pr.net^$document
+||murena.com^$document
 ||murphsmovieworld.com^$document
 ||musee-pla.com^$document
 ||museo.org^$document
