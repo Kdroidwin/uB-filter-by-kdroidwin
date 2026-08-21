@@ -1,8 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-/https?:\/\/[^/]+\.com\/.*\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]+\.jp\/.*\/d_[0-9]{6}(?:\/|$)/$document
-/https?:\/\/[^/]+\.net\/.*\/d_[0-9]{6}(?:\/|$)/$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -126,6 +123,9 @@
 /https?:\/\/[^/]*xn--[^/]*\.com\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*xn--[^/]*\.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*xn--[^/]*\.net\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]+\.com\/.*\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]+\.jp\/.*\/d_[0-9]{6}(?:\/|$)/$document
+/https?:\/\/[^/]+\.net\/.*\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
 /https?:\/\/[a-z0-9-]+-co-jp\.mobi/
@@ -3228,6 +3228,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eroichi.com^$document
 ||eroiinazuma.space^$document
 ||erojavtv.com^$document
+||erokatter.com^$document
 ||erologz.com^$document
 ||eromagan.com^$document
 ||eromagazine.wpx.jp^$document
@@ -5993,6 +5994,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lemon-humming.com^$document
 ||lemonso-da.hatenablog.com^$document
 ||lenclosduruisseau.re^$document
+||les-koko.com^$document
 ||lesac.ru^$document
 ||lestermods.com^$document
 ||letsmods.com^$document

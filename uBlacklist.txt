@@ -1,8 +1,4 @@
 *://*.000webhostapp.com/*
-*://*.com/doujin/d_*
-*://erokatter.com/*
-*://*.comics.cfbx.jp/*
-*://les-koko.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -2698,6 +2694,7 @@
 *://*.com/ammika.php?*
 *://*.com/comment.php?*
 *://*.com/comment.php?y*
+*://*.com/doujin/d_*
 *://*.com/hiroshi.php?*
 *://*.com/index.php/*//?_g=*
 *://*.com/index.php//?_g=*
@@ -2712,6 +2709,7 @@
 *://*.com/saiga.php?shop/*
 *://*.com/shop/*/*.phtml
 *://*.com/wp-*.php?product*
+*://*.comics.cfbx.jp/*
 *://*.coromoo.com/*
 *://*.crurkin.info/*
 *://*.crx7601.com/*
@@ -13800,6 +13798,7 @@
 *://eroichi.com/*
 *://eroiinazuma.space/*
 *://erojavtv.com/*
+*://erokatter.com/*
 *://erologz.com/*
 *://eromagan.com/*
 *://eromagazine.wpx.jp/*
@@ -16525,6 +16524,7 @@
 *://lemon-humming.com/*
 *://lemonso-da.hatenablog.com/*
 *://lenclosduruisseau.re/*
+*://les-koko.com/*
 *://lesac.ru/*
 *://lestermods.com/*
 *://letsmods.com/*
