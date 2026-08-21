@@ -6852,6 +6852,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mobi-connect.net^$document
 ||mobilanyheter.net^$document
 ||mobile-app.rank-king.jp^$document
+||mobile-techlab.com^$document
 ||mobile-yoox.catalogi.ru^$document
 ||mobile1.yamanex.co.jp^$document
 ||mobilltna.org^$document
@@ -10150,6 +10151,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||speedy-senkyo.hatenadiary.jp^$document
 ||speedycolt.com^$document
 ||spicomi.net^$document
+||spicycorp.com^$document
 ||spicymadonna.com^$document
 ||spinaltap.jp^$document
 ||spirit.aptty.com^$document

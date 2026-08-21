@@ -1,5 +1,3 @@
-*://mobile-techlab.com/*
-*://spicycorp.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17368,6 +17366,7 @@
 *://mobattack.com/*
 *://mobilanyheter.net/*
 *://mobile-app.rank-king.jp/*
+*://mobile-techlab.com/*
 *://mobile-yoox.catalogi.ru/*
 *://mobile1.yamanex.co.jp/*
 *://mobilltna.org/*
@@ -20573,6 +20572,7 @@
 *://speedy-senkyo.hatenadiary.jp/*
 *://speedycolt.com/*
 *://spicomi.net/*
+*://spicycorp.com/*
 *://spicymadonna.com/*
 *://spinaltap.jp/*
 *://spirit.aptty.com/*
