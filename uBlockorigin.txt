@@ -2181,6 +2181,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cocomirai.com^$document
 ||cocone.app^$document
 ||cocoppa.com^$document
+||cocorofilm.jp^$document
 ||cocoyomi.com^$document
 ||code-examples.net^$document
 ||code.ooaks.co.jp^$document
@@ -3508,6 +3509,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||filmstar.jp^$document
 ||filofax.jp^$document
 ||final.yumedream.tokyo^$document
+||finalportrait.jp^$document
 ||finalsquall.com^$document
 ||financel.xyz^$document
 ||finangrowth.com^$document
@@ -3576,6 +3578,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||flutterhq.com^$document
 ||flynn.jp^$document
 ||flyqfxzz.property^$document
+||fm-watch.jp^$document
 ||fmax7.com^$document
 ||fmcicesports.com^$document
 ||fmihm.org^$document
@@ -4720,6 +4723,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||honsoku.com^$document
 ||hontai.jp^$document
 ||honyeah.jp^$document
+||hood-movie.jp^$document
 ||hoopers.jp^$document
 ||hop.online^$document
 ||hoper4em.styr.solutions^$document
@@ -6439,6 +6443,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||manpukubiyori.com^$document
 ||manpukunews.blog.jp^$document
 ||manzana40.com^$document
+||mao-asada.jp^$document
 ||maonkurosaki.com^$document
 ||map.welcomekyushu.cn^$document
 ||mapadosarquetipos.com^$document
@@ -7387,6 +7392,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nichiyaku.info^$document
 ||niconicojikkyou.com^$document
 ||nicoriblog.com^$document
+||nierreincarnation.jp^$document
 ||night-selection.com^$document
 ||nightreview.net^$document
 ||nigiwasu.com^$document
@@ -13570,6 +13576,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.tiktok.com/d/2/ZSHofdSqvuruN-W67Vr^$document
 ||www.tiktok.com/ug/incentive^$document
 ||www.timbukdo.in^$document
+||www.tkoubaske.jp^$document
 ||www.tnfinskills.com^$document
 ||www.toburailway.cn^$document
 ||www.tochigi-syokutonou.jp^$document
