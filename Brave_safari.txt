@@ -5830,6 +5830,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ksarjouamaa.com^$document
 ||ksmlc.cn^$document
 ||ksualumnipoker.com^$document
+||kt-life.net^$document
 ||ktaj.jp^$document
 ||ktwoblog.com^$document
 ||kualumtech.com^$document
@@ -8125,6 +8126,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/vast_rue955^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/viwizard_jp^$document
+||note.com/volcano_youtube^$document
 ||note.com/vpn_lab^$document
 ||note.com/vpn_life^$document
 ||note.com/vs_item^$document
@@ -8780,6 +8782,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pizzasta.jp^$document
 ||pkaki.com^$document
 ||pkshampoo.com^$document
+||plai-ai.com^$document
 ||planetacadiz.com^$document
 ||planetaverde.site^$document
 ||planningsolutions.in^$document
@@ -8929,6 +8932,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||private-note.jp^$document
 ||privatevpn.com^$document
 ||pro-woodfactory.com^$document
+||pro^$document,domain=~site.pro|~sitechecker.pro|~polylang.pro|~salebot.pro|~keenetic.pro|~webd.pro|~online.pro|~opus.pro|~awan.pro|~landbot.pro|~quiknode.pro|~hashvault.pro|~divisare.pro
 ||product.info^$document
 ||product.torex.com.cn^$document
 ||products.swagelok.com.cn^$document

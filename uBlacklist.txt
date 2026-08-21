@@ -1,6 +1,3 @@
-*://note.com/volcano_youtube/*
-*://plai-ai.com/*
-*://kt-life.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16367,6 +16364,7 @@
 *://ksarjouamaa.com/*
 *://ksmlc.cn/*
 *://ksualumnipoker.com/*
+*://kt-life.net/*
 *://ktaj.jp/*
 *://ktwoblog.com/*
 *://kualumtech.com/*
@@ -18629,6 +18627,7 @@
 *://note.com/vast_rue955/*
 *://note.com/vivid_cosmos9883/*
 *://note.com/viwizard_jp/*
+*://note.com/volcano_youtube/*
 *://note.com/vpn_lab/*
 *://note.com/vpn_life/*
 *://note.com/vs_item/*
@@ -19265,6 +19264,7 @@
 *://pizzasta.jp/*
 *://pkaki.com/*
 *://pkshampoo.com/*
+*://plai-ai.com/*
 *://planetacadiz.com/*
 *://planetaverde.site/*
 *://planningsolutions.in/*
