@@ -1,5 +1,3 @@
-*://*.moddroid.com/*
-*://www.modapkhub.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -7017,6 +7015,7 @@
 *://*.military38.com/*
 *://*.mlink.in/*
 *://*.modcombo.com/*
+*://*.moddroid.com/*
 *://*.modfyp.com/*
 *://*.modilimitado.io/*
 *://*.moscow/?_g=*
@@ -23353,6 +23352,7 @@
 *://www.mocamocablog.com/*
 *://www.mochii-hokuou.com/vpn-ranking/*
 *://www.mochiteasaku.com/*
+*://www.modapkhub.site/*
 *://www.modathink.com/*
 *://www.modroid-apk.store/*
 *://www.moduloasr.com/*
