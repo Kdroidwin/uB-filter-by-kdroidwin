@@ -4388,8 +4388,6 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hu60.cn"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hub-luv.com"][data-ved]:upward(3)
-www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hub.apw.app"][data-ved]:upward(3)
-www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hub.docker.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hueyacces.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hug-team-ticket.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="hug335-vll.xyz"][data-ved]:upward(3)
