@@ -4784,8 +4784,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hu60.cn^$document
 ||huat.jp^$document
 ||hub-luv.com^$document
-||hub.apw.app^$document
-||hub.docker.com^$document
 ||hueyacces.com^$document
 ||hug-team-ticket.jp^$document
 ||hug335-vll.xyz^$document
