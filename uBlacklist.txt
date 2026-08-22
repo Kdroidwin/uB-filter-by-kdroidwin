@@ -1,4 +1,3 @@
-*://twiblk1.pages.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21562,6 +21561,7 @@
 *://tweetsoku.news/*
 *://twemix.xyz/*
 *://twhite.me/*
+*://twiblk1.pages.dev/*
 *://twibuz.com/*
 *://twik.xxasj.cn/*
 *://twisoku.ldblog.jp/*

@@ -11188,6 +11188,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tweetsoku.news^$document
 ||twemix.xyz^$document
 ||twhite.me^$document
+||twiblk1.pages.dev^$document
 ||twibuz.com^$document
 ||twik.xxasj.cn^$document
 ||twisoku.ldblog.jp^$document
