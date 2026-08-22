@@ -1,5 +1,3 @@
-*://movie-school-navi.jp/*
-*://shigoto-ai.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17521,6 +17519,7 @@
 *://movie-architecture.com/*
 *://movie-happyisland.com/*
 *://movie-memo.com/*
+*://movie-school-navi.jp/*
 *://movie2free2.net/*
 *://moviesets.net/*
 *://movieswatchfree.net/*
@@ -20255,6 +20254,7 @@
 *://shiftchurch.com/*
 *://shigemaru.info/*
 *://shiggymania.com/*
+*://shigoto-ai.com/*
 *://shihaininmil.jp/*
 *://shijinsou.jp/*
 *://shiki-mania.com/*
