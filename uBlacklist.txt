@@ -15337,8 +15337,6 @@
 *://https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn/*
 *://hu60.cn/*
 *://hub-luv.com/*
-*://hub.apw.app/*
-*://hub.docker.com/*
 *://hueyacces.com/*
 *://hug-team-ticket.jp/*
 *://hug335-vll.xyz/*
