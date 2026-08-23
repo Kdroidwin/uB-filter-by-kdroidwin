@@ -5502,6 +5502,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
 ||keazikane.shop^$document
+||kebun4d.org^$document
 ||kechan-s.com^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -11732,6 +11733,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wingear.jp^$document
 ||wingkola.pkmunggul.com^$document
 ||winksuv8.formachasia.com^$document
+||winlator.app^$document
+||winlator.com^$document
+||winlator.dev^$document
+||winlator.io^$document
 ||winoogov.com^$document
 ||wiple-service.com/column^$document
 ||wise-media-factory.com^$document
