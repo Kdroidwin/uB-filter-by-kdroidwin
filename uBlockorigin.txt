@@ -6239,6 +6239,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||m.majorgeeks.com/files/details/ccleaner_portable.html^$document
 ||m.qq241.com^$document
 ||m.sugar-style.com^$document
+||m.suppart.app/eventsDetails^$document
 ||m.uechairs.cn^$document
 ||m.utoo.cniic.cn^$document
 ||m.yuugafas.com^$document

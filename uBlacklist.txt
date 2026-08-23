@@ -1,4 +1,3 @@
-*://m.suppart.app/eventsDetails/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16764,6 +16763,7 @@
 *://m.majorgeeks.com/files/details/ccleaner_portable.html*
 *://m.qq241.com/*
 *://m.sugar-style.com/*
+*://m.suppart.app/eventsDetails/*
 *://m.uechairs.cn/*
 *://m.utoo.cniic.cn/*
 *://m.youtube.com/watch?v=9L2r5oBJJBE
