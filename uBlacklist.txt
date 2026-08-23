@@ -1,5 +1,3 @@
-*://*.cloudfree.jp/hitomi-doujin-raw/d_*
-*://cf504206.cloudfree.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -2115,6 +2113,7 @@
 *://*.clinic/?z=7*
 *://*.clinic/?z=8*
 *://*.clinic/?z=9*
+*://*.cloudfree.jp/hitomi-doujin-raw/d_*
 *://*.co.in/?*.html
 *://*.co.jp/?o.*
 *://*.co.uk/*.phtml
@@ -12561,6 +12560,7 @@
 *://cetco.marinafrozen.com/*
 *://cezardouvretoi.fr/*
 *://cf2.top/*
+*://cf504206.cloudfree.jp/*
 *://cf962692.cloudfree.jp/*
 *://cfksaklwnx.xyz/*
 *://cg-corp.com/*
