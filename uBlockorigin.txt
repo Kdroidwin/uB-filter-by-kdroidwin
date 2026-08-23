@@ -7638,6 +7638,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/fair_godwit545^$document
 ||note.com/fashere^$document
 ||note.com/females_db_park^$document
+||note.com/finalmouse^$document
 ||note.com/fine_gerbil9006^$document
 ||note.com/fit_hyssop6243^$document
 ||note.com/fit_quince2164^$document
@@ -7876,6 +7877,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/milbon_^$document
 ||note.com/mild_badger6936^$document
 ||note.com/mild_ruff676^$document
+||note.com/mild_tapir4980^$document
 ||note.com/mingaje333^$document
 ||note.com/mippasan^$document
 ||note.com/mitsubachi0088^$document
@@ -7998,6 +8000,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/realme_note^$document
 ||note.com/reboot_ojisan^$document
 ||note.com/regal_allium4153^$document
+||note.com/regal_quail2199^$document
 ||note.com/reiwamoney1^$document
 ||note.com/relaxmax^$document
 ||note.com/ren_1192^$document
@@ -13187,6 +13190,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.pfu.ricoh.com^$document
 ||www.pgauhhz.cn^$document
 ||www.pgyer.com^$document
+||www.pharmacistagent.com^$document
 ||www.phatmansafterschool.com^$document
 ||www.phoenixresidences-okp.com^$document
 ||www.phonecasejapanshop.com^$document
