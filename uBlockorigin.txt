@@ -1,6 +1,5 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-/^https?:\/\/[^/]*\.cloudfree\.jp\/hitomi-doujin-raw\/d_\d{6}.*$/$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -48,6 +47,7 @@
 /^https?:\/\/([^\/]+\.)?ur\d{3}\.jp\//
 /^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
 /^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
+/^https?:\/\/[^/]*\.cloudfree\.jp\/hitomi-doujin-raw\/d_\d{6}.*$/$document
 /^https?:\/\/[^\/]*pay(?=[^\/]*\d[^\/]*\d[^\/]*\d)[^\/]*\.com(?:[/?#]|$)/
 /^https?:\/\/[a-z0-9]{20,}\.[a-z0-9.-]*\.cn\//$document
 /^https?:\/\/[a-z0-9]{25,}\.[a-z0-9.-]*\.br\//$document
@@ -3168,6 +3168,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ero-dojin.net^$document
 ||ero-doujin-lab.com^$document
 ||ero-duma.com^$document
+||ero-maga99.com^$document
 ||ero-manga-japan.com^$document
 ||ero-manga-navi.com^$document
 ||ero-manga-wilds.blog.jp^$document
@@ -4667,6 +4668,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitotumakansatu.net^$document
 ||hitoyo-movie.jp^$document
 ||hitoyoshi-hp.jp^$document
+||hitozuma-dojin.com^$document
 ||hitozuma-ntr-manga.com^$document
 ||hitozumanga.wpx.jp^$document
 ||hitsukeyaku.com^$document

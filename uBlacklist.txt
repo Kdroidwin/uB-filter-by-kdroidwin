@@ -1,5 +1,3 @@
-*://hitozuma-dojin.com/*
-*://ero-maga99.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13738,6 +13736,7 @@
 *://ero-dojin.net/*
 *://ero-doujin-lab.com/*
 *://ero-duma.com/*
+*://ero-maga99.com/*
 *://ero-manga-japan.com/*
 *://ero-manga-navi.com/*
 *://ero-manga-wilds.blog.jp/*
@@ -15222,6 +15221,7 @@
 *://hitotumakansatu.net/*
 *://hitoyo-movie.jp/*
 *://hitoyoshi-hp.jp/*
+*://hitozuma-dojin.com/*
 *://hitozuma-ntr-manga.com/*
 *://hitozumanga.wpx.jp/*
 *://hitsukeyaku.com/*
