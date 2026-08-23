@@ -1,5 +1,3 @@
-*://hitomi-missav02.com/*
-*://hitomi-missav04.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15184,7 +15182,9 @@
 *://hitomi-manga-hentai.com/*
 *://hitomi-mangaraw01.com/*
 *://hitomi-missav01.com/*
+*://hitomi-missav02.com/*
 *://hitomi-missav03.com/*
+*://hitomi-missav04.com/*
 *://hitomi-nhentai.com/*
 *://hitomi-official.jp/*
 *://hitomi-raw-eromanga.com/*

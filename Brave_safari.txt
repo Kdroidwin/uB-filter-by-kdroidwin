@@ -8,6 +8,7 @@
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
+/^(https?:\/\/)?([^/]+\.)?hitomi-missav\d+\.com(?:\/|$)/$document
 /^.*(qr-paydaygo).*\.com(/[a-z0-9_-]?.*)?$/$doc
 /^.*(qr-topayday).*\.com(/[a-z0-9_-]?.*)?$/$doc
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
@@ -4628,7 +4629,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-manga-hentai.com^$document
 ||hitomi-mangaraw01.com^$document
 ||hitomi-missav01.com^$document
+||hitomi-missav02.com^$document
 ||hitomi-missav03.com^$document
+||hitomi-missav04.com^$document
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
