@@ -10020,6 +10020,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||slope-media.jp^$document
 ||slot.2chblog.jp^$document
 ||slub.findcy.wiki^$document
+||smagal.daralog.net^$document
 ||smahangtuah5.sch.id^$document
 ||smahospital.jp/column/recommend^$document
 ||small-realization.com^$document

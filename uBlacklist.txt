@@ -1,4 +1,3 @@
-*://smagal.daralog.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -20449,6 +20448,7 @@
 *://sloloura.com/*
 *://slope-media.jp/*
 *://slub.findcy.wiki/*
+*://smagal.daralog.net/*
 *://smahangtuah5.sch.id/*
 *://smahospital.jp/column/recommend/*
 *://small-realization.com/*
