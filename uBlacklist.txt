@@ -1,3 +1,14 @@
+*://kyonyu-legend.com/*
+*://otona-review-navi.com/*
+*://erokamikagura.com/*
+*://hikari-dog.jp/*
+*://gamecomplex.jp/*
+*://*.gamecomplex.jp/*
+*://bedubz.com/*
+*://*.com/dmm-item/d_*/*
+*://*.jp/dmm-item/d_*/*
+*://*.net/dmm-item/d_*/*
+*://mola-k.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
