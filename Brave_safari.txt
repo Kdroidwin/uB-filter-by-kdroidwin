@@ -3223,6 +3223,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erogazo-teikoku.com^$document
 ||erogazoudb.com^$document
 ||eroge-maso.com^$document
+||eroge-movie.com^$document
 ||eroge.dldshare.net^$document
 ||eroge.erodl.cfbx.jp^$document
 ||erogetorrent2.blog.fc2.com^$document
@@ -8403,6 +8404,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||olumabazi.obentreprendre.fr^$document
 ||olympiads.ru^$document
 ||omaezaki-osp.com^$document
+||omamenomame.com^$document
 ||omanasu.com^$document
 ||omersxf4.afibrake.com^$document
 ||omix1967.com^$document
@@ -12398,6 +12400,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-50.net^$document
 ||www.eromanga-muryou-hitomi-52.net^$document
 ||www.eromanga-muryou-hitomi-53.net^$document
+||www.eromanga-muryou-hitomi-55.net^$document
 ||www.eromanga-muryou-hitomi-raw-1.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
