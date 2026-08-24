@@ -1629,6 +1629,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blockc*.pages.dev$document
 ||blockcheck*.page.dev$document
 ||blockchecker.github.io^$document
+||blockusers.github.io^$document
 ||blog-chiaki.com^$document
 ||blog.almaherbal.com^$document
 ||blog.codecamp.jp^$document
@@ -11414,6 +11415,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vcardqr.in^$document
 ||vcaretitlellc.com^$document
 ||vcchristianchurch.com^$document
+||vdxzfgf.github.io^$document
 ||veeam.ru^$document
 ||veezlfa.biz^$document
 ||vefund.io^$document
@@ -13881,6 +13883,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
 ||xblock*.page.dev$document
+||xblock-xchecker.pages.dev^$document
 ||xbof*.pages.dev$document
 ||xbof.pages.dev^$document
 ||xbuba.com^$document
@@ -13896,6 +13899,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xis2p9rqc.wydawnictwopbb.pl^$document
 ||xiywa.info^$document
 ||xjyzaty.life^$document
+||xkakuninn.pages.dev^$document
 ||xmnsqet.com^$document
 ||xmobile-allagi.jp^$document
 ||xmobile.ne.jp^$document
