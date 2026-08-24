@@ -1,4 +1,3 @@
-*://aicheckers.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11316,6 +11315,7 @@
 *://aiboku-com.vercel.app/*
 *://aibus.co.uk/*
 *://aichansblog.com/*
+*://aicheckers.net/*
 *://aichi-nagoya-startups.jp/*
 *://aichi-sports-kenren.jp/*
 *://aichi-waza.jp/*

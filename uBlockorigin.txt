@@ -703,6 +703,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aiboku-com.vercel.app^$document
 ||aibus.co.uk^$document
 ||aichansblog.com^$document
+||aicheckers.net^$document
 ||aichi-nagoya-startups.jp^$document
 ||aichi-sports-kenren.jp^$document
 ||aichi-waza.jp^$document
