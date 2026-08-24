@@ -1,4 +1,3 @@
-*://cf645694.cloudfree.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12569,6 +12568,7 @@
 *://cezardouvretoi.fr/*
 *://cf2.top/*
 *://cf504206.cloudfree.jp/*
+*://cf645694.cloudfree.jp/*
 *://cf962692.cloudfree.jp/*
 *://cfksaklwnx.xyz/*
 *://cg-corp.com/*
