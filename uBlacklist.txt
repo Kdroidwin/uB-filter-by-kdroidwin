@@ -1,14 +1,3 @@
-*://kyonyu-legend.com/*
-*://otona-review-navi.com/*
-*://erokamikagura.com/*
-*://hikari-dog.jp/*
-*://gamecomplex.jp/*
-*://*.gamecomplex.jp/*
-*://bedubz.com/*
-*://*.com/dmm-item/d_*/*
-*://*.jp/dmm-item/d_*/*
-*://*.net/dmm-item/d_*/*
-*://mola-k.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -2706,6 +2695,7 @@
 *://*.com/ammika.php?*
 *://*.com/comment.php?*
 *://*.com/comment.php?y*
+*://*.com/dmm-item/d_*/*
 *://*.com/doujin/d_*
 *://*.com/hiroshi.php?*
 *://*.com/index.php/*//?_g=*
@@ -3804,6 +3794,7 @@
 *://*.forese.life/*
 *://*.fr/index*.php//?*
 *://*.fromation.co.jp/*
+*://*.gamecomplex.jp/*
 *://*.gamemodfree.com/*
 *://*.games/?t.*
 *://*.ge/*.shtml
@@ -5972,6 +5963,7 @@
 *://*.jp.uk/*
 *://*.jp.us/*
 *://*.jp.vn/*
+*://*.jp/dmm-item/d_*/*
 *://*.kanazawa-round.jp/*
 *://*.kandatasokuho.com/*
 *://*.katsumoku.net/*
@@ -7035,6 +7027,7 @@
 *://*.my/*
 *://*.myxstalk.lol/*
 *://*.namaeuranai.biz/*
+*://*.net/dmm-item/d_*/*
 *://*.net/index.php//?a=*
 *://*.net/index.php?shopping/*
 *://*.net/shop/*.shtm
@@ -12103,6 +12096,7 @@
 *://bebordeaux.jp/*
 *://bedbathclose.com/*
 *://bedrockinfra.com/*
+*://bedubz.com/*
 *://beelzeboulxxx.com/*
 *://beerprice.life/*
 *://beforeitsnews.com/*
@@ -13815,6 +13809,7 @@
 *://eroichi.com/*
 *://eroiinazuma.space/*
 *://erojavtv.com/*
+*://erokamikagura.com/*
 *://erokatter.com/*
 *://erologz.com/*
 *://eromagan.com/*
@@ -14393,6 +14388,7 @@
 *://gameapp-labo.jp/*
 *://gameappch.com/*
 *://gameappli555.com/*
+*://gamecomplex.jp/*
 *://gamedva.com/*
 *://gamefabrique.com/*
 *://gamefabrique.ru/*
@@ -15131,6 +15127,7 @@
 *://hikaku.kurashiru.com/*
 *://hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW*
 *://hikamoba.com/*
+*://hikari-dog.jp/*
 *://hikari-iyashi.com/*
 *://hikaribatake.com/*
 *://hikeyblog.com/*
@@ -16437,6 +16434,7 @@
 *://kyiy.xxasj.cn/*
 *://kyokasho.ritsuto.org/*
 *://kyokyu.net/*
+*://kyonyu-legend.com/*
 *://kyonyu-review.xyz/*
 *://kyonyumanga.wpx.jp/*
 *://kyoto-paris.net/*
@@ -17440,6 +17438,7 @@
 *://mogura-final.jp/*
 *://mogura-movie.com/*
 *://mokugeki.hatenablog.com/*
+*://mola-k.com/*
 *://mollymam.com/*
 *://molto15z.sarangkkb.com/*
 *://molulabo.com/*
@@ -19062,6 +19061,7 @@
 *://otona-comic.com/*
 *://otona-freecomic.jp/*
 *://otona-radar.jp/*
+*://otona-review-navi.com/*
 *://otona-zukan.net/*
 *://otonaclub.mixh.jp/*
 *://otonakensaku.com/*
