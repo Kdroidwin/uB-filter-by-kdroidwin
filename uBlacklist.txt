@@ -1,5 +1,3 @@
-*://www.my-game.jp/*
-*://my-game.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17619,6 +17617,7 @@
 *://mwdentistry.com/*
 *://mwtossxuwcgz.xkescgb.cn/*
 *://my-best.com/*
+*://my-game.jp/*
 *://my-life-work.com/*
 *://my-own-pace.com/*
 *://my-site-102068-108917.square.site/*
@@ -23434,6 +23433,7 @@
 *://www.musical-tomandjerry.jp/*
 *://www.musictrades.co.jp/*
 *://www.mutualjerarquicos.org/*
+*://www.my-game.jp/*
 *://www.myclass.jp/*
 *://www.mysqlserver.cn/*
 *://www.myzone.shop/*

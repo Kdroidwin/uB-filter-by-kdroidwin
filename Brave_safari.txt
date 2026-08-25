@@ -7104,6 +7104,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mwdentistry.com^$document
 ||mwtossxuwcgz.xkescgb.cn^$document
 ||my-best.com^$document
+||my-game.jp^$document
 ||my-life-work.com^$document
 ||my-own-pace.com^$document
 ||my-site-102068-108917.square.site^$document
@@ -13097,6 +13098,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.musical-tomandjerry.jp^$document
 ||www.musictrades.co.jp^$document
 ||www.mutualjerarquicos.org^$document
+||www.my-game.jp^$document
 ||www.myclass.jp^$document
 ||www.mysqlserver.cn^$document
 ||www.myzone.shop^$document
