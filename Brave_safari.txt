@@ -693,6 +693,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ai-skill-academy.netlify.app^$document
 ||ai-skill.jp^$document
 ||ai-sns-strategy-lp.vercel.app^$document
+||ai-tokushima.jp^$document
 ||ai-uruoi.com^$document
 ||ai.45rina.com^$document
 ||ai.doujin-comic.com^$document
@@ -5388,6 +5389,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kae.me^$document
 ||kaeln.net^$document
 ||kafaco.co.tz^$document
+||kagawa-jiko.jp^$document
 ||kagawaumigomi.jp^$document
 ||kagelife.com^$document
 ||kagerou-kazoku.com^$document
@@ -10942,6 +10944,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||todayeiga.com^$document
 ||togashira7777.site^$document
 ||togisuma.com^$document
+||tokaishi-cashless.jp^$document
 ||tokinooto.jp^$document
 ||tokinotobila.com^$document
 ||tokiryo.net^$document
@@ -11482,6 +11485,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||visasyst.com^$document
 ||vision-digital.co^$document
 ||visionvinylflooring.com^$document
+||visit-toyama.com^$document
 ||visual-foxpro-programmer.com^$document
 ||vitabase.jp^$document
 ||vitalness.jp^$document
@@ -12501,6 +12505,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.fujiya-avic.co.jp^$document
 ||www.fukkou-nebuta.jp^$document
 ||www.fukuoka-fa.com^$document
+||www.fukuoka3f.com^$document
 ||www.fuliivh.cn^$document
 ||www.fulimdk.cn^$document
 ||www.fuliolj.cn^$document
@@ -12835,6 +12840,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.karkasi.online^$document
 ||www.karzusp.net^$document
 ||www.kashi-mo.com^$document
+||www.kashiba-jyougesuidou.nara.jp^$document
 ||www.kawa.coffee^$document
 ||www.kazenodenwa.com^$document
 ||www.kaznao.com^$document
@@ -13256,6 +13262,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.powerautomate.cn^$document
 ||www.pplmw.cn^$document
 ||www.praveensivaprasad.com^$document
+||www.preftottori-bousai-view.jp^$document
 ||www.premier-enterprisesolutions.com^$document
 ||www.prerele.com^$document
 ||www.prime-service.info^$document
@@ -13830,6 +13837,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.yodersredbarn.com^$document
 ||www.yoko123.com^$document
 ||www.yoshi-mizumaki.jp^$document
+||www.yoshikan.jp^$document
 ||www.yoshimasa-hosoya.com^$document
 ||www.yosoku.website^$document
 ||www.youki8322.com^$document
@@ -14074,6 +14082,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yama.minato-yamaguchi.co.jp^$document
 ||yamabukisaaya.cn^$document
 ||yamagata-dainigeka.jp^$document
+||yamagata-domannaka.jp^$document
 ||yamahack.com^$document
 ||yamamii.com^$document
 ||yamanashi-med.ac.jp^$document
