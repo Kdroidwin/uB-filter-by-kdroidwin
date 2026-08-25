@@ -1,4 +1,3 @@
-*://www.brain-s.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -22470,6 +22469,7 @@
 *://www.bouenzai.com/*
 *://www.boxh0d2lu.xyz/*
 *://www.boyard-str.ru/*
+*://www.brain-s.com/*
 *://www.brandnew-amy.com/*
 *://www.brandycampcrew.com/*
 *://www.breguet.cn/*

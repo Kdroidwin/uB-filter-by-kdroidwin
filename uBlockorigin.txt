@@ -12140,6 +12140,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.bouenzai.com^$document
 ||www.boxh0d2lu.xyz^$document
 ||www.boyard-str.ru^$document
+||www.brain-s.com^$document
 ||www.brandnew-amy.com^$document
 ||www.brandycampcrew.com^$document
 ||www.breguet.cn^$document
