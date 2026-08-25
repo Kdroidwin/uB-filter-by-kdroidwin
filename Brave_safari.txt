@@ -2759,6 +2759,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-archive.com^$document
 ||doujin-authors.com^$document
 ||doujin-comics.toremani.com^$document
+||doujin-dig.com^$document
 ||doujin-ero-manga.com^$document
 ||doujin-erofutanari.adult-h.com^$document
 ||doujin-erogazou.com^$document
@@ -3167,6 +3168,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ero-anime.cfbx.jp^$document
 ||ero-av-douga.com^$document
 ||ero-av-manga.xn--3kq96f810a.jp^$document
+||ero-comic-hunter.net^$document
 ||ero-comic.jp^$document
 ||ero-db-club.com^$document
 ||ero-dojin.net^$document
@@ -3207,6 +3209,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erodojin.ero-info-antena.site^$document
 ||erodojinplus.com^$document
 ||erodouga-nadonado.com^$document
+||erodoujin-kuchikomireview.com^$document
 ||erodoujin-lab.com^$document
 ||erodoujin-manman.com^$document
 ||erodoujin-muryou.net^$document
@@ -3289,6 +3292,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga0728j.online^$document
 ||eromangadoujin.com^$document
 ||eromangagaga.wpx.jp^$document
+||eromangaizum.com^$document
 ||eromangajiru.com^$document
 ||eromangajukujo.com^$document
 ||eromangamania.com^$document
@@ -5830,6 +5834,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kowai-torauma.unij.co.jp^$document
 ||kowani123.com^$document
 ||kowloonspecial.com^$document
+||koyoichi.com^$document
 ||koyoki-happy-life.com^$document
 ||kozutsumi.net^$document
 ||kozy2525.hatenablog.com^$document
@@ -6792,6 +6797,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mirai-h.com^$document
 ||mirai-tohoku.jp^$document
 ||miraiand.com^$document
+||miraideaimatch.com^$document
 ||miraie.org^$document
 ||mirailab-blog.com^$document
 ||mirandadeutsch.com^$document
@@ -7123,6 +7129,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mytrend.info^$document
 ||myuryoudoujinnsennbaisokuhou.com^$document
 ||myxstalk.lol^$document
+||n-ns.jp^$document
 ||n-trend.com^$document
 ||n-yu.com^$document
 ||n2-ch.com^$document
@@ -13289,6 +13296,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.quick-drink.at^$document
 ||www.quickporn.jp^$document
 ||www.qygzknr.cn^$document
+||www.r18index.net^$document
 ||www.rabbanmoto.com^$document
 ||www.raca.marketing^$document
 ||www.radiobijelopolje.me^$document
