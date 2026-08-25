@@ -718,6 +718,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aigazo.com^$document
 ||aigazou.blog.jp^$document
 ||aiiku3.com^$document
+||aijinmonogatari.com^$document
 ||aijobs.app^$document
 ||aikissingvideogenerator.org^$document
 ||aikiu.online^$document
@@ -9897,6 +9898,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shirashiratama-blog.com^$document
 ||shirashiru.com^$document
 ||shiratorimonogatari.jp^$document
+||shiro-av.com^$document
 ||shiro-mi.com^$document
 ||shiro.ousyukubai.com^$document
 ||shiro24.com^$document

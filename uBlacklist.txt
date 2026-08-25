@@ -1,5 +1,3 @@
-*://shiro-av.com/*
-*://aijinmonogatari.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11335,6 +11333,7 @@
 *://aigamo8.com/*
 *://aigazou.blog.jp/*
 *://aiiku3.com/*
+*://aijinmonogatari.com/*
 *://aikissingvideogenerator.org/*
 *://aikiu.online/*
 *://aikru.com/*
@@ -20336,6 +20335,7 @@
 *://shirashiratama-blog.com/*
 *://shirashiru.com/*
 *://shiratorimonogatari.jp/*
+*://shiro-av.com/*
 *://shiro-mi.com/*
 *://shiro.ousyukubai.com/*
 *://shiro24.com/*
