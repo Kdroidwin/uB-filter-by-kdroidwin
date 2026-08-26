@@ -1,5 +1,3 @@
-*://kinsin-archives.com/*
-*://note.com/brave_hare514/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16188,6 +16186,7 @@
 *://kinon-kamakura.com/products/*
 *://kinoshita-reon.jp/*
 *://kinsai.jp/*
+*://kinsin-archives.com/*
 *://kintarogroup.com/*
 *://kiokunashi-movie.jp/*
 *://kiragamiteru.com/*
@@ -18106,6 +18105,7 @@
 *://note.com/bostonmio/*
 *://note.com/botemaker/*
 *://note.com/brave_borage2759/*
+*://note.com/brave_hare514/*
 *://note.com/bright_llama373/*
 *://note.com/bright_stilt607/*
 *://note.com/brisk_gnu6597/*

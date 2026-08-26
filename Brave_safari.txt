@@ -5647,6 +5647,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kinon-kamakura.com/products^$document
 ||kinoshita-reon.jp^$document
 ||kinsai.jp^$document
+||kinsin-archives.com^$document
 ||kintarogroup.com^$document
 ||kiokunashi-movie.jp^$document
 ||kiragamiteru.com^$document
@@ -7603,6 +7604,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/bostonmio^$document
 ||note.com/botemaker^$document
 ||note.com/brave_borage2759^$document
+||note.com/brave_hare514^$document
 ||note.com/bright_llama373^$document
 ||note.com/bright_stilt607^$document
 ||note.com/brisk_gnu6597^$document
