@@ -1,6 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
-! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
+! Expires: 12 hours (update frequency)
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -722,6 +722,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aiiku3.com^$document
 ||aijinmonogatari.com^$document
 ||aijobs.app^$document
+||aijyou-syokusai.jp^$document
 ||aikissingvideogenerator.org^$document
 ||aikiu.online^$document
 ||aikru.com^$document

@@ -1,4 +1,3 @@
-*://aijyou-syokusai.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11336,6 +11335,7 @@
 *://aigazou.blog.jp/*
 *://aiiku3.com/*
 *://aijinmonogatari.com/*
+*://aijyou-syokusai.jp/*
 *://aikissingvideogenerator.org/*
 *://aikiu.online/*
 *://aikru.com/*
