@@ -1,4 +1,3 @@
-*://bytech.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12471,6 +12470,7 @@
 *://byp.yongjoo.za.com/*
 *://byqz.uzvkniid.love/*
 *://byslww.cn/*
+*://bytech.jp/*
 *://byurubyuru.syokusamen.com/*
 *://bzdiy.taobao.com/*
 *://bzmm.jp/*

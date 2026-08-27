@@ -1884,6 +1884,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||byp.yongjoo.za.com^$document
 ||byqz.uzvkniid.love^$document
 ||byslww.cn^$document
+||bytech.jp^$document
 ||byurubyuru.syokusamen.com^$document
 ||bzdiy.taobao.com^$document
 ||bzmm.jp^$document
