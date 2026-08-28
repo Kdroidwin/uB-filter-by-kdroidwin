@@ -1,7 +1,4 @@
 *://*.000webhostapp.com/*
-*://turbo-vpn.jp.uptodown.com/*
-*://vpnproxymaster.com/*
-*://jumpjump.io/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -15894,6 +15891,7 @@
 *://jukujomanga.wpx.jp/*
 *://juliatrofimenko.ru/*
 *://jump-netabare.love/*
+*://jumpjump.io/*
 *://jumpscare.link/*
 *://jumpu2021.com/*
 *://junabroadinfo.com/*
@@ -21600,6 +21598,7 @@
 *://tuition.tamilcube.com/*
 *://tukuriba.jp/*
 *://tunejpn.jwbni.com/*
+*://turbo-vpn.jp.uptodown.com/*
 *://turbovpn.com/*
 *://tureduresuzume.com/*
 *://turezurenaru-zakki.com/*
@@ -21935,6 +21934,7 @@
 *://vpnlove.me/*
 *://vpnmedia.jp/*
 *://vpnnippon.jp/*
+*://vpnproxymaster.com/*
 *://vpnserver.sakura.ne.jp/*
 *://vpnsetsu.com/*
 *://vpnveteran.com/*

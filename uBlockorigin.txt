@@ -5349,6 +5349,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jukujomanga.wpx.jp^$document
 ||juliatrofimenko.ru^$document
 ||jump-netabare.love^$document
+||jumpjump.io^$document
 ||jumpscare.link^$document
 ||jumpu2021.com^$document
 ||junabroadinfo.com^$document
@@ -11222,6 +11223,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tuition.tamilcube.com^$document
 ||tukuriba.jp^$document
 ||tunejpn.jwbni.com^$document
+||turbo-vpn.jp.uptodown.com^$document
 ||turbovpn.com^$document
 ||tureduresuzume.com^$document
 ||turezurenaru-zakki.com^$document
@@ -11571,6 +11573,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vpnmedia.jp^$document
 ||vpnmentor.com^$document
 ||vpnnippon.jp^$document
+||vpnproxymaster.com^$document
 ||vpnserver.sakura.ne.jp^$document
 ||vpnsetsu.com^$document
 ||vpnveteran.com^$document
