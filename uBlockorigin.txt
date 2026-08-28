@@ -2085,6 +2085,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chingqiu.com^$document
 ||chirkrpy.jettysuites.com^$document
 ||chisan-eco.jp^$document
+||chishikiya.blog^$document
 ||chiyuki.jp^$document
 ||chlog.work^$document
 ||chmate.en.greenxf.com^$document

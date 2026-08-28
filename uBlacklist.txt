@@ -1,4 +1,3 @@
-*://chishikiya.blog/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12667,6 +12666,7 @@
 *://chingqiu.com/*
 *://chirkrpy.jettysuites.com/*
 *://chisan-eco.jp/*
+*://chishikiya.blog/*
 *://chiyuki.jp/*
 *://chlog.work/*
 *://chmate.en.greenxf.com/*
