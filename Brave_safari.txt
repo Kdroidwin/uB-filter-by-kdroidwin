@@ -1,6 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(Brave,Safari,Vivaldi)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
-! Expires: 12 hours (update frequency)
+! Expires: 2 hours (update frequency)
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
