@@ -4662,6 +4662,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-raw.cfbx.jp^$document
 ||hitomi-raw.lsrv.jp^$document
 ||hitomi-raw2.wew.jp^$document
+||hitomi-rawhentai.com^$document
 ||hitomi-rawhentai06.com^$document
 ||hitomi-vg.com^$document
 ||hitomi.median-net.jp^$document
@@ -6028,6 +6029,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lemonso-da.hatenablog.com^$document
 ||lenclosduruisseau.re^$document
 ||les-koko.com^$document
+||les.wpx.jp^$document
 ||lesac.ru^$document
 ||lestermods.com^$document
 ||letsmods.com^$document
@@ -6962,6 +6964,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momonga-raw.com^$document
 ||momonga-raw01.com^$document
 ||momonga-raw02.com^$document
+||momonga-raw04.com^$document
 ||momonga.hitomi-manga-hentai.com^$document
 ||momonga.humi.jp^$document
 ||momongaraw.jp^$document

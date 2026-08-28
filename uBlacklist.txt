@@ -1,6 +1,3 @@
-*://momonga-raw04.com/*
-*://hitomi-rawhentai.com/*
-*://les.wpx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15221,6 +15218,7 @@
 *://hitomi-raw.cfbx.jp/*
 *://hitomi-raw.lsrv.jp/*
 *://hitomi-raw2.wew.jp/*
+*://hitomi-rawhentai.com/*
 *://hitomi-rawhentai06.com/*
 *://hitomi-vg.com/*
 *://hitomi.median-net.jp/*
@@ -16562,6 +16560,7 @@
 *://lemonso-da.hatenablog.com/*
 *://lenclosduruisseau.re/*
 *://les-koko.com/*
+*://les.wpx.jp/*
 *://lesac.ru/*
 *://lestermods.com/*
 *://letsmods.com/*
@@ -17478,6 +17477,7 @@
 *://momonga-raw.com/*
 *://momonga-raw01.com/*
 *://momonga-raw02.com/*
+*://momonga-raw04.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momonga.humi.jp/*
 *://momongaraw.jp/*
