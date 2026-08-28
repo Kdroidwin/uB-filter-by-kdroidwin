@@ -4654,6 +4654,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-missav03.com^$document
 ||hitomi-missav04.com^$document
 ||hitomi-missav05.com^$document
+||hitomi-missav06.com^$document
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
