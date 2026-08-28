@@ -1,4 +1,3 @@
-*://www.icomdirect.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -23046,6 +23045,7 @@
 *://www.i-dont-care-about-cookies.eu/*
 *://www.ibaozhen.xyz/*
 *://www.ichigo-macaron.com/*
+*://www.icomdirect.jp/*
 *://www.icomu-master.info/*
 *://www.idealhomeappliances.com/*
 *://www.idobata.online/*

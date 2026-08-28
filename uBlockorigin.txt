@@ -12719,6 +12719,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.i-dont-care-about-cookies.eu^$document
 ||www.ibaozhen.xyz^$document
 ||www.ichigo-macaron.com^$document
+||www.icomdirect.jp^$document
 ||www.icomu-master.info^$document
 ||www.idealhomeappliances.com^$document
 ||www.idobata.online^$document
