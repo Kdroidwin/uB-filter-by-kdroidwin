@@ -10755,6 +10755,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tenshoku-antenna.com^$document
 ||tenten-maron1.com^$document
 ||tenten-shop.com^$document
+||teppeifree.com^$document
 ||tera-jp.com^$document
 ||terajin.gger.jp^$document
 ||terakoya.sejuku.net^$document
