@@ -9833,6 +9833,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||seshiminblog.com^$document
 ||sesses.info^$document
 ||sessioncam.jp^$document
+||settlersportal.com^$document
 ||seu.gwcbpgnp.shop^$document
 ||seven-knives.online^$document
 ||seven4.jp^$document

@@ -1,4 +1,3 @@
-*://settlersportal.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -20271,6 +20270,7 @@
 *://seshiminblog.com/*
 *://sesses.info/*
 *://sessioncam.jp/*
+*://settlersportal.com/*
 *://seu.gwcbpgnp.shop/*
 *://seven-knives.online/*
 *://seven4.jp/*
