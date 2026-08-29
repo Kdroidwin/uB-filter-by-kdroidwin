@@ -6126,6 +6126,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||liupanlove.me^$document
 ||liv-futsal.jp^$document
 ||live-happily-blog.com^$document
+||live-ph.cc^$document
 ||live-pq.cc^$document
 ||live.doneru.jp^$document
 ||livecafe-jive.com^$document
@@ -11821,6 +11822,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||worldofwarships.ru^$document
 ||wovenmsz.bizandleisure.com^$document
 ||wow-parfait.com^$document
+||wow.live-ph.cc^$document
 ||wow.thu.cn^$document
 ||wowbz.taobao.com^$document
 ||wowdiy.taobao.com^$document

@@ -1,5 +1,3 @@
-*://wow.live-ph.cc/*
-*://live-ph.cc/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16657,6 +16655,7 @@
 *://liupanlove.me/*
 *://liv-futsal.jp/*
 *://live-happily-blog.com/*
+*://live-ph.cc/*
 *://live-pq.cc/*
 *://live.doneru.jp/*
 *://livecafe-jive.com/*
@@ -22154,6 +22153,7 @@
 *://worldofwarships.ru/*
 *://wovenmsz.bizandleisure.com/*
 *://wow-parfait.com/*
+*://wow.live-ph.cc/*
 *://wow.thu.cn/*
 *://wowbz.taobao.com/*
 *://wowdiy.taobao.com/*
