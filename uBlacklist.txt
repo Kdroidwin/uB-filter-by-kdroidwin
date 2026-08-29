@@ -14732,7 +14732,6 @@
 *://goodtime0909.com/*
 *://google-engineering-practices.translation.shuuji3.xyz/*
 *://google.bearlele.top/*
-*://google.me/*
 *://googlejapan.blogspot.co.uk/*
 *://goopass.club/*
 *://goopass.jp/*
@@ -22256,7 +22255,6 @@
 *://www.abemame.com/*
 *://www.about-test.info/*
 *://www.absher-erp.com/*
-*://www.accenture.cn/*
 *://www.accenture.ex1.https.443.ipv6.faw.com.cn/*
 *://www.accessoryrail.com/*
 *://www.acciyo.com/*
@@ -22371,7 +22369,6 @@
 *://www.appbank.net/*
 *://www.appbank.net/app-rank/useful/vpn-app*
 *://www.appbrain.com/*
-*://www.apple.com.cn/*
 *://www.apple.com.https.443.362d2d3a6e.a.proxy1.ipv6.xiangtan.gov.cn/*
 *://www.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
 *://www.apple.info/*
@@ -22419,7 +22416,6 @@
 *://www.azbil.co.uk/*
 *://www.azen-o.com/*
 *://www.azfinsoft.com/*
-*://www.azure.cn/*
 *://www.baawamusicfestival.com/*
 *://www.babulilm.ie/*
 *://www.baghdadacademydom.com/*
@@ -23074,8 +23070,6 @@
 *://www.instagram.com/hianime.official/*
 *://www.instagram.com/myulier_aiart/*
 *://www.intambwemedia.com/*
-*://www.intel.cn/*
-*://www.intel.ru/*
 *://www.interface.ru/*
 *://www.interlink.or.jp/*
 *://www.ipaccelerator.info/*
@@ -23612,7 +23606,6 @@
 *://www.polybandas.cl/*
 *://www.pondicherrychess.com/*
 *://www.popculturepulse.website/*
-*://www.porsche.cn/*
 *://www.positiveaction.info/*
 *://www.potamus.tech/*
 *://www.powaisaipooja.com/*
@@ -23776,7 +23769,6 @@
 *://www.santodomingovalparaiso.cl/*
 *://www.sanwo.me/*
 *://www.sanyo-heights.jp/*
-*://www.sap.cn/*
 *://www.sarahzhuang.com/*
 *://www.sarariinourabeya.com/*
 *://www.sarveshinterior.in/*
@@ -23910,7 +23902,6 @@
 *://www.superdramatv.com/*
 *://www.superstarpledis.jp/*
 *://www.supervpn.net/*
-*://www.suunto.cn/*
 *://www.suyamatakuji.com/*
 *://www.suzuco.net/*
 *://www.sweden.cn/*
@@ -23942,7 +23933,6 @@
 *://www.tbbghbv.cn/*
 *://www.tcclinic.jp/*
 *://www.teamos.xyz/*
-*://www.teamviewer.cn/*
 *://www.technopat.net/*
 *://www.techopedia.com/*
 *://www.techspot.com/downloads/*
@@ -23959,7 +23949,6 @@
 *://www.tensortechapps.com/*
 *://www.teppan-tachibana.jp/*
 *://www.teraqol.com/*
-*://www.tesla.cn/*
 *://www.tesonline.ru/*
 *://www.testmart.cn/*
 *://www.testwebsite2024.online/*
@@ -23980,7 +23969,6 @@
 *://www.theprospectvilla.com/*
 *://www.therealbeefbuddies.com/*
 *://www.thermocursos.com/*
-*://www.thermofisher.cn/*
 *://www.therockstarworld.com/*
 *://www.thestudioingatestone.com/*
 *://www.thetravelingmaniac.com/*
@@ -23994,7 +23982,6 @@
 *://www.timbukdo.in/*
 *://www.tkoubaske.jp/*
 *://www.tnfinskills.com/*
-*://www.toburailway.cn/*
 *://www.tochigi-syokutonou.jp/*
 *://www.todon.ru/*
 *://www.todovulva.com/*
@@ -24032,13 +24019,11 @@
 *://www.tsuzukiblog.org/*
 *://www.tubeninja.net/*
 *://www.tuberevanced.com/*
-*://www.tudorwatch.cn/*
 *://www.tuma-no-himitsu.com/*
 *://www.tungacademy.com/*
 *://www.tunyafrika.com/*
 *://www.turncent.com/*
 *://www.turnorpvaautoparte.online/*
-*://www.tuvsud.cn/*
 *://www.tweepsbook.com/*
 *://www.twinarcus.com/*
 *://www.twinrocktools.com/*
@@ -24078,8 +24063,6 @@
 *://www.uzzf.com/*
 *://www.v81entertainment.com/*
 *://www.vaas-lt.com/*
-*://www.vacheron-constantin.cn/*
-*://www.vaisala.cn/*
 *://www.val-de-cognac.com/*
 *://www.value-press.com/*
 *://www.valueadd.se/*
@@ -24087,7 +24070,6 @@
 *://www.vanced.cloud/*
 *://www.vanced.io/*
 *://www.vanceneshop.com/*
-*://www.vancleefarpels.cn/*
 *://www.vandyfxmw.net/*
 *://www.varietynews.info/*
 *://www.various-events.com/*
@@ -24228,7 +24210,6 @@
 *://www.zakzak.co.jp/*
 *://www.zare-kiji-tukai.com/*
 *://www.zcastnmg.cn/*
-*://www.zebra.cn/*
 *://www.zedload.com/*
 *://www.zero-full.com/*
 *://www.zerogo.jp/*
