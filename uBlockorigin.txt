@@ -8989,7 +8989,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||private-note.jp^$document
 ||privatevpn.com^$document
 ||pro-woodfactory.com^$document
-||pro^$document,to=~site.pro|~sitechecker.pro|~polylang.pro|~salebot.pro|~keenetic.pro|~webd.pro|~online.pro|~opus.pro|~awan.pro|~landbot.pro|~quiknode.pro|~hashvault.pro|~divisare.pro
+||pro^$document,to=~site.pro|~sitechecker.pro|~polylang.pro|~salebot.pro|~keenetic.pro|~webd.pro|~online.pro|~opus.pro|~awan.pro|~landbot.pro|~quiknode.pro|~hashvault.pro|~divisare.pro|~ansur.pro
 ||product.info^$document
 ||product.torex.com.cn^$document
 ||products.swagelok.com.cn^$document
