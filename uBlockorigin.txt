@@ -3512,6 +3512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||feynman.co.jp^$document
 ||fezyygqo.auslagerung-pastservice.de^$document
 ||ffo-pr.com^$document
+||fftgmania-symats.blog.jp^$document
 ||ffwpu.family^$document
 ||ffwpu.jp^$document
 ||fgaaaae.bar^$document

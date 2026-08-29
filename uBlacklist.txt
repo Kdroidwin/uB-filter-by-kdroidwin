@@ -1,4 +1,3 @@
-*://fftgmania-symats.blog.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14081,6 +14080,7 @@
 *://feynman.co.jp/*
 *://fezyygqo.auslagerung-pastservice.de/*
 *://ffo-pr.com/*
+*://fftgmania-symats.blog.jp/*
 *://ffwpu.family/*
 *://ffwpu.jp/*
 *://fgaaaae.bar/*
