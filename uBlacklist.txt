@@ -1,5 +1,3 @@
-*://channn.live-ph.cc/*
-*://live-ph.cc/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12600,6 +12598,7 @@
 *://chanko-shiki.com/*
 *://chanmii.com/*
 *://channel-rei.com/*
+*://channn.live-ph.cc/*
 *://chaonoheya.com/*
 *://chapro.jp/*
 *://character-goods.jp/manga*

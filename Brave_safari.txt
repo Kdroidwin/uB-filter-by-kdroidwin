@@ -2015,6 +2015,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chanko-shiki.com^$document
 ||chanmii.com^$document
 ||channel-rei.com^$document
+||channn.live-ph.cc^$document
 ||chaonoheya.com^$document
 ||chaos2ch.com^$document
 ||chapro.jp^$document
