@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||t.me/spyphone042lil$doc
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -2116,6 +2115,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chronictacos.jp^$document
 ||chubushoji.shop-pro.jp^$document
 ||chun-shufu.com^$document
+||chupaso.com^$document
 ||chupea-club.jp^$document
 ||churchfront.me^$document
 ||chushikoku-kaigokango.com^$document
@@ -5341,6 +5341,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jtb-hotspringtickets.vip^$document
 ||jtb-hotspringtickets.xyz^$document
 ||jtbmusic.jp^$document
+||jtgkn.xsrv.jp^$document
 ||jtuto.com^$document
 ||ju.mc-info.jp^$document
 ||juanitomx.com^$document
@@ -10583,6 +10584,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||t.mailinboxes.me^$document
 ||t.me/s/OfficialFTUApps?before=466^$document
 ||t.me/sotaproject^$document
+||t.me/spyphone042lil$doc
 ||t.spnews5.me^$document
 ||t2-3d.jp^$document
 ||t2m.io^$document
@@ -12098,6 +12100,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.baidexpharmacy.com^$document
 ||www.baidu.com^$document
 ||www.bakudanjohnny.com^$document
+||www.bandalgaming.com^$document
 ||www.banggraphix.com^$document
 ||www.banmexanh.com^$document
 ||www.barahaamen.org^$document

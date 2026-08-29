@@ -1,6 +1,3 @@
-*://chupaso.com/*
-*://jtgkn.xsrv.jp/*
-*://www.bandalgaming.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12701,6 +12698,7 @@
 *://chronictacos.jp/*
 *://chubushoji.shop-pro.jp/*
 *://chun-shufu.com/*
+*://chupaso.com/*
 *://chupea-club.jp/*
 *://churchfront.me/*
 *://chushikoku-kaigokango.com/*
@@ -15885,6 +15883,7 @@
 *://jtb-hotspringtickets.vip/*
 *://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
+*://jtgkn.xsrv.jp/*
 *://jtuto.com/*
 *://ju.mc-info.jp/*
 *://juanitomx.com/*
@@ -22429,6 +22428,7 @@
 *://www.baidexpharmacy.com/*
 *://www.baidu.com/*
 *://www.bakudanjohnny.com/*
+*://www.bandalgaming.com/*
 *://www.banggraphix.com/*
 *://www.banmexanh.com/*
 *://www.barahaamen.org/*
