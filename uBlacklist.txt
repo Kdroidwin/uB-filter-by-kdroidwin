@@ -13735,7 +13735,6 @@
 *://epochtimes.jp/*
 *://eposexperts.com/*
 *://epsmic81.hatenablog.com/*
-*://epson.ru/*
 *://eqon.app/*
 *://eraption.com/*
 *://erdj-island.com/*
@@ -22493,7 +22492,6 @@
 *://www.brenzebra.com/*
 *://www.bright-sendai.com/*
 *://www.brighteazy.com/*
-*://www.broadcom.cn/*
 *://www.bronze-paradise-sun-lover.com/*
 *://www.browsercam.com/*
 *://www.btervbaranya.hu/*
@@ -22815,7 +22813,6 @@
 *://www.ferflorest.com/*
 *://www.feriosa.cl/detail/*
 *://www.fernandoaugustoblog.com/*
-*://www.ferrari.cn/*
 *://www.fiabpjm.cn/*
 *://www.figures-makaizou.com/*
 *://www.filehorse.com/*
@@ -22877,7 +22874,6 @@
 *://www.gao200529.top/*
 *://www.garagedoorrepairfortlee.co/*
 *://www.gardenawakenings.com/*
-*://www.garmin.cn/*
 *://www.gatahime.com/*
 *://www.gatchaman-movie.jp/*
 *://www.gaten-yoake.com/*
@@ -22984,7 +22980,6 @@
 *://www.hentaimanga.jp/*
 *://www.herbstowing.ca/*
 *://www.here.xyz/*
-*://www.hermes.cn/*
 *://www.hero-sms.ai/*
 *://www.hero-sms.cc/*
 *://www.hero-sms.co/*
@@ -23105,8 +23100,6 @@
 *://www.iwako-light.com/*
 *://www.j-bronze.jp/*
 *://www.j-love.info/*
-*://www.jabra.cn/*
-*://www.jaeger-lecoultre.cn/*
 *://www.jaic-college.jp/*
 *://www.jana-atur.com/*
 *://www.january202024.com/*
@@ -23287,7 +23280,6 @@
 *://www.locationsmart.info/*
 *://www.locker-room.info/*
 *://www.lodge-sansui.com/*
-*://www.logitech.com.cn/*
 *://www.lojapastore.com/*
 *://www.lojo.org/*
 *://www.lokasi.live/*
@@ -23440,7 +23432,6 @@
 *://www.moutamine.com/*
 *://www.move-inc.jp/*
 *://www.mqfdgqc.cn/*
-*://www.msdmanuals.cn/*
 *://www.mskanak.com/*
 *://www.msweeneynantucket.com/*
 *://www.mtn-world.com/*
@@ -23591,7 +23582,6 @@
 *://www.pilutkiewicz.pl/*
 *://www.pincenter.com/*
 *://www.pirateproxy-bay.com/*
-*://www.pirelli.cn/*
 *://www.pixgenie.net/*
 *://www.planetpixmedia.com/*
 *://www.playstation.ru/*
@@ -23700,7 +23690,6 @@
 *://www.reinya.jp/*
 *://www.reiya330.jp/*
 *://www.rembertovaldes.cl/*
-*://www.renesas.cn/*
 *://www.renovmobils.com/*
 *://www.rentio.jp/matome/2024/05/temu-review/*
 *://www.rentracks.jp/*
@@ -23728,7 +23717,6 @@
 *://www.rocs-project.org/*
 *://www.rogerdubuis.cn/*
 *://www.rogervivier.cn/*
-*://www.rolex.cn/*
 *://www.roomgirl.online/*
 *://www.roots-barber.com/*
 *://www.rosmersholm2023.com/*
