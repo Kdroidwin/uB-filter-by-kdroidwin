@@ -893,6 +893,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/jeda11^$document
 ||ameblo.jp/jishinyochi^$document
 ||ameblo.jp/jyoagold^$document
+||ameblo.jp/kaneshiro-honest-clinic^$document
 ||ameblo.jp/kashima1564^$document
 ||ameblo.jp/keepstreams^$document
 ||ameblo.jp/kimetu-manga^$document

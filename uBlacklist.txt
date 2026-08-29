@@ -4,7 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
-*://ameblo.jp/kaneshiro-honest-clinic/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -11498,6 +11497,7 @@
 *://ameblo.jp/jeda11/*
 *://ameblo.jp/jishinyochi/*
 *://ameblo.jp/jyoagold/*
+*://ameblo.jp/kaneshiro-honest-clinic/*
 *://ameblo.jp/kashima1564*
 *://ameblo.jp/keepstreams/*
 *://ameblo.jp/kimetu-manga*
