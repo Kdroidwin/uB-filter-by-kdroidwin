@@ -13468,7 +13468,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.shizutetsukanko.com^$document
 ||www.sho-t.net^$document
 ||www.shogogor.com^$document
-||www.shonengahosha.co.jp^$document
 ||www.shootingbar-ea.jp^$document
 ||www.shop2000.com.tw/Guan_Qun_Toys^$document
 ||www.shop666.ru^$document
