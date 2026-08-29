@@ -4742,6 +4742,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hololive.livedoor.biz^$document
 ||holotame.com^$document
 ||holy-saito-8151.parallel.jp^$document
+||holyseal.net^$document
 ||holytech.jp^$document
 ||home-medical.online^$document
 ||homeofbead.com^$document
