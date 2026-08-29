@@ -1,4 +1,3 @@
-*://bandal-line-scratch.fly.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12046,6 +12045,7 @@
 *://banapa.net/*
 *://banban-comic.com/*
 *://banbi-eye.com/*
+*://bandal-line-scratch.fly.dev/*
 *://bangladeshnewsbd.com/*
 *://bank.dmm-mania.com/*
 *://banka-movie.com/*

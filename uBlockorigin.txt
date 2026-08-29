@@ -1451,6 +1451,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||banapa.net^$document
 ||banban-comic.com^$document
 ||banbi-eye.com^$document
+||bandal-line-scratch.fly.dev^$document
 ||bangladeshnewsbd.com^$document
 ||bank.dmm-mania.com^$document
 ||banka-movie.com^$document
