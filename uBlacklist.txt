@@ -1,3 +1,8 @@
+*://apps.apple.com/jp/app/ivpn-vpn-for-privacy-security/*
+*://play.google.com/store/apps/details?id=com.mdc.ivpn*
+*://tlauncher.jp.malavida.com/*
+*://flathub.org/ja/apps/org.polymc.PolyMC*
+*://github.com/PolyMC/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
