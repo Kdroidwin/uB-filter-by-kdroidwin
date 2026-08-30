@@ -1917,7 +1917,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||candy-web.net^$document
 ||canij.com^$document
 ||canpmori-canpmori.com^$document
-||canva.me^$document
 ||capacitasalud.com^$document
 ||capitalhomeco.com^$document
 ||capitalizeonconfidence.com^$document
@@ -3162,7 +3161,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||entrepreneur-state-of-africa.com^$document
 ||enxgeki.com^$document
 ||eotqvfnp.hair^$document
-||epicgames.co.uk^$document
 ||epicmaterialdays.com^$document
 ||epochtimes.jp^$document
 ||eposexperts.com^$document
@@ -5487,6 +5485,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||karanpc.info^$document
 ||karanpc.me^$document
 ||karaoke-yumex.jp^$document
+||karasugaming.com^$document
 ||kare-kanojo.blog.ss-blog.jp^$document
 ||karikari.xyz^$document
 ||karin-zakki.com^$document

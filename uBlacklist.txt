@@ -1,4 +1,3 @@
-*://karasugaming.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16026,6 +16025,7 @@
 *://karanpc.info/*
 *://karanpc.me/*
 *://karaoke-yumex.jp/*
+*://karasugaming.com/*
 *://kare-kanojo.blog.ss-blog.jp/*
 *://karikari.xyz/*
 *://karin-zakki.com/*
