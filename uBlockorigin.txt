@@ -1,6 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
+holyseal.net##body::before:style(content:"これは2024年に他者にドロップキャッチされた偽サイトです。"; position:fixed !important; top:10px !important; left:10px !important; width:900px !important; max-width:90vw !important; z-index:2147483647 !important; font-size:28px !important; line-height:1.6 !important; color:white !important; background:#c00 !important; padding:20px 30px !important; font-weight:900 !important; border-radius:6px !important; box-sizing:border-box !important; white-space:normal !important;)
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
