@@ -6579,7 +6579,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||matilda2023.jp^$document
 ||matomabooks.jp^$document
 ||matomake.com^$document
-||matomame.jp^$document
 ||matome-entame.info^$document
 ||matome-plus.com^$document
 ||matome-plus.net^$document
