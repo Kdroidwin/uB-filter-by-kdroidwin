@@ -59,7 +59,6 @@
 /^https?:\/\/[a-z0-9]{32,}\.[a-z0-9.-]*\.au\//$document
 /^https?:\/\/pay\.pay[^/.]*\.[^/]+/
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
-/https?:\/\/(?=[^.]{16,}\.)(?=.*[a-z])(?=.*[0-9])[a-z0-9-]+\.[a-z0-9-]{1,60}\.[a-z0-9-]{1,60}\.amazonaws\.com(\/|$)/$document
 /https?:\/\/[^/]*.app\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.cfbx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/manga\/d_[0-9]{6}(?:\/|$)/$document
