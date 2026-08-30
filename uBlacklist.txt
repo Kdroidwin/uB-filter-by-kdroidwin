@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://x-bloc-check.page-ff4.workers.dev/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
