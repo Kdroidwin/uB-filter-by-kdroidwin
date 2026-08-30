@@ -1,8 +1,3 @@
-*://apps.apple.com/jp/app/ivpn-vpn-for-privacy-security/*
-*://play.google.com/store/apps/details?id=com.mdc.ivpn*
-*://tlauncher.jp.malavida.com/*
-*://flathub.org/ja/apps/org.polymc.PolyMC*
-*://github.com/PolyMC/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11795,6 +11790,7 @@
 *://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
 *://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
 *://apps.apple.com/jp/app/itop-vpn-*
+*://apps.apple.com/jp/app/ivpn-vpn-for-privacy-security/*
 *://apps.apple.com/jp/app/wakoo-%E5%BF%83%E3%81%8C%E5%8B%95%E3%81%8F-%E9%9F%B3%E5%A3%B0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3/id6746478196*
 *://apps.kepanjeneyecenter.com/*
 *://apps.microsoft.com/detail/9pbs27gphv34*
@@ -14160,6 +14156,7 @@
 *://flakep1l.cvs.com.my/*
 *://flashff-blog.com/*
 *://flathub.org/apps/org.polymc.PolyMC*
+*://flathub.org/ja/apps/org.polymc.PolyMC*
 *://fleuri.jp/*
 *://flfillettables.com/*
 *://flgas.com/*
@@ -14626,6 +14623,7 @@
 *://github.com/Nekogram/Nekogram/releases*
 *://github.com/Nekogram/Nekogram/releases/*
 *://github.com/NoName-exe/revanced-extended*
+*://github.com/PolyMC/*
 *://github.com/Svznify/MorpheX*
 *://github.com/TabooPlanner/*
 *://github.com/Tinumpit02/*
@@ -19345,6 +19343,7 @@
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
 *://play.google.com/store/apps/details?id=com.itop.vpnpro*
 *://play.google.com/store/apps/details?id=com.lastpass.lpandroid*
+*://play.google.com/store/apps/details?id=com.mdc.ivpn*
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop&hl=*
 *://play.google.com/store/apps/details?id=com.netmirrorapp2.flixpop*
 *://play.google.com/store/apps/details?id=com.pokeca*
@@ -21335,6 +21334,7 @@
 *://tlauncher.com.tr/*
 *://tlauncher.en.uptodown.com/*
 *://tlauncher.gitlab.io/*
+*://tlauncher.jp.malavida.com/*
 *://tlauncher.jp.uptodown.com/*
 *://tlauncher.org/*
 *://tlauncher.rajce.idnes.cz/*
