@@ -1,7 +1,3 @@
-*://nichiginwatch.hatenadiary.com/*
-*://store.bandalgaming.com/*
-*://*.bandalgaming.com/*
-*://bandalgaming.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -556,6 +552,7 @@
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
 *://*.az/*.shtm
+*://*.bandalgaming.com/*
 *://*.bau-bau.jp/*
 *://*.bcqqvtlk.property/*
 *://*.bo/?a=0*
@@ -12051,6 +12048,7 @@
 *://banban-comic.com/*
 *://banbi-eye.com/*
 *://bandal-line-scratch.fly.dev/*
+*://bandalgaming.com/*
 *://bangladeshnewsbd.com/*
 *://bank.dmm-mania.com/*
 *://banka-movie.com/*
@@ -17951,6 +17949,7 @@
 *://nicelee.top/*
 *://nicenature.top/*
 *://nicespicerestaurant.com/*
+*://nichiginwatch.hatenadiary.com/*
 *://nichijou825.com/*
 *://nichiyaku.info/*
 *://niconicojikkyou.com/*
@@ -20796,6 +20795,7 @@
 *://stor.cdn.dfyun.com.cn/*
 *://store.app-valley.vip/*
 *://store.azki-official.com/*
+*://store.bandalgaming.com/*
 *://store.breguet.cn/*
 *://store.makuake.com/*
 *://store.shopping.yahoo.co.jp/allkeyshopjapan/*

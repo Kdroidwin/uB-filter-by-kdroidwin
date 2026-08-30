@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||kitchen/?a=$doc
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -1455,6 +1454,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||banban-comic.com^$document
 ||banbi-eye.com^$document
 ||bandal-line-scratch.fly.dev^$document
+||bandalgaming.com^$document
 ||bangladeshnewsbd.com^$document
 ||bank.dmm-mania.com^$document
 ||banka-movie.com^$document
@@ -5684,6 +5684,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kisscos.net^$document
 ||kitakyu-cb.jp^$document
 ||kitanosakuramori.jp^$document
+||kitchen/?a=$doc
 ||kitchenbathetc.com^$document
 ||kitchenbypro.com^$document
 ||kitesa5v.virtual-na.org^$document
@@ -7450,6 +7451,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nicelee.top^$document
 ||nicenature.top^$document
 ||nicespicerestaurant.com^$document
+||nichiginwatch.hatenadiary.com^$document
 ||nichijou825.com^$document
 ||nichiyaku.info^$document
 ||niconicojikkyou.com^$document
@@ -10386,6 +10388,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||stor.cdn.dfyun.com.cn^$document
 ||store.app-valley.vip^$document
 ||store.azki-official.com^$document
+||store.bandalgaming.com^$document
 ||store.breguet.cn^$document
 ||store.makuake.com^$document
 ||store.shopping.yahoo.co.jp/allkeyshopjapan^$document
