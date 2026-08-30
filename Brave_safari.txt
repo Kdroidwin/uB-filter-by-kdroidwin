@@ -57,7 +57,6 @@
 /^https?:\/\/[a-z0-9]{32,}\.[a-z0-9.-]*\.au\//$document
 /^https?:\/\/pay\.pay[^/.]*\.[^/]+/
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
-/https?:\/\/(?=[^.]{16,}\.)(?=.*[a-z])(?=.*[0-9])[a-z0-9-]+\.[a-z0-9-]{1,60}\.[a-z0-9-]{1,60}\.amazonaws\.com(\/|$)/$document
 /https?:\/\/[^/]*.app\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.cfbx.jp\/d_[0-9]{6}(?:\/|$)/$document
 /https?:\/\/[^/]*.com/manga\/d_[0-9]{6}(?:\/|$)/$document
@@ -4661,6 +4660,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-missav04.com^$document
 ||hitomi-missav05.com^$document
 ||hitomi-missav06.com^$document
+||hitomi-missav07.com^$document
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
@@ -13279,6 +13279,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.preftottori-bousai-view.jp^$document
 ||www.premier-enterprisesolutions.com^$document
 ||www.prerele.com^$document
+||www.prettymaid-girl.cfbx.jp^$document
 ||www.prime-service.info^$document
 ||www.primeaudits.com^$document
 ||www.prius01.tokyo^$document
@@ -13879,6 +13880,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wwwjp.jorudan.com.cn^$document
 ||wyiiden.com^$document
 ||wzz.co.jp^$document
+||x-blo*.pages.dev$doc
+||x-blo*.workers.dev$doc
 ||x-bloc-check.page-ff4.workers.dev^$document
 ||x-border.co.jp^$document
 ||x-vpn-anti-track-and-unblock.jp.uptodown.com^$document
