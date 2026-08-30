@@ -17098,7 +17098,6 @@
 *://matilda2023.jp/*
 *://matomabooks.jp/*
 *://matomake.com/*
-*://matomame.jp/*
 *://matome-entame.info/*
 *://matome-plus.com/*
 *://matome-plus.net/*
