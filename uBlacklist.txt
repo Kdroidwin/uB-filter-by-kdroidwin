@@ -12503,7 +12503,6 @@
 *://candy-web.net/*
 *://canij.com/*
 *://canpmori-canpmori.com/*
-*://canva.me/*
 *://capacitasalud.com/*
 *://capitalhomeco.com/*
 *://capitalizeonconfidence.com/*
@@ -13733,7 +13732,6 @@
 *://entrepreneur-state-of-africa.com/*
 *://enxgeki.com/*
 *://eotqvfnp.hair/*
-*://epicgames.co.uk/*
 *://epicmaterialdays.com/*
 *://epochtimes.jp/*
 *://eposexperts.com/*
