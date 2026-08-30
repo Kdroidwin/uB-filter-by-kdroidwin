@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://x-bloc-check.page-ff4.workers.dev/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -24220,6 +24219,7 @@
 *://www5.japex.ru/*
 *://wyiiden.com/*
 *://wzz.co.jp/*
+*://x-bloc-check.page-ff4.workers.dev/*
 *://x-border.co.jp/*
 *://x-vpn-anti-track-and-unblock.jp.uptodown.com/*
 *://x.com/comic_checker*

@@ -13879,6 +13879,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wwwjp.jorudan.com.cn^$document
 ||wyiiden.com^$document
 ||wzz.co.jp^$document
+||x-bloc-check.page-ff4.workers.dev^$document
 ||x-border.co.jp^$document
 ||x-vpn-anti-track-and-unblock.jp.uptodown.com^$document
 ||x.com/comic_checker^$document
