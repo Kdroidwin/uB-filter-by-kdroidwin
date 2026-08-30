@@ -1,4 +1,3 @@
-*://fanzapro.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14042,6 +14041,7 @@
 *://fanzabooks.com/*
 *://fanzadensho.com/*
 *://fanzadlsite.wpx.jp/*
+*://fanzapro.com/*
 *://fanzasale.com/*
 *://fanzonetokyo.jp/*
 *://fapi.lsv.jp/*

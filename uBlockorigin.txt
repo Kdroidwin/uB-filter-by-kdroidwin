@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-holyseal.net##body::before:style(content:"これは2024年に他者にドロップキャッチされた偽サイトです。"; position:fixed !important; top:10px !important; left:10px !important; width:900px !important; max-width:90vw !important; z-index:2147483647 !important; font-size:28px !important; line-height:1.6 !important; color:white !important; background:#c00 !important; padding:20px 30px !important; font-weight:900 !important; border-radius:6px !important; box-sizing:border-box !important; white-space:normal !important;)
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -160,6 +159,7 @@ fp.no-sheep.org/services##.main
 h2testw.org##.entry-content::before { content: "これは偽サイト　Fake Site"; position: fixed !important; top: 10px !important; left: 10px !important; z-index: 999999 !important; font-size: 32px !important; color: #fff !important; background: #c00 !important; font-weight: 900 !important; padding: 8px 12px !important; border-radius: 6px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.5) !important; }
 hexload.com##.animated-button
 himebon.blog##.eye-catch-wrap
+holyseal.net##body::before:style(content:"これは2024年に他者にドロップキャッチされた偽サイトです。"; position:fixed !important; top:10px !important; left:10px !important; width:900px !important; max-width:90vw !important; z-index:2147483647 !important; font-size:28px !important; line-height:1.6 !important; color:white !important; background:#c00 !important; padding:20px 30px !important; font-weight:900 !important; border-radius:6px !important; box-sizing:border-box !important; white-space:normal !important;)
 jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
 jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
 jp.mercari.com##html:has(meta[name="description"][content*="Anti-spy phone"])
@@ -3474,6 +3474,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanzabooks.com^$document
 ||fanzadensho.com^$document
 ||fanzadlsite.wpx.jp^$document
+||fanzapro.com^$document
 ||fanzasale.com^$document
 ||fanzonetokyo.jp^$document
 ||fapi.lsv.jp^$document
