@@ -1,7 +1,7 @@
 # uB-filter-by-kdroidwin
 
 
-uBlacklist＆uBlock Origin用のフィルター　
+uBlacklist ＆ uBlock Origin & AdGuard & Brave用のフィルター　
 - 主に、詐欺サイトや偽サイト、悪質なアフィリエイトサイトを除外することが目的です。
 - 誤検知やブロックすべきサイトがあれば教えてください。Github,Codebergアカウントを持っていない人でも[Twitter](https://x.com/Kdroidwin1)もしくは[アンケートフォーム](https://tally.so/r/wA5brD)からお願いします。
 - [Codebergリポジトリ ミラー](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin)
