@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://temrixa.com/*
-*://missav51.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17363,6 +17361,7 @@
 *://missav.com/*
 *://missav2026-doujin.com/*
 *://missav39.jp/*
+*://missav51.jp/*
 *://missav53.jp/*
 *://missav55.jp/*
 *://missav58.jp/*
@@ -21148,6 +21147,7 @@
 *://telemarketingmadeeasy.com/*
 *://telhasimperio.grupomarkat.com/*
 *://temnonebo.org/*
+*://temrixa.com/*
 *://temu.com/*
 *://tenbus.info/*
 *://tender-feelings.com/*

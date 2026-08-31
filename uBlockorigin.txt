@@ -6845,6 +6845,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav.com^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
+||missav51.jp^$document
 ||missav53.jp^$document
 ||missav55.jp^$document
 ||missav58.jp^$document
@@ -10753,6 +10754,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||telemarketingmadeeasy.com^$document
 ||telhasimperio.grupomarkat.com^$document
 ||temnonebo.org^$document
+||temrixa.com^$document
 ||temu.com^$document
 ||tenbus.info^$document
 ||tender-feelings.com^$document
