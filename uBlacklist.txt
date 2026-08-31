@@ -1,4 +1,3 @@
-*://n8h.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17673,6 +17672,7 @@
 *://n-trend.com/*
 *://n-yu.com/*
 *://n2-ch.com/*
+*://n8h.com/*
 *://nabe03.net/*
 *://nabeaffiliate.com/*
 *://nabeyan-media.com/*

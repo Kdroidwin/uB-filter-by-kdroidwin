@@ -7161,6 +7161,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||n-trend.com^$document
 ||n-yu.com^$document
 ||n2-ch.com^$document
+||n8h.com^$document
 ||nabe03.net^$document
 ||nabeaffiliate.com^$document
 ||nabeyan-media.com^$document
