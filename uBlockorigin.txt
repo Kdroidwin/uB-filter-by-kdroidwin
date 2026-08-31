@@ -2802,6 +2802,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin.honmadekka-channel.com^$document
 ||doujin.makianosaihu.com^$document
 ||doujin.moshiero.cfbx.jp^$document
+||doujin.nukeman.cfbx.jp^$document
 ||doujin.phototree.jp^$document
 ||doujin.s-resist.jp^$document
 ||doujin.shidashi-chiba.jp^$document
@@ -4895,6 +4896,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||idweb.jp^$document
 ||iecolle.com^$document
 ||ieigsc.org^$document
+||iekei.shop^$document
 ||iepvirgendelaasuncion.com^$document
 ||ifdvnburj8.pro^$document
 ||ifes.jp^$document
@@ -8488,6 +8490,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||onimama.com^$document
 ||onitsukatigerdeal.com^$document
 ||onitsukatigersell.shop^$document
+||onkyoren.jp^$document
 ||onlee.jp^$document
 ||online-oripa.jp^$document
 ||online-qr-generator.com^$document
@@ -12434,6 +12437,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eroerocomic.net^$document
 ||www.erohimedoujin.com^$document
 ||www.eroman-shobou-1.net^$document
+||www.eroman-shobou-2.net^$document
 ||www.eromanga-attack-unreal-2.net^$document
 ||www.eromanga-attack-unreal.net^$document
 ||www.eromanga-attack2000.net^$document
