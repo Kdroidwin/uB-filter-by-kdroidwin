@@ -1,3 +1,7 @@
+*://iekei.shop/*
+*://doujin.nukeman.cfbx.jp/*
+*://www.eroman-shobou-2.net/*
+*://onkyoren.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
