@@ -1054,6 +1054,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||antispy.shop/products^$document
 ||antmomew.com^$document
 ||anturis.com^$document
+||antutu-3dbench-lite.jp.uptodown.com^$document
 ||antutu-benchmark.jp.uptodown.com^$document
 ||antutu.com^$document
 ||anxious-topics.com^$document
