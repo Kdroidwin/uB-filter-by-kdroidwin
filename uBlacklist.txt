@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://sihei.blog.jp/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -20451,6 +20450,7 @@
 *://sidestore.org/*
 *://signin.samsung.cn/*
 *://sigyou-school.biz/*
+*://sihei.blog.jp/*
 *://siihamu.com/*
 *://sikanosima.jp/*
 *://sikiroom.com/*

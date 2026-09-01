@@ -10014,6 +10014,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sidestore.org^$document
 ||signin.samsung.cn^$document
 ||sigyou-school.biz^$document
+||sihei.blog.jp^$document
 ||siihamu.com^$document
 ||sikanosima.jp^$document
 ||sikiroom.com^$document
