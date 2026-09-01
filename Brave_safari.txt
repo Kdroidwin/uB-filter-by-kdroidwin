@@ -3651,6 +3651,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||forum.blackrussia.online^$document
 ||forums.goha.ru^$document
 ||foux3ut3.rallye-photo-avord.fr^$document
+||fp-serch.com^$document
 ||fp.no-sheep.org/contac^$document
 ||fpfjzjvxtbf.com^$document
 ||fphrc.groupzu.com^$document
@@ -7608,6 +7609,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/anatato_jp^$document
 ||note.com/androiddimension^$document
 ||note.com/androidgeek^$document
+||note.com/anime_blog^$document
 ||note.com/animedaisukiminn^$document
 ||note.com/antispyphone^$document
 ||note.com/aomushi_15^$document
