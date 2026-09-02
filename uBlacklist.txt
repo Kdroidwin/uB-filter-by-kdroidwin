@@ -1,5 +1,3 @@
-*://closefamilylounge.com/*
-*://searcher.s--line.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12757,6 +12755,7 @@
 *://clnakamura.com/*
 *://cloline.online/*
 *://cloodnerw.com/*
+*://closefamilylounge.com/*
 *://closetoyoubelieve.com/*
 *://cloudmc.xyz/*
 *://cloudteams.xyz/*
@@ -20237,6 +20236,7 @@
 *://sean-j.com/*
 *://search.google.sky4k.top/*
 *://search.rakuten.co.jp/search/mall/IOBit/*
+*://searcher.s--line.co.jp/*
 *://seasea.xyz/*
 *://sebastianoarmelibattana.com/*
 *://second.jyoho-library.com/*

@@ -2172,6 +2172,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||clnakamura.com^$document
 ||cloline.online^$document
 ||cloodnerw.com^$document
+||closefamilylounge.com^$document
 ||closetoyoubelieve.com^$document
 ||cloudmc.xyz^$document
 ||cloudteams.xyz^$document
@@ -9794,6 +9795,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sean-j.com^$document
 ||search.google.sky4k.top^$document
 ||search.rakuten.co.jp/search/mall/IOBit^$document
+||searcher.s--line.co.jp^$document
 ||seasea.xyz^$document
 ||sebastianoarmelibattana.com^$document
 ||second.jyoho-library.com^$document
