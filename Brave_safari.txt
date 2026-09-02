@@ -7000,6 +7000,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mondra.jp^$document
 ||monesblog.com^$document
 ||monet-grading.studio.site^$document
+||money-animation-dorama.hatenablog.com^$document
 ||money101.cn^$document
 ||moneysey.com^$document
 ||moneytalk.tokyo^$document
@@ -10573,6 +10574,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||syn-ad.com^$document
 ||synergetic.ru^$document
 ||syntaxfix.com^$document
+||syntelligence.jp/article^$document
 ||synthesistorren.blog2.fc2.com^$document
 ||syokubunka-studio.jp^$document
 ||syokusamen.com^$document
@@ -10930,6 +10932,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tiktakmodapk.com^$document
 ||tiktikpremium.com^$document
 ||tiktikpremiumapk.com^$document
+||tiktok.com/ug/incentive/share/$all
 ||tiktok.com/ug^$document
 ||tiktokliveapk.com^$document
 ||tiktokmodapk.net^$document
@@ -11506,7 +11509,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||victorraulrr.info^$document
 ||victorraulrr.net^$document
 ||video-distribution.jp^$document
+||video-twimg*.com^$document
 ||video-twimg-eroman.mystrikingly.com^$document
+||video-twiming*.com^$document
 ||video-twiming-mp4.com^$document
 ||video.twimg.jp^$document
 ||video.twimg.link^$document

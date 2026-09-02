@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://syntelligence.jp/article/*
-*://money-animation-dorama.hatenablog.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17517,6 +17515,7 @@
 *://mondra.jp/*
 *://monesblog.com/*
 *://monet-grading.studio.site/*
+*://money-animation-dorama.hatenablog.com/*
 *://money101.cn/*
 *://moneysey.com/*
 *://moneytalk.tokyo/*
@@ -20977,6 +20976,7 @@
 *://syn-ad.com/*
 *://synergetic.ru/*
 *://syntaxfix.com/*
+*://syntelligence.jp/article/*
 *://synthesistorren.blog2.fc2.com/*
 *://syokubunka-studio.jp/*
 *://syokusamen.com/*
