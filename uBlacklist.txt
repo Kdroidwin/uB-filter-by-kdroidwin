@@ -1,9 +1,3 @@
-*://doujindata.com/*
-*://tetumemo.m-newsletter.com/*
-*://note.com/tasty_human1981/*
-*://note.com/deep_lupine8918/*
-*://note.com/hisho_nana_1998/*
-*://note.com/loyal_violet6423/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13401,6 +13395,7 @@
 *://doujinbank.com/*
 *://doujincco-ero.com/*
 *://doujinclub.net/*
+*://doujindata.com/*
 *://doujindayo.com/*
 *://doujineroman.wpx.jp/*
 *://doujinevent.com/*
@@ -18181,6 +18176,7 @@
 *://note.com/ddsatouattak/*
 *://note.com/dear_pipit1400/*
 *://note.com/decoboco_sisters/*
+*://note.com/deep_lupine8918/*
 *://note.com/deft_hosta7020/*
 *://note.com/denka_life/*
 *://note.com/der3/*
@@ -18271,6 +18267,7 @@
 *://note.com/hirohikonotes/*
 *://note.com/hirokazumineral/*
 *://note.com/hirotoinfo/*
+*://note.com/hisho_nana_1998/*
 *://note.com/hit_ranking/*
 *://note.com/hitobashira_/*
 *://note.com/hitotsu_ai/*
@@ -18409,6 +18406,7 @@
 *://note.com/lover_soul1001/*
 *://note.com/loverobo/*
 *://note.com/loyal_otter6207/*
+*://note.com/loyal_violet6423/*
 *://note.com/lucid_weasel5472/*
 *://note.com/lucky_ai/*
 *://note.com/lulu_noah/*
@@ -18663,6 +18661,7 @@
 *://note.com/takumi_hakata/*
 *://note.com/taraco_mom/*
 *://note.com/tasty_holly7883/*
+*://note.com/tasty_human1981/*
 *://note.com/tasty_okapi8736/*
 *://note.com/tasty_rhino5561/*
 *://note.com/tbola/*
@@ -21198,6 +21197,7 @@
 *://tetsuya-next.com/*
 *://tetu-hop.com/*
 *://tetumemo.com/*
+*://tetumemo.m-newsletter.com/*
 *://tevetamw.com/*
 *://texasoutlawsusa.com/*
 *://tfg-fc.net/*
