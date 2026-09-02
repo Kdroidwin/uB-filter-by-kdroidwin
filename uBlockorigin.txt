@@ -1,6 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
+||tiktok.com/ug/incentive/share/$all
 ||video-twiming*.com^$document
 ||video-twimg*.com^$document
 *click.php?key*type*age*$document
