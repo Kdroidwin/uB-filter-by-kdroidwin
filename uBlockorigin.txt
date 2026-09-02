@@ -11507,6 +11507,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||victorraulrr.net^$document
 ||video-distribution.jp^$document
 ||video-twimg-eroman.mystrikingly.com^$document
+||video-twiming-mp4.com^$document
 ||video.twimg.jp^$document
 ||video.twimg.link^$document
 ||videoder.en.uptodown.com^$document

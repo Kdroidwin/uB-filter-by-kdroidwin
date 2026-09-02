@@ -1,4 +1,3 @@
-*://video-twiming-mp4.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21874,6 +21873,7 @@
 *://victorraulrr.net/*
 *://video-distribution.jp/*
 *://video-twimg-eroman.mystrikingly.com/*
+*://video-twiming-mp4.com/*
 *://video.twimg.jp/*
 *://video.twimg.link/*
 *://videoder.en.uptodown.com/*
