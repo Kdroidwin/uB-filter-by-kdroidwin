@@ -1,6 +1,3 @@
-*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1428044769*
-*://www.anime-rating.com/*
-*://ameblo.jp/reishiki0000/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11521,6 +11518,7 @@
 *://ameblo.jp/ohanakeiko/*
 *://ameblo.jp/pisu-tabi/*
 *://ameblo.jp/plus2222/*
+*://ameblo.jp/reishiki0000/*
 *://ameblo.jp/targeteddamage/*
 *://ameblo.jp/techtell360/*
 *://ameblo.jp/teihenmachi/*
@@ -13146,6 +13144,7 @@
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11291897171*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12239599407*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12260669862*
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1428044769*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14306456639*
 *://detective-blog.com/*
 *://detektive-profi.online/*
@@ -22375,6 +22374,7 @@
 *://www.angolanoar.online/*
 *://www.animal-academy.jp/*
 *://www.animatashop.jp/*
+*://www.anime-rating.com/*
 *://www.animebugbodypillow.com/*
 *://www.animespotsjp.com/*
 *://www.animiru-navi.com/*

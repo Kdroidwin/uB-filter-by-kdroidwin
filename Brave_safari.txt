@@ -911,6 +911,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/ohanakeiko^$document
 ||ameblo.jp/pisu-tabi^$document
 ||ameblo.jp/plus2222^$document
+||ameblo.jp/reishiki0000^$document
 ||ameblo.jp/targeteddamage^$document
 ||ameblo.jp/techtell360^$document
 ||ameblo.jp/teihenmachi^$document
@@ -1632,9 +1633,12 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bladerunner2049.jp^$document
 ||blazonapp.com^$document
 ||blbrv08v.r.us-east-1.awstrack.me^$document
+||blck*.pages.dev^$document
 ||bleague.bl.kuroco-img.app^$document
 ||blifenavi.com^$document
 ||blob.core.windows.net/*index.html*=$document
+||block*.pages.dev^$document
+||block*.pages.dev^$document
 ||blockc*.pages.dev$document
 ||blockcheck*.page.dev$document
 ||blockchecker.github.io^$document
@@ -2045,6 +2049,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||che-guevara.jp^$document
 ||cheat-sokuhou.com^$document
 ||check-it-yumeijin.com^$document
+||checkx*.pages.dev^$document
 ||cheekygreekyiros.com^$document
 ||cheerdance-movie.jp^$document
 ||cheerful-chielife.com^$document
@@ -4141,6 +4146,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||go.sniply.app^$document
 ||goappsplay.com^$document
 ||gobyou.jp^$document
+||gocheck*.pages.dev^$document
 ||gocmod.com^$document
 ||gofile-pass.mystrikingly.com^$document
 ||gofile.my.canva.site^$document
@@ -11292,6 +11298,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||twitter.com/yuugafas^$document
 ||twitter.com/zlib_official^$document
 ||twitter.nuxt.xyz^$document
+||twitterche*.pages.dev^$document
+||twitterche*.pages.dev^$document
 ||twn-rt.onelink.me^$document
 ||twtwmatome.hatenablog.com^$document
 ||txp.fxisvpiw.my^$document
@@ -12045,6 +12053,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.angolanoar.online^$document
 ||www.animal-academy.jp^$document
 ||www.animatashop.jp^$document
+||www.anime-rating.com^$document
 ||www.animebugbodypillow.com^$document
 ||www.animespotsjp.com^$document
 ||www.animiru-navi.com^$document
@@ -13925,12 +13934,16 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||x.gd/GkVjG^$document
 ||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
+||xbl*.pages.dev^$document
+||xbl*.pages.dev^$document
 ||xblock*.page.dev$document
 ||xblock*.pages.dev$doc
 ||xblock-xchecker.pages.dev^$document
 ||xbof*.pages.dev$document
 ||xbof.pages.dev^$document
 ||xbuba.com^$document
+||xcheck*.pages.dev^$document
+||xcheck*.pages.dev^$document
 ||xdqern.dentist-24.de^$document
 ||xdropc.pages.dev^$document
 ||xera.jp^$document
