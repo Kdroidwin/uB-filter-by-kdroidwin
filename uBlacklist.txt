@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://smart-summary.seesaa.net/*
-*://jh0hon.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -15793,6 +15791,7 @@
 *://jenak.net/*
 *://jepista.io/*
 *://jetbrains.ru/*
+*://jh0hon.com/*
 *://jiaqingli.cn/*
 *://jibassociation.org/*
 *://jibun-level.com/*
@@ -20543,6 +20542,7 @@
 *://smari-log.com/*
 *://smart-enta.com/*
 *://smart-items.xyz/*
+*://smart-summary.seesaa.net/*
 *://smartkeeperpro.xyz/*
 *://smartmarket.app/*
 *://smartpagebk.com/*

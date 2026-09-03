@@ -5248,6 +5248,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jenak.net^$document
 ||jepista.io^$document
 ||jetbrains.ru^$document
+||jh0hon.com^$document
 ||jiaqingli.cn^$document
 ||jibassociation.org^$document
 ||jibun-level.com^$document
@@ -10113,6 +10114,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||smari-log.com^$document
 ||smart-enta.com^$document
 ||smart-items.xyz^$document
+||smart-summary.seesaa.net^$document
 ||smartkeeperpro.xyz^$document
 ||smartmarket.app^$document
 ||smartpagebk.com^$document
