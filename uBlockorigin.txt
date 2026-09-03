@@ -3,6 +3,17 @@
 ! Expires: 2 hours (update frequency)
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
+||xcheck*.pages.dev^$document
+||xbl*.pages.dev^$document
+||twitterche*.pages.dev^$document
+||block*.pages.dev^$document
+||checkx*.pages.dev^$document
+||blck*.pages.dev^$document
+||xcheck*.pages.dev^$document
+||xbl*.pages.dev^$document
+||twitterche*.pages.dev^$document
+||block*.pages.dev^$document
+||gocheck*.pages.dev^$document
 .*.cdn.digitaloceanspaces.com$document
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
