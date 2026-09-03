@@ -11095,6 +11095,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||torrentsitefeed.blog62.fc2.com^$document
 ||torrentsmatome.blog.fc2.com^$document
 ||torukuma.com^$document
+||torutorukun.com^$document
 ||torzu.dev^$document
 ||tosa-k-style.org^$document
 ||toshokan-sensou-movie.com^$document
