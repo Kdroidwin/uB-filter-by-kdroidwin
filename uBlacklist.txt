@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://smart-summary.seesaa.net/*
+*://jh0hon.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
