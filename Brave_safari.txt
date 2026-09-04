@@ -662,6 +662,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||affiliatebook.net^$document
 ||afghaehego.com^$document
 ||afghan-info.com^$document
+||afi-support.net^$document
 ||afi7.xsrv.jp^$document
 ||afiri-star.com^$document
 ||aflciopokerroom.com^$document
@@ -3598,6 +3599,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||flakep1l.cvs.com.my^$document
 ||flashff-blog.com^$document
 ||flathub.org/apps/org.polymc.PolyMC^$document
+||flavor-books.com^$document
 ||fleuri.jp^$document
 ||flfillettables.com^$document
 ||flgas.com^$document

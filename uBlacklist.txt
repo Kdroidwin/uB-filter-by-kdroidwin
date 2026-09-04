@@ -1,5 +1,3 @@
-*://flavor-books.com/*
-*://afi-support.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11280,6 +11278,7 @@
 *://affiliatebook.net/*
 *://afghaehego.com/*
 *://afghan-info.com/*
+*://afi-support.net/*
 *://afi7.xsrv.jp/*
 *://afiri-star.com/*
 *://aflciopokerroom.com/*
@@ -14164,6 +14163,7 @@
 *://flashff-blog.com/*
 *://flathub.org/apps/org.polymc.PolyMC*
 *://flathub.org/ja/apps/org.polymc.PolyMC*
+*://flavor-books.com/*
 *://fleuri.jp/*
 *://flfillettables.com/*
 *://flgas.com/*
