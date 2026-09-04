@@ -1,12 +1,3 @@
-*://note.com/mizuki_myrtle47/*
-*://lpro-pm4.com/*
-*://lpro-pm6.com/*
-*://75millon.info/*
-*://*.lpro-pm4.com/*
-*://el-lp01.com/*
-*://gld-information-lp.com/*
-*://keiba-labo.info/*
-*://bmieoahe.click/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -5987,6 +5978,7 @@
 *://*.lifehack2ch.livedoor.biz/*
 *://*.linux-terminal.com/*
 *://*.loan/*
+*://*.lpro-pm4.com/*
 *://*.lt/?a=0*
 *://*.lt/?a=1*
 *://*.lt/?a=2*
@@ -11110,6 +11102,7 @@
 *://74n5c4m7.r.eu-west-1.awstrack.me/*
 *://7544645.slot27.online/*
 *://757038.8b.io/*
+*://75millon.info/*
 *://7665329.slot31.online/*
 *://774neet.com/*
 *://774route.com/*
@@ -12316,6 +12309,7 @@
 *://blugre.amebaownd.com/*
 *://blvxder.com/*
 *://bm-shopcafe.jp/*
+*://bmieoahe.click/*
 *://boardingstablesforsale.com/*
 *://boatrace-kuchikomi.com/*
 *://bobnee.com/*
@@ -13612,6 +13606,7 @@
 *://ekort.org/*
 *://ekoushi.online/*
 *://el-clan.jp/*
+*://el-lp01.com/*
 *://elcus.org/*
 *://elearning-art.net/*
 *://elecart.in/products/*
@@ -14685,6 +14680,7 @@
 *://gladent-med.online/*
 *://glaube-hoffnung-liebe.com/*
 *://glblctzn.me/*
+*://gld-information-lp.com/*
 *://glintgizmo.com/*
 *://gllosqf.work/*
 *://global-funlife.com/*
@@ -16104,6 +16100,7 @@
 *://keeztwelversa.xyz/*
 *://kei-siroikumo.com/*
 *://kei31.com/*
+*://keiba-labo.info/*
 *://keibariron.com/*
 *://keijserskoning.com/*
 *://keikeikei.com/*
@@ -16758,6 +16755,8 @@
 *://lowcostoutsource.com/*
 *://lp.buzayookaki.com/*
 *://lp.solomon-world.jp/*
+*://lpro-pm4.com/*
+*://lpro-pm6.com/*
 *://lps.nanoartmarket.com/*
 *://lqvaqpeq.com/*
 *://lrkdn.kvjody.biz/*
@@ -18459,6 +18458,7 @@
 *://note.com/mingaje333/*
 *://note.com/mippasan/*
 *://note.com/mitsubachi0088/*
+*://note.com/mizuki_myrtle47/*
 *://note.com/mizuu_note1/*
 *://note.com/mnb196748/*
 *://note.com/mocchan/*

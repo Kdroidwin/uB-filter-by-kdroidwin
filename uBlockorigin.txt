@@ -483,6 +483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||74n5c4m7.r.eu-west-1.awstrack.me^$document
 ||7544645.slot27.online^$document
 ||757038.8b.io^$document
+||75millon.info^$document
 ||7665329.slot31.online^$document
 ||774neet.com^$document
 ||774route.com^$document
@@ -1718,6 +1719,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||blugre.amebaownd.com^$document
 ||blvxder.com^$document
 ||bm-shopcafe.jp^$document
+||bmieoahe.click^$document
 ||boardingstablesforsale.com^$document
 ||boatrace-kuchikomi.com^$document
 ||bobnee.com^$document
@@ -3032,6 +3034,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ekort.org^$document
 ||ekoushi.online^$document
 ||el-clan.jp^$document
+||el-lp01.com^$document
 ||elcus.org^$document
 ||elearning-art.net^$document
 ||elecart.in/products^$document
@@ -4117,6 +4120,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gladent-med.online^$document
 ||glaube-hoffnung-liebe.com^$document
 ||glblctzn.me^$document
+||gld-information-lp.com^$document
 ||glintgizmo.com^$document
 ||gllosqf.work^$document
 ||global-funlife.com^$document
@@ -5558,6 +5562,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||keeztwelversa.xyz^$document
 ||kei-siroikumo.com^$document
 ||kei31.com^$document
+||keiba-labo.info^$document
 ||keibariron.com^$document
 ||keijserskoning.com^$document
 ||keikeikei.com^$document
@@ -6225,6 +6230,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lowcostoutsource.com^$document
 ||lp.buzayookaki.com^$document
 ||lp.solomon-world.jp^$document
+||lpro-pm4.com^$document
+||lpro-pm6.com^$document
 ||lps.nanoartmarket.com^$document
 ||lqvaqpeq.com^$document
 ||lrkdn.kvjody.biz^$document
@@ -7952,6 +7959,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/mingaje333^$document
 ||note.com/mippasan^$document
 ||note.com/mitsubachi0088^$document
+||note.com/mizuki_myrtle47^$document
 ||note.com/mizuu_note1^$document
 ||note.com/mnb196748^$document
 ||note.com/mocchan^$document
