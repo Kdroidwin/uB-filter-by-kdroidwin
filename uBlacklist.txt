@@ -1,5 +1,3 @@
-*://future7.jp/*
-*://amplis.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11542,6 +11540,7 @@
 *://amoebafile.blog.fc2.com/*
 *://amorcos.ocnk.net/*
 *://amour-takarazuka.jp/*
+*://amplis.jp/*
 *://amprime.hatenablog.com/*
 *://amulai.blog/*
 *://amy1181.com/*
@@ -14364,6 +14363,7 @@
 *://futosoku.com/*
 *://future-next.com/*
 *://future-sparkling.com/*
+*://future7.jp/*
 *://futurepark.team-lab.cn/*
 *://futurerobot.online/*
 *://fuwa-toro.com/*

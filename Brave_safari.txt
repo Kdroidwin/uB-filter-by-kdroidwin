@@ -933,6 +933,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||amorcos.ocnk.net^$document
 ||amour-takarazuka.jp^$document
 ||amp.amebaownd.com^$document
+||amplis.jp^$document
 ||amprime.hatenablog.com^$document
 ||amulai.blog^$document
 ||amy1181.com^$document
@@ -3799,6 +3800,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||futosoku.com^$document
 ||future-next.com^$document
 ||future-sparkling.com^$document
+||future7.jp^$document
 ||futurepark.team-lab.cn^$document
 ||futurerobot.online^$document
 ||fuwa-toro.com^$document
