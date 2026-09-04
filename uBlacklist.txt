@@ -1,4 +1,3 @@
-*://www.necoweb.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -23521,6 +23520,7 @@
 *://www.nchtorrent.cn/*
 *://www.ncxx.co.jp/*
 *://www.ndda.net/*
+*://www.necoweb.com/*
 *://www.nekojirushi11.tokyo/*
 *://www.nelpur.shop/*
 *://www.nemlis.com/*

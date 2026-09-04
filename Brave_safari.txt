@@ -13190,6 +13190,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.nchtorrent.cn^$document
 ||www.ncxx.co.jp^$document
 ||www.ndda.net^$document
+||www.necoweb.com^$document
 ||www.nekojirushi11.tokyo^$document
 ||www.nelpur.shop^$document
 ||www.nemlis.com^$document
