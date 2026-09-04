@@ -7903,6 +7903,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/light_right_^$document
 ||note.com/like_bonobo2466^$document
 ||note.com/limber_tapir7999^$document
+||note.com/lipt0n_afi^$document
 ||note.com/lithe_viper8252^$document
 ||note.com/lively_impala470^$document
 ||note.com/lofty_skink4202^$document

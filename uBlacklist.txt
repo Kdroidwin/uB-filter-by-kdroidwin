@@ -1,4 +1,3 @@
-*://note.com/lipt0n_afi/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18402,6 +18401,7 @@
 *://note.com/light_right_/*
 *://note.com/like_bonobo2466/*
 *://note.com/limber_tapir7999/*
+*://note.com/lipt0n_afi/*
 *://note.com/lithe_viper8252/*
 *://note.com/lively_impala470/*
 *://note.com/lofty_skink4202/*
