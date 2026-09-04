@@ -1,4 +1,5 @@
 *://flavor-books.com/*
+*://afi-support.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
