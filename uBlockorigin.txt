@@ -8871,6 +8871,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pizzasta.jp^$document
 ||pkaki.com^$document
 ||pkshampoo.com^$document
+||plai-ai.co.jp^$document
 ||plai-ai.com^$document
 ||planetacadiz.com^$document
 ||planetaverde.site^$document
@@ -9743,6 +9744,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sato-jewelry.com^$document
 ||sato-yokohama.jp^$document
 ||satobayashi.net^$document
+||satokotadesign.com^$document
 ||satomin.club^$document
 ||satomoka.com^$document
 ||satomusubi.jp^$document

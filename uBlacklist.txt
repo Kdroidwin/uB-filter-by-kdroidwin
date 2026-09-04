@@ -1,5 +1,3 @@
-*://plai-ai.co.jp/*
-*://satokotadesign.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -19352,6 +19350,7 @@
 *://pizzasta.jp/*
 *://pkaki.com/*
 *://pkshampoo.com/*
+*://plai-ai.co.jp/*
 *://plai-ai.com/*
 *://planetacadiz.com/*
 *://planetaverde.site/*
@@ -20185,6 +20184,7 @@
 *://sato-jewelry.com/*
 *://sato-yokohama.jp/*
 *://satobayashi.net/*
+*://satokotadesign.com/*
 *://satomin.club/*
 *://satomoka.com/*
 *://satomusubi.jp/*
