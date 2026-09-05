@@ -984,6 +984,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anige-sokuhouvip.com^$document
 ||anijin.com^$document
 ||anikaru.jp^$document
+||anikatsu.com^$document
 ||anikoma-movie.jp^$document
 ||anikosu.com^$document
 ||anilab.cc^$document
@@ -998,6 +999,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anime-drama.jp^$document
 ||anime-kinjito.com^$document
 ||anime-no-mikata.com^$document
+||anime-orbit.com^$document
 ||anime.akira4k.com^$document
 ||animeanime.jp/entertainment/vpn-recommend^$document
 ||animeculturejourney.com^$document
@@ -1008,6 +1010,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||animemiru.jp^$document
 ||animenian.com^$document
 ||animenome.jp^$document
+||animenoyakata.com^$document
 ||animeprefer.com^$document
 ||animepupiokun.doorblog.jp^$document
 ||animesoku.com^$document
@@ -1017,6 +1020,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anincline.com^$document
 ||anism.net^$document
 ||anista-maga.com^$document
+||anitage.jp^$document
 ||aniwatchtv.to^$document
 ||ankoron.com^$document
 ||ankororo.com^$document
@@ -1041,6 +1045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anooblog.com^$document
 ||anosaka.com^$document
 ||anotherstorysign.com^$document
+||anponpan-anilog.hatenablog.jp^$document
 ||answer-id.com^$document
 ||answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||antenatarou.warotamaker2.com^$document
@@ -6007,6 +6012,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||landing.server4testing.com^$document
 ||languagehelpsunderstand.zah59.com^$document
 ||lanikainahele.com^$document
+||lanovetimes.com^$document
 ||lansingtinyhouse.com^$document
 ||laponas.com^$document
 ||larousse-t.com^$document

@@ -1,9 +1,3 @@
-*://animenoyakata.com/*
-*://anime-orbit.com/*
-*://anitage.jp/*
-*://lanovetimes.com/*
-*://anikatsu.com/*
-*://anponpan-anilog.hatenablog.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11596,6 +11590,7 @@
 *://anidapsale.com/*
 *://anijin.com/*
 *://anikaru.jp/*
+*://anikatsu.com/*
 *://anikoma-movie.jp/*
 *://anikosu.com/*
 *://anilab.cc/*
@@ -11610,6 +11605,7 @@
 *://anime-drama.jp/*
 *://anime-kinjito.com/*
 *://anime-no-mikata.com/*
+*://anime-orbit.com/*
 *://anime.akira4k.com/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animeculturejourney.com/*
@@ -11620,6 +11616,7 @@
 *://animemiru.jp/*
 *://animenian.com/*
 *://animenome.jp/*
+*://animenoyakata.com/*
 *://animeprefer.com/*
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
@@ -11629,6 +11626,7 @@
 *://anincline.com/*
 *://anism.net/*
 *://anista-maga.com/*
+*://anitage.jp/*
 *://aniwatchtv.to/*
 *://ankoron.com/*
 *://ankororo.com/*
@@ -11652,6 +11650,7 @@
 *://anooblog.com/*
 *://anosaka.com/*
 *://anotherstorysign.com/*
+*://anponpan-anilog.hatenablog.jp/*
 *://answer-id.com/*
 *://answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://antenatarou.warotamaker2.com/*
@@ -16543,6 +16542,7 @@
 *://landing.server4testing.com/*
 *://languagehelpsunderstand.zah59.com/*
 *://lanikainahele.com/*
+*://lanovetimes.com/*
 *://lansingtinyhouse.com/*
 *://laponas.com/*
 *://larousse-t.com/*
