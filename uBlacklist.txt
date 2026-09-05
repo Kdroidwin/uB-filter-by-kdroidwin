@@ -1,6 +1,3 @@
-*://yomcomi.com/*
-*://moya2cinema.com/*
-*://anime-comics.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11605,6 +11602,7 @@
 *://animanga.uchiyakeiblog.com/*
 *://animate-group.info/*
 *://anime-comic100.jp/*
+*://anime-comics.com/*
 *://anime-drama.jp/*
 *://anime-kinjito.com/*
 *://anime-no-mikata.com/*
@@ -17616,6 +17614,7 @@
 *://movieswatchfree.net/*
 *://moxienashville.com/*
 *://moya-trend.com/*
+*://moya2cinema.com/*
 *://mpznqedu.com/*
 *://mr-hal.com/*
 *://mrandmsreed.com/*
@@ -24552,6 +24551,7 @@
 *://yokotablog.com/*
 *://yokubari-okan.com/*
 *://yolo-world.com/*
+*://yomcomi.com/*
 *://yomeno-tadaima.com/*
 *://yomidou.com/*
 *://yonayonafreedom.net/*

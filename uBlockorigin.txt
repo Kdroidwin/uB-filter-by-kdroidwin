@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||adklip.net^
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -623,6 +622,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||addspice.jp^$document
 ||ademas0719blog.com^$document
 ||aditaishitukaizen.com^$document
+||adklip.net^
 ||admailmg.com^$document
 ||adoi.hatenablog.com^$document
 ||adonisgreen.jp^$document
@@ -997,6 +997,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||animanga.uchiyakeiblog.com^$document
 ||animate-group.info^$document
 ||anime-comic100.jp^$document
+||anime-comics.com^$document
 ||anime-drama.jp^$document
 ||anime-kinjito.com^$document
 ||anime-no-mikata.com^$document
@@ -7102,6 +7103,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||movieswatchfree.net^$document
 ||moxienashville.com^$document
 ||moya-trend.com^$document
+||moya2cinema.com^$document
 ||mpznqedu.com^$document
 ||mr-hal.com^$document
 ||mrandmsreed.com^$document
@@ -14231,6 +14233,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yokotablog.com^$document
 ||yokubari-okan.com^$document
 ||yolo-world.com^$document
+||yomcomi.com^$document
 ||yomeno-tadaima.com^$document
 ||yomidou.com^$document
 ||yomiuri.*^$document,to=~yomiuri.co.jp
