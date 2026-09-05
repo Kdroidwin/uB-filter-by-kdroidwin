@@ -2,6 +2,10 @@
 *://note.com/_company/*
 *://note.com/gadget_japan/*
 *://note.com/kunipro03/*
+*://iprovpn.com/*
+*://morpheapp.software/*
+*://fcch.news/*
+*://kuwata-recruit.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
