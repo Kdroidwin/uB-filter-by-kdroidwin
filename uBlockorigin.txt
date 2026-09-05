@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||point.*.com/Rakuten-point.apk^$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -3508,6 +3507,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fbfcmt27.autosns.app^$document
 ||fbooks-doujin.com^$document
 ||fcch.co.jp^$document
+||fcch.news^$document
 ||fcvt-sale.com^$document
 ||fd.5201961.xyz^$document
 ||fdaerjioa.booth.pm^$document
@@ -5091,6 +5091,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||iphone-trouble.biz^$document
 ||iphone7.su^$document
 ||iplis.ru^$document
+||iprovpn.com^$document
 ||ipsw.me^$document
 ||iptvservicenow.com^$document
 ||iqf.education^$document
@@ -5942,6 +5943,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kushi-mc.net^$document
 ||kutomi.org^$document
 ||kuttye.shop^$document
+||kuwata-recruit.com^$document
 ||kuznec.certa.ru^$document
 ||kvantorium69.ru^$document
 ||kvibaba.com^$document
@@ -7067,6 +7069,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||morphe-official.com^$document
 ||morphe-youtube.ru.malavida.com^$document
 ||morpheapp.net^$document
+||morpheapp.software^$document
 ||morphemanager.com^$document
 ||morumoru1426.com^$document
 ||moshidora.jp^$document
@@ -7602,6 +7605,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/5656remon5656^$document
 ||note.com/777_001^$document
 ||note.com/88gold88^$document
+||note.com/_company^$document
 ||note.com/accha123^$document
 ||note.com/addness_recruit^$document
 ||note.com/afy2525^$document
@@ -7734,11 +7738,13 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/gadge_log^$document
 ||note.com/gadgesoji^$document
 ||note.com/gadget8^$document
+||note.com/gadget_japan^$document
 ||note.com/gadget_maru^$document
 ||note.com/gadget_news^$document
 ||note.com/gadget_rupaso^$document
 ||note.com/gadget_sale_^$document
 ||note.com/gadget_soku^$document
+||note.com/gadget_techo^$document
 ||note.com/gadgeter_117^$document
 ||note.com/gadgetmaniacs^$document
 ||note.com/gadgettarou^$document
@@ -7895,6 +7901,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kouki_k^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
+||note.com/kunipro03^$document
 ||note.com/kurashiniaru^$document
 ||note.com/kurokawa_aoi^$document
 ||note.com/kuronebox^$document
@@ -8931,6 +8938,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||poemsd3j.gabrans.com^$document
 ||poepoemoon.com^$document
 ||poikatsujyuku.com^$document
+||point.*.com/Rakuten-point.apk^$document
 ||point.gmo.jp^$document
 ||poipiku.com^$document
 ||poire122.com^$document
