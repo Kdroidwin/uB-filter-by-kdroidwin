@@ -3712,6 +3712,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||freevpn.one^$document
 ||freeworkroom.com^$document
 ||freiermann.com^$document
+||frenavi.xyz^$document
 ||fresco-salon.amebaownd.com^$document
 ||fresh-memories.com^$document
 ||freshgreenxcoatl.com^$document
