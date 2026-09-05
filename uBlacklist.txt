@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://wakatte.tv/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -22052,6 +22051,7 @@
 *://wakariyasukuosieruyo.blog/*
 *://wakasiru.com/*
 *://wakatte-tv.net/*
+*://wakatte.tv/*
 *://wakayama-johall.com/*
 *://wakurakulab.com/*
 *://wakuwakuenta.com/*

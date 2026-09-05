@@ -11710,6 +11710,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wakariyasukuosieruyo.blog^$document
 ||wakasiru.com^$document
 ||wakatte-tv.net^$document
+||wakatte.tv^$document
 ||wakayama-johall.com^$document
 ||wake-up-neo.com^$document
 ||wakurakulab.com^$document
