@@ -5586,6 +5586,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||keiroom1.com^$document
 ||keitaizukin.com^$document
 ||keityan.com^$document
+||keizainews.com^$document
 ||kekkon874.com^$document
 ||kekvr55qs.aarmarcalderas.es^$document
 ||kelsey-asbillenude.nude.com^$document

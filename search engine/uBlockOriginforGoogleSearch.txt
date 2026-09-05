@@ -5160,6 +5160,7 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="keiroom1.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="keitaizukin.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="keityan.com"][data-ved]:upward(3)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="keizainews.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="kekkon874.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="kekvr55qs.aarmarcalderas.es"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="kelsey-asbillenude.nude.com"][data-ved]:upward(3)

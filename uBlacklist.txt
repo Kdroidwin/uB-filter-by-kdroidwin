@@ -1,4 +1,3 @@
-*://keizainews.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16124,6 +16123,7 @@
 *://keiroom1.com/*
 *://keitaizukin.com/*
 *://keityan.com/*
+*://keizainews.com/*
 *://kekkon874.com/*
 *://kekvr55qs.aarmarcalderas.es/*
 *://kelsey-asbillenude.nude.com/*
