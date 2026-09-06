@@ -3169,7 +3169,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||entamezyouhoukan.com^$document
 ||entamix777.com^$document
 ||entergora.com^$document
-||enterstage.jp^$document
 ||entertainer-media.net^$document
 ||entertainer-now.com^$document
 ||entertainment-days.com^$document
@@ -3487,7 +3486,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanfan-comicomi.com^$document
 ||fanfanza.com^$document
 ||fanmake-blog.com^$document
-||fanplus.co.kr^$document
 ||fanshub.jp^$document
 ||fantaslipp.com^$document
 ||fanza-com.mystrikingly.com^$document
