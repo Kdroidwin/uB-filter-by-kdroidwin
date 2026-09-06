@@ -1,5 +1,3 @@
-*://dist-server.site/*
-*://jidouka-tool.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13228,6 +13226,7 @@
 *://discoveruhealth.net/*
 *://dishes2u.com/*
 *://displaycontest.tatagreenbatteries.com/*
+*://dist-server.site/*
 *://distrec.cruchi.com/*
 *://diversepopulationand.nczx4.com/*
 *://diversity-for-peace.com/*
@@ -15824,6 +15823,7 @@
 *://jiaqingli.cn/*
 *://jibassociation.org/*
 *://jibun-level.com/*
+*://jidouka-tool.com/*
 *://jiji-trendy.com/*
 *://jijimedia.com/*
 *://jijinote.com/*

@@ -2653,6 +2653,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||discoveruhealth.net^$document
 ||dishes2u.com^$document
 ||displaycontest.tatagreenbatteries.com^$document
+||dist-server.site^$document
 ||distrec.cruchi.com^$document
 ||diversepopulationand.nczx4.com^$document
 ||diversity-for-peace.com^$document
@@ -5279,6 +5280,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jiaqingli.cn^$document
 ||jibassociation.org^$document
 ||jibun-level.com^$document
+||jidouka-tool.com^$document
 ||jiji-trendy.com^$document
 ||jijimedia.com^$document
 ||jijinote.com^$document
