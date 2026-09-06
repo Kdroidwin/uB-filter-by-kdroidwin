@@ -1,7 +1,4 @@
 *://*.000webhostapp.com/*
-*://reviewed.app/*
-*://madam-chat.com/*
-*://*.reviewed.app/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -8915,6 +8912,7 @@
 *://*.repl.co/*
 *://*.repoarchive.com/*
 *://*.repsoku.net/*
+*://*.reviewed.app/*
 *://*.reviews-convenient.net/*
 *://*.reviversoft.com/*
 *://*.riptutorial.com/*
@@ -16871,6 +16869,7 @@
 *://macked.app/*
 *://maco-25.com/*
 *://madacarpets.com/*
+*://madam-chat.com/*
 *://madam-nyanko.com/*
 *://madanuon.horizondm.com/*
 *://madaraschool.org/*
@@ -19942,6 +19941,7 @@
 *://revenge.kou-web.com/*
 *://revengers115.com/*
 *://review-we126.com/*
+*://reviewed.app/*
 *://reviews.co.jp/*
 *://revistasaga.org/*
 *://revolt-tokyo.com/*

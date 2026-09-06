@@ -6343,6 +6343,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||macked.app^$document
 ||maco-25.com^$document
 ||madacarpets.com^$document
+||madam-chat.com^$document
 ||madam-nyanko.com^$document
 ||madanuon.horizondm.com^$document
 ||madaraschool.org^$document
@@ -9482,6 +9483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revenge.kou-web.com^$document
 ||revengers115.com^$document
 ||review-we126.com^$document
+||reviewed.app^$document
 ||reviews-convenient.net^$document
 ||reviews.co.jp^$document
 ||revistasaga.org^$document
