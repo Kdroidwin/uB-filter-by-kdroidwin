@@ -1,6 +1,7 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
+||docs.google.com/forms/d/e/1FAIpQLSfXZ7DCUFlCN_gsUq6ZbJDj8wyPE0byaTjU2Nh1mwFiBmx0qw^$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
