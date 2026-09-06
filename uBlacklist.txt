@@ -1,6 +1,3 @@
-*://www.androidp1.com/*
-*://minecraft.com.in/*
-*://www.ad-quick.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17353,6 +17350,7 @@
 *://mindsk.ru/*
 *://mindundermuscle.com/*
 *://mine-chan.com/*
+*://minecraft.com.in/*
 *://minecraft.oyakudati-matome.com/*
 *://mini-memo.com/*
 *://minimalblogtest.com/*
@@ -22341,6 +22339,7 @@
 *://www.achieversindiaclasses.com/*
 *://www.acldglobal.com/*
 *://www.actagainstaids.com/*
+*://www.ad-quick.com/*
 *://www.adachi-kiyoshi.com/*
 *://www.addness.com/*
 *://www.advancedpf.ca/*
@@ -22412,6 +22411,7 @@
 *://www.androidfreeware.net/jp/amp-revanced-extended.html*
 *://www.androidlist.jp/*
 *://www.androidos.net.cn/*
+*://www.androidp1.com/*
 *://www.androidsage.com/2023/08/10/*
 *://www.androsu.com/*
 *://www.angolanoar.online/*
