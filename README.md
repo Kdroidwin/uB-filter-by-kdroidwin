@@ -76,8 +76,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 # uBlock Origin,AdGuard 用フィルターの種類
 
 
--購読を押してください。
-- 検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
+- 購読を押してください。
+- uB-filter-by-kdroidwin(uBO&AdGuard)は、
+検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
 
 
 <br>
@@ -110,6 +111,26 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 AdGuard DNSやAdGuard Home、AdGuardモバイルアプリユーザー向け
 プライバシー重視の方以外は購読しないでください。
 誤ブロックも多いです。[これ](https://github.com/Kdroidwin/Kdroidwin-Tracking-Protection)の後継です。
+
+<br>
+<br>
+
+- uB-filter-by-kdroidwin(SearXNG)[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforSearXNG.txt&title=uB-filter-by-kdroidwin%28SearXNG%29)
+
+```text
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforSearXNG.txt
+```
+uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果から該当サイトを非表示にします。
+
+<br>
+<br>
+
+- uB-filter-by-kdroidwin(Brave Search)[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforBraveSearch.txt&title=uB-filter-by-kdroidwin%28Brave%20Search%29)
+
+```text
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforBraveSearch.txt
+```
+uBlacklistを使用せずともuBlock OriginだけでBrave Searchの検索結果から該当サイトを非表示にします。
 
 <br>
 <br>
