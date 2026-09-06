@@ -1,8 +1,3 @@
-*://cakesshare.com/*
-*://meall-times.com/*
-*://jp.pet-encyclopedia.com/*
-*://jp.56k88.com/*
-*://advisor.nambara.info/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11280,6 +11275,7 @@
 *://adv.tokyo-np.co.jp/prtimes/*
 *://advancedgloskinclinicpune.com/*
 *://advansteadily2310.com/*
+*://advisor.nambara.info/*
 *://aeonculture.info/*
 *://affectionery.jp/*
 *://affigolrich.com/*
@@ -12510,6 +12506,7 @@
 *://cafe-mario.jp/*
 *://cafedent.vn/*
 *://cainiaojiaocheng.com/*
+*://cakesshare.com/*
 *://californialistings.com/*
 *://calleo.be/*
 *://caltechbd.com/*
@@ -15899,6 +15896,7 @@
 *://jp-nene.com/*
 *://jp-yoo.com/*
 *://jp-yooho.com/*
+*://jp.56k88.com/*
 *://jp.adlock.com/*
 *://jp.adorable-pet.com/*
 *://jp.bignox.com/appcenter/*
@@ -15909,6 +15907,7 @@
 *://jp.ldplayer.net/apps/*
 *://jp.mobile.japex.ru/*
 *://jp.norton.com/*
+*://jp.pet-encyclopedia.com/*
 *://jp.pogoskill.com/*
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
@@ -17199,6 +17198,7 @@
 *://mdlmake.shop/*
 *://mdoramafan.com/*
 *://me-qr.com/*
+*://meall-times.com/*
 *://measurement.slot42.online/*
 *://meat-kode.com/*
 *://mebelim.net/*

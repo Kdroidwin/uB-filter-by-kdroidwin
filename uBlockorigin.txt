@@ -1,7 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||docs.google.com/forms/d/e/1FAIpQLSfXZ7DCUFlCN_gsUq6ZbJDj8wyPE0byaTjU2Nh1mwFiBmx0qw^$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -658,6 +657,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||adv.tokyo-np.co.jp/prtimes^$document
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
+||advisor.nambara.info^$document
 ||ae-pic-a1.aliexpress-media.com/kf/S41f264ddb8b541f186e14f8a3c35a76fu.png$image
 ||aeonculture.info^$document
 ||affectionery.jp^$document
@@ -1920,6 +1920,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cafe-mario.jp^$document
 ||cafedent.vn^$document
 ||cainiaojiaocheng.com^$document
+||cakesshare.com^$document
 ||californialistings.com^$document
 ||calleo.be^$document
 ||caltechbd.com^$document
@@ -2708,6 +2709,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||docs.demo.mschool.cn^$document
 ||docs.getquicker.cn^$document
 ||docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw^$document
+||docs.google.com/forms/d/e/1FAIpQLSfXZ7DCUFlCN_gsUq6ZbJDj8wyPE0byaTjU2Nh1mwFiBmx0qw^$document
 ||docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn^$document
 ||docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
 ||docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
@@ -5352,6 +5354,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jp-nene.com^$document
 ||jp-yoo.com^$document
 ||jp-yooho.com^$document
+||jp.56k88.com^$document
 ||jp.adlock.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
@@ -5362,6 +5365,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
 ||jp.norton.com^$document
+||jp.pet-encyclopedia.com^$document
 ||jp.pogoskill.com^$document
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
@@ -6679,6 +6683,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mdlmake.shop^$document
 ||mdoramafan.com^$document
 ||me-qr.com^$document
+||meall-times.com^$document
 ||measurement.slot42.online^$document
 ||meat-kode.com^$document
 ||mebelim.net^$document
