@@ -1,12 +1,3 @@
-*://apk.tours/*
-*://missav-ai.cv/*
-*://life-design-net.com/*
-*://imanani.com/*
-*://mlbeat.com/*
-*://heathersaundersphotography.com/*
-*://komachii.com/*
-*://applion.jp/iphone/word/missav/*
-*://ytsaver.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11711,6 +11702,7 @@
 *://apk.dog/*
 *://apk.gold/*
 *://apk.tools/*
+*://apk.tours/*
 *://apk20.com/*
 *://apk4free.net/*
 *://apkaward.com/*
@@ -11798,6 +11790,7 @@
 *://appli-world.jp/posts/18197*
 *://applibito.com/*
 *://applihunter.net/*
+*://applion.jp/iphone/word/missav/*
 *://appnee.com/*
 *://appnstore.com/*
 *://appoholow.xyz/*
@@ -15086,6 +15079,7 @@
 *://healthykidshealthyfuture.org/*
 *://heart-made-cafe.info/*
 *://heartfootprints.com/*
+*://heathersaundersphotography.com/*
 *://hedgehog.ryukyu/*
 *://hedgehog.ryukyu/youtube-vanced/*
 *://hee-blog.com/*
@@ -15540,6 +15534,7 @@
 *://imaginary.red/*
 *://imahochannel.com/*
 *://imakarada.jp/*
+*://imanani.com/*
 *://imari-wakamatsuya.net/*
 *://imashun-navi.com/*
 *://imasoku.com/*
@@ -16361,6 +16356,7 @@
 *://kolors-virtual-try-on.org/*
 *://kolpul.com/*
 *://komachanel.work/*
+*://komachii.com/*
 *://komaria7711.com/*
 *://komatsushima-life.net/*
 *://komeda.club/*
@@ -16639,6 +16635,7 @@
 *://library.ucclm.org/*
 *://licklink.net/*
 *://liemu669.com/*
+*://life-design-net.com/*
 *://life-long-friend-ship.net/*
 *://life-mens.com/*
 *://life.oricon.co.jp/*
@@ -17394,6 +17391,7 @@
 *://mirumi.me/firefox-plugin/*
 *://mirumiru-honpo.jp/*
 *://miss-saigon-movie-25.jp/*
+*://missav-ai.cv/*
 *://missav-av01.com/*
 *://missav-downloader.org/*
 *://missav-fc2ppv.jp/*
@@ -17451,6 +17449,7 @@
 *://mjuehy.com/*
 *://mk8-robo.com/*
 *://mkm.maturbit.sa.com/*
+*://mlbeat.com/*
 *://mlkm221021.com/*
 *://mm-smile.net/*
 *://mmake.net/*
@@ -24677,6 +24676,7 @@
 *://ytpremiumapks.com/*
 *://ytrevanced.app/*
 *://ytricks.co/*
+*://ytsaver.net/*
 *://ytsgold.com/*
 *://ytvancedapk.com/*
 *://yu-blo.com/*

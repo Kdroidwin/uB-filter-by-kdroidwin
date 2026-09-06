@@ -1105,6 +1105,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apk.dog^$document
 ||apk.gold^$document
 ||apk.tools^$document
+||apk.tours^$document
 ||apk20.com^$document
 ||apk4free.net^$document
 ||apkaward.com^$document
@@ -1194,6 +1195,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||appli-world.jp/posts/18197^$document
 ||applibito.com^$document
 ||applihunter.net^$document
+||applion.jp/iphone/word/missav^$document
 ||appnee.com^$document
 ||appnstore.com^$document
 ||appoholow.xyz^$document
@@ -4522,6 +4524,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||healthykidshealthyfuture.org^$document
 ||heart-made-cafe.info^$document
 ||heartfootprints.com^$document
+||heathersaundersphotography.com^$document
 ||hedgehog.ryukyu/youtube-vanced^$document
 ||hedgehog.ryukyu^$document
 ||hee-blog.com^$document
@@ -4984,6 +4987,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||imaginary.red^$document
 ||imahochannel.com^$document
 ||imakarada.jp^$document
+||imanani.com^$document
 ||imari-wakamatsuya.net^$document
 ||imashun-navi.com^$document
 ||imasoku.com^$document
@@ -5821,6 +5825,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kolors-virtual-try-on.org^$document
 ||kolpul.com^$document
 ||komachanel.work^$document
+||komachii.com^$document
 ||komaria7711.com^$document
 ||komatsushima-life.net^$document
 ||komeda.club^$document
@@ -6103,6 +6108,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||libru.co.jp^$document
 ||licklink.net^$document
 ||liemu669.com^$document
+||life-design-net.com^$document
 ||life-long-friend-ship.net^$document
 ||life-mens.com^$document
 ||life.oricon.co.jp^$document
@@ -6873,6 +6879,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mirumi.me/firefox-plugin^$document
 ||mirumiru-honpo.jp^$document
 ||miss-saigon-movie-25.jp^$document
+||missav-ai.cv^$document
 ||missav-av01.com^$document
 ||missav-downloader.org^$document
 ||missav-fc2ppv.jp^$document
@@ -6930,6 +6937,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mjuehy.com^$document
 ||mk8-robo.com^$document
 ||mkm.maturbit.sa.com^$document
+||mlbeat.com^$document
 ||mlkm221021.com^$document
 ||mm-smile.net^$document
 ||mmake.net^$document
@@ -14352,6 +14360,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ytpremiumapks.com^$document
 ||ytrevanced.app^$document
 ||ytricks.co^$document
+||ytsaver.net^$document
 ||ytsgold.com^$document
 ||ytvancedapk.com^$document
 ||yu-blo.com^$document
