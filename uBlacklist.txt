@@ -1,5 +1,3 @@
-*://rajaapk.com/*
-*://hayashi-rise.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15063,6 +15061,7 @@
 *://hayaohirune.com/*
 *://hayarimeguri.com/*
 *://hayarimono.work/*
+*://hayashi-rise.com/*
 *://hayawakari11.com/*
 *://hayito.com/*
 *://hazicko-tsushin.com/*
@@ -19708,6 +19707,7 @@
 *://rairai0707.com/*
 *://raise3d.jp/*
 *://raityo.com/*
+*://rajaapk.com/*
 *://rajakuberar.com/*
 *://rakeruma.com/*
 *://rakiam.com/*

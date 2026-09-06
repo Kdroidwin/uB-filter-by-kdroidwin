@@ -4506,6 +4506,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hayaohirune.com^$document
 ||hayarimeguri.com^$document
 ||hayarimono.work^$document
+||hayashi-rise.com^$document
 ||hayawakari11.com^$document
 ||hayito.com^$document
 ||hazicko-tsushin.com^$document
@@ -9238,6 +9239,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rairai0707.com^$document
 ||raise3d.jp^$document
 ||raityo.com^$document
+||rajaapk.com^$document
 ||rajakuberar.com^$document
 ||rakeruma.com^$document
 ||rakiam.com^$document
