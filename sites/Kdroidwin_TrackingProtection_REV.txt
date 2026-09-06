@@ -52,7 +52,7 @@
 ||android-context-data.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||pjt-knowledge.firebaseapp.com^
-
+||dns.google^
 
 ||getlinkinfo.com^
 
@@ -148,7 +148,7 @@
 ||i-fallback.instagram.com^
 ||graph.facebook.com^
 
-
+||bitwarden.pw^
 
 ! 1DM
 ||apps2sd.info^
