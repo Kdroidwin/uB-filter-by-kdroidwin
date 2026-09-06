@@ -373,6 +373,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||2chcopipe.com^$document
 ||2d-ecstasy.com^$document
 ||2ddvkfb.zbgraf16.pl^$document
+||2e5fg.com^$document
 ||2l.glitch.me^$document
 ||2ndlabo.com^$document
 ||2ndweb.jp^$document
@@ -1370,6 +1371,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||augma.fandom.com^$document
 ||auqotakh.ltd^$document
 ||aurora-store.jp.uptodown.com^$document
+||auto-handler.site^$document
 ||auto01.wpx.jp^$document
 ||autocosmeticsny.com^$document
 ||autodesk.me^$document
@@ -2490,6 +2492,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||daimarubb.com^$document
 ||daimatu.seesaa.net^$document
 ||daimonji-kk.jp^$document
+||daimyouji.com^$document
 ||daisukestrend.com^$document
 ||daisy-times.com^$document
 ||dakimax.com^$document
@@ -3169,7 +3172,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||entamezyouhoukan.com^$document
 ||entamix777.com^$document
 ||entergora.com^$document
-||enterstage.jp^$document
 ||entertainer-media.net^$document
 ||entertainer-now.com^$document
 ||entertainment-days.com^$document
@@ -3487,7 +3489,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanfan-comicomi.com^$document
 ||fanfanza.com^$document
 ||fanmake-blog.com^$document
-||fanplus.co.kr^$document
 ||fanshub.jp^$document
 ||fantaslipp.com^$document
 ||fanza-com.mystrikingly.com^$document
@@ -6889,6 +6890,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-ai.cv^$document
 ||missav-av01.com^$document
 ||missav-downloader.org^$document
+||missav-fanza.com^$document
 ||missav-fc2ppv.jp^$document
 ||missav-fc2ppv02.com^$document
 ||missav-fc2ppv03.com^$document
@@ -11559,6 +11561,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||verdy-saijohigashi.jp^$document
 ||verelq.am^$document
 ||verica.io^$document
+||verify-age.net^$document
 ||veriteclinic.net^$document
 ||vermuda.jp/article/netflix-vpn^$document
 ||vermuda.jp/article/vpn-osusume^$document
@@ -14491,6 +14494,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||z-z.jp^$document
 ||z.ksmlc.cn^$document
 ||z3bd4217-stylesheet.hachepaille.fr^$document
+||z42y.com^$document
 ||z56.nextguest.app^$document
 ||za.com^$document,domain=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com
 ||zainale.net^$document

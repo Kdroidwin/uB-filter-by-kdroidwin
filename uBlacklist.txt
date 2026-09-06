@@ -1,9 +1,3 @@
-*://daimyouji.com/*
-*://verify-age.net/*
-*://z42y.com/*
-*://2e5fg.com/*
-*://auto-handler.site/*
-*://missav-fanza.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11001,6 +10995,7 @@
 *://2chcopipe.com/*
 *://2d-ecstasy.com/*
 *://2ddvkfb.zbgraf16.pl/*
+*://2e5fg.com/*
 *://2l.glitch.me/*
 *://2ndweb.jp/*
 *://2q8p4.cn/*
@@ -11973,6 +11968,7 @@
 *://augma.fandom.com/*
 *://auqotakh.ltd/*
 *://aurora-store.jp.uptodown.com/*
+*://auto-handler.site/*
 *://auto01.wpx.jp/*
 *://autocosmeticsny.com/*
 *://autodesk.me/*
@@ -13066,6 +13062,7 @@
 *://daimarubb.com/*
 *://daimatu.seesaa.net/*
 *://daimonji-kk.jp/*
+*://daimyouji.com/*
 *://daisukestrend.com/*
 *://daisy-times.com/*
 *://dakimax.com/*
@@ -17405,6 +17402,7 @@
 *://missav-ai.cv/*
 *://missav-av01.com/*
 *://missav-downloader.org/*
+*://missav-fanza.com/*
 *://missav-fc2ppv.jp/*
 *://missav-fc2ppv02.com/*
 *://missav-fc2ppv03.com/*
@@ -21922,6 +21920,7 @@
 *://verdy-saijohigashi.jp/*
 *://verelq.am/*
 *://verica.io/*
+*://verify-age.net/*
 *://veriteclinic.net/*
 *://vermuda.jp/*
 *://vermuda.jp/article/netflix-vpn/*
@@ -24811,6 +24810,7 @@
 *://z-z.jp/*
 *://z.ksmlc.cn/*
 *://z3bd4217-stylesheet.hachepaille.fr/*
+*://z42y.com/*
 *://z56.nextguest.app/*
 *://zaintech.co.id/*
 *://zaitakusyufu.net/*
