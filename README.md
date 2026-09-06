@@ -122,15 +122,6 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 ```
 uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果から該当サイトを非表示にします。
 
-<br>
-<br>
-
-- uB-filter-by-kdroidwin(Brave Search)[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforBraveSearch.txt&title=uB-filter-by-kdroidwin%28Brave%20Search%29)
-
-```text
-https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/search%20engine/uBlockOriginforBraveSearch.txt
-```
-uBlacklistを使用せずともuBlock OriginだけでBrave Searchの検索結果から該当サイトを非表示にします。
 
 <br>
 <br>
