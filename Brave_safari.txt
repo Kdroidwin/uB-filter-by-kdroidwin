@@ -218,6 +218,8 @@ thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/App
 thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
 thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
 thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
+uptodown.com##.active.xapk.download.button
+uptodown.com##.instructions-list
 www.gadget2ch.com###main > div.article-text-rss-box
 www.gadget2ch.com###page > .posts-inner
 www.gadget2ch.com###page > div.article-text-rss-box
@@ -5901,6 +5903,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kotonavi777.com^$document
 ||kotti.biz^$document
 ||kottoceramica.com^$document
+||kou6000-kyoumiblog.com^$document
 ||kougei-expo-akita.com^$document
 ||koumuin-work.com^$document
 ||kousaku.chiikuji.com^$document
@@ -11208,6 +11211,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||translink.et^$document
 ||trashbox.ru^$document
 ||travel-life-magazine.com^$document
+||travel-sokuho.com^$document
 ||travel4thesoul.com^$document
 ||tre-memo-go.com^$document
 ||tre-monte.com^$document
@@ -11393,6 +11397,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ubuntubin.com^$document
 ||ubuntugeeks.com^$document
 ||ucbl.cn^$document
+||uchi-tsuki.hatenablog.com^$document
 ||uchiagehanabi.jp^$document
 ||uchihapmarathon.jp^$document
 ||uchina-times.com^$document
@@ -13485,6 +13490,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.rhipe-katsuyo.jp^$document
 ||www.ricambifacili.com^$document
 ||www.rickygourmet.online^$document
+||www.ringsidenews.com^$document
 ||www.rintoshite.jp^$document
 ||www.riyu-book0079.com^$document
 ||www.rizap.jp^$document

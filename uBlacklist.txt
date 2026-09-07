@@ -1,7 +1,3 @@
-*://uchi-tsuki.hatenablog.com/*
-*://www.ringsidenews.com/*
-*://travel-sokuho.com/*
-*://kou6000-kyoumiblog.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16436,6 +16432,7 @@
 *://kotonavi777.com/*
 *://kotti.biz/*
 *://kottoceramica.com/*
+*://kou6000-kyoumiblog.com/*
 *://kougei-expo-akita.com/*
 *://koumuin-work.com/*
 *://kousaku.chiikuji.com/*
@@ -21585,6 +21582,7 @@
 *://translink.et/*
 *://trashbox.ru/*
 *://travel-life-magazine.com/*
+*://travel-sokuho.com/*
 *://travel4thesoul.com/*
 *://tre-memo-go.com/*
 *://tre-monte.com/*
@@ -21762,6 +21760,7 @@
 *://ubuntubin.com/*
 *://ucbalbania.com/?n=f*
 *://ucbl.cn/*
+*://uchi-tsuki.hatenablog.com/*
 *://uchiagehanabi.jp/*
 *://uchihapmarathon.jp/*
 *://uchina-times.com/*
@@ -23817,6 +23816,7 @@
 *://www.rhipe-katsuyo.jp/*
 *://www.ricambifacili.com/*
 *://www.rickygourmet.online/*
+*://www.ringsidenews.com/*
 *://www.rintoshite.jp/*
 *://www.riyu-book0079.com/*
 *://www.rizap.jp/*
