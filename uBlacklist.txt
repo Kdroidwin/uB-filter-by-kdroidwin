@@ -1,7 +1,3 @@
-*://hitomi-missav12.com/*
-*://the-playhouse.jp/*
-*://ohmikonan-alps.jp/*
-/hitomi-missav\d{2}\.com(?:\/|$)/
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15259,6 +15255,7 @@
 *://hitomi-missav05.com/*
 *://hitomi-missav06.com/*
 *://hitomi-missav07.com/*
+*://hitomi-missav12.com/*
 *://hitomi-nhentai.com/*
 *://hitomi-official.jp/*
 *://hitomi-raw-eromanga.com/*
@@ -18979,6 +18976,7 @@
 *://ogiri.moshimobox.top/*
 *://ohanasi-blog.com/*
 *://ohisamaso.com/*
+*://ohmikonan-alps.jp/*
 *://ohogoe.org/*
 *://oidon-cup.com/*
 *://oioi-min.com/*
@@ -21294,6 +21292,7 @@
 *://the-greatest-dj-of-all-time.technobit.online/*
 *://the-jet-sleeper.com/*
 *://the-personal-gym.com/*
+*://the-playhouse.jp/*
 *://the-promised-neverland-movie.jp/*
 *://the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru/*
 *://the.chozai-cosme.jp/*
@@ -24960,6 +24959,7 @@
 /hentai[^/]*\.com\/d_\d{6}(?:\/|$)/
 /hentai[^/]*\.jp\/d_\d{6}(?:\/|$)/
 /hentai[^/]*\.net\/d_\d{6}(?:\/|$)/
+/hitomi-missav\d{2}\.com(?:\/|$)/
 /hitomi[^/]*\.com\/d_\d{6}(?:\/|$)/
 /hitomi[^/]*\.jp\/d_\d{6}(?:\/|$)/
 /hitomi[^/]*\.net\/d_\d{6}(?:\/|$)/

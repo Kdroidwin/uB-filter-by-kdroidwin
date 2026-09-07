@@ -146,6 +146,7 @@ a2zapk.io##[href^="https://beta-app-sprout.xyz"] > button
 androplus.jp##fieldset
 apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-pss-bottom-right.ad-pss
 apkpure.com##.d-fast-download-game-one.fast-download-start-btn.btn
+apkpure.com##.fast-download-start-btn.btn
 apkpure.net##.fast-download-start-btn.btn
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
@@ -4703,6 +4704,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-missav05.com^$document
 ||hitomi-missav06.com^$document
 ||hitomi-missav07.com^$document
+||hitomi-missav12.com^$document
 ||hitomi-nhentai.com^$document
 ||hitomi-official.jp^$document
 ||hitomi-raw-eromanga.com^$document
@@ -8481,6 +8483,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ogiri.moshimobox.top^$document
 ||ohanasi-blog.com^$document
 ||ohisamaso.com^$document
+||ohmikonan-alps.jp^$document
 ||ohogoe.org^$document
 ||oidon-cup.com^$document
 ||oioi-min.com^$document
@@ -10906,6 +10909,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||the-greatest-dj-of-all-time.technobit.online^$document
 ||the-jet-sleeper.com^$document
 ||the-personal-gym.com^$document
+||the-playhouse.jp^$document
 ||the-promised-neverland-movie.jp^$document
 ||the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru^$document
 ||the.chozai-cosme.jp^$document
