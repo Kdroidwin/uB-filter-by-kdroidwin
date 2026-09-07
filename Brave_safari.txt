@@ -2285,6 +2285,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||comic-hitomiraw.com^$document
 ||comic-hobby.best^$document
 ||comic-info.jp^$document
+||comic-lounge.jp^$document
 ||comic-mangashelf.com^$document
 ||comic.aayaanblog.com^$document
 ||comic.bkrb.net^$document
@@ -4585,6 +4586,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hero-smshero.cc^$document
 ||hero-smshero.co^$document
 ||hero14.com^$document
+||heroine-hub.com^$document
 ||herosms.ai^$document
 ||herosms.cc^$document
 ||herosms.co^$document
@@ -4620,6 +4622,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||highstonecap.com^$document
 ||hightleak.xyz^$document
 ||higo-yokamon.jp^$document
+||hikakintv.com^$document
 ||hikaku-kounyu-tuuhan.com^$document
 ||hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW^$document
 ||hikaku.kurashiru.com^$document
@@ -4891,6 +4894,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hyuga-blog.com^$document
 ||hyundai-kaskad.ru^$document
 ||i-article01.com^$document
+||i-coi.jp^$document
 ||i-fc.jp^$document
 ||i-koka.jp^$document
 ||i-loadzone.com^$document
@@ -5050,6 +5054,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||infosheaf.org^$document
 ||infotourbureau.ru^$document
 ||infotreeleaf.com^$document
+||infozaem.com^$document
 ||infp-seitai.com^$document
 ||ingramlithub.com^$document
 ||ink.mfwt.xyz^$document
@@ -6701,6 +6706,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||media.mar-cari.jp^$document
 ||media.princess-series.com^$document
 ||media.yamatop.com^$document
+||mediaart-0811.booth.pm^$document
 ||mediacitytaxgroup.com^$document
 ||mediadogs.jp^$document
 ||mediafrap.com^$document
@@ -7326,6 +7332,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||natti404.com^$document
 ||nattoumarket.com^$document
 ||natuka.pochasiko.com^$document
+||nature-sleep.info^$document
 ||naturebeard.com^$document
 ||naturetarou.com^$document
 ||natusma.com^$document
@@ -10315,6 +10322,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||spirit.aptty.com^$document
 ||splashpages-dev.hm.com^$document
 ||splatoonv.hatenablog.com^$document
+||splitvpn.io^$document
 ||splunktool.com^$document
 ||spocale.com^$document
 ||spodoori.com^$document
@@ -10793,6 +10801,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||taxidriver-life.com^$document
 ||tayama-child-clinic.jp^$document
 ||taylorblogg.com^$document
+||taziku.co.jp^$document
 ||tazzawn5.styr.solutions^$document
 ||tbs.slot31.online^$document
 ||tbtcm.jp^$document
@@ -11371,6 +11380,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||u-mindmap.com^$document
 ||u-nature.jp^$document
 ||u1sokuhou.ldblog.jp^$document
+||uacred.com^$document
 ||uaeninjawarriors.com^$document
 ||uat.newgarage.com^$document
 ||uberpartner.hatenablog.com^$document
@@ -14073,6 +14083,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--ickth539fgvd9p8cl5j.com^$document
 ||xn--ickth739fone1maw701a.jp^$document
 ||xn--ickth739fwpcr6dd9jv70fr96a.com^$document
+||xn--icktho02nytgzzh.com^$document
 ||xn--icktho25pytlfkn.com^$document
 ||xn--j9j7hucs457a.com^$document
 ||xn--kentsu-1t4e2n.com^$document

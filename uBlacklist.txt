@@ -1,14 +1,3 @@
-*://uacred.com/*
-*://infozaem.com/*
-*://hikakintv.com/*
-*://mediaart-0811.booth.pm/*
-*://splitvpn.io/*
-*://i-coi.jp/*
-*://heroine-hub.com/*
-*://xn--icktho02nytgzzh.com/*
-*://comic-lounge.jp/*
-*://nature-sleep.info/*
-*://taziku.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12870,6 +12859,7 @@
 *://comic-hitomiraw.com/*
 *://comic-hobby.best/*
 *://comic-info.jp/*
+*://comic-lounge.jp/*
 *://comic-mangashelf.com/*
 *://comic.aayaanblog.com/*
 *://comic.bkrb.net/*
@@ -15151,6 +15141,7 @@
 *://hero-smshero.cc/*
 *://hero-smshero.co/*
 *://hero14.com/*
+*://heroine-hub.com/*
 *://herosms.ai/*
 *://herosms.cc/*
 *://herosms.co/*
@@ -15185,6 +15176,7 @@
 *://highstonecap.com/*
 *://hightleak.xyz/*
 *://higo-yokamon.jp/*
+*://hikakintv.com/*
 *://hikaku-kounyu-tuuhan.com/*
 *://hikaku.kurashiru.com/*
 *://hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW*
@@ -15455,6 +15447,7 @@
 *://hyuga-blog.com/*
 *://hyundai-kaskad.ru/*
 *://i-article01.com/*
+*://i-coi.jp/*
 *://i-fc.jp/*
 *://i-koka.jp/*
 *://i-loadzone.com/*
@@ -15605,6 +15598,7 @@
 *://infosheaf.org/*
 *://infotourbureau.ru/*
 *://infotreeleaf.com/*
+*://infozaem.com/*
 *://infp-seitai.com/*
 *://ingramlithub.com/*
 *://ink.mfwt.xyz/*
@@ -17227,6 +17221,7 @@
 *://media.mar-cari.jp/*
 *://media.princess-series.com/*
 *://media.yamatop.com/*
+*://mediaart-0811.booth.pm/*
 *://mediacitytaxgroup.com/*
 *://mediadogs.jp/*
 *://mediafrap.com/*
@@ -17842,6 +17837,7 @@
 *://natti404.com/*
 *://nattoumarket.com/*
 *://natuka.pochasiko.com/*
+*://nature-sleep.info/*
 *://naturetarou.com/*
 *://natusma.com/*
 *://naumi-purin.com/*
@@ -20743,6 +20739,7 @@
 *://spirit.aptty.com/*
 *://splashpages-dev.hm.com/*
 *://splatoonv.hatenablog.com/*
+*://splitvpn.io/*
 *://splunktool.com/*
 *://spocale.com/*
 *://spodoori.com/*
@@ -21197,6 +21194,7 @@
 *://taxidriver-life.com/*
 *://tayama-child-clinic.jp/*
 *://taylorblogg.com/*
+*://taziku.co.jp/*
 *://tazzawn5.styr.solutions/*
 *://tbs.slot31.online/*
 *://tbtcm.jp/*
@@ -21748,6 +21746,7 @@
 *://u-kaihatsu.jp/*
 *://u-mindmap.com/*
 *://u-nature.jp/*
+*://uacred.com/*
 *://uaeninjawarriors.com/*
 *://uat.newgarage.com/*
 *://uberpartner.hatenablog.com/*
@@ -24404,6 +24403,7 @@
 *://xn--ickth539fgvd9p8cl5j.com/*
 *://xn--ickth739fone1maw701a.jp/*
 *://xn--ickth739fwpcr6dd9jv70fr96a.com/*
+*://xn--icktho02nytgzzh.com/*
 *://xn--icktho25pytlfkn.com/*
 *://xn--j9j7hucs457a.com/*
 *://xn--kentsu-1t4e2n.com/*
