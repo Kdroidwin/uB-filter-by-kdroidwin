@@ -1,10 +1,3 @@
-*://www.honmotakeshi.com/*
-*://news-us.org/*
-*://lite-ra.com/*
-*://earthreview.net/*
-*://wisdomkeeper.livedoor.blog/*
-*://golden-tamatama.com/*
-*://karapaia.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13556,6 +13549,7 @@
 *://earth-c.jp/*
 *://earthquake.esy.es/*
 *://earthquakenet.jp/*
+*://earthreview.net/*
 *://eat.badate.work/*
 *://ebisu-selection.com/*
 *://ebook-house.com/*
@@ -14748,6 +14742,7 @@
 *://gokigenteikoku.jp/*
 *://goku-tsuma.net/*
 *://gokyuzuvebalon.com/*
+*://golden-tamatama.com/*
 *://goldenevent.pl/*
 *://goldenheartmediation.com/*
 *://goldenkings.bl.kuroco-img.app/*
@@ -16081,6 +16076,7 @@
 *://karanpc.info/*
 *://karanpc.me/*
 *://karaoke-yumex.jp/*
+*://karapaia.com/*
 *://karasugaming.com/*
 *://kare-kanojo.blog.ss-blog.jp/*
 *://karikari.xyz/*
@@ -16716,6 +16712,7 @@
 *://liskul.com/*
 *://lissora-jp.com/*
 *://lit.link/ginzacocolo/*
+*://lite-ra.com/*
 *://lite.tiktok.com/*
 *://liteapks.com/graph-messenger.html*
 *://little-busters.ldblog.jp/*
@@ -17969,6 +17966,7 @@
 *://news-hunter.net/*
 *://news-media-life.com/*
 *://news-news-news.net/*
+*://news-us.org/*
 *://news-vision.jp/*
 *://news-wakaru.com/*
 *://news.eeany.cn/*
@@ -22237,6 +22235,7 @@
 *://winlator.io/*
 *://winoogov.com/*
 *://wiple-service.com/column/*
+*://wisdomkeeper.livedoor.blog/*
 *://wise-media-factory.com/*
 *://wisteriablog.net/*
 *://wittmann.digital/*
@@ -23138,6 +23137,7 @@
 *://www.hokuto-no-ken-musical.com/*
 *://www.hollandsvastgoed.com/*
 *://www.homefiks.no/*
+*://www.honmotakeshi.com/*
 *://www.honnonihohi.jp/*
 *://www.hospicedefrance.fr/*
 *://www.hotdebrid.com/*

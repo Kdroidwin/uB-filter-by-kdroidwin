@@ -2980,6 +2980,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||earth-c.jp^$document
 ||earthquake.esy.es^$document
 ||earthquakenet.jp^$document
+||earthreview.net^$document
 ||eat.badate.work^$document
 ||ebisu-selection.com^$document
 ||ebook-house.com^$document
@@ -4187,6 +4188,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gokigenteikoku.jp^$document
 ||goku-tsuma.net^$document
 ||gokyuzuvebalon.com^$document
+||golden-tamatama.com^$document
 ||goldenevent.pl^$document
 ||goldenheartmediation.com^$document
 ||goldenkings.bl.kuroco-img.app^$document
@@ -5539,6 +5541,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||karanpc.info^$document
 ||karanpc.me^$document
 ||karaoke-yumex.jp^$document
+||karapaia.com^$document
 ||karasugaming.com^$document
 ||kare-kanojo.blog.ss-blog.jp^$document
 ||karikari.xyz^$document
@@ -6187,6 +6190,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||liskul.com^$document
 ||lissora-jp.com^$document
 ||lit.link/ginzacocolo^$document
+||lite-ra.com^$document
 ||lite.tiktok.com^$document
 ||little-busters.ldblog.jp^$document
 ||littlelittlelife.com^$document
@@ -7464,6 +7468,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||news-media-life.com^$document
 ||news-news-news.net^$document
 ||news-us.jp^$document
+||news-us.org^$document
 ||news-vision.jp^$document
 ||news-wakaru.com^$document
 ||news.2chblog.jp^$document
@@ -11909,6 +11914,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||winlator.io^$document
 ||winoogov.com^$document
 ||wiple-service.com/column^$document
+||wisdomkeeper.livedoor.blog^$document
 ||wise-media-factory.com^$document
 ||wisteriablog.net^$document
 ||wittmann.digital^$document
@@ -12814,6 +12820,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.hokuto-no-ken-musical.com^$document
 ||www.hollandsvastgoed.com^$document
 ||www.homefiks.no^$document
+||www.honmotakeshi.com^$document
 ||www.honnonihohi.jp^$document
 ||www.hospicedefrance.fr^$document
 ||www.hotdebrid.com^$document
