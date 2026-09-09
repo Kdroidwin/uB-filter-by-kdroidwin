@@ -992,6 +992,17 @@
 @*://game-player.click/*
 @*://blog.koneta.click/*
 @*://manga-zip.click/*
+@*://lean-path.click/*
+@*://ikebukuro.click/*
+@*://ecofactory.click/*
+@*://tabelog.click/*
+@*://kinde.click/*
+@*://www.giraud.click/*
+@*://coinlocker.click/*
+@*://myroom.click/*
+@*://belle.click/*
+@*://mashu.click/*
+@*://guidepost.click/*
 @*://otakatu.koyuki.click/*
 @*://turkhub.cfd/*
 @*://31vakti65.cfd/*
