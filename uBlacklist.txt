@@ -1,18 +1,3 @@
-*://breaking-news.jp/*
-*://seikeidouga.blog.jp/*
-*://sputniknews.jp/*
-*://you1news.com/*
-*://kaigai-antenna.com/*
-*://www.otonarisoku.com/*
-*://thepeoplesvoice.tv/*
-*://www.zerohedge.com/*
-*://greatgameindia.com/*
-*://yuukoku.net/*
-*://yukoku-ch.com/*
-*://kousokuvip.com/*
-*://kimsoku.com/*
-*://satehate.exblog.jp/*
-*://eigokiji.cocolog-nifty.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12423,6 +12408,7 @@
 *://braviusvigorizante.com/*
 *://bread-everyday.com/*
 *://break-place.net/*
+*://breaking-news.jp/*
 *://breamerpainting.xyz/*
 *://breezesmile.com/*
 *://brendahousecleaning.com/*
@@ -13632,6 +13618,7 @@
 *://eigahitottobi.com/*
 *://eight-media.co.jp/*
 *://eightstudio.urdr.weblife.me/*
+*://eigokiji.cocolog-nifty.com/*
 *://eisenlab.org/*
 *://eishi-u.com/*
 *://eison.gob.jp/*
@@ -14833,6 +14820,7 @@
 *://gravia-navi.com/*
 *://gray.pochasiko.com/*
 *://grayelectricllc.com/*
+*://greatgameindia.com/*
 *://greating-job.com/*
 *://greeeenshop.jp/*
 *://greeglanhind.xyz/*
@@ -16021,6 +16009,7 @@
 *://kagoshima2023-sailing.com/*
 *://kagurazakamiracle.com/*
 *://kaguyasama-movie.com/*
+*://kaigai-antenna.com/*
 *://kaigaiceleb.com/*
 *://kaigaijyunbi.xsrv.jp/*
 *://kaigishitsu.com/*
@@ -16241,6 +16230,7 @@
 *://kimiuso-movie.jp/*
 *://kimootoko.net/*
 *://kims-001.com/*
+*://kimsoku.com/*
 *://kin5150.com/*
 *://kindai.raku-uru.jp/*
 *://kineticharbor.com/*
@@ -16456,6 +16446,7 @@
 *://kougei-expo-akita.com/*
 *://koumuin-work.com/*
 *://kousaku.chiikuji.com/*
+*://kousokuvip.com/*
 *://kouzushima.org/*
 *://kovestresto.ca/*
 *://kowai-torauma.unij.co.jp/*
@@ -20267,6 +20258,7 @@
 *://sasayamarche.jp/*
 *://sasayuri-shiga.com/article/*
 *://sasquatch-movie.com/*
+*://satehate.exblog.jp/*
 *://satimo-notes.com/*
 *://sato-jewelry.com/*
 *://sato-yokohama.jp/*
@@ -20355,6 +20347,7 @@
 *://seikatsusha.tokyo/*
 *://seikatu-benri.com/*
 *://seikei-platform.com/*
+*://seikeidouga.blog.jp/*
 *://seirith.com/*
 *://seishu.sakura.ne.jp/*
 *://seiwa-net.jp/*
@@ -20833,6 +20826,7 @@
 *://sprunkilove.org/*
 *://sprunkisinner.cc/*
 *://sputnikglobe.com/*
+*://sputniknews.jp/*
 *://squashsite.world/*
 *://squirrel-storage.jp/*
 *://srcboat.fi/*
@@ -21355,6 +21349,7 @@
 *://thenhawk.xyz/*
 *://thenrpod.com/*
 *://theosopht.com/*
+*://thepeoplesvoice.tv/*
 *://thepickup1010.com/*
 *://thepiratebay.party/*
 *://thepiratebay.rocks/*
@@ -23674,6 +23669,7 @@
 *://www.oritwolf.com/*
 *://www.ortopedia.congresord.com/*
 *://www.otisnature.com/*
+*://www.otonarisoku.com/*
 *://www.ottoitcare.in/*
 *://www.ouchi-time.blog/*
 *://www.ouni.org/*
@@ -24339,6 +24335,7 @@
 *://www.zedload.com/*
 *://www.zero-full.com/*
 *://www.zerogo.jp/*
+*://www.zerohedge.com/*
 *://www.zerohello.cn/*
 *://www.zeroum.co.jp/*
 *://www.zfadv.com/*
@@ -24649,6 +24646,7 @@
 *://yotsuba428blog.com/*
 *://you-choose.info/*
 *://you-taka.com/*
+*://you1news.com/*
 *://youcomi.com/*
 *://youcya.com/*
 *://youkai-mago.com/*
@@ -24769,6 +24767,7 @@
 *://yukitokyo.jp/*
 *://yuko0125.com/*
 *://yukoblog.net/*
+*://yukoku-ch.com/*
 *://yularihappysmile.com/*
 *://yumagasprices.com/*
 *://yume-ringo.com/*
@@ -24806,6 +24805,7 @@
 *://yuu01.jp/*
 *://yuugafas.com/*
 *://yuuhime.xyz/*
+*://yuukoku.net/*
 *://yuukota-blog.com/*
 *://yuumeijin.biz/*
 *://yuumeijin.info/*

@@ -1823,6 +1823,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||braviusvigorizante.com^$document
 ||bread-everyday.com^$document
 ||break-place.net^$document
+||breaking-news.jp^$document
 ||breamerpainting.xyz^$document
 ||breezesmile.com^$document
 ||brendahousecleaning.com^$document
@@ -3048,6 +3049,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eigahitottobi.com^$document
 ||eight-media.co.jp^$document
 ||eightstudio.urdr.weblife.me^$document
+||eigokiji.cocolog-nifty.com^$document
 ||eisenlab.org^$document
 ||eishi-u.com^$document
 ||eison.gob.jp^$document
@@ -4265,6 +4267,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gravia-navi.com^$document
 ||gray.pochasiko.com^$document
 ||grayelectricllc.com^$document
+||greatgameindia.com^$document
 ||greating-job.com^$document
 ||greeeenshop.jp^$document
 ||greeglanhind.xyz^$document
@@ -5469,6 +5472,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kagoshima2023-sailing.com^$document
 ||kagurazakamiracle.com^$document
 ||kaguyasama-movie.com^$document
+||kaigai-antenna.com^$document
 ||kaigaiceleb.com^$document
 ||kaigaijyunbi.xsrv.jp^$document
 ||kaigishitsu.com^$document
@@ -5692,6 +5696,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kimiuso-movie.jp^$document
 ||kimootoko.net^$document
 ||kims-001.com^$document
+||kimsoku.com^$document
 ||kimuta1105.livedoor.blog^$document
 ||kin5150.com^$document
 ||kindai.raku-uru.jp^$document
@@ -5913,6 +5918,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kougei-expo-akita.com^$document
 ||koumuin-work.com^$document
 ||kousaku.chiikuji.com^$document
+||kousokuvip.com^$document
 ||kouzushima.org^$document
 ||kovestresto.ca^$document
 ||kowai-torauma.unij.co.jp^$document
@@ -9816,6 +9822,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sasayamarche.jp^$document
 ||sasayuri-shiga.com/article^$document
 ||sasquatch-movie.com^$document
+||satehate.exblog.jp^$document
 ||satimo-notes.com^$document
 ||sato-jewelry.com^$document
 ||sato-yokohama.jp^$document
@@ -9909,6 +9916,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||seikatsusha.tokyo^$document
 ||seikatu-benri.com^$document
 ||seikei-platform.com^$document
+||seikeidouga.blog.jp^$document
 ||seimei-handan.net^$document
 ||seirith.com^$document
 ||seishu.sakura.ne.jp^$document
@@ -10405,6 +10413,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sprunkilove.org^$document
 ||sprunkisinner.cc^$document
 ||sputnikglobe.com^$document
+||sputniknews.jp^$document
 ||sqlite.in^$document
 ||squallchannel.com^$document
 ||squashsite.world^$document
@@ -10957,6 +10966,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||thenhawk.xyz^$document
 ||thenrpod.com^$document
 ||theosopht.com^$document
+||thepeoplesvoice.tv^$document
 ||thepickup1010.com^$document
 ||thepiratebay.party^$document
 ||thepiratebay.rocks^$document
@@ -13334,6 +13344,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.oritwolf.com^$document
 ||www.ortopedia.congresord.com^$document
 ||www.otisnature.com^$document
+||www.otonarisoku.com^$document
 ||www.ottoitcare.in^$document
 ||www.ouchi-time.blog^$document
 ||www.ouni.org^$document
@@ -13995,6 +14006,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.zedload.com^$document
 ||www.zero-full.com^$document
 ||www.zerogo.jp^$document
+||www.zerohedge.com^$document
 ||www.zerohello.cn^$document
 ||www.zeroum.co.jp^$document
 ||www.zfadv.com^$document
@@ -14322,6 +14334,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yotsuba428blog.com^$document
 ||you-choose.info^$document
 ||you-taka.com^$document
+||you1news.com^$document
 ||youcomi.com^$document
 ||youcya.com^$document
 ||youkai-mago.com^$document
@@ -14443,6 +14456,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yukitokyo.jp^$document
 ||yuko0125.com^$document
 ||yukoblog.net^$document
+||yukoku-ch.com^$document
 ||yularihappysmile.com^$document
 ||yumagasprices.com^$document
 ||yume-ringo.com^$document
@@ -14480,6 +14494,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuu01.jp^$document
 ||yuugafas.com^$document
 ||yuuhime.xyz^$document
+||yuukoku.net^$document
 ||yuukota-blog.com^$document
 ||yuumeijin.biz^$document
 ||yuumeijin.info^$document
