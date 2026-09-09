@@ -3,6 +3,7 @@
 ! Expires: 2 hours (update frequency)
 ##a[href*="google.com/preferences/source"]
 ||www-xbl*.pages.dev$doc
+||eplus.jp/breakingdown21^doc
 ||trafficgate.net^
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
