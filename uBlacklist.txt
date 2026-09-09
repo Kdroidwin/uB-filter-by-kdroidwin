@@ -1,4 +1,3 @@
-*://gunmetal.wpx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14856,6 +14855,7 @@
 *://gulftestinglab.com/*
 *://gunjikikou.com/*
 *://gunma-ichiba.jp/*
+*://gunmetal.wpx.jp/*
 *://gunosy.com/*
 *://gurigetfree.com/*
 *://guriko1.com/*

@@ -4302,6 +4302,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gulftestinglab.com^$document
 ||gunjikikou.com^$document
 ||gunma-ichiba.jp^$document
+||gunmetal.wpx.jp^$document
 ||gunosy.com^$document
 ||gurigetfree.com^$document
 ||guriko1.com^$document
