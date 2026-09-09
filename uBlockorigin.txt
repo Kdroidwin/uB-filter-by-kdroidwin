@@ -12014,6 +12014,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www-facultyfocus-ex1-https-443-g0.gues.edu.cn^$document
 ||www-linkedin-com-443.webvpn.scu.edu.cn^$document
 ||www-westjr.rfrjxm.com^$document
+||www-xblock-checker2026.pages.dev^$document
 ||www.011789.xyz^$document
 ||www.0669.top^$document
 ||www.0jqo11.cn^$document
@@ -12248,6 +12249,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.baume-et-mercier.cn^$document
 ||www.bbc-tv.co.jp/vod-column^$document
 ||www.bbc2021.jp^$document
+||www.bcnretail.com^$document
 ||www.bdo-mingo7244.net^$document
 ||www.bdzmfcq.cn^$document
 ||www.beach-time.jp^$document
