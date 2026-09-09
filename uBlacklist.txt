@@ -1,5 +1,3 @@
-*://breakingdown.jp/*
-*://bdlive.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12108,6 +12106,7 @@
 *://bcsredcross.com/*
 *://bd.vizeo.eu/*
 *://bddy.me/*
+*://bdlive.jp/*
 *://be-3679.about.gitlab-review.app/*
 *://be-habit.com/*
 *://be-marry.com/*
@@ -12411,6 +12410,7 @@
 *://bread-everyday.com/*
 *://break-place.net/*
 *://breaking-news.jp/*
+*://breakingdown.jp/*
 *://breamerpainting.xyz/*
 *://breezesmile.com/*
 *://brendahousecleaning.com/*
