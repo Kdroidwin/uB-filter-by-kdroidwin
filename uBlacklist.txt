@@ -1,5 +1,3 @@
-*://line-invite.xyunyong257.workers.dev/*
-*://xyunyong257.workers.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16692,6 +16690,7 @@
 *://lincdiiin.com/*
 *://line-hc.cc/*
 *://line-howtouse.net/*
+*://line-invite.xyunyong257.workers.dev/*
 *://line-kiwami.com/*
 *://line.me/R/ti/p/@909gqgoa?oat_content=url&ts=02240057/*
 *://lineblog.me/*
@@ -24515,6 +24514,7 @@
 *://xxx.oz-bread.com/*
 *://xxx.report/*
 *://xxxyuxxxka.com/*
+*://xyunyong257.workers.dev/*
 *://xyz-jp.org/*
 *://xzmc.eotqvfnp.hair/*
 *://y3r710.r.eu-west-1.awstrack.me/*

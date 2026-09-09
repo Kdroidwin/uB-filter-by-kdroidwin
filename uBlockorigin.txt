@@ -1,8 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||xb*lk.pages.dev$doc
-||xbblk*.pages.dev$doc
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -6169,6 +6167,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lincdiiin.com^$document
 ||line-hc.cc^$document
 ||line-howtouse.net^$document
+||line-invite.xyunyong257.workers.dev^$document
 ||line-kiwami.com^$document
 ||line.me.*.com$document
 ||line.me/R/ti/p/@909gqgoa?oat_content=url&ts=02240057^$document
@@ -14029,6 +14028,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||x.gd/GkVjG^$document
 ||x11x.attractive69.com^$document
 ||x68000.q-e-d.net^$document
+||xb*lk.pages.dev$doc
+||xbblk*.pages.dev$doc
 ||xbl*.pages.dev^$document
 ||xbl*.pages.dev^$document
 ||xblock*.page.dev$document
@@ -14198,6 +14199,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xxx.oz-bread.com^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
+||xyunyong257.workers.dev^$document
 ||xyz-jp.org^$document
 ||xzmc.eotqvfnp.hair^$document
 ||y3r710.r.eu-west-1.awstrack.me^$document
