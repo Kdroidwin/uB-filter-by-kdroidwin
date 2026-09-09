@@ -1,4 +1,3 @@
-*://gachajima.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14414,6 +14413,7 @@
 *://g2015graman.top/*
 *://g2c28wr.onlinetanke.de/*
 *://g2mo30u9g.birralafirm.it/*
+*://gachajima.jp/*
 *://gadge-taku.com/osusume-android-apps/*
 *://gadgeski.hatenablog.com/*
 *://gadget-app.com/*
