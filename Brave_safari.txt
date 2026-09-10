@@ -848,6 +848,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||almadinaalmonwra.com^$document
 ||almoosahomehealthcare.org^$document
 ||alnaimistudios.com^$document
+||aloma-gakuen.com^$document
 ||alpha-box.jp^$document
 ||alpha.hentai-raw.net^$document
 ||alpinearagon.com^$document
@@ -1269,6 +1270,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||arrow-steel-f4f.notion.site^$document
 ||art.team-lab.cn^$document
 ||art2020.jp^$document
+||artandstay.com^$document
 ||artealfonsina.com^$document
 ||artechweb.pl^$document
 ||arthcamp.jp^$document
@@ -4614,6 +4616,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hf.ru^$document
 ||hhappymod.com^$document
 ||hhdistributors.com^$document
+||hhdoujin.com^$document
 ||hi-bana.com^$document
 ||hi-mylife15.com^$document
 ||hi-tech.mail.ru^$document
@@ -6231,6 +6234,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lk-life.net^$document
 ||llnm1-ticketcp.jp^$document
 ||lmhfxdp.life^$document
+||lmp-mimm-love.yokohama^$document
 ||lms.learningbox.online^$document
 ||lms.medreseti.com^$document
 ||ln-news.com^$document
@@ -6378,6 +6382,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||macaluminio.com^$document
 ||macclear.com^$document
 ||machibun.co.jp^$document
+||machida-pcrstation.jp^$document
 ||mackcolthomes.com^$document
 ||macked.app^$document
 ||maco-25.com^$document
@@ -10122,6 +10127,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shuminohaba.com^$document
 ||shun-tame.com^$document
 ||shunsasahara.com^$document
+||shuppan-taisaku.jp^$document
 ||shusei-300.xyz^$document
 ||shuukatujyouhou.com^$document
 ||siaparseband.tistory.com^$document
@@ -10135,6 +10141,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||siihamu.com^$document
 ||sikanosima.jp^$document
 ||sikiroom.com^$document
+||sikoria.mohi.jp^$document
 ||sikosiko.syokusamen.com^$document
 ||silkenfeline.com^$document
 ||silver-allure.com^$document
@@ -11054,6 +11061,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tiktokrevanced.com^$document
 ||timbersinneugene.com^$document
 ||timbuk2.jp^$document
+||timediver.jp^$document
 ||timeglobal.cn^$document
 ||timetf.com^$document
 ||tims-fuku.work^$document
@@ -13033,6 +13041,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.kingsoft.jp^$document
 ||www.kininarublog.com^$document
 ||www.kippis.online^$document
+||www.kirishima-society.jp^$document
 ||www.kirstenmomsen.com^$document
 ||www.kisekinoringo.com^$document
 ||www.kitaharima-hi.com^$document
