@@ -1,3 +1,12 @@
+*://timediver.jp/*
+*://www.kirishima-society.jp/*
+*://machida-pcrstation.jp/*
+*://shuppan-taisaku.jp/*
+*://aloma-gakuen.com/*
+*://artandstay.com/*
+*://hhdoujin.com/*
+*://sikoria.mohi.jp/*
+*://lmp-mimm-love.yokohama/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
