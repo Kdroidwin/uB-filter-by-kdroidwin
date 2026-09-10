@@ -2019,6 +2019,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
 ||cf504206.cloudfree.jp^$document
+||cf552292.cloudfree.jp^$document
 ||cf645694.cloudfree.jp^$document
 ||cf962692.cloudfree.jp^$document
 ||cf^$doc,domain=~wacw.cf|~www.river.cf
@@ -5266,6 +5267,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||japananimetour.com^$document
 ||japanbaconfestival.jp^$document
 ||japancreatorbank.com^$document
+||japanero.jp^$document
 ||japanese-archery.hateblo.jp^$document
 ||japanese.cri.cn^$document
 ||japanknowledge-com-443.webvpn.zisu.edu.cn^$document
@@ -9348,6 +9350,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||raw2.dmm-mania.com^$document
 ||rawapk.com^$document
 ||rawcomic.wew.jp^$document
+||rawcomic8.wew.jp^$document
 ||rawdoujin.wew.jp^$document
 ||rawhentai.wpx.jp^$document
 ||rawmanga.jp^$document

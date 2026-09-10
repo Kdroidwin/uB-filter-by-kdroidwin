@@ -1,6 +1,3 @@
-*://cf552292.cloudfree.jp/*
-*://japanero.jp/*
-*://rawcomic8.wew.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12602,6 +12599,7 @@
 *://cezardouvretoi.fr/*
 *://cf2.top/*
 *://cf504206.cloudfree.jp/*
+*://cf552292.cloudfree.jp/*
 *://cf645694.cloudfree.jp/*
 *://cf962692.cloudfree.jp/*
 *://cfksaklwnx.xyz/*
@@ -15807,6 +15805,7 @@
 *://japananimetour.com/*
 *://japanbaconfestival.jp/*
 *://japancreatorbank.com/*
+*://japanero.jp/*
 *://japanese-archery.hateblo.jp/*
 *://japanese.cri.cn/*
 *://japanknowledge-com-443.webvpn.zisu.edu.cn/*
@@ -19810,6 +19809,7 @@
 *://raw2.dmm-mania.com/*
 *://rawapk.com/*
 *://rawcomic.wew.jp/*
+*://rawcomic8.wew.jp/*
 *://rawdoujin.wew.jp/*
 *://rawhentai.wpx.jp/*
 *://rawmanga.jp/*
