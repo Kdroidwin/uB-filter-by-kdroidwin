@@ -1,8 +1,8 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-##a[href*="google.com/preferences/source"]
 ##.google-preferred-source-container
+##a[href*="google.com/preferences/source"]
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -9114,6 +9114,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pro^$document,to=~site.pro|~sitechecker.pro|~polylang.pro|~salebot.pro|~keenetic.pro|~webd.pro|~online.pro|~opus.pro|~awan.pro|~landbot.pro|~quiknode.pro|~hashvault.pro|~divisare.pro|~ansur.pro
 ||product.info^$document
 ||product.torex.com.cn^$document
+||production-cdn.site^$document
 ||products.swagelok.com.cn^$document
 ||profile-news.net^$document
 ||profile.shuheimurakami.com^$document
@@ -9308,6 +9309,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rakutens-jp.shop^$document
 ||ramcoenterprises.com^$document
 ||ranariosaoluis.com^$document
+||randomain-card.com^$document
 ||randomkeygen.com^$document
 ||rank-king.jp^$document
 ||ranking.goo.ne.jp^$document
