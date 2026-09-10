@@ -5491,6 +5491,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kairaku-comic.com^$document
 ||kaiten-portal.jp^$document
 ||kaitori-janiyard.jp^$document
+||kaitoriton.base.shop^$document
 ||kaitouranmei.com^$document
 ||kaiuntrip.co.jp^$document
 ||kaizoku-movie.jp^$document
@@ -9532,6 +9533,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revolt-tokyo.com^$document
 ||rexdl.com^$document
 ||rexdlbox.com^$document
+||rezent-ai-pages.vercel.app^$document
 ||rezentsns.com^$document
 ||rhc-web-app.vercel.app^$document
 ||rhino3d.online^$document

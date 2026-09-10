@@ -1,5 +1,3 @@
-*://rezent-ai-pages.vercel.app/*
-*://kaitoriton.base.shop/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16028,6 +16026,7 @@
 *://kairaku-comic.com/*
 *://kaiten-portal.jp/*
 *://kaitori-janiyard.jp/*
+*://kaitoriton.base.shop/*
 *://kaitouranmei.com/*
 *://kaiuntrip.co.jp/*
 *://kaizoku-movie.jp/*
@@ -19984,6 +19983,7 @@
 *://revolt-tokyo.com/*
 *://rexdl.com/*
 *://rexdlbox.com/*
+*://rezent-ai-pages.vercel.app/*
 *://rezentsns.com/*
 *://rezzoeresenha.store/?z.*.html
 *://rhc-web-app.vercel.app/*
