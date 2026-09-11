@@ -1,14 +1,3 @@
-*://lp-x-komon.vercel.app/*
-*://note.com/yako_tera/*
-*://2chmate.en.aptoide.com/*
-*://www.extage-marketing.co.jp/*
-*://wakki001.com/*
-*://shindan.fujinvibe.com/*
-*://fujinvibe.com/*
-*://portfolio.kaori-dododo.com/*
-*://online.zoroya.co.jp/*
-*://note.com/good_clover3128/*
-*://insta-auto-dm.riko-a-nft.workers.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11004,6 +10993,7 @@
 *://2bighazameen.com/*
 *://2ch.0726.biz/*
 *://2chcopipe.com/*
+*://2chmate.en.aptoide.com/*
 *://2d-ecstasy.com/*
 *://2ddvkfb.zbgraf16.pl/*
 *://2e5fg.com/*
@@ -14342,6 +14332,7 @@
 *://fujimakiryota.jp/*
 *://fujimoto-boutique.com/*
 *://fujimotoboutique.com/*
+*://fujinvibe.com/*
 *://fujito.info/*
 *://fujiwara2100.sakura.ne.jp/*
 *://fujiyamountain.jp/*
@@ -15637,6 +15628,7 @@
 *://insightec.xyz/*
 *://insolenceproductions.com/*
 *://inspire2020.jp/*
+*://insta-auto-dm.riko-a-nft.workers.dev/*
 *://insta.com.in/*
 *://insta2pro.com/*
 *://instatool.nu/*
@@ -16822,6 +16814,7 @@
 *://lovespiritenergy.com/*
 *://lovewagonblog.wordpress.com/*
 *://lowcostoutsource.com/*
+*://lp-x-komon.vercel.app/*
 *://lp.buzayookaki.com/*
 *://lp.solomon-world.jp/*
 *://lpro-pm4.com/*
@@ -18341,6 +18334,7 @@
 *://note.com/go_cameraman/*
 *://note.com/goen_grapgic/*
 *://note.com/gominogomidame/*
+*://note.com/good_clover3128/*
 *://note.com/googlehappydays/*
 *://note.com/goph_/*
 *://note.com/gorilivesp/*
@@ -18823,6 +18817,7 @@
 *://note.com/workwithai/*
 *://note.com/writer_syota/*
 *://note.com/xminami/*
+*://note.com/yako_tera/*
 *://note.com/yamachan_5lc/*
 *://note.com/yamada_simple/*
 *://note.com/yamaguchi3forza*
@@ -19101,6 +19096,7 @@
 *://onlee.jp/*
 *://online-oripa.jp/*
 *://online-qr-generator.com/*
+*://online.zoroya.co.jp/*
 *://onlinecampus.lk/*
 *://onlineclass-gets.jp/*
 *://onlineoripa-mania.jp/*
@@ -19554,6 +19550,7 @@
 *://porn-selection.net/*
 *://poroshop.online/*
 *://portable4pc.com/*
+*://portfolio.kaori-dododo.com/*
 *://portion-spa.com/*
 *://pos.eapp168.com/*
 *://posg.jp/*
@@ -20469,6 +20466,7 @@
 *://shinachiku.com/*
 *://shinafu.jp/*
 *://shinchantrend.com/*
+*://shindan.fujinvibe.com/*
 *://shine-egg.com/*
 *://shineeday.com/*
 *://shingeki-no-nakayama.com/*
@@ -22151,6 +22149,7 @@
 *://wakatte-tv.net/*
 *://wakatte.tv/*
 *://wakayama-johall.com/*
+*://wakki001.com/*
 *://wakurakulab.com/*
 *://wakuwakuenta.com/*
 *://walkable-2020.com/*
@@ -22957,6 +22956,7 @@
 *://www.expo2025-nakajima-attendant.jp/*
 *://www.expomascotasyanimales.com/*
 *://www.expressvpn.com/*
+*://www.extage-marketing.co.jp/*
 *://www.eyecontactoptician.com/*
 *://www.f-its.co.jp/*
 *://www.f-tetsujin.jp/*
