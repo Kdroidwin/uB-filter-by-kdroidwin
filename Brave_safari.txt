@@ -2256,6 +2256,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||coderoad.ru^$document
 ||codeutility.org^$document
 ||codevia.io^$document
+||codex-labo.com^$document
 ||coetas.jp^$document
 ||coffee-days.jp^$document
 ||coffee-movie.jp^$document
@@ -11891,6 +11892,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||webfishinggame.org^$document
 ||webfree-official.com^$document
 ||webku.jp^$document
+||webproductionlab.pages.dev^$document
 ||webpuroguramingu-zhi-wen-ying-dashisutemu.com^$document
 ||websites.milonic.com^$document
 ||websmart.zappallas.com^$document
@@ -12413,6 +12415,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.citinteriors.com^$document
 ||www.claidas.com^$document
 ||www.clatan.com^$document
+||www.claude-code-lab.com^$document
 ||www.clef-bxl.be^$document
 ||www.cleverconsulting.dk^$document
 ||www.clickcount.info^$document

@@ -1,6 +1,3 @@
-*://codex-labo.com/*
-*://webproductionlab.pages.dev/*
-*://www.claude-code-lab.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12831,6 +12828,7 @@
 *://coderoad.ru/*
 *://codeutility.org/*
 *://codevia.io/*
+*://codex-labo.com/*
 *://coetas.jp/*
 *://coffee-days.jp/*
 *://coffee-movie.jp/*
@@ -22218,6 +22216,7 @@
 *://webfishinggame.org/*
 *://webfree-official.com/*
 *://webku.jp/*
+*://webproductionlab.pages.dev/*
 *://websites.milonic.com/*
 *://websmart.zappallas.com/*
 *://webst8.co.jp/*
@@ -22728,6 +22727,7 @@
 *://www.citinteriors.com/*
 *://www.claidas.com/*
 *://www.clatan.com/*
+*://www.claude-code-lab.com/*
 *://www.clef-bxl.be/*
 *://www.cleverconsulting.dk/*
 *://www.clickcount.info/*
