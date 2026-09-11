@@ -1,5 +1,3 @@
-*://madoka-irie.com/*
-*://sub.madoka-irie.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16913,6 +16911,7 @@
 *://madanuon.horizondm.com/*
 *://madaraschool.org/*
 *://madewith.cn/*
+*://madoka-irie.com/*
 *://madokazakki.com/*
 *://madvikingos.com/*
 *://maeharablog.com/*
@@ -20942,6 +20941,7 @@
 *://styleproud-labo.com/*
 *://suava-boutique.com/*
 *://sub.hanae-blog.com/*
+*://sub.madoka-irie.com/*
 *://sub.osaru01.jp/*
 *://sub.sako-edutech.com/*
 *://sub.yyymeari.com/*

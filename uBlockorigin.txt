@@ -6392,6 +6392,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||madanuon.horizondm.com^$document
 ||madaraschool.org^$document
 ||madewith.cn^$document
+||madoka-irie.com^$document
 ||madokazakki.com^$document
 ||madvikingos.com^$document
 ||maeharablog.com^$document
@@ -10545,6 +10546,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||styleproud-labo.com^$document
 ||suava-boutique.com^$document
 ||sub.hanae-blog.com^$document
+||sub.madoka-irie.com^$document
 ||sub.osaru01.jp^$document
 ||sub.sako-edutech.com^$document
 ||sub.yyymeari.com^$document
