@@ -1066,6 +1066,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anthology.blog^$document
 ||anthonyleger.com^$document
 ||antimatter-dimensions-mod.glitch.me^$document
+||antique-crowley-a9e.notion.site^$document
 ||antispy.shop/cart^$document
 ||antispy.shop/checkouts^$document
 ||antispy.shop/collections^$document

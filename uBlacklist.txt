@@ -1,4 +1,3 @@
-*://antique-crowley-a9e.notion.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11666,6 +11665,7 @@
 *://anthology.blog/*
 *://anthonyleger.com/*
 *://antimatter-dimensions-mod.glitch.me/*
+*://antique-crowley-a9e.notion.site/*
 *://antispy.shop/?srsltid=*
 *://antispy.shop/blogs/news/fake-antispyphone*
 *://antispy.shop/checkouts/*
