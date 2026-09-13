@@ -1,4 +1,3 @@
-*://linkmisty.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16727,6 +16726,7 @@
 *://link.gevents.cn/*
 *://link.photoprism.app/*
 *://link0plus-czdbb5cgd4bbebab.z01.azurefd.net/*
+*://linkmisty.com/*
 *://links.giveawayoftheday.com/*
 *://linksnavi.com/*
 *://linoo7.com/*
