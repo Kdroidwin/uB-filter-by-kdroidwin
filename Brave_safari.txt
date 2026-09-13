@@ -2811,6 +2811,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-anime.com^$document
 ||doujin-archive.com^$document
 ||doujin-authors.com^$document
+||doujin-comic.cfbx.jp^$document
 ||doujin-comics.toremani.com^$document
 ||doujin-dig.com^$document
 ||doujin-ero-manga.com^$document
@@ -6954,6 +6955,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav55.jp^$document
 ||missav58.jp^$document
 ||missav60.jp^$document
+||missavhitomi.cloudfree.jp^$document
 ||missavtv.com^$document
 ||missfanzaav.com^$document
 ||misuteri-enblog.com^$document
@@ -10494,6 +10496,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||stars-kings.com^$document
 ||startup-live.jp^$document
 ||startup2009.jp^$document
+||startupfesta.okinawa^$document
 ||starwars.ru^$document
 ||staseon.com^$document
 ||statapk.com^$document
@@ -12631,6 +12634,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-52.net^$document
 ||www.eromanga-muryou-hitomi-53.net^$document
 ||www.eromanga-muryou-hitomi-55.net^$document
+||www.eromanga-muryou-hitomi-57.net^$document
 ||www.eromanga-muryou-hitomi-raw-1.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
