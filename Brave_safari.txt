@@ -246,6 +246,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*softonic.*^$all
+||*xblock-checker-2026.pages.dev^
 ||-cc-jp.wiki^$document
 ||-co-jn.work^$document
 ||-co-jp.art^$document
@@ -4581,6 +4582,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hentai-market.net^$document
 ||hentai-momo.com^$document
 ||hentai-online.com^$document
+||hentai-raw-hitomi09.wew.jp^$document
 ||hentai-raw-manga.jp^$document
 ||hentai-raw.com^$document
 ||hentai-raw.net^$document
@@ -7730,6 +7732,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/belnon^$document
 ||note.com/berry_0702^$document
 ||note.com/big_killer_chan^$document
+||note.com/bokuwalily^$document
 ||note.com/bolojobsko/n/n47cfa6a8b9a7^$document
 ||note.com/bostonmio^$document
 ||note.com/botemaker^$document
@@ -12782,6 +12785,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.grandhotel.al/products^$document
 ||www.grapheneos.online^$document
 ||www.graphmessenger.com^$document
+||www.grassvalley.jp^$document
 ||www.gratia-co.jp^$document
 ||www.greatpyramidllc.com^$document
 ||www.greecediscountcard.com^$document
