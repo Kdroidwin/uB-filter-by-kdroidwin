@@ -1236,6 +1236,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||arakure.net^$document
 ||araou.jp^$document
 ||arasa-mama.com^$document
+||arasuji-summary.com^$document
 ||arc-ocean.jp^$document
 ||arcanaapp.com^$document
 ||archimedes-movie.jp^$document
@@ -9928,6 +9929,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||second.jyoho-library.com^$document
 ||second.ux-design.blog^$document
 ||secret-alone-time.com^$document
+||secret-lovei.com^$document
 ||secret-pick.com^$document
 ||secret-taisei.com^$document
 ||secretdreamlibrary.com^$document
