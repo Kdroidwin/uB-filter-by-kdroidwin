@@ -1144,6 +1144,7 @@
 @*://onecall.click/*
 @*://mishimaekimae.click/*
 @*://kyokuto-k.click/*
+@*://nitter.click/*
 @*://koriyama-kankyobokin.click/*
 @*://istep.click/*
 @*://*.chenx221.cyou/*
