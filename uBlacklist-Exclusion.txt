@@ -1,3 +1,5 @@
+@*://nitter.cf/*
+@*://xitter.cf/*
 @*://www.mcafee.com/blogs/*
 @*://gomuraw.com/*
 @*://searx.lunar.icu/*
