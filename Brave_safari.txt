@@ -10111,6 +10111,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shop.paipai.com/497998902^$document
 ||shop.style-rose.jp^$document
 ||shop.tayostation.com^$document
+||shop.tiktok.com^$document
 ||shop.unitree.com^$document
 ||shop.xn--eckaubhp5c.com^$document
 ||shop34603636.taobao.com^$document
