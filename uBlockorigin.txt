@@ -5308,6 +5308,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jdvoyoti.beer^$document
 ||jdvx.rylbiqsf.biz^$document
 ||jeannespaey.com^$document
+||jeetbot.cc^$document
 ||jenak.net^$document
 ||jepista.io^$document
 ||jetbrains.ru^$document

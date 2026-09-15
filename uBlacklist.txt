@@ -1,4 +1,3 @@
-*://jeetbot.cc/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15845,6 +15844,7 @@
 *://jdvoyoti.beer/*
 *://jdvx.rylbiqsf.biz/*
 *://jeannespaey.com/*
+*://jeetbot.cc/*
 *://jenak.net/*
 *://jepista.io/*
 *://jetbrains.ru/*
