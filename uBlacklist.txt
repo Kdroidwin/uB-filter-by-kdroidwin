@@ -1,5 +1,3 @@
-*://*.dandansk.com/*
-*://www.eromanga-muryou-hitomi-58.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -2979,6 +2977,7 @@
 *://*.cz/?z=7*
 *://*.cz/?z=8*
 *://*.cz/?z=9*
+*://*.dandansk.com/*
 *://*.de/?_g=0
 *://*.de/?_g=1
 *://*.de/?_g=2
@@ -22952,6 +22951,7 @@
 *://www.eromanga-muryou-hitomi-53.net/*
 *://www.eromanga-muryou-hitomi-55.net/*
 *://www.eromanga-muryou-hitomi-57.net/*
+*://www.eromanga-muryou-hitomi-58.net/*
 *://www.eromanga-muryou-hitomi-raw-1.net/*
 *://www.eromanga-muryou-matome-hentai.net/*
 *://www.eromanga-raw-muryou-9.net/*
