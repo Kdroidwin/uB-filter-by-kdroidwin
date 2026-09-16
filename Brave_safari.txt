@@ -6616,6 +6616,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||marin-mattari-life.com^$document
 ||marina-school.ru^$document
 ||maririnpoko.com^$document
+||marke-blog.com^$document
 ||marketplacetec.com^$document
 ||marketresearchblogs.com^$document
 ||marmarton.com^$document
@@ -8246,6 +8247,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/smallmedx_1^$document
 ||note.com/soh_ainsight^$document
 ||note.com/solo_dev_jp^$document
+||note.com/sora19ai^$document
 ||note.com/sorakiba190107^$document
 ||note.com/spiritual_taiken^$document
 ||note.com/sports_fun^$document
@@ -12063,6 +12065,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www--cn--emb-japan--go--jp.proxy.xmmc.edu.cn^$document
 ||www--gaga--co--jp.proxy.shstvc.com.cn^$document
 ||www-facultyfocus-ex1-https-443-g0.gues.edu.cn^$document
+||www-https-*2026.pages.dev^
 ||www-linkedin-com-443.webvpn.scu.edu.cn^$document
 ||www-westjr.rfrjxm.com^$document
 ||www-xbl*.pages.dev$doc

@@ -1,5 +1,3 @@
-*://marke-blog.com/*
-*://note.com/sora19ai/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17130,6 +17128,7 @@
 *://marin-mattari-life.com/*
 *://marina-school.ru/*
 *://maririnpoko.com/*
+*://marke-blog.com/*
 *://marketplacetec.com/*
 *://marketresearchblogs.com/*
 *://marmarton.com/*
@@ -18740,6 +18739,7 @@
 *://note.com/smallmedx_1/*
 *://note.com/soh_ainsight/*
 *://note.com/solo_dev_jp/*
+*://note.com/sora19ai/*
 *://note.com/sorakiba190107/*
 *://note.com/spiritual_taiken/*
 *://note.com/sports_fun/*
