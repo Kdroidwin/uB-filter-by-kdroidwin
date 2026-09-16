@@ -1,3 +1,6 @@
+*://rezent-office.com/*
+*://rezent-ai-office-lp.pages.dev/*
+*://rezent-ai.vercel.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
