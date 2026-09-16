@@ -1,6 +1,3 @@
-*://rezent-office.com/*
-*://rezent-ai-office-lp.pages.dev/*
-*://rezent-ai.vercel.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -20015,7 +20012,10 @@
 *://revolt-tokyo.com/*
 *://rexdl.com/*
 *://rexdlbox.com/*
+*://rezent-ai-office-lp.pages.dev/*
 *://rezent-ai-pages.vercel.app/*
+*://rezent-ai.vercel.app/*
+*://rezent-office.com/*
 *://rezentsns.com/*
 *://rezzoeresenha.store/?z.*.html
 *://rhc-web-app.vercel.app/*
