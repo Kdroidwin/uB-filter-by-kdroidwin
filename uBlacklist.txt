@@ -1,3 +1,4 @@
+*://houselicious.com/*
 *://note.com/blaslo/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
