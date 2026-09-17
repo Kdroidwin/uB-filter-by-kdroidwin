@@ -1,7 +1,3 @@
-*://yomikore.com/*
-*://www.adult-content-ranking.com/*
-*://momongamanga.livedoor.blog/*
-*://missav-fc2ppv07.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -17459,6 +17455,7 @@
 *://missav-fc2ppv03.com/*
 *://missav-fc2ppv04.com/*
 *://missav-fc2ppv05.com/*
+*://missav-fc2ppv07.com/*
 *://missav-fc2ppvjp01.com/*
 *://missav.com/*
 *://missav2026-doujin.com/*
@@ -17597,6 +17594,7 @@
 *://momonga-raw04.com/*
 *://momonga.hitomi-manga-hentai.com/*
 *://momonga.humi.jp/*
+*://momongamanga.livedoor.blog/*
 *://momongaraw.jp/*
 *://momongarawhitomi.jp/*
 *://momongasan.com/*
@@ -22451,6 +22449,7 @@
 *://www.ad-quick.com/*
 *://www.adachi-kiyoshi.com/*
 *://www.addness.com/*
+*://www.adult-content-ranking.com/*
 *://www.advancedpf.ca/*
 *://www.aeltcc.org/*
 *://www.aeon-pokemon-go.com/*
@@ -24682,6 +24681,7 @@
 *://yomcomi.com/*
 *://yomeno-tadaima.com/*
 *://yomidou.com/*
+*://yomikore.com/*
 *://yonayonafreedom.net/*
 *://yoncoichi.com/*
 *://yondanon.com/*

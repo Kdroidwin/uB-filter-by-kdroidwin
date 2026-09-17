@@ -6,7 +6,6 @@
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
-www.missav-j.com###player-download-btn
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -230,6 +229,7 @@ www.gadget2ch.com###page > div.article-text-rss-box
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
 www.grayporn.org##.eye-catch-wrap
 www.mangalear.blog##.eye-catch-wrap
+www.missav-j.com###player-download-btn
 www.nijioma.blog##.eye-catch-wrap
 www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
@@ -6949,6 +6949,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-fc2ppv03.com^$document
 ||missav-fc2ppv04.com^$document
 ||missav-fc2ppv05.com^$document
+||missav-fc2ppv07.com^$document
 ||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
 ||missav2026-doujin.com^$document
@@ -7089,6 +7090,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momonga-raw04.com^$document
 ||momonga.hitomi-manga-hentai.com^$document
 ||momonga.humi.jp^$document
+||momongamanga.livedoor.blog^$document
 ||momongaraw.jp^$document
 ||momongarawhitomi.jp^$document
 ||momongasan.com^$document
@@ -12138,6 +12140,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.adachi-kiyoshi.com^$document
 ||www.addness.com^$document
 ||www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn^$document
+||www.adult-content-ranking.com^$document
 ||www.advancedpf.ca^$document
 ||www.aeltcc.org^$document
 ||www.aeon-pokemon-go.com^$document
@@ -14371,6 +14374,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yomcomi.com^$document
 ||yomeno-tadaima.com^$document
 ||yomidou.com^$document
+||yomikore.com^$document
 ||yomiuri.*^$document,to=~yomiuri.co.jp
 ||yonayonafreedom.net^$document
 ||yoncoichi.com^$document
