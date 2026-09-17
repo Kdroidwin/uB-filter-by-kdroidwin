@@ -1,5 +1,3 @@
-*://houselicious.com/*
-*://note.com/blaslo/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15418,6 +15416,7 @@
 *://houseconv.jp/*
 *://housegematender.com/*
 *://housegematender.net/*
+*://houselicious.com/*
 *://houseofk.co.in/*
 *://houseplase.com/*
 *://how-to-write-a-novel.net/*
@@ -18233,6 +18232,7 @@
 *://note.com/berry_0702/*
 *://note.com/bestvpn/n/n28ceb10b533f*
 *://note.com/big_killer_chan/*
+*://note.com/blaslo/*
 *://note.com/bokuwalily/*
 *://note.com/bolojobsko/n/n47cfa6a8b9a7*
 *://note.com/bostonmio/*
