@@ -3514,6 +3514,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanmake-blog.com^$document
 ||fanshub.jp^$document
 ||fantaslipp.com^$document
+||fantia-momo.jp^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza-douga.net^$document
 ||fanza-news.com^$document
@@ -6896,6 +6897,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mimosa-313.com^$document
 ||mimublog.com^$document
 ||min-ero.jp^$document
+||min-ori.jp^$document
 ||mina-trend.com^$document
 ||minabl.com^$document
 ||minacle.tokyo^$document
@@ -6915,6 +6917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||miniminimiutat.com^$document
 ||minkusu.me^$document
 ||minnano-idol.com^$document
+||minnano-toreca.com^$document
 ||minnanogakureki.com^$document
 ||minnanoseikaku.com^$document
 ||minnsuki.com^$document
@@ -10083,6 +10086,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shinya-channel.com^$document
 ||shinya-no-ippon.com^$document
 ||shinyu-clinic.com^$document
+||shiofuki-blog.com^$document
 ||shirabemushi.com^$document
 ||shiraberukininaru.com^$document
 ||shirashiratama-blog.com^$document
@@ -10133,6 +10137,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shoppingnet.online^$document
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
+||short.gy^$document
 ||shorta.vip^$document
 ||shortcake.carepro.co.jp^$document
 ||shorturl.biz.weibo.cn^$document

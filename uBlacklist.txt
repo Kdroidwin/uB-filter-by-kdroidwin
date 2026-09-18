@@ -1,8 +1,3 @@
-*://minnano-toreca.com/*
-*://min-ori.jp/*
-*://shiofuki-blog.com/*
-*://fantia-momo.jp/*
-*://short.gy/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14079,6 +14074,7 @@
 *://fanmake-blog.com/*
 *://fanshub.jp/*
 *://fantaslipp.com/*
+*://fantia-momo.jp/*
 *://fanza-com.mystrikingly.com/*
 *://fanza-douga.net/*
 *://fanza-news.com/*
@@ -17408,6 +17404,7 @@
 *://mimosa-313.com/*
 *://mimublog.com/*
 *://min-ero.jp/*
+*://min-ori.jp/*
 *://mina-trend.com/*
 *://minabl.com/*
 *://minacle.tokyo/*
@@ -17426,6 +17423,7 @@
 *://miniminimiutat.com/*
 *://minkusu.me/*
 *://minnano-idol.com/*
+*://minnano-toreca.com/*
 *://minnanogakureki.com/*
 *://minnanoseikaku.com/*
 *://minnsuki.com/*
@@ -20515,6 +20513,7 @@
 *://shinya-channel.com/*
 *://shinya-no-ippon.com/*
 *://shinyu-clinic.com/*
+*://shiofuki-blog.com/*
 *://shirabemushi.com/*
 *://shiraberukininaru.com/*
 *://shirashiratama-blog.com/*
@@ -20563,6 +20562,7 @@
 *://shoppingnet.online/*
 *://short-net.org/*
 *://short-sleeper.or.jp/*
+*://short.gy/*
 *://shorta.vip/*
 *://shortcake.carepro.co.jp/*
 *://shorturl.biz.weibo.cn/*
