@@ -1,5 +1,3 @@
-*://bousai.okinawa.jp/*
-*://sagi-henkin-support.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12396,6 +12394,7 @@
 *://boticaorganica.com/*
 *://botobo.ru/*
 *://bouncing-labo.com/*
+*://bousai.okinawa.jp/*
 *://boxdevjp.netlify.app/*
 *://boxmovie.org/*
 *://boyard-str.ru/*
@@ -20219,6 +20218,7 @@
 *://saga-art.jp/*
 *://sagashiko.com/*
 *://sagasite.info/*
+*://sagi-henkin-support.jp/*
 *://sagx.jp/*
 *://saha.cl/*
 *://sahuyuki.hatenablog.com/*

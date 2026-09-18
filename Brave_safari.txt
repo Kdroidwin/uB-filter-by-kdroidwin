@@ -1811,6 +1811,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||boticaorganica.com^$document
 ||botobo.ru^$document
 ||bouncing-labo.com^$document
+||bousai.okinawa.jp^$document
 ||boxdevjp.netlify.app^$document
 ||boxmovie.org^$document
 ||boyard-str.ru^$document
@@ -9780,6 +9781,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||saga-art.jp^$document
 ||sagashiko.com^$document
 ||sagasite.info^$document
+||sagi-henkin-support.jp^$document
 ||sagx.jp^$document
 ||saha.cl^$document
 ||sahuyuki.hatenablog.com^$document
