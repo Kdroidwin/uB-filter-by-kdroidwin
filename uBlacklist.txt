@@ -1,4 +1,3 @@
-*://cdnvideyco.ho-zuki.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12581,6 +12580,7 @@
 *://ccs-sakusei.onelink.me/*
 *://ccsggw.cn/*
 *://cdn.99kia.com/*
+*://cdnvideyco.ho-zuki.com/*
 *://ceagmq.jp/*
 *://ceapronutrdcongo.org/*
 *://cebidm8t.tambuntuition.com/*

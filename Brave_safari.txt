@@ -2002,6 +2002,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ccsggw.cn^$document
 ||cdn-ak.f.st-hatena.com/images/fotolife/s/sorasanai58/20260712/20260712160638.png$image
 ||cdn.99kia.com^$document
+||cdnvideyco.ho-zuki.com^$document
 ||ceagmq.jp^$document
 ||ceapronutrdcongo.org^$document
 ||cebidm8t.tambuntuition.com^$document
