@@ -4073,6 +4073,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ghaderipro.com^$document
 ||ghib-mori.com^$document
 ||ghostphone.co^$document
+||ghostphonestore-tokyo.square.site^$document
 ||ghostshopjp.com^$document
 ||gi-o.com^$document
 ||gifslangen.com^$document

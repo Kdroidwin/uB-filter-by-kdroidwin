@@ -1,4 +1,3 @@
-*://ghostphonestore-tokyo.square.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -14628,6 +14627,7 @@
 *://ghaderipro.com/*
 *://ghib-mori.com/*
 *://ghostphone.co/*
+*://ghostphonestore-tokyo.square.site/*
 *://ghostshopjp.com/*
 *://gi-o.com/*
 *://gifslangen.com/*
