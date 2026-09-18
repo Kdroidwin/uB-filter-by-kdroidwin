@@ -20563,7 +20563,6 @@
 *://shoppingnet.online/*
 *://short-net.org/*
 *://short-sleeper.or.jp/*
-*://short.gy/*
 *://shorta.vip/*
 *://shortcake.carepro.co.jp/*
 *://shorturl.biz.weibo.cn/*
