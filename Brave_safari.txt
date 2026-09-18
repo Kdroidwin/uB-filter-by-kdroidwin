@@ -9703,6 +9703,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rumah-pulsa.shop^$document
 ||rumbiz.ru^$document
 ||ruminousplus.net^$document
+||runablog-fantube.short.gy^$document
 ||runachi2021.com^$document
 ||runaruna-blog.com^$document
 ||runebook.dev^$document

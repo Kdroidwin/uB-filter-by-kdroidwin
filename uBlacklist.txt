@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://runablog-fantube.short.gy/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -20149,6 +20148,7 @@
 *://rumah-pulsa.shop/*
 *://rumbiz.ru/*
 *://ruminousplus.net/*
+*://runablog-fantube.short.gy/*
 *://runachi2021.com/*
 *://runaruna-blog.com/*
 *://runrun777.com/*
