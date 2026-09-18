@@ -10139,7 +10139,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shoppingnet.online^$document
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
-||short.gy^$document
 ||shorta.vip^$document
 ||shortcake.carepro.co.jp^$document
 ||shorturl.biz.weibo.cn^$document
