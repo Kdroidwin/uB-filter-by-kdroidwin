@@ -1,3 +1,5 @@
+*://bousai.okinawa.jp/*
+*://sagi-henkin-support.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
