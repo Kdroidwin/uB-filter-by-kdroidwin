@@ -6221,6 +6221,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||linkmisty.com^$document
 ||links.giveawayoftheday.com^$document
 ||linksnavi.com^$document
+||linktweet.com^$document
 ||linoo7.com^$document
 ||linosy.com^$document
 ||linux-terminal.com^$document

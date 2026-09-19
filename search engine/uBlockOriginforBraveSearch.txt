@@ -5774,6 +5774,7 @@ search.brave.com##.snippet:has(a[href*="link0plus-czdbb5cgd4bbebab.z01.azurefd.n
 search.brave.com##.snippet:has(a[href*="linkmisty.com"])
 search.brave.com##.snippet:has(a[href*="links.giveawayoftheday.com"])
 search.brave.com##.snippet:has(a[href*="linksnavi.com"])
+search.brave.com##.snippet:has(a[href*="linktweet.com"])
 search.brave.com##.snippet:has(a[href*="linoo7.com"])
 search.brave.com##.snippet:has(a[href*="linosy.com"])
 search.brave.com##.snippet:has(a[href*="linux-terminal.com"])

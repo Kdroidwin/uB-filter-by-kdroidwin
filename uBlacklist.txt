@@ -1,4 +1,3 @@
-*://linktweet.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16740,6 +16739,7 @@
 *://linkmisty.com/*
 *://links.giveawayoftheday.com/*
 *://linksnavi.com/*
+*://linktweet.com/*
 *://linoo7.com/*
 *://linosy.com/*
 *://linux-terminal.com/*
