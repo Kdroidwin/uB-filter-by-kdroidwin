@@ -2107,6 +2107,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||chibimin-blog.com^$document
 ||chicagone.com^$document
 ||chichicafe.com^$document
+||chiebako.com^$document
 ||chiematome.com^$document
 ||chigasaki-hanabi50.com^$document
 ||chihirotokae.com^$document
@@ -5785,6 +5786,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kiyo0406.com^$document
 ||kiyoxmao.com^$document
 ||kizuki.rainbow-school.info^$document
+||kk-baseball.biz^$document
 ||kk-hiroshima.net^$document
 ||kk-information.com^$document
 ||kk1212.com^$document
@@ -6243,6 +6245,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||live.doneru.jp^$document
 ||livecafe-jive.com^$document
 ||liveinsightlab.com^$document
+||livenews24.static.jp^$document
 ||liver.doneru.jp^$document
 ||livetune.jp^$document
 ||livetv787.me^$document
@@ -7667,6 +7670,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nolomaiblog.com^$document
 ||noma66.com^$document
 ||nomad-saving.com^$document
+||nomadlive.net^$document
 ||nomadstarbucks.com^$document
 ||nomakes.com^$document
 ||nomikoi.app^$document
@@ -10484,6 +10488,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||squashsite.world^$document
 ||squirrel-storage.jp^$document
 ||srcboat.fi^$document
+||srt94.click^$document
 ||ssec.shop^$document
 ||ssfchubu.com^$document
 ||ssk1010.com^$document

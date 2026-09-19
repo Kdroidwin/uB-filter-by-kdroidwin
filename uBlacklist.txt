@@ -1,8 +1,3 @@
-*://srt94.click/*
-*://livenews24.static.jp/*
-*://kk-baseball.biz/*
-*://nomadlive.net/*
-*://chiebako.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -12686,6 +12681,7 @@
 *://chibimin-blog.com/*
 *://chicagone.com/*
 *://chichicafe.com/*
+*://chiebako.com/*
 *://chiematome.com/*
 *://chigasaki-hanabi50.com/*
 *://chihirotokae.com/*
@@ -16318,6 +16314,7 @@
 *://kiyo0406.com/*
 *://kiyoxmao.com/*
 *://kizuki.rainbow-school.info/*
+*://kk-baseball.biz/*
 *://kk-hiroshima.net/*
 *://kk-information.com/*
 *://kk1212.com/*
@@ -16767,6 +16764,7 @@
 *://live.doneru.jp/*
 *://livecafe-jive.com/*
 *://liveinsightlab.com/*
+*://livenews24.static.jp/*
 *://liver.doneru.jp/*
 *://livetune.jp/*
 *://livetv787.me/*
@@ -18159,6 +18157,7 @@
 *://nolomaiblog.com/*
 *://noma66.com/*
 *://nomad-saving.com/*
+*://nomadlive.net/*
 *://nomadstarbucks.com/*
 *://nomakes.com/*
 *://nomikoi.app/*
@@ -20895,6 +20894,7 @@
 *://squashsite.world/*
 *://squirrel-storage.jp/*
 *://srcboat.fi/*
+*://srt94.click/*
 *://ssec.shop/*
 *://ssfchubu.com/*
 *://ssk1010.com/*
