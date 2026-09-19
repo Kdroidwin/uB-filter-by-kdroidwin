@@ -11608,6 +11608,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||utorrent.jp.aptoide.com^$document
 ||utorrent.jp.uptodown.com^$document
 ||utqbffn.cn^$document
+||utsumin.com^$document
 ||utsuru.jp^$document
 ||utyatnishna.ru^$document
 ||uu4nfcq.buergerhaus-initiative.de^$document

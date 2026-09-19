@@ -1,4 +1,3 @@
-*://utsumin.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21960,6 +21959,7 @@
 *://utorrent.jp.aptoide.com/*
 *://utorrent.jp.uptodown.com/*
 *://utqbffn.cn/*
+*://utsumin.com/*
 *://utsuru.jp/*
 *://uu4nfcq.buergerhaus-initiative.de/*
 *://uugwidnrfbb.com/*
