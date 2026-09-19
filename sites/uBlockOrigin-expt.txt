@@ -1,4 +1,4 @@
-! Title: Block malicious websites by Kdroidwin expt
+! Title:  uB-filter-by-kdroidwin(uBO&AdGuard) expt
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 /^https?:\/\/(?![^\/]*\.zovo\.ink|www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|youreyes\.|discovery\.|werewolf\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
