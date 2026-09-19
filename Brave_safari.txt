@@ -3340,6 +3340,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga-zone.com^$document
 ||eromanga-zukan.com^$document
 ||eromanga.anicomi3150.com^$document
+||eromanga.asia^$document
 ||eromanga.dl-ero-news.site^$document
 ||eromanga.dojin.com^$document
 ||eromanga.gingin.biz^$document
@@ -6966,6 +6967,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav53.jp^$document
 ||missav55.jp^$document
 ||missav58.jp^$document
+||missav59.jp^$document
 ||missav60.jp^$document
 ||missavhitomi.cloudfree.jp^$document
 ||missavtv.com^$document
@@ -10139,7 +10141,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shoppingnet.online^$document
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
-||short.gy^$document
+||short.gy^$document,domain=~fanmore4.short.gy|~fsc0.short.gy|~fanmore2.short.gy|~6y3mip4.short.gy
 ||shorta.vip^$document
 ||shortcake.carepro.co.jp^$document
 ||shorturl.biz.weibo.cn^$document

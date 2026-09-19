@@ -1,5 +1,3 @@
-*://eromanga.asia/*
-*://missav59.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13905,6 +13903,7 @@
 *://eromanga-zone.com/*
 *://eromanga-zukan.com/*
 *://eromanga.anicomi3150.com/*
+*://eromanga.asia/*
 *://eromanga.dl-ero-news.site/*
 *://eromanga.dojin.com/*
 *://eromanga.gingin.biz/*
@@ -17473,6 +17472,7 @@
 *://missav53.jp/*
 *://missav55.jp/*
 *://missav58.jp/*
+*://missav59.jp/*
 *://missav60.jp/*
 *://missavhitomi.cloudfree.jp/*
 *://missavtv.com/*
