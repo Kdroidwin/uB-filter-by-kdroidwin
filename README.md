@@ -123,7 +123,8 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果から該当サイトを非表示にします。
 
 <br>
-- uB-filter-by-kdroidwin(uBO&AdGuard)
+- uB-filter-by-kdroidwin(uBO&AdGuard) 
+
 [購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt&title=uB-filter-by-kdroidwin-expt)
 
 ```
