@@ -1,4 +1,3 @@
-*://asset-cache.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11933,6 +11932,7 @@
 *://asohata.com/*
 *://asotalk.com/*
 *://asoworld.com/*
+*://asset-cache.site/*
 *://asset-inc.jp/*
 *://assirobo.com/*
 *://associazionerivieradelconero.com/*

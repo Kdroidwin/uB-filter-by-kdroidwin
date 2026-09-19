@@ -1334,6 +1334,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||asohata.com^$document
 ||asotalk.com^$document
 ||asoworld.com^$document
+||asset-cache.site^$document
 ||asset-inc.jp^$document
 ||assirobo.com^$document
 ||associazionerivieradelconero.com^$document
