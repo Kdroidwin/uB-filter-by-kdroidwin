@@ -1,4 +1,3 @@
-*://makeachange.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -16995,6 +16994,7 @@
 *://majudacu.xyz/*
 *://makabemai.com/*
 *://make.powerautomate.cn/*
+*://makeachange.co.jp/*
 *://makemiracle-blog.com/*
 *://makeyourbenefit.com/*
 *://makianosaihu.com/*

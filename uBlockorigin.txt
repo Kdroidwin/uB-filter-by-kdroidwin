@@ -6479,6 +6479,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||majudacu.xyz^$document
 ||makabemai.com^$document
 ||make.powerautomate.cn^$document
+||makeachange.co.jp^$document
 ||makemiracle-blog.com^$document
 ||makeyourbenefit.com^$document
 ||makianosaihu.com^$document
