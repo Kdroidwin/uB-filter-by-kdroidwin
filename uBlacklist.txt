@@ -1,4 +1,3 @@
-*://imoutotoseikou.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15586,6 +15585,7 @@
 *://imitochigai.com/*
 *://imitsu.jp/*
 *://imizubunka-rapport.jp/*
+*://imoutotoseikou.com/*
 *://imperiacondos.com/*
 *://imperial-curse.de/*
 *://imperialnexus.jp/*

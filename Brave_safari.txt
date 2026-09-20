@@ -5045,6 +5045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||imitochigai.com^$document
 ||imitsu.jp^$document
 ||imizubunka-rapport.jp^$document
+||imoutotoseikou.com^$document
 ||imperiacondos.com^$document
 ||imperial-curse.de^$document
 ||imperialnexus.jp^$document
@@ -11822,6 +11823,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||vtuberranking.com^$document
 ||vtubervideo.blog.jp^$document
 ||vtuberzense.com^$document
+||vu^$document,domain=~dot.vu|~coralquaysresort.vu|~gov.vu|~edu.vu|~ac.vu|~trbr.vu|~tvl.net.vu|~vunic.vu|~hello.vu|~vanuatupost.vu|~bred.vu|~nbv.vu|~kwikpay.vu|~vmm.vu|~vbr.vu|~dailypost.vu|~pacnet.vu|~vodafone.com.vu|~hideaway.com.vu|~vanuatuaccommodation.vu|~16degreessouth.vu|~islandproperty.vu|~waterfront.com.vu|~ljhooker.vu|~quest.vu|~mariner.vu|~ramadaresort.com.vu|~melanesian.com.vu|~poppys.com.vu|~vanuatu.com.vu|~tradewinds.com.vu|~fatumaru.com|~airvanuatu.vu|~airsafaris.vu|~belair.vu|~motor-traders.vu|~sailaway.vu|~ggp.com.vu|~bap.com.vu|~corporate.vu|~unity-airlines.com.vu|~airvanuatu.com.vu
 ||vvhatsapp.$document
 ||vvindows.com^$document
 ||vvyrvwb.studio^$document
