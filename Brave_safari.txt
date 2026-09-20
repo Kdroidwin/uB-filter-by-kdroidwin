@@ -5234,6 +5234,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||iwanami-hall.com^$document
 ||iwasaki-parody.jp^$document
 ||iwatekko.jp^$document
+||iwatemaas.jp^$document
 ||ixamiviboq.obentreprendre.fr^$document
 ||iyashinonanyo.jp^$document
 ||iync.org^$document
@@ -7880,6 +7881,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/gptdiet^$document
 ||note.com/hachiojiiphone^$document
 ||note.com/hadesun^$document
+||note.com/haga7^$document
 ||note.com/haitenjp^$document
 ||note.com/hajimesoruna^$document
 ||note.com/haken_se_30manen^$document
@@ -8898,6 +8900,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||pdxk.gyqvajgq.biz^$document
+||peak-onlinefit.com^$document
 ||peakproductivitycoaching.com^$document
 ||peaks-comic.com^$document
 ||peaksmarketing.co.jp^$document
@@ -13293,6 +13296,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.minelooks.com^$document
 ||www.miraakindia.com^$document
 ||www.miracle2.jp^$document
+||www.mirasaka-jitiren.com^$document
 ||www.misaventuresi.com^$document
 ||www.mitsuihightec.com^$document
 ||www.mitsukerune.com^$document

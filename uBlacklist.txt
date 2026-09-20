@@ -1,7 +1,3 @@
-*://note.com/haga7/*
-*://peak-onlinefit.com/*
-*://www.mirasaka-jitiren.com/*
-*://iwatemaas.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15774,6 +15770,7 @@
 *://iwanami-hall.com/*
 *://iwasaki-parody.jp/*
 *://iwatekko.jp/*
+*://iwatemaas.jp/*
 *://ixamiviboq.obentreprendre.fr/*
 *://iyashinonanyo.jp/*
 *://iync.org/*
@@ -18374,6 +18371,7 @@
 *://note.com/gptdiet/*
 *://note.com/hachiojiiphone/*
 *://note.com/hadesun/*
+*://note.com/haga7/*
 *://note.com/haitenjp/*
 *://note.com/hajimesoruna/*
 *://note.com/haken_se_30manen/*
@@ -19377,6 +19375,7 @@
 *://pdilms.com/*
 *://pdspm.in/*
 *://pdxk.gyqvajgq.biz/*
+*://peak-onlinefit.com/*
 *://peakproductivitycoaching.com/*
 *://peaks-comic.com/*
 *://peaku.co/*
@@ -23612,6 +23611,7 @@
 *://www.minelooks.com/*
 *://www.miraakindia.com/*
 *://www.miracle2.jp/*
+*://www.mirasaka-jitiren.com/*
 *://www.misaventuresi.com/*
 *://www.misumigeka.info/hydrogen-water*
 *://www.mitsuihightec.com/*
