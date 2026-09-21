@@ -1812,6 +1812,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||boticaorganica.com^$document
 ||botobo.ru^$document
 ||bouncing-labo.com^$document
+||bousai.koriyama-fukushima.jp^$document
 ||bousai.okinawa.jp^$document
 ||boxdevjp.netlify.app^$document
 ||boxmovie.org^$document
@@ -8896,6 +8897,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pcprotect.com^$document
 ||pcshop.vector.co.jp/service/catalogue/iobitui^$document
 ||pcshopwell.com^$document
+||pcwindows.jp.net^$document
 ||pdelect.com^$document
 ||pdf-to-brainrot.org^$document
 ||pdfguru.com^$document

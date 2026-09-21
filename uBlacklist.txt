@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://pcwindows.jp.net/*
-*://bousai.koriyama-fukushima.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -12397,6 +12395,7 @@
 *://boticaorganica.com/*
 *://botobo.ru/*
 *://bouncing-labo.com/*
+*://bousai.koriyama-fukushima.jp/*
 *://bousai.okinawa.jp/*
 *://boxdevjp.netlify.app/*
 *://boxmovie.org/*
@@ -19373,6 +19372,7 @@
 *://pcprotect.com/*
 *://pcshop.vector.co.jp/service/catalogue/iobitui/*
 *://pcshopwell.com/*
+*://pcwindows.jp.net/*
 *://pdelect.com/*
 *://pdf-to-brainrot.org/*
 *://pdfguru.com/*
