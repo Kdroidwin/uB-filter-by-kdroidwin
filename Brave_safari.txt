@@ -2393,6 +2393,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||copress.shop^$document
 ||copyeg.ru^$document
 ||copyprogramming.com^$document
+||coreda.jp^$document
 ||coremaji-media.com^$document
 ||corleonis8.com^$document
 ||corndollythatching.com^$document
@@ -13063,6 +13064,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.jb51.net^$document
 ||www.jbc-ltd.com^$document
 ||www.jchi.jp^$document
+||www.jcom.co.jp/sim_contact/entry_request.php?form_type$doc
 ||www.jeansroy.com^$document
 ||www.jechavarria.com^$document
 ||www.jeha-maroc.com^$document
