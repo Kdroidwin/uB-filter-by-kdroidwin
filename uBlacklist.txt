@@ -1,18 +1,3 @@
-*://note.com/kai_haruki/*
-*://note.com/miccell/*
-*://note.com/sekahan_0623/*
-*://note.com/hirokoutei/*
-*://note.com/light_fox3746/*
-*://note.com/natty_quoll9640/*
-*://note.com/77777777777/*
-*://note.com/88shoukai/*
-*://note.com/gadgetframe_jp/*
-*://note.com/anms/*
-*://note.com/ai_design_log/*
-*://note.com/kanon_journal/*
-*://note.com/yu_san_kyry_com/*
-*://note.com/aicolumnwriter/*
-*://note.com/kotaro_mofumofu/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -18240,8 +18225,10 @@
 *://note.com/4jinooyaji/*
 *://note.com/50it/*
 *://note.com/5656remon5656/*
+*://note.com/77777777777/*
 *://note.com/777_001/*
 *://note.com/88gold88/*
+*://note.com/88shoukai/*
 *://note.com/_company/*
 *://note.com/accha123/*
 *://note.com/acehaoreda11/n/n5b5727be25e2*
@@ -18250,12 +18237,14 @@
 *://note.com/agile_koala4952/*
 *://note.com/agile_pika4626/*
 *://note.com/ai_business_navi/*
+*://note.com/ai_design_log/*
 *://note.com/ai_freak/*
 *://note.com/ai_gig_girl/*
 *://note.com/ai_platform/*
 *://note.com/ai_urawaza_lab/*
 *://note.com/ai_zap/*
 *://note.com/aichanworld/*
+*://note.com/aicolumnwriter/*
 *://note.com/aigadgetlab/*
 *://note.com/aishibox/*
 *://note.com/aitaku2510/*
@@ -18276,6 +18265,7 @@
 *://note.com/androidgeek/*
 *://note.com/anime_blog/*
 *://note.com/animedaisukiminn/*
+*://note.com/anms/*
 *://note.com/antispyphone/*
 *://note.com/aomushi_15/*
 *://note.com/applemaniax/*
@@ -18388,6 +18378,7 @@
 *://note.com/gadget_soku/*
 *://note.com/gadget_techo/*
 *://note.com/gadgeter_117/*
+*://note.com/gadgetframe_jp/*
 *://note.com/gadgetmaniacs/*
 *://note.com/gadgettarou/*
 *://note.com/gadgetvalue/*
@@ -18436,6 +18427,7 @@
 *://note.com/hiroaki06/*
 *://note.com/hirohikonotes/*
 *://note.com/hirokazumineral/*
+*://note.com/hirokoutei/*
 *://note.com/hirotoinfo/*
 *://note.com/hisho_nana_1998/*
 *://note.com/hit_ranking/*
@@ -18504,6 +18496,7 @@
 *://note.com/kadenguide/*
 *://note.com/kadensomurie/*
 *://note.com/kadenz/*
+*://note.com/kai_haruki/*
 *://note.com/kakaokakao1230/*
 *://note.com/kakip0115/*
 *://note.com/kakumitsu/*
@@ -18512,6 +18505,7 @@
 *://note.com/kanasawa9420/*
 *://note.com/kangaeru_genba/*
 *://note.com/kankare/*
+*://note.com/kanon_journal/*
 *://note.com/kapibaraion_2002/*
 *://note.com/kara0323/*
 *://note.com/katsukatsu0811/*
@@ -18539,6 +18533,7 @@
 *://note.com/koshiki_nakano/*
 *://note.com/kosuke_agos/*
 *://note.com/kota_yukimi/*
+*://note.com/kotaro_mofumofu/*
 *://note.com/kotori_gadget/*
 *://note.com/kototamashacho/*
 *://note.com/kou741/*
@@ -18563,6 +18558,7 @@
 *://note.com/left/*
 *://note.com/lenslover/*
 *://note.com/leo_match/*
+*://note.com/light_fox3746/*
 *://note.com/light_hare9068/*
 *://note.com/light_right_/*
 *://note.com/like_bonobo2466/*
@@ -18602,6 +18598,7 @@
 *://note.com/mens_strategy_k/*
 *://note.com/mental_marcy/*
 *://note.com/messierobjects31/*
+*://note.com/miccell/*
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
 *://note.com/mii_smart_hack/*
@@ -18646,6 +18643,7 @@
 *://note.com/naoki_iphone/*
 *://note.com/naruhoneru/*
 *://note.com/natsssssuki/*
+*://note.com/natty_quoll9640/*
 *://note.com/naturemotoken/*
 *://note.com/nayoshi_engineer/*
 *://note.com/neet_1226/*
@@ -18781,6 +18779,7 @@
 *://note.com/sayakablog/*
 *://note.com/season123/*
 *://note.com/sedori_sojoro/*
+*://note.com/sekahan_0623/*
 *://note.com/sekinogen1/*
 *://note.com/semisuke_life/*
 *://note.com/shiba_inunosuke/*
@@ -18915,6 +18914,7 @@
 *://note.com/youichi0989/*
 *://note.com/youmadesign/*
 *://note.com/yu9_ltx/*
+*://note.com/yu_san_kyry_com/*
 *://note.com/yubaku/*
 *://note.com/yudexai/*
 *://note.com/yuga_hashimoto/*
