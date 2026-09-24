@@ -213,6 +213,7 @@ socialxup.com##a[rel*="sponsored"]
 socialxup.com##div[class*="bg-[radial-gradient"]
 switch-roms.org##.code-block-1.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
 switchrom.net##.code-block-4.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
+tekunotes.com###text-31
 thepiratebay.org##label:has-text(/Applications/)
 thepiratebay.org##label:has-text(/Games/)
 thepiratebay.org##main::before:style(content: 'Do NOT download any software or a game from The Pirate Bay, all the content is user generated and could (very likely) include malware in it.' !important; font-size: 30px !important; color: red !important; font-weight: bold !important;)
@@ -5263,6 +5264,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ixamiviboq.obentreprendre.fr^$document
 ||iyashinonanyo.jp^$document
 ||iync.org^$document
+||iz7d.github.io^$document
 ||izanagi-jingu.jp^$document
 ||izone-rememberz.com^$document
 ||izumi-w.com^$document

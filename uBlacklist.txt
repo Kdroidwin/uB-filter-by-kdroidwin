@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://iz7d.github.io/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adpon.net/*
@@ -15800,6 +15799,7 @@
 *://ixamiviboq.obentreprendre.fr/*
 *://iyashinonanyo.jp/*
 *://iync.org/*
+*://iz7d.github.io/*
 *://izanagi-jingu.jp/*
 *://izone-rememberz.com/*
 *://izumi-w.com/*
