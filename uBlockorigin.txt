@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
 ##.google-preferred-source-container
+tekunotes.com###text-31
 ##a[href*="google.com/preferences/source"]
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
