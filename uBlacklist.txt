@@ -1,5 +1,3 @@
-*://adesukinako12161216-cpu.github.io/*
-*://lovecraftgirl.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11246,6 +11244,7 @@
 *://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
 *://addspice.jp/*
 *://ademas0719blog.com/*
+*://adesukinako12161216-cpu.github.io/*
 *://aditaishitukaizen.com/*
 *://admailmg.com/*
 *://adoi.hatenablog.com/*
@@ -16848,6 +16847,7 @@
 *://love-glans.com/*
 *://love-tokyo.net/*
 *://lovebitch.jp/*
+*://lovecraftgirl.com/*
 *://loveduga.com/*
 *://lovefortune.zappallas.com/*
 *://lovegraph.me/*
