@@ -3391,6 +3391,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromantantei.jp^$document
 ||eromethium365.com^$document
 ||eromix58movie.com^$document
+||eromoku.com^$document
 ||eromovie-s.com^$document
 ||eronomichishirube.jp^$document
 ||eronomori.com^$document
@@ -7129,6 +7130,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org^$document
 ||momoka20200623-7net-omni7-jp.ariyasumomoka.org^$document
 ||momoko-no-trend2503.com^$document
+||momoman-ga.com^$document
+||momonga-doujin.com^$document
 ||momonga-km.com^$document
 ||momonga-raw.com^$document
 ||momonga-raw01.com^$document
@@ -8487,6 +8490,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ntr-archives.com^$document
 ||ntr-doujin.com^$document
 ||ntrbssblog.com^$document
+||ntrdb.com^$document
 ||ntrwife.com^$document
 ||ntryomimono.com^$document
 ||ntvsports.jp^$document
@@ -11733,6 +11737,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||verdy-saijohigashi.jp^$document
 ||verelq.am^$document
 ||verica.io^$document
+||verifi-pixel.com^$document
 ||verify-age.net^$document
 ||veriteclinic.net^$document
 ||vermuda.jp/article/netflix-vpn^$document
@@ -12113,6 +12118,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wp253742.wpx.jp^$document
 ||wp333666.wpx.jp^$document
 ||wp391274.wpx.jp^$document
+||wp433601.wpx.jp^$document
 ||wp550000.wpx.jp^$document
 ||wp626441.wpx.jp^$document
 ||wp655914.wpx.jp^$document
@@ -12732,6 +12738,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-55.net^$document
 ||www.eromanga-muryou-hitomi-57.net^$document
 ||www.eromanga-muryou-hitomi-58.net^$document
+||www.eromanga-muryou-hitomi-59.net^$document
 ||www.eromanga-muryou-hitomi-raw-1.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document

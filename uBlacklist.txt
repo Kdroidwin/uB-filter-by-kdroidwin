@@ -1,10 +1,3 @@
-*://verifi-pixel.com/*
-*://www.eromanga-muryou-hitomi-59.net/*
-*://momonga-doujin.com/*
-*://eromoku.com/*
-*://ntrdb.com/*
-*://momoman-ga.com/*
-*://wp433601.wpx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13959,6 +13952,7 @@
 *://eromanquestnavi.net/*
 *://eromantantei.jp/*
 *://eromethium365.com/*
+*://eromoku.com/*
 *://eromovie-s.com/*
 *://eronomichishirube.jp/*
 *://eronomori.com/*
@@ -17638,6 +17632,8 @@
 *://momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org/*
 *://momoka20200623-7net-omni7-jp.ariyasumomoka.org/*
 *://momoko-no-trend2503.com/*
+*://momoman-ga.com/*
+*://momonga-doujin.com/*
 *://momonga-km.com/*
 *://momonga-raw.com/*
 *://momonga-raw01.com/*
@@ -18984,6 +18980,7 @@
 *://ntr-archives.com/*
 *://ntr-doujin.com/*
 *://ntrbssblog.com/*
+*://ntrdb.com/*
 *://ntrwife.com/*
 *://ntryomimono.com/*
 *://ntvsports.jp/*
@@ -22089,6 +22086,7 @@
 *://verdy-saijohigashi.jp/*
 *://verelq.am/*
 *://verica.io/*
+*://verifi-pixel.com/*
 *://verify-age.net/*
 *://veriteclinic.net/*
 *://vermuda.jp/*
@@ -22431,6 +22429,7 @@
 *://wp253742.wpx.jp/*
 *://wp333666.wpx.jp/*
 *://wp391274.wpx.jp/*
+*://wp433601.wpx.jp/*
 *://wp550000.wpx.jp/*
 *://wp626441.wpx.jp/*
 *://wp655914.wpx.jp/*
@@ -23046,6 +23045,7 @@
 *://www.eromanga-muryou-hitomi-55.net/*
 *://www.eromanga-muryou-hitomi-57.net/*
 *://www.eromanga-muryou-hitomi-58.net/*
+*://www.eromanga-muryou-hitomi-59.net/*
 *://www.eromanga-muryou-hitomi-raw-1.net/*
 *://www.eromanga-muryou-matome-hentai.net/*
 *://www.eromanga-raw-muryou-9.net/*
