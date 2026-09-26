@@ -11522,6 +11522,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||twik.xxasj.cn^$document
 ||twisoku.ldblog.jp^$document
 ||twitresokuho.com^$document
+||twitter-blocked-checker.vercel.app^$document
 ||twitter.center^$document
 ||twitter.com/comic_checker^$document
 ||twitter.com/indiegogojp^$document

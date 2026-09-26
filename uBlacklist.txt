@@ -1,4 +1,3 @@
-*://twitter-blocked-checker.vercel.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21882,6 +21881,7 @@
 *://twik.xxasj.cn/*
 *://twisoku.ldblog.jp/*
 *://twitresokuho.com/*
+*://twitter-blocked-checker.vercel.app/*
 *://twitter.center/*
 *://twitter.com/comic_checker*
 *://twitter.com/indiegogojp*
