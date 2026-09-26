@@ -1,4 +1,3 @@
-*://stella-nova.click/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21006,6 +21005,7 @@
 *://steamunlocked.net/*
 *://steamworkshopdownloader.cc/*
 *://steckdosenessen.com/*
+*://stella-nova.click/*
 *://stellamoderu.com/*
 *://stempark.projektinspire.co.tz/*
 *://step-forward24.com/*
