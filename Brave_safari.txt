@@ -4579,6 +4579,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hcomedian.com^$document
 ||hcomic.syokusamen.com^$document
 ||hcomic0807a.online^$document
+||hcomic0811h.fun^$document
 ||healcipe.com^$document
 ||healingisland3103.com^$document
 ||healthistanbulgroup.com^$document
@@ -11979,6 +11980,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||waterone.jp^$document
 ||waterstand.jp^$document
 ||waverlycc.com^$document
+||wawawab.com^$document
 ||wawlife7.com^$document
 ||wayofthescreenwriter.com^$document
 ||wazzelife.com^$document

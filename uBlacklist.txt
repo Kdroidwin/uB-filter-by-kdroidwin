@@ -1,5 +1,3 @@
-*://hcomic0811h.fun/*
-*://wawawab.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15128,6 +15126,7 @@
 *://hcomedian.com/*
 *://hcomic.syokusamen.com/*
 *://hcomic0807a.online/*
+*://hcomic0811h.fun/*
 *://healcipe.com/*
 *://healingisland3103.com/*
 *://healthistanbulgroup.com/*
@@ -22304,6 +22303,7 @@
 *://waterone.jp/*
 *://waterstand.jp/*
 *://waverlycc.com/*
+*://wawawab.com/*
 *://wawlife7.com/*
 *://wayofthescreenwriter.com/*
 *://wazzelife.com/*
