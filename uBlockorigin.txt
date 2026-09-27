@@ -3897,6 +3897,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||g2c28wr.onlinetanke.de^$document
 ||g2mo30u9g.birralafirm.it^$document
 ||gachajima.jp^$document
+||gackt-online.bitfan.id^$document
 ||gadge-taku.com/osusume-android-apps^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
@@ -3907,6 +3908,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gadgetouch.com^$document
 ||gadgetzamurai.jp^$document
 ||gaffriggauge.com^$document
+||gahaku.co.jp^$document
 ||gahalog.2chblog.jp^$document
 ||gaikotsumatsuri.com^$document
 ||gaiman.jp^$document
@@ -6697,6 +6699,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mash-mk.com^$document
 ||mashikong.com^$document
 ||mashiqur.xyz^$document
+||masqphone.com^$document
 ||masquevinilo.com^$document
 ||massartcon.buzz^$document
 ||massgrav.*^$all,to=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
@@ -10206,6 +10209,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shop34603636.taobao.com^$document
 ||shop62795857.taobao.com^$document
 ||shopeeal.com^$document
+||shopping.tbs.co.jp^$document
 ||shoppingnet.online^$document
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
@@ -12838,6 +12842,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.g42ux8h.cn^$document
 ||www.g7-gunma-2023.jp^$document
 ||www.g9116.cn^$document
+||www.gackt-kiwami.com^$document
 ||www.gacopy.ru^$document
 ||www.gadgetskool.com^$document
 ||www.gaimaki.com^$document
