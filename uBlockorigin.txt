@@ -929,6 +929,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/pisu-tabi^$document
 ||ameblo.jp/plus2222^$document
 ||ameblo.jp/reishiki0000^$document
+||ameblo.jp/salon-ym^$document
 ||ameblo.jp/targeteddamage^$document
 ||ameblo.jp/techtell360^$document
 ||ameblo.jp/teihenmachi^$document
@@ -5762,6 +5763,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kimisomu.xyz^$document
 ||kimisui.jp^$document
 ||kimitagolf.com^$document
+||kimito39gmailcom.blog.fc2.com^$document
 ||kimitsuki.jp^$document
 ||kimiuso-movie.jp^$document
 ||kimootoko.net^$document
@@ -8320,6 +8322,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/shirasaki_souma^$document
 ||note.com/shogo_0125^$document
 ||note.com/shoji_orihara^$document
+||note.com/shota_jiyusekkei^$document
 ||note.com/show6254^$document
 ||note.com/shure8888^$document
 ||note.com/side_hustle_40^$document
@@ -14642,6 +14645,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yuki-mam.com^$document
 ||yuki-vpn.com^$document
 ||yuki0830.com^$document
+||yukimama.net^$document
 ||yukimaruai.com^$document
 ||yukims.com^$document
 ||yukinko17.com^$document
