@@ -3,6 +3,7 @@
 ! Expires: 2 hours (update frequency)
 ##.google-preferred-source-container
 ##a[href*="google.com/preferences/source"]
+||www.amazon.co.jp/dp/4344042050^$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
