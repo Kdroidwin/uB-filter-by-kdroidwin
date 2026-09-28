@@ -4238,6 +4238,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gokigenteikoku.jp^$document
 ||goku-tsuma.net^$document
 ||gokyuzuvebalon.com^$document
+||golden-comic.com^$document
 ||golden-tamatama.com^$document
 ||goldenevent.pl^$document
 ||goldenheartmediation.com^$document
@@ -7633,6 +7634,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nicoriblog.com^$document
 ||nierreincarnation.jp^$document
 ||night-selection.com^$document
+||nightmuselab.jp^$document
 ||nightreview.net^$document
 ||nigiwasu.com^$document
 ||nihon-ichi.jp^$document
@@ -8606,6 +8608,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||oginoiwaki.jp^$document
 ||ogiri.moshimobox.top^$document
 ||ohanasi-blog.com^$document
+||ohashi-motors.jp^$document
 ||ohisamaso.com^$document
 ||ohmikonan-alps.jp^$document
 ||ohogoe.org^$document
@@ -8823,6 +8826,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otona-freecomic.jp^$document
 ||otona-radar.jp^$document
 ||otona-review-navi.com^$document
+||otona-search.com^$document
 ||otona-zukan.net^$document
 ||otonaclub.mixh.jp^$document
 ||otonakensaku.com^$document
@@ -10140,6 +10144,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shin41.net^$document
 ||shinachiku.com^$document
 ||shinafu.jp^$document
+||shinagawajazz.com^$document
 ||shinchantrend.com^$document
 ||shindan.fujinvibe.com^$document
 ||shine-egg.com^$document
@@ -11020,6 +11025,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tenis.hotsport.rs^$document
 ||tenkahyakken-zan.jp^$document
 ||tenkoushoujo.com^$document
+||tennis-goods.com^$document
 ||tennisblog.org^$document
 ||tennisevery.com^$document
 ||tenorshare.jp^$document
@@ -11589,6 +11595,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||uisldxjwnuxyl.shop^$document
 ||ukgwr.com^$document
 ||ukie5info.com^$document
+||ukiha-jitenshatabi.com^$document
 ||uking15.com^$document
 ||ulab.unipo.sk^$document
 ||ultra-medica.org^$document
@@ -12756,6 +12763,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-hitomi-58.net^$document
 ||www.eromanga-muryou-hitomi-59.net^$document
 ||www.eromanga-muryou-hitomi-raw-1.net^$document
+||www.eromanga-muryou-hitomi-raw-3.net^$document
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
 ||www.eromangadoujin.com^$document
