@@ -3,7 +3,6 @@
 ! Expires: 2 hours (update frequency)
 ##.google-preferred-source-container
 ##a[href*="google.com/preferences/source"]
-||www.amazon.co.jp/dp/4344042050^$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -1657,6 +1656,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bitwave.showcase-tv.com^$document
 ||biyoudaisukijyoshi.com^$document
 ||biz.moneyforward.com^$document
+||biz.tunag.jp^$document
 ||bizdatainsights.com^$document
 ||bizx.chatwork.com^$document
 ||bizzapps.ru^$document
@@ -2098,6 +2098,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||che-guevara.jp^$document
 ||cheat-sokuhou.com^$document
 ||check-it-yumeijin.com^$document
+||checkguest-service.com^$document
 ||checkx*.pages.dev^$document
 ||cheekygreekyiros.com^$document
 ||cheerdance-movie.jp^$document
@@ -7375,6 +7376,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nakbrzpv.live^$document
 ||nako12.com^$document
 ||naltupo-movie.work^$document
+||naluminal47.com^$document
 ||namachacha.com^$document
 ||namaeuranai.biz^$document
 ||namakemono-no-gogai.blog.ss-blog.jp^$document
@@ -9756,6 +9758,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ronron299.com^$document
 ||roomclip.jp^$document
 ||roomkitdu.com^$document
+||roomnavigator.com^$document
 ||roomover.xyz^$document
 ||root-device.com^$document
 ||rootsnote.com^$document
@@ -11213,6 +11216,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tirhutnews.com^$document
 ||titanwolf.org^$document
 ||titanyachts.com^$document
+||titbits.blog^$document
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
 ||tizentube.org^$document
@@ -12319,6 +12323,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.alqalmouninstitute.com^$document
 ||www.alqfvxf.cn^$document
 ||www.amazon.bygg199.top^$document
+||www.amazon.co.jp/dp/4344042050^$document
 ||www.amazon.co.jp/PC%E3%82%BD%E3%83%95%E3%83%88-iObit^$document
 ||www.amazon.co.jp/shop/influencer-2b79c26a$document
 ||www.amigolibreria.com^$document
@@ -14173,6 +14178,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.yoshikan.jp^$document
 ||www.yoshimasa-hosoya.com^$document
 ||www.yosoku.website^$document
+||www.youichi-itou.net^$document
 ||www.youki8322.com^$document
 ||www.youtube.com/user/hatimaki73^$document
 ||www.youtube.com/watch?v=PMw5r4-4lhc^$document
