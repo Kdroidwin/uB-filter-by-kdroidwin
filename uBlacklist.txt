@@ -1,11 +1,3 @@
-*://wp207515.wpx.jp/*
-*://hitomiraw-doujin.com/*
-*://nordicsound.jp/*
-*://e-hentai-raw.com/*
-*://doujinlive.net/*
-*://hitomilaa2.cloudfree.jp/*
-*://nijifan.net/manga/*
-*://note.com/vast_ruff5788/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13470,6 +13462,7 @@
 *://doujinkan.com/*
 *://doujinlabo.net/*
 *://doujinlink.com/*
+*://doujinlive.net/*
 *://doujinmanga-komishiru.com/*
 *://doujinmanga-rank.jp/*
 *://doujinmm.dlold.net/*
@@ -13575,6 +13568,7 @@
 *://e-faso.com/*
 *://e-fugu.jp/*
 *://e-gst.jp/*
+*://e-hentai-raw.com/*
 *://e-news67.com/*
 *://e-pin.jp/*
 *://e-pisco.geo.jp/*
@@ -15338,6 +15332,7 @@
 *://hitomila.blog/*
 *://hitomila.click/*
 *://hitomila.co.jp/*
+*://hitomilaa2.cloudfree.jp/*
 *://hitomilaa4.cloudfree.jp/*
 *://hitomiland.com/*
 *://hitomilla.com/*
@@ -15345,6 +15340,7 @@
 *://hitomimangaraw.wew.jp/*
 *://hitomin.dis-1983.jp/*
 *://hitomin.wpx.jp/*
+*://hitomiraw-doujin.com/*
 *://hitomiraw-manga01.com/*
 *://hitomisiri.com/*
 *://hitomissav.cloudfree.jp/*
@@ -18137,6 +18133,7 @@
 *://niji-doujin.jp/*
 *://niji-gazo.com/source/009/*
 *://niji.e-r-o-anime.xyz/*
+*://nijifan.net/manga/*
 *://nijigen.joshiana-room.com/*
 *://nijigenbomber.net/*
 *://nijiholo-local.jp/*
@@ -18222,6 +18219,7 @@
 *://nonsateke.online/*
 *://nontan-blog.com/*
 *://nonzyoruno-miyazaki.jp/*
+*://nordicsound.jp/*
 *://nordinkole.nl/*
 *://nordvpn.com/ja/?srsltid=*
 *://nordvpn.com/ja/blog/secure-browser/*
@@ -18895,6 +18893,7 @@
 *://note.com/vast_arnica5001/*
 *://note.com/vast_cougar7215/*
 *://note.com/vast_rue955/*
+*://note.com/vast_ruff5788/*
 *://note.com/vivid_cosmos9883/*
 *://note.com/viwizard_jp/*
 *://note.com/volcano_youtube/*
@@ -22452,6 +22451,7 @@
 *://wp.cloudprox.com/*
 *://wp0001.wpx.jp/*
 *://wp198939.wpx.jp/*
+*://wp207515.wpx.jp/*
 *://wp243190.wpx.jp/*
 *://wp253742.wpx.jp/*
 *://wp333666.wpx.jp/*

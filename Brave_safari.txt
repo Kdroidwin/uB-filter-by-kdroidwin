@@ -2898,6 +2898,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinkan.com^$document
 ||doujinlabo.net^$document
 ||doujinlink.com^$document
+||doujinlive.net^$document
 ||doujinmanga-komishiru.com^$document
 ||doujinmanga-rank.jp^$document
 ||doujinmm.dlold.net^$document
@@ -3001,6 +3002,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||e-faso.com^$document
 ||e-fugu.jp^$document
 ||e-gst.jp^$document
+||e-hentai-raw.com^$document
 ||e-news67.com^$document
 ||e-pin.jp^$document
 ||e-pisco.geo.jp^$document
@@ -4785,6 +4787,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomila.blog^$document
 ||hitomila.click^$document
 ||hitomila.co.jp^$document
+||hitomilaa2.cloudfree.jp^$document
 ||hitomilaa4.cloudfree.jp^$document
 ||hitomiland.com^$document
 ||hitomilla.com^$document
@@ -4792,6 +4795,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomimangaraw.wew.jp^$document
 ||hitomin.dis-1983.jp^$document
 ||hitomin.wpx.jp^$document
+||hitomiraw-doujin.com^$document
 ||hitomiraw-manga01.com^$document
 ||hitomisiri.com^$document
 ||hitomissav.cloudfree.jp^$document
@@ -7643,6 +7647,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||niji-doujin.jp^$document
 ||niji-gazo.com/source/009^$document
 ||niji.e-r-o-anime.xyz^$document
+||nijifan.net/manga^$document
 ||nijigen.joshiana-room.com^$document
 ||nijigenbomber.net^$document
 ||nijiholo-local.jp^$document
@@ -7729,6 +7734,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nonsateke.online^$document
 ||nontan-blog.com^$document
 ||nonzyoruno-miyazaki.jp^$document
+||nordicsound.jp^$document
 ||nordinkole.nl^$document
 ||nordvpn.com/ja/?srsltid=$document
 ||nordvpn.com/ja/blog/secure-browser^$document
@@ -8398,6 +8404,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/vast_arnica5001^$document
 ||note.com/vast_cougar7215^$document
 ||note.com/vast_rue955^$document
+||note.com/vast_ruff5788^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/viwizard_jp^$document
 ||note.com/volcano_youtube^$document
@@ -12137,6 +12144,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wp.cloudprox.com^$document
 ||wp0001.wpx.jp^$document
 ||wp198939.wpx.jp^$document
+||wp207515.wpx.jp^$document
 ||wp243190.wpx.jp^$document
 ||wp253742.wpx.jp^$document
 ||wp333666.wpx.jp^$document
