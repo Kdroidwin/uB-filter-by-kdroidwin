@@ -1,6 +1,3 @@
-*://doujin-catalog.com/*
-*://fanzaotoku.com/*
-*://erodoujin-prin.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -13401,6 +13398,7 @@
 *://doujin-anime.com/*
 *://doujin-archive.com/*
 *://doujin-authors.com/*
+*://doujin-catalog.com/*
 *://doujin-comic.cfbx.jp/*
 *://doujin-comics.toremani.com/*
 *://doujin-db.com/*
@@ -13865,6 +13863,7 @@
 *://erodoujin-manman.com/*
 *://erodoujin-muryou.net/*
 *://erodoujin-navi.com/*
+*://erodoujin-prin.com/*
 *://erodoujincomic.com/*
 *://erodoujinlog.com/*
 *://erodoujinmanga.com/*
@@ -14114,6 +14113,7 @@
 *://fanzabooks.com/*
 *://fanzadensho.com/*
 *://fanzadlsite.wpx.jp/*
+*://fanzaotoku.com/*
 *://fanzapro.com/*
 *://fanzasale.com/*
 *://fanzonetokyo.jp/*

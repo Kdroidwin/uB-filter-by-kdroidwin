@@ -2835,6 +2835,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-anime.com^$document
 ||doujin-archive.com^$document
 ||doujin-authors.com^$document
+||doujin-catalog.com^$document
 ||doujin-comic.cfbx.jp^$document
 ||doujin-comics.toremani.com^$document
 ||doujin-db.com^$document
@@ -3302,6 +3303,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erodoujin-manman.com^$document
 ||erodoujin-muryou.net^$document
 ||erodoujin-navi.com^$document
+||erodoujin-prin.com^$document
 ||erodoujincomic.com^$document
 ||erodoujinlog.com^$document
 ||erodoujinmanga.com^$document
@@ -3555,6 +3557,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fanzabooks.com^$document
 ||fanzadensho.com^$document
 ||fanzadlsite.wpx.jp^$document
+||fanzaotoku.com^$document
 ||fanzapro.com^$document
 ||fanzasale.com^$document
 ||fanzonetokyo.jp^$document
