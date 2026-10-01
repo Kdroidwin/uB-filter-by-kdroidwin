@@ -964,6 +964,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ananantenna.blog.jp^$document
 ||ananta-systems.com^$document
 ||anatae.jp^$document
+||anataniokurulavesong.hatenablog.com^$document
 ||anatato.jp^$document
 ||and-ace.com^$document
 ||and-beef.jp^$document
@@ -10760,6 +10761,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sumaholife-plus.jp^$document
 ||sumahomangayomi.com^$document
 ||sumika.info^$document
+||sumikomi-kojo.com^$document
 ||sumikomi-support.com^$document
 ||suministrostrio.com^$document
 ||sumire-yururoma.com^$document

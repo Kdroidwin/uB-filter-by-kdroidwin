@@ -1,5 +1,3 @@
-*://sumikomi-kojo.com/*
-*://anataniokurulavesong.hatenablog.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11565,6 +11563,7 @@
 *://ananantenna.blog.jp/*
 *://ananta-systems.com/*
 *://anatae.jp/*
+*://anataniokurulavesong.hatenablog.com/*
 *://anatato.jp/*
 *://and-ace.com/*
 *://and-beef.jp/*
@@ -21151,6 +21150,7 @@
 *://sumaholife-plus.jp/*
 *://sumahomangayomi.com/*
 *://sumika.info/*
+*://sumikomi-kojo.com/*
 *://sumikomi-support.com/*
 *://suministrostrio.com/*
 *://sumire-yururoma.com/*
