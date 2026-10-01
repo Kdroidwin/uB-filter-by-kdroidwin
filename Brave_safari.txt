@@ -8699,6 +8699,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||on-sk.com^$document
 ||on.fb.me^$document
 ||onamae.com^$document
+||ondigitalocean.app^
 ||one-carat.com^$document
 ||one-more-life.jp^$document
 ||one-search.net^$document
@@ -10759,6 +10760,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sumaholife-plus.jp^$document
 ||sumahomangayomi.com^$document
 ||sumika.info^$document
+||sumikomi-support.com^$document
 ||suministrostrio.com^$document
 ||sumire-yururoma.com^$document
 ||sumiyaki.jp^$document

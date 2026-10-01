@@ -1,4 +1,3 @@
-*://sumikomi-support.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -21150,6 +21149,7 @@
 *://sumaholife-plus.jp/*
 *://sumahomangayomi.com/*
 *://sumika.info/*
+*://sumikomi-support.com/*
 *://suministrostrio.com/*
 *://sumire-yururoma.com/*
 *://sumiyaki.jp/*
