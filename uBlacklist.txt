@@ -1,6 +1,3 @@
-*://www.apktoy.com/*
-*://apkadmin.com/*
-*://papoo.work/doc/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -11718,6 +11715,7 @@
 *://apk.tours/*
 *://apk20.com/*
 *://apk4free.net/*
+*://apkadmin.com/*
 *://apkaward.com/*
 *://apkbigs.com/*
 *://apkcombo.com/ja/revanced/*
@@ -19405,6 +19403,7 @@
 *://papagaku.com/*
 *://papergfb.styr.live/*
 *://papies.pt/*
+*://papoo.work/doc/*
 *://paradeparade.jp/*
 *://paradise-rentacar.jp/*
 *://paradiseflowersnyc.com/*
@@ -22677,6 +22676,7 @@
 *://www.apknougat.com/*
 *://www.apkrogue.com/*
 *://www.apksmap.com/*
+*://www.apktoy.com/*
 *://www.apkturbo.com/*
 *://www.appbank.net/*
 *://www.appbank.net/app-rank/useful/vpn-app*

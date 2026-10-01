@@ -1125,6 +1125,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apk.tours^$document
 ||apk20.com^$document
 ||apk4free.net^$document
+||apkadmin.com^$document
 ||apkaward.com^$document
 ||apkbigs.com^$document
 ||apkcombo.com/ja/revanced^$document
@@ -8925,6 +8926,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||papagaku.com^$document
 ||papergfb.styr.live^$document
 ||papies.pt^$document
+||papoo.work/doc^$document
 ||paradeparade.jp^$document
 ||paradise-rentacar.jp^$document
 ||paradiseflowersnyc.com^$document
@@ -12373,6 +12375,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.apknougat.com^$document
 ||www.apkrogue.com^$document
 ||www.apksmap.com^$document
+||www.apktoy.com^$document
 ||www.apkturbo.com^$document
 ||www.appbank.net/app-rank/useful/vpn-app^$document
 ||www.appbank.net^$document
