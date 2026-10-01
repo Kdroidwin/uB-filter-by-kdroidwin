@@ -4408,6 +4408,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hagelicious.com^$document
 ||hagemag.com^$document
 ||hagemarugt.com^$document
+||hagezi.com^$document
 ||hahahax282828.seesaa.net^$document
 ||hahatokuraseba.jp^$document
 ||hai-kai.com^$document
