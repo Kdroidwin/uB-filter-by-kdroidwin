@@ -2809,6 +2809,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dopa-game.jp^$document
 ||dopyumanga.wpx.jp^$document
 ||dopyupyu.wpx.jp^$document
+||doraemuo.com^$document
 ||doragon-rinchan.com^$document
 ||dorama-anime.com^$document
 ||dorama-netabare.com^$document
@@ -8096,6 +8097,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/large_jaguar4528^$document
 ||note.com/large_macaw8016^$document
 ||note.com/left^$document
+||note.com/legal_vs_illegal^$document
 ||note.com/lenslover^$document
 ||note.com/leo_match^$document
 ||note.com/light_fox3746^$document
