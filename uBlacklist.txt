@@ -1,87 +1,4 @@
 *://*.000webhostapp.com/*
-*://apk.watch/*
-*://*.apk.watch/*
-*://xtow.pages.dev/*
-*://buzzfuzzy.com/*
-*://graphicnovelcollection.com/*
-*://restoservicepro.com/*
-*://oilchangefacility.com/*
-*://digitalplayerhub.com/*
-*://quizela.com/*
-*://pixelgamingrealm.com/*
-*://appisfree.com/*
-*://limeroad.com/*
-*://apkbrew.com/*
-*://appdownloadvip.com/*
-*://appflowio.com/*
-*://apksmap.com/*
-*://app711.com/*
-*://askproly.com/*
-*://app-loader.com/*
-*://swiftehub.com/*
-*://strumskill.com/*
-*://digitaloceanspaces.com/*
-*://app1r.com/*
-*://inpic.net/*
-*://choiceinsiders.com/*
-*://appindi.com/*
-*://shoppersstop.com/*
-*://cleanmeapp.info/*
-*://mzgen.com/*
-*://optionsl.com/*
-*://askapk.com/*
-*://koreadates.com/*
-*://smartfashiontrend.com/*
-*://appmerica.com/*
-*://frenchflowart.com/*
-*://askwhizly.com/*
-*://downloade.app/*
-*://gptgala.com/*
-*://allegrot.com/*
-*://alanit-urist.ru/*
-*://upsellcdn.com/*
-*://popstarquiz.com/*
-*://eezgm.com/*
-*://appposts.com/*
-*://gpt3o.com/*
-*://dealmerica.com/*
-*://globerove.com/*
-*://foguero.com/*
-*://mogilev.by/*
-*://superbaby.tv/*
-*://twinklefox.com/*
-*://appiff.com/*
-*://app4-ai.com/*
-*://globalmalll.com/*
-*://appsgpts.com/*
-*://frontierdg.com/*
-*://flordamata.com/*
-*://yapigames.com/*
-*://storvaxminel.com/*
-*://appnstore.com/*
-*://acelauncher.com/*
-*://couponister.com/*
-*://savbit.com/*
-*://tooj.com/*
-*://bankifsccodechk.com/*
-*://actionblogs.com/*
-*://otailande.com/*
-*://wealthneste.com/*
-*://beewebs.com/*
-*://orbitlark.co.nz/*
-*://playzyfun.com/*
-*://inchpathfield.com/*
-*://boggi.com/*
-*://eaglerockperch.com/*
-*://meaningofdreaming.com/*
-*://orbitapk.com/*
-*://embusk.com/*
-*://adlockout.com/*
-*://yourapk.com/*
-*://couponbon.com/*
-*://choiceinsiders.com/*
-*://couponur.com/*
-*://couponbon.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -361,6 +278,7 @@
 *://*.apk.dog/*
 *://*.apk.gold/*
 *://*.apk.markets/*
+*://*.apk.watch/*
 *://*.apkrabi.com/*
 *://*.apkresult.io/*
 *://*.apkshub.com/*
@@ -11297,6 +11215,7 @@
 *://accounts.millenvpn.jp/*
 *://accounts.recustomer.xyz/*
 *://ace.enetprint.jp/*
+*://acelauncher.com/*
 *://acer.onerise.info/*
 *://acgi.jp/*
 *://acha53.hatenablog.com/*
@@ -11307,6 +11226,7 @@
 *://acomi-acomi.com/*
 *://acros-shoutengai.com/*
 *://actartcom.com/*
+*://actionblogs.com/*
 *://activation.unity.cn/*
 *://activator-kmspico.net/*
 *://activators.pro/*
@@ -11329,6 +11249,7 @@
 *://ademas0719blog.com/*
 *://adesukinako12161216-cpu.github.io/*
 *://aditaishitukaizen.com/*
+*://adlockout.com/*
 *://admailmg.com/*
 *://adoi.hatenablog.com/*
 *://adonisgreen.jp/*
@@ -11494,6 +11415,7 @@
 *://akuma-namarameshi.jp/*
 *://ala-table.jp/*
 *://alacibu.net/*
+*://alanit-urist.ru/*
 *://alb-bm.com/products/*
 *://albblo.com/*
 *://alchembook.com/*
@@ -11519,6 +11441,7 @@
 *://allayfx7.bruneida.com/*
 *://allcolorful.xsrv.jp/*
 *://allcontent.bibroom.com/*
+*://allegrot.com/*
 *://allerotics.online/*
 *://allgamemods.com/*
 *://allkeysgenerator.com/*
@@ -11797,11 +11720,13 @@
 *://apk.gold/*
 *://apk.tools/*
 *://apk.tours/*
+*://apk.watch/*
 *://apk20.com/*
 *://apk4free.net/*
 *://apkadmin.com/*
 *://apkaward.com/*
 *://apkbigs.com/*
+*://apkbrew.com/*
 *://apkcombo.com/ja/revanced/*
 *://apkcombo.it.com/*
 *://apkcombo.my/*
@@ -11850,6 +11775,7 @@
 *://apksfull.com/*
 *://apkshub.com/*
 *://apksim.com/*
+*://apksmap.com/*
 *://apkspotify.net/*
 *://apksum.com/*
 *://apktitan.com/*
@@ -11861,6 +11787,7 @@
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*
 *://app-liv.jp/*
+*://app-loader.com/*
 *://app-story.net/*
 *://app-tatsujin.com/*
 *://app-valley.vip/*
@@ -11870,12 +11797,20 @@
 *://app.sendright.jp/*
 *://app.sensortower.com/*
 *://app.wefi.co/*
+*://app1r.com/*
+*://app4-ai.com/*
+*://app711.com/*
 *://appagg.com/*
 *://appante7.info/*
 *://appbu.jp/*
+*://appdownloadvip.com/*
 *://appdoze.com/*
 *://appdoze.net/*
 *://appdraft.sakura.ne.jp/*
+*://appflowio.com/*
+*://appiff.com/*
+*://appindi.com/*
+*://appisfree.com/*
 *://applenge-media.com/*
 *://applepandac.com/*
 *://applepayer.net/*
@@ -11886,10 +11821,12 @@
 *://applibito.com/*
 *://applihunter.net/*
 *://applion.jp/iphone/word/missav/*
+*://appmerica.com/*
 *://appnee.com/*
 *://appnstore.com/*
 *://appoholow.xyz/*
 *://appollo.jp/*
+*://appposts.com/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
 *://apps.apple.com/*/app/antutu-benchmark/*
@@ -11908,6 +11845,7 @@
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
 *://apps.microsoft.com/detail/xpfg20v78lrmwg?*
 *://apps2app.com/*
+*://appsgpts.com/*
 *://appsonwindows.com/*
 *://appstorrent.ru/*
 *://appvalley-apk.com/*
@@ -12011,9 +11949,12 @@
 *://asjapanesu.click/*
 *://ask-dev.ru/*
 *://ask21.jp/*
+*://askapk.com/*
 *://askchords.com/*
 *://askcodez.com/*
 *://askmrcoupon.com/*
+*://askproly.com/*
+*://askwhizly.com/*
 *://asmr-plaza.com/*
 *://asobell.jp/*
 *://asobi-sozo-labo.com/*
@@ -12169,6 +12110,7 @@
 *://bangladeshnewsbd.com/*
 *://bank.dmm-mania.com/*
 *://banka-movie.com/*
+*://bankifsccodechk.com/*
 *://bantyou.livedoor.biz/*
 *://bar-ryuk.com/*
 *://bar06.jp/*
@@ -12227,6 +12169,7 @@
 *://bedubz.com/*
 *://beelzeboulxxx.com/*
 *://beerprice.life/*
+*://beewebs.com/*
 *://beforeitsnews.com/*
 *://befree-life.com/*
 *://beginner-husband.com/*
@@ -12434,6 +12377,7 @@
 *://body-heart-mind-soul.com/*
 *://bodyesteeem.com/*
 *://boftech.net/*
+*://boggi.com/*
 *://bohena-made.com/*
 *://bohusbanken.com/*
 *://boil.yui-cni.cv/*
@@ -12589,6 +12533,7 @@
 *://buzz-plus.com/*
 *://buzz-press.com/*
 *://buzzcreateofficial.com/*
+*://buzzfuzzy.com/*
 *://buzzinfo0707.com/*
 *://buzzjiru.com/*
 *://buzzlog.net/*
@@ -12811,6 +12756,7 @@
 *://chocochico.net/*
 *://chodetox.jp/*
 *://choice.ameba.jp/*
+*://choiceinsiders.com/*
 *://chokatu15.com/*
 *://choke-point.com/*
 *://chomangasokuho.blog.jp/*
@@ -12875,6 +12821,7 @@
 *://claulimabrand.com/*
 *://clean-scene.ca/*
 *://cleangreenspk.com/*
+*://cleanmeapp.info/*
 *://clearsky-japan.jp/*
 *://cleartechrecruiting.com/*
 *://clibomanager.com/*
@@ -13069,6 +13016,9 @@
 *://countdown2024-2025.com/*
 *://coupleinpublic.com/*
 *://couplog.net/*
+*://couponbon.com/*
+*://couponister.com/*
+*://couponur.com/*
 *://couragemedicalcenter.com/*
 *://courtneys.online/*
 *://couryier.us/*
@@ -13228,6 +13178,7 @@
 *://deai-wakare.tokyo/*
 *://deaiappnews.com/*
 *://deaino-onayami.com/*
+*://dealmerica.com/*
 *://dearteenme.com/*
 *://deatonhospital.com/*
 *://debridhub.com/*
@@ -13323,6 +13274,8 @@
 *://digital-mediablo.com/*
 *://digital-shift.jp/*
 *://digital-trend.reinforz.co.jp/*
+*://digitaloceanspaces.com/*
+*://digitalplayerhub.com/*
 *://digitrain.ru/*
 *://digitspring.com/*
 *://dignicolombia.org/*
@@ -13584,6 +13537,7 @@
 *://download.happymod.to/*
 *://download.it/*
 *://download.juxia.com/*
+*://downloade.app/*
 *://downloadly.ir/*
 *://downloadly.net/*
 *://downloadlyir.com/*
@@ -13667,6 +13621,7 @@
 *://e025-subsc-bm.xyz/*
 *://e1ns.jp/*
 *://e849001b-b592-4312-ada6-f359392cf4f0.ct0.app/*
+*://eaglerockperch.com/*
 *://earbuds.aspsv.com/*
 *://earnie-frogs.jp/*
 *://earth-c.jp/*
@@ -13722,6 +13677,7 @@
 *://edwardsbike.com/*
 *://eeante.blog.jp/*
 *://eee.attractive69.com/*
+*://eezgm.com/*
 *://effectivedutchlessons.nl/*
 *://efire-matome.com/*
 *://efuyuiblog.com/*
@@ -13780,6 +13736,7 @@
 *://em.weed-dev.online/*
 *://emangablog.com/*
 *://embarrassed-bridge.com/*
+*://embusk.com/*
 *://emcz4ecubs.com/*
 *://emd2nd.blog.jp/*
 *://emerald-energies.com/*
@@ -14326,6 +14283,7 @@
 *://float.fun/*
 *://floatcenter.jp/*
 *://floras.co.in/*
+*://flordamata.com/*
 *://florencemainstreet.org/*
 *://florerialasfrecias.com/*
 *://floridianvacationhomes.com/*
@@ -14350,6 +14308,7 @@
 *://focus-one.co.jp/*
 *://fodanime.com/*
 *://fogiews2.malaysiainternationalschools.com/*
+*://foguero.com/*
 *://fokyo.life/*
 *://folk-song.net/*
 *://follignx.com/*
@@ -14421,6 +14380,7 @@
 *://freeworkroom.com/*
 *://freiermann.com/*
 *://frenavi.xyz/*
+*://frenchflowart.com/*
 *://fresco-salon.amebaownd.com/*
 *://fresh-memories.com/*
 *://freshgreenxcoatl.com/*
@@ -14431,6 +14391,7 @@
 *://fromation.co.jp/*
 *://front-back.net/*
 *://frontier-pr.jp/*
+*://frontierdg.com/*
 *://frostshaper.solutions/*
 *://frostwire.com/*
 *://fruit727.com/*
@@ -14841,10 +14802,12 @@
 *://glintgizmo.com/*
 *://gllosqf.work/*
 *://global-funlife.com/*
+*://globalmalll.com/*
 *://globalpop-trend.com/*
 *://globalsun.jp/*
 *://globaxiscorp.com/*
 *://globeflightdeals.com/*
+*://globerove.com/*
 *://globo-site.com/*
 *://glocalnet.jp/*
 *://glotoolhub.com/*
@@ -14938,6 +14901,8 @@
 *://goversys.com/*
 *://govorite.ru/*
 *://gpslp-ptp5.vercel.app/*
+*://gpt3o.com/*
+*://gptgala.com/*
 *://gptjp.io/*
 *://gptjp.org/*
 *://grabmodapk.com/*
@@ -14955,6 +14920,7 @@
 *://graph-messenger.jp.uptodown.com/*
 *://grapheneos.io/*
 *://graphenephone.store/*
+*://graphicnovelcollection.com/*
 *://gravia-navi.com/*
 *://gray.pochasiko.com/*
 *://grayelectricllc.com/*
@@ -15722,6 +15688,7 @@
 *://inaxginza.info/*
 *://inazumanews2.com/*
 *://inbigo.com/*
+*://inchpathfield.com/*
 *://indeep.jp/*
 *://index.taimiah.org/*
 *://indiespark.top/*
@@ -15766,6 +15733,7 @@
 *://inorinomaku-movie.jp/*
 *://inove-vannes.fr/*
 *://inoxgiasi.com/*
+*://inpic.net/*
 *://inquirebotany.org/*
 *://insightec.xyz/*
 *://insolenceproductions.com/*
@@ -16569,6 +16537,7 @@
 *://korea-iidol.com/*
 *://korea-room39.net/*
 *://korea.kaigai-drama-board.com/*
+*://koreadates.com/*
 *://koreader.com/*
 *://korean-anohito.com/*
 *://korean-channel.com/*
@@ -16849,6 +16818,7 @@
 *://lily-new.com/*
 *://lilys-cafe.net/*
 *://lilysweetycat.com/*
+*://limeroad.com/*
 *://limewire.com/*
 *://limia.jp/*
 *://lin7k-g0gmbufeguhhethp.z01.azurefd.net/*
@@ -17392,6 +17362,7 @@
 *://mdoramafan.com/*
 *://me-qr.com/*
 *://meall-times.com/*
+*://meaningofdreaming.com/*
 *://measurement.slot42.online/*
 *://meat-kode.com/*
 *://mebelim.net/*
@@ -17719,6 +17690,7 @@
 *://moetataiken.com/*
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
+*://mogilev.by/*
 *://mogimikan.my.canva.site/*
 *://mogura-final.jp/*
 *://mogura-movie.com/*
@@ -17926,6 +17898,7 @@
 *://mysticabyss.jp/*
 *://mytrend.info/*
 *://myuryoudoujinnsennbaisokuhou.com/*
+*://mzgen.com/*
 *://n-ns.jp/*
 *://n-trend.com/*
 *://n-yu.com/*
@@ -19204,6 +19177,7 @@
 *://ohmikonan-alps.jp/*
 *://ohogoe.org/*
 *://oidon-cup.com/*
+*://oilchangefacility.com/*
 *://oioi-min.com/*
 *://oip.yongjoo.za.com/*
 *://oishiimomlife.com/*
@@ -19320,6 +19294,7 @@
 *://opportunity.linkedin.cn/*
 *://opticae.online/*
 *://optionpulsevn.com/*
+*://optionsl.com/*
 *://optrnelse.com/*
 *://oqirena.com/*
 *://oqmweb.com/*
@@ -19327,6 +19302,8 @@
 *://orange-pop.com/*
 *://orangectytv.com/*
 *://orangepostreason.com/*
+*://orbitapk.com/*
+*://orbitlark.co.nz/*
 *://order.nordvpn.com/*
 *://oremanga.tokyo/*
 *://orenburg.ko-snegiri.ru/*
@@ -19387,6 +19364,7 @@
 *://ota-goods.info/*
 *://otaetae.com/*
 *://otagameblog.com/*
+*://otailande.com/*
 *://otakamu.com/*
 *://otakudoujinshack.com/*
 *://otakumania.jp/*
@@ -19637,6 +19615,7 @@
 *://pixabay.com/*
 *://pixel-leaker.com/*
 *://pixela.co.jp/*
+*://pixelgamingrealm.com/*
 *://pixibank.com/*
 *://pixivc2.kurocore.com/*
 *://pixls.jp/*
@@ -19686,6 +19665,7 @@
 *://playmods.net/*
 *://playruneterra.cn/*
 *://playwithyuzu.com/*
+*://playzyfun.com/*
 *://plaza.rakuten.co.jp/tamajinniki2/*
 *://plazamayor.jp/*
 *://plazaosaka-database.113110.online/*
@@ -19746,6 +19726,7 @@
 *://popo4141happy.com/*
 *://popsfanlife.com/*
 *://popsokuhou.com/*
+*://popstarquiz.com/*
 *://popstoretokyo.com/*
 *://popularahora.com/*
 *://popversemix.com/*
@@ -19933,6 +19914,7 @@
 *://quick-timez.com/*
 *://quickget.jp/*
 *://quitoko.com/*
+*://quizela.com/*
 *://qulalimstella.com/*
 *://qunque.work/*
 *://quocardpay.onelink.me/*
@@ -20140,6 +20122,7 @@
 *://restaurantswebsites.com/*
 *://resteid.com/*
 *://restore-beauty.work/*
+*://restoservicepro.com/*
 *://resumedia.jp/*
 *://retwyia.com/*
 *://reussitescolairesn.com/*
@@ -20513,6 +20496,7 @@
 *://satukiti.com/*
 *://sauda-risa.co.jp/*
 *://saudi-newsy.com/*
+*://savbit.com/*
 *://savethechildren.mx/*
 *://savoi.jp/*
 *://sayaken.com/*
@@ -20743,6 +20727,7 @@
 *://shop34603636.taobao.com/*
 *://shop62795857.taobao.com/*
 *://shopeeal.com/*
+*://shoppersstop.com/*
 *://shopping.tbs.co.jp/*
 *://shoppingnet.online/*
 *://short-net.org/*
@@ -20866,6 +20851,7 @@
 *://smart-enta.com/*
 *://smart-items.xyz/*
 *://smart-summary.seesaa.net/*
+*://smartfashiontrend.com/*
 *://smartkeeperpro.xyz/*
 *://smartmarket.app/*
 *://smartpagebk.com/*
@@ -21151,6 +21137,7 @@
 *://store.shopping.yahoo.co.jp/allkeyshopjapan/*
 *://store.shopping.yahoo.co.jp/norton/*
 *://stores.chaumet.cn/*
+*://storvaxminel.com/*
 *://storyoffilm-japan.com/*
 *://storypick.net/*
 *://strate.biz/*
@@ -21160,6 +21147,7 @@
 *://strepgeroki.digital/*
 *://strongcorner.net/*
 *://strufin.in/*
+*://strumskill.com/*
 *://stube.info/*
 *://studio-yh.jp/*
 *://studioebi.com/*
@@ -21256,6 +21244,7 @@
 *://suo.su/*
 *://supadou.blogism.jp/*
 *://super-unix.com/*
+*://superbaby.tv/*
 *://supercourt.hooop.me/*
 *://superdysale.nl/*
 *://superiorspamfilter.com/*
@@ -21306,6 +21295,7 @@
 *://sw.run/*
 *://sweetville.net/*
 *://swgalaxyrp.net/*
+*://swiftehub.com/*
 *://swm-2023-astro.vercel.app/*
 *://swopmini.xyz/*
 *://sy-media5.com/*
@@ -21770,6 +21760,7 @@
 *://ton-union.de/*
 *://tono-gozaru.jp/*
 *://tonoculture.com/*
+*://tooj.com/*
 *://toolbox.app/*
 *://tools.anquanclub.cn/*
 *://toorublog.com/*
@@ -22000,6 +21991,7 @@
 *://twiblk1.pages.dev/*
 *://twibuz.com/*
 *://twik.xxasj.cn/*
+*://twinklefox.com/*
 *://twisoku.ldblog.jp/*
 *://twitresokuho.com/*
 *://twitter-blocked-checker.adotann.me/*
@@ -22094,6 +22086,7 @@
 *://updays.me/*
 *://uprass.com/*
 *://uprobrocher.ucoz.ru/*
+*://upsellcdn.com/*
 *://upteck.cl/*
 *://uquum.com/*
 *://ur16.jp/*
@@ -22432,6 +22425,7 @@
 *://wcpdq.icu/*
 *://wcrr2019.org/*
 *://wdsounds.jp/*
+*://wealthneste.com/*
 *://wearer.jp/*
 *://weatherthestormapparel.com/*
 *://web-cache.stream.ne.jp/*
@@ -24798,6 +24792,7 @@
 *://xsokuhou.net/*
 *://xstack.us/*
 *://xtmk.net/*
+*://xtow.pages.dev/*
 *://xtrust.jp/*
 *://xuanyuansword.net/*
 *://xvpn.io/*
@@ -24844,6 +24839,7 @@
 *://yang678.xyz/*
 *://yaoply.com/*
 *://yaoshieijutaku.jp/*
+*://yapigames.com/*
 *://yappalie.com/*
 *://yapparidoujin.com/*
 *://yaraktaraki.online/*
@@ -24942,6 +24938,7 @@
 *://youorganic.cl/*
 *://youpress.jp/*
 *://your.happy-strike.com/*
+*://yourapk.com/*
 *://yourclip.life/*
 *://yousukeblog1115.com/*
 *://youtanblog.com/*
