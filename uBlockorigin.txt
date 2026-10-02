@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
 ||urlshort.at/verification$document
+/^https?:\/\/[^./]+\.pages\.dev\/\?PubID=\d{1,10}&SubID=[^&]+&Camp=\d{1,10}&Browser=edge&clid=/$document
 ##.google-preferred-source-container
 ##a[href*="google.com/preferences/source"]
 *click.php?key*type*age*$document
