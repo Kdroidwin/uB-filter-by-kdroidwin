@@ -4889,6 +4889,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hmanganavi.com^$document
 ||hmd.site^$document
 ||hmfes.com^$document
+||hmilk.cfbx.jp^$document
 ||hmoeta.com^$document
 ||hnaojisan.com^$document
 ||hngez.dottoremiascolti.it^$document

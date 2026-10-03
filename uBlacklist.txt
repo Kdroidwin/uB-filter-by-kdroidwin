@@ -1,5 +1,3 @@
-*://*.hmilk.cfbx.jp/*
-*://hmilk.cfbx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -4591,6 +4589,7 @@
 *://*.hentai-raw.com/*
 *://*.hiraku946.jp/*
 *://*.hitomila.blog/*
+*://*.hmilk.cfbx.jp/*
 *://*.hnt.co.jp/*
 *://*.honmadekka-channel.com/*
 *://*.hosyuushop.jp/*
@@ -15435,6 +15434,7 @@
 *://hmanganavi.com/*
 *://hmd.site/*
 *://hmfes.com/*
+*://hmilk.cfbx.jp/*
 *://hmoeta.com/*
 *://hnaojisan.com/*
 *://hngez.dottoremiascolti.it/*
