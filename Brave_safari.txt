@@ -1437,6 +1437,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||avfor.osaka^$document
 ||avgle.blog^$document
 ||aviator-movie.jp^$document
+||avmisshitomi.cloudfree.jp^$document
 ||avobild.life^$document
 ||avtonomka-service.online^$document
 ||avtuver.com^$document
@@ -2956,6 +2957,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinnews.com^$document
 ||doujinnooni.com^$document
 ||doujinraw.com^$document
+||doujinraw.wew.jp^$document
 ||doujinrepublic.com^$document
 ||doujinshi-library.moistairlab.com^$document
 ||doujinshi.nekopanchi.org^$document
@@ -3079,6 +3081,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ebook.wpx.jp^$document
 ||ebookbrain.net^$document
 ||ebookcrossroads.com^$document
+||ebookfun.wew.jp^$document
 ||ebookjp.net^$document
 ||ebookstore.wpx.jp^$document
 ||ebpocket-free.jp.aptoide.com^$document
@@ -4820,6 +4823,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-comic.com^$document
 ||hitomi-dojin.com^$document
 ||hitomi-doujin.com^$document
+||hitomi-doujin.jp^$document
 ||hitomi-eromanga.net^$document
 ||hitomi-hentai-mangaraw.wew.jp^$document
 ||hitomi-hentairaw.lsrv.jp^$document
@@ -4857,6 +4861,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomila.co.jp^$document
 ||hitomilaa2.cloudfree.jp^$document
 ||hitomilaa4.cloudfree.jp^$document
+||hitomilaa5.cloudfree.jp^$document
 ||hitomiland.com^$document
 ||hitomilla.com^$document
 ||hitomiman-momon.net^$document
@@ -7085,6 +7090,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-fc2ppv04.com^$document
 ||missav-fc2ppv05.com^$document
 ||missav-fc2ppv07.com^$document
+||missav-fc2ppv10.com^$document
+||missav-fc2ppv11.com^$document
 ||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
 ||missav2026-doujin.com^$document
@@ -9984,6 +9991,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||saiko-datta.com^$document
 ||saikonrikon.com^$document
 ||saikyo-jump.com^$document
+||saimin-heaven.com^$document
 ||saimin.salonbonte.jp^$document
 ||saimu-off.com^$document
 ||saiohgama.s336.xrea.com/dmm^$document
@@ -14445,6 +14453,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--n5qw51hglao82h.com^$document
 ||xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com^$document
 ||xn--n8j6d907hrs8bj2b2h181k.com^$document
+||xn--n8jp1dzg352nqxg1jxtm0fsfa.com^$document
 ||xn--n8jp1dzg352nqxguyjbwdy31bkf1alt3c.com^$document
 ||xn--n8jp1dzg801ngmaq12a4qui95g.com^$document
 ||xn--n8jtc6ad0nv19pp9cstj8xjljc.net^$document
