@@ -1,56 +1,7 @@
-*://npbewd.com/*
-*://doukaiko.jp/*
-*://otakult.jp/*
-*://okazu-finder.com/*
-*://yorushiko.com/*
-*://echichimato.com/*
-*://konyaanto.net/*
-*://dan-scripts.com/*
-*://dimosky.net/*
-*://night-picks.net/*
-*://doujin-dig.com/*
-*://dmagazine.org/*
-*://nijiero-view.com/*
-*://ashitaka-masashi.jp/*
-*://dlold.net/*
-*://new-akiba.com/*
-*://elthank.jp/*
-*://2d-adb.com/*
-*://nightreview.net/*
-*://oshinagaki.org/*
-*://iketeru.net/*
-*://arashiyama.jp/*
-*://remelaboratory.com/*
-*://aniru.org/*
-*://3deroge.com/*
-*://*.npbewd.com/*
-*://*.doukaiko.jp/*
-*://*.otakult.jp/*
-*://*.okazu-finder.com/*
-*://*.yorushiko.com/*
-*://*.echichimato.com/*
-*://*.konyaanto.net/*
-*://*.teeccino.jp/*
-*://*.dan-scripts.com/*
-*://*.dimosky.net/*
-*://*.night-picks.net/*
-*://*.doujin-dig.com/*
-*://*.dmagazine.org/*
-*://*.nijiero-view.com/*
-*://*.ashitaka-masashi.jp/*
-*://*.dlold.net/*
-*://*.new-akiba.com/*
-*://*.elthank.jp/*
-*://*.2d-adb.com/*
-*://*.nightreview.net/*
-*://*.oshinagaki.org/*
-*://*.iketeru.net/*
-*://*.arashiyama.jp/*
-*://*.remelaboratory.com/*
-*://*.aniru.org/*
-*://*.3deroge.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://*.2d-adb.com/*
+*://*.3deroge.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -326,6 +277,7 @@
 *://*.and-beef.jp/*
 *://*.andro.io/*
 *://*.anige-sokuhouvip.com/*
+*://*.aniru.org/*
 *://*.apk.dog/*
 *://*.apk.gold/*
 *://*.apk.markets/*
@@ -596,8 +548,10 @@
 *://*.ar/?z=7*
 *://*.ar/?z=8*
 *://*.ar/?z=9*
+*://*.arashiyama.jp/*
 *://*.archi/ctg/search/*
 *://*.arip-photo.org/*
+*://*.ashitaka-masashi.jp/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
 *://*.avgle.blog/*
@@ -3029,6 +2983,7 @@
 *://*.cz/?z=7*
 *://*.cz/?z=8*
 *://*.cz/?z=9*
+*://*.dan-scripts.com/*
 *://*.dandansk.com/*
 *://*.de/?_g=0
 *://*.de/?_g=1
@@ -3044,9 +2999,12 @@
 *://*.developreference.com/*
 *://*.diagnoseo.com/*
 *://*.digirise.ai/*
+*://*.dimosky.net/*
 *://*.dis-1983.jp/*
 *://*.divxland.org/*
 *://*.dk/comment.php?*
+*://*.dlold.net/*
+*://*.dmagazine.org/*
 *://*.dmm-mania.com/*
 *://*.do/?a=0*
 *://*.do/?a=1*
@@ -3309,6 +3267,8 @@
 *://*.do/?z=8*
 *://*.do/?z=9*
 *://*.dosukebepoint-r18.com/*
+*://*.doujin-dig.com/*
+*://*.doukaiko.jp/*
 *://*.dounavi.net/*
 *://*.dovov.com/*
 *://*.download.it/*
@@ -3573,7 +3533,9 @@
 *://*.ec/?z=7*
 *://*.ec/?z=8*
 *://*.ec/?z=9*
+*://*.echichimato.com/*
 *://*.echicosplay.com/*
+*://*.elthank.jp/*
 *://*.en-cuculu.jp/*
 *://*.epochtimes.jp/*
 *://*.eromanga-yomitai.work/*
@@ -5690,6 +5652,7 @@
 *://*.ie/?z=7*
 *://*.ie/?z=8*
 *://*.ie/?z=9*
+*://*.iketeru.net/*
 *://*.il/?a=0*
 *://*.il/?a=1*
 *://*.il/?a=2*
@@ -6025,6 +5988,7 @@
 *://*.kiby.jp/*
 *://*.kimuta1105.livedoor.blog/*
 *://*.kokunanmonomousu.com/*
+*://*.konyaanto.net/*
 *://*.kunjuan.jp/*
 *://*.kushi-mc.net/*
 *://*.la/?_g=*
@@ -7087,6 +7051,7 @@
 *://*.net/index.php//?a=*
 *://*.net/index.php?shopping/*
 *://*.net/shop/*.shtm
+*://*.new-akiba.com/*
 *://*.news/?a=0*
 *://*.news/?a=1*
 *://*.news/?a=2*
@@ -7349,6 +7314,9 @@
 *://*.news/?z=9*
 *://*.news30over.com/*
 *://*.news4wide.livedoor.biz/*
+*://*.night-picks.net/*
+*://*.nightreview.net/*
+*://*.nijiero-view.com/*
 *://*.ninohe-shakyo.jp/*
 *://*.nl/index.php*
 *://*.no/*.shtm
@@ -7614,8 +7582,10 @@
 *://*.no/?z=9*
 *://*.no/shop/*
 *://*.nogomi.ru/*
+*://*.npbewd.com/*
 *://*.nukinuki.blog/*
 *://*.okaimonoclub.jp/*
+*://*.okazu-finder.com/*
 *://*.okikuhabataku.blog/*
 *://*.om/?a=0*
 *://*.om/?a=1*
@@ -7884,6 +7854,8 @@
 *://*.org/hiroshi.php?*
 *://*.org/shop/*/*.shtml*
 *://*.oryouri.2chblog.jp/*
+*://*.oshinagaki.org/*
+*://*.otakult.jp/*
 *://*.overstack.in/*
 *://*.oxyain.fit/*
 *://*.oz-bread.com/*
@@ -8961,6 +8933,7 @@
 *://*.question-it.com/*
 *://*.rdsbx.com/*
 *://*.rdy.jp/*
+*://*.remelaboratory.com/*
 *://*.removemalware-jp.com/*
 *://*.renkau.com/*
 *://*.repl.co/*
@@ -10341,6 +10314,7 @@
 *://*.techbigs.com/*
 *://*.techfeed.net/*
 *://*.techylist.com/*
+*://*.teeccino.jp/*
 *://*.th/index.php/*
 *://*.thercb.org/*
 *://*.thinbug.com/*
@@ -10938,6 +10912,7 @@
 *://*.yaraon.blog109.fc2.com/*
 *://*.yo.zgserver.com/*
 *://*.yogamotto.com/*
+*://*.yorushiko.com/*
 *://*.younggeeks.in/*
 *://*.youtube.com.vn/*
 *://*.z36.web.core.windows.net/*
@@ -11048,6 +11023,7 @@
 *://2ch.0726.biz/*
 *://2chcopipe.com/*
 *://2chmate.en.aptoide.com/*
+*://2d-adb.com/*
 *://2d-ecstasy.com/*
 *://2ddvkfb.zbgraf16.pl/*
 *://2e5fg.com/*
@@ -11081,6 +11057,7 @@
 *://38k0sw2c.r.ap-northeast-1.awstrack.me/*
 *://39jy3gbg.r.us-west-2.awstrack.me/*
 *://3bt5l7v.cn/*
+*://3deroge.com/*
 *://3kidsmama-diary.com/*
 *://3ndrop.main.jp/*
 *://3nolife.net/*
@@ -11693,6 +11670,7 @@
 *://animity.jp/*
 *://animonogatari.com/*
 *://anincline.com/*
+*://aniru.org/*
 *://anism.net/*
 *://anista-maga.com/*
 *://anitage.jp/*
@@ -13188,6 +13166,7 @@
 *://damablog.com/*
 *://damako42.com/*
 *://damigoe.com/*
+*://dan-scripts.com/*
 *://danaracakeryandevents.com/*
 *://dancevocal.fun/*
 *://dandansk.com/*
@@ -13335,6 +13314,7 @@
 *://digtopi.com/*
 *://dijkveer.nl/*
 *://dikegllelove.com/*
+*://dimosky.net/*
 *://diomandeshoes.com/*
 *://direct-app.onelink.me/*
 *://dis-1983.jp/*
@@ -13370,6 +13350,7 @@
 *://dldshare.net/*
 *://dllink.manyaan.net/*
 *://dlmarket.jp/*
+*://dlold.net/*
 *://dlounge.net/*
 *://dlsite-pro.adult-h.com/*
 *://dlsite.estudiopepa.jp/*
@@ -13378,6 +13359,7 @@
 *://dlsiteboy.com/*
 *://dlvywoutlet.com/*
 *://dlzipan.blog.jp/*
+*://dmagazine.org/*
 *://dmm-fanza-fan.com/*
 *://dmm-fanza.biz/*
 *://dmm-fanza.jp/*
@@ -13695,6 +13677,7 @@
 *://ec-plus.panasonic.jp/store/page/pc/sp/organic/202108/*
 *://ecdeaf.com/*
 *://eches8x4.bizandleisure.com/*
+*://echichimato.com/*
 *://echicomi.blog.jp/*
 *://echicosplay.com/*
 *://echiechibuzz.com/*
@@ -15698,6 +15681,7 @@
 *://ikemenjiten.com/*
 *://ikesou.jp/*
 *://ikesuto.com/*
+*://iketeru.net/*
 *://ikigome.com/*
 *://ikkitousen.jp/*
 *://ikkyusan.jp/*
@@ -16582,6 +16566,7 @@
 *://konoikeshindenkaisho.jp/*
 *://konsort.social/*
 *://konstantacoffee.ru/*
+*://konyaanto.net/*
 *://kooky-movie.com/*
 *://korakuen-lc.jp/*
 *://koramall.jp/*
@@ -18156,6 +18141,7 @@
 *://netpeak.me/*
 *://netsurfnews.com/*
 *://netuai.net/*
+*://new-akiba.com/*
 *://new-challenge123.com/*
 *://new-hibianime.com/*
 *://new-tanwa.com/*
@@ -18245,6 +18231,7 @@
 *://niconicojikkyou.com/*
 *://nicoriblog.com/*
 *://nierreincarnation.jp/*
+*://night-picks.net/*
 *://night-selection.com/*
 *://nightmuselab.jp/*
 *://nightreview.net/*
@@ -18255,6 +18242,7 @@
 *://niji-doujin.jp/*
 *://niji-gazo.com/source/009/*
 *://niji.e-r-o-anime.xyz/*
+*://nijiero-view.com/*
 *://nijifan.net/manga/*
 *://nijigen.joshiana-room.com/*
 *://nijigenbomber.net/*
@@ -19098,6 +19086,7 @@
 *://nozomimiyazaki.main.jp/*
 *://nozonuki.com/*
 *://np027-subsc-bm.xyz/*
+*://npbewd.com/*
 *://npbsukisuki.com/*
 *://npewurime.shop/*
 *://npm-news-piece-mana.blog.jp/*
@@ -19247,6 +19236,7 @@
 *://okannoyomeiri-stage.jp/*
 *://okaponseo.me/*
 *://okayama-eat.com/*
+*://okazu-finder.com/*
 *://okazu-navi.net/*
 *://okboook.com/*
 *://okdebrid.com/*
@@ -19401,6 +19391,7 @@
 *://oshicircle.com/*
 *://oshikatsulife.blog.jp/*
 *://oshikeiblog.com/*
+*://oshinagaki.org/*
 *://oshinisasageru.com/*
 *://osijyo.com/*
 *://osolelighting.com/*
@@ -19421,6 +19412,7 @@
 *://otailande.com/*
 *://otakamu.com/*
 *://otakudoujinshack.com/*
+*://otakult.jp/*
 *://otakumania.jp/*
 *://otakumix.doorblog.jp/*
 *://otakuraw.com/*
@@ -20134,6 +20126,7 @@
 *://relianceautoservices.com/*
 *://relishtime.net/*
 *://relived-men-es.com/*
+*://remelaboratory.com/*
 *://remi.work/*
 *://remspin.com/*
 *://remulia.shop/*
@@ -24964,6 +24957,7 @@
 *://yorozu-cl.com/*
 *://yorozu-do.com/*
 *://yoruochi.com/*
+*://yorushiko.com/*
 *://yosemi-7.com/*
 *://yoshiblonet.com/*
 *://yoshiemon-docodemopocket.com/*
