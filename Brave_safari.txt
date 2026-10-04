@@ -4857,6 +4857,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomin.wpx.jp^$document
 ||hitomiraw-doujin.com^$document
 ||hitomiraw-manga01.com^$document
+||hitomiraw.com^$document
 ||hitomisiri.com^$document
 ||hitomissav.cloudfree.jp^$document
 ||hitomlaa.cloudfree.jp^$document

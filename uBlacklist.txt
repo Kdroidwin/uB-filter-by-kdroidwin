@@ -1,4 +1,3 @@
-*://hitomiraw.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -15403,6 +15402,7 @@
 *://hitomin.wpx.jp/*
 *://hitomiraw-doujin.com/*
 *://hitomiraw-manga01.com/*
+*://hitomiraw.com/*
 *://hitomisiri.com/*
 *://hitomissav.cloudfree.jp/*
 *://hitomlaa.cloudfree.jp/*
