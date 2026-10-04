@@ -1,6 +1,3 @@
-*://expansys.jp/*
-*://www.expansys.co.jp/*
-*://expansys.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14130,6 +14127,8 @@
 *://exmachina4649.com/*
 *://exmple.cn/*
 *://expanet.jp/*
+*://expansys.co.jp/*
+*://expansys.jp/*
 *://exploring4ever.com/*
 *://expo-chikyu.com/*
 *://expo2025-myaku-po.jp/*
@@ -23247,6 +23246,7 @@
 *://www.eurorvvv.org/*
 *://www.excite.co.jp/news/article/Prtimes*
 *://www.exogear.jp/*
+*://www.expansys.co.jp/*
 *://www.expected-value.com/*
 *://www.expo2025-nakajima-attendant.jp/*
 *://www.expomascotasyanimales.com/*

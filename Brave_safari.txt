@@ -3544,6 +3544,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||exmachina4649.com^$document
 ||exmple.cn^$document
 ||expanet.jp^$document
+||expansys.co.jp^$document
+||expansys.jp^$document
 ||exploring4ever.com^$document
 ||expo-chikyu.com^$document
 ||expo2025-myaku-po.jp^$document
@@ -12918,6 +12920,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eurorvvv.org^$document
 ||www.excite.co.jp/news/article/Prtimes$document
 ||www.exogear.jp^$document
+||www.expansys.co.jp^$document
 ||www.expected-value.com^$document
 ||www.expo2025-nakajima-attendant.jp^$document
 ||www.expomascotasyanimales.com^$document
