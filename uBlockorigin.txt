@@ -11302,6 +11302,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tiktakmodapk.com^$document
 ||tiktikpremium.com^$document
 ||tiktikpremiumapk.com^$document
+||tiktok-sns.com^$document
 ||tiktok.com/ug/incentive/share/$all
 ||tiktok.com/ug^$document
 ||tiktokliveapk.com^$document

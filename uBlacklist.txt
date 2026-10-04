@@ -1,4 +1,3 @@
-*://tiktok-sns.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -21701,6 +21700,7 @@
 *://tiktakmodapk.com/*
 *://tiktikpremium.com/*
 *://tiktikpremiumapk.com/*
+*://tiktok-sns.com/*
 *://tiktokliveapk.com/*
 *://tiktokmodapk.net/*
 *://tiktokmodapks.com/*
