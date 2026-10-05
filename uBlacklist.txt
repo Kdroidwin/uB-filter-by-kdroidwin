@@ -1,4 +1,3 @@
-*://gofile-sns.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14875,6 +14874,7 @@
 *://gobyou.jp/*
 *://gocmod.com/*
 *://gofile-pass.mystrikingly.com/*
+*://gofile-sns.com/*
 *://gofile.my.canva.site/*
 *://gogomama.net/*
 *://gogozoromi.com/*

@@ -4299,6 +4299,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gocheck*.pages.dev^$document
 ||gocmod.com^$document
 ||gofile-pass.mystrikingly.com^$document
+||gofile-sns.com^$document
 ||gofile.my.canva.site^$document
 ||gogomama.net^$document
 ||gogozoromi.com^$document
