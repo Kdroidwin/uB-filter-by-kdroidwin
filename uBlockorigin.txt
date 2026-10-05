@@ -1917,6 +1917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||btc-savior.co.jp^$document
 ||btj-trend-lab.com^$document
 ||btmoneycoach.xsrv.jp^$document
+||bto-comp.com^$document
 ||btslove7.com^$document
 ||bucky-blog.com^$document
 ||buddy-training.com^$document
@@ -10502,6 +10503,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||snow-onyx.com^$document
 ||snowjourney.net^$document
 ||snowpeak.me^$document
+||sns-card.com^$document
 ||sns-career-uni.jp^$document
 ||snsclub.snscool-22.com^$document
 ||snsdays.com^$document
