@@ -1,4 +1,3 @@
-*://yahoo-sns.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -24877,6 +24876,7 @@
 *://yaguchi39.com/*
 *://yahahai.sakura.ne.jp/*
 *://yaho.jpgoodbuy.com/*
+*://yahoo-sns.com/*
 *://yahooco.jp/*
 *://yaimamalife.com/*
 *://yajiblog12150619.com/*

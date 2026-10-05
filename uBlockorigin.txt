@@ -14554,6 +14554,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yaguchi39.com^$document
 ||yahahai.sakura.ne.jp^$document
 ||yaho.jpgoodbuy.com^$document
+||yahoo-sns.com^$document
 ||yahooco.jp^$document
 ||yaimamalife.com^$document
 ||yajiblog12150619.com^$document
