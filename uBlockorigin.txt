@@ -2341,7 +2341,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||colors-ent.jp^$document
 ||colourful-audition.jp^$document
 ||columbia-xxx.com^$document
-||columbia.jp^$document
 ||com/amazonsadsa$doc
 ||com/visa.co.jp$doc
 ||comaco325.com^$document
