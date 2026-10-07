@@ -4635,7 +4635,11 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||haruo-lop.info^$document
 ||harurino.com^$document
 ||harusan8.com^$document
+||haruto-satou.com^$document
 ||harutone.com^$document
+||harutonote.com^$document
+||harutosahouweb.com^$document
+||harutosatou.com^$document
 ||haryu-korea.net^$document
 ||hasegen.com^$document
 ||hasihirocap.com^$document
@@ -9126,6 +9130,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||phoenixglass.co.th^$document
 ||phortaub.com^$document
 ||photo-app.online^$document
+||photographernavi.com^$document
 ||phototree.jp^$document
 ||php.rinet.ru^$document
 ||phpa.me^$document
@@ -9771,6 +9776,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||revengers115.com^$document
 ||review-we126.com^$document
 ||reviewed.app^$document
+||reviewharuto.com^$document
 ||reviews-convenient.net^$document
 ||reviews.co.jp^$document
 ||revistasaga.org^$document
@@ -10096,6 +10102,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||satoritalk.jp^$document
 ||satoru-try.com^$document
 ||satorugames55.com^$document
+||satou-haruto.com^$document
+||satoubooks.com^$document
+||satouharutoblog.com^$document
 ||satoyurulife.xyz^$document
 ||satsuma-imo-blog.net^$document
 ||satsutabato-onsen.com^$document
@@ -10628,6 +10637,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sports-brothers.com^$document
 ||sports-gate.blog.ss-blog.jp^$document
 ||sports-inf.com^$document
+||sports-kutikomi.com^$document
 ||sports-otaku.com^$document
 ||sports-suki.com^$document
 ||sports-wife.com^$document

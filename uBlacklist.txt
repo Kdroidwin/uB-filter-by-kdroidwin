@@ -1,13 +1,3 @@
-*://harutonote.com/*
-*://reviewharuto.com/*
-*://satoubooks.com/*
-*://satouharutoblog.com/*
-*://harutosahouweb.com/*
-*://sports-kutikomi.com/*
-*://photographernavi.com/*
-*://haruto-satou.com/*
-*://satou-haruto.com/*
-*://harutosatou.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -15218,7 +15208,11 @@
 *://haruo-lop.info/*
 *://harurino.com/*
 *://harusan8.com/*
+*://haruto-satou.com/*
 *://harutone.com/*
+*://harutonote.com/*
+*://harutosahouweb.com/*
+*://harutosatou.com/*
 *://haryu-korea.net/*
 *://hasegen.com/*
 *://hasihirocap.com/*
@@ -19634,6 +19628,7 @@
 *://phoenixglass.co.th/*
 *://phortaub.com/*
 *://photo-app.online/*
+*://photographernavi.com/*
 *://phototree.jp/*
 *://php.rinet.ru/*
 *://phpa.me/*
@@ -20255,6 +20250,7 @@
 *://revengers115.com/*
 *://review-we126.com/*
 *://reviewed.app/*
+*://reviewharuto.com/*
 *://reviews.co.jp/*
 *://revistasaga.org/*
 *://revolt-tokyo.com/*
@@ -20562,6 +20558,9 @@
 *://satoritalk.jp/*
 *://satoru-try.com/*
 *://satorugames55.com/*
+*://satou-haruto.com/*
+*://satoubooks.com/*
+*://satouharutoblog.com/*
 *://satoyurulife.xyz/*
 *://satsuma-imo-blog.net/*
 *://satsutabato-onsen.com/*
@@ -21070,6 +21069,7 @@
 *://sports-brothers.com/*
 *://sports-gate.blog.ss-blog.jp/*
 *://sports-inf.com/*
+*://sports-kutikomi.com/*
 *://sports-otaku.com/*
 *://sports-suki.com/*
 *://sports-wife.com/*
