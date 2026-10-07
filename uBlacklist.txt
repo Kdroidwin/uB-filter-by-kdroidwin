@@ -1,8 +1,3 @@
-*://nakadashi-select.com/*
-*://sports-wife.com/*
-*://otona-night.com/*
-*://ero-manga0906l.site/*
-*://djndam.wew.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13344,6 +13339,7 @@
 *://djewelonline.com/*
 *://djn18.jp/*
 *://djnavi.app/*
+*://djndam.wew.jp/*
 *://djsouljah.com/*
 *://djziy.com/*
 *://dk.mos.ru/*
@@ -13918,6 +13914,7 @@
 *://ero-manga.fanzafanza.com/*
 *://ero-manga.the-universe-lab.com/*
 *://ero-manga.tokyo/*
+*://ero-manga0906l.site/*
 *://ero-manzoku.com/*
 *://ero-momonga.com/*
 *://ero-ny.cfbx.jp/*
@@ -17982,6 +17979,7 @@
 *://naito-bc.com/*
 *://naju555.com/*
 *://naka-yan.com/*
+*://nakadashi-select.com/*
 *://nakadori.yokohama/*
 *://nakamo.top/*
 *://nakanoman.net/*
@@ -19448,6 +19446,7 @@
 *://otomeexpert.com/*
 *://otona-comic.com/*
 *://otona-freecomic.jp/*
+*://otona-night.com/*
 *://otona-radar.jp/*
 *://otona-review-navi.com/*
 *://otona-search.com/*
@@ -21063,6 +21062,7 @@
 *://sports-inf.com/*
 *://sports-otaku.com/*
 *://sports-suki.com/*
+*://sports-wife.com/*
 *://sports.yoshilover.com/*
 *://sportsnews.jp/*
 *://spotfyapks.com/*

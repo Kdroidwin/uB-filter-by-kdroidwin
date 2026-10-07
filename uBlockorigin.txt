@@ -2747,6 +2747,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||djewelonline.com^$document
 ||djn18.jp^$document
 ||djnavi.app^$document
+||djndam.wew.jp^$document
 ||djsouljah.com^$document
 ||djziy.com^$document
 ||dk.mos.ru^$document
@@ -3325,6 +3326,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ero-manga.fanzafanza.com^$document
 ||ero-manga.the-universe-lab.com^$document
 ||ero-manga.tokyo^$document
+||ero-manga0906l.site^$document
 ||ero-manzoku.com^$document
 ||ero-momonga.com^$document
 ||ero-ny.cfbx.jp^$document
@@ -7452,6 +7454,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||naito-bc.com^$document
 ||naju555.com^$document
 ||naka-yan.com^$document
+||nakadashi-select.com^$document
 ||nakadori.yokohama^$document
 ||nakamo.top^$document
 ||nakanoman.net^$document
@@ -8937,6 +8940,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||otomeexpert.com^$document
 ||otona-comic.com^$document
 ||otona-freecomic.jp^$document
+||otona-night.com^$document
 ||otona-radar.jp^$document
 ||otona-review-navi.com^$document
 ||otona-search.com^$document
@@ -10626,6 +10630,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sports-inf.com^$document
 ||sports-otaku.com^$document
 ||sports-suki.com^$document
+||sports-wife.com^$document
 ||sports.yoshilover.com^$document
 ||sportsnews.jp^$document
 ||spotfyapks.com^$document
