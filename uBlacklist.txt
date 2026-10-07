@@ -1,4 +1,3 @@
-*://newswitch.jp/p/24703*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -18216,6 +18215,7 @@
 *://newsthegeino.blog.fc2.com/*
 *://newstora.com/*
 *://newsufabets123.com/*
+*://newswitch.jp/p/24703*
 *://newsyo.jp/*
 *://newyork.ethanyi.xyz/*
 *://newyoutubers.com/*
