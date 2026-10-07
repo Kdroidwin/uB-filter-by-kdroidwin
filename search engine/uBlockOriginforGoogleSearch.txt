@@ -5939,8 +5939,6 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="llnm1-ticketcp.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="lmhfxdp.life"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="lmp-mimm-love.yokohama"][data-ved]:upward(3)
-www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="lms.learningbox.online"][data-ved]:upward(3)
-www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="lms.medreseti.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="ln-news.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="ln.run"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="lnk.ink"][data-ved]:upward(3)
