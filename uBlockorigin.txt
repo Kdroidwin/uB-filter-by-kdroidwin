@@ -6389,8 +6389,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||llnm1-ticketcp.jp^$document
 ||lmhfxdp.life^$document
 ||lmp-mimm-love.yokohama^$document
-||lms.learningbox.online^$document
-||lms.medreseti.com^$document
 ||ln-news.com^$document
 ||ln.run^$document
 ||lnk.ink^$document
@@ -10205,7 +10203,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||semicon-hub.tech^$document
 ||senchimentarubodo.com^$document
 ||sendai-startups.org^$document
-||sendgrid.net^$document
 ||sensitive-changes.com^$document
 ||sensitiveimages.com^$document
 ||sensyu-expo.com^$document
