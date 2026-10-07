@@ -16932,8 +16932,6 @@
 *://llnm1-ticketcp.jp/*
 *://lmhfxdp.life/*
 *://lmp-mimm-love.yokohama/*
-*://lms.learningbox.online/*
-*://lms.medreseti.com/*
 *://ln-news.com/*
 *://ln.run/*
 *://lnk.ink/*
