@@ -9221,7 +9221,6 @@
 *://*.seimei-handan.net/*
 *://*.seiwa-net.jp/*
 *://*.sejuku.net/*
-*://*.sendgrid.net/*
 *://*.shabakngy.com/*
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
@@ -20656,7 +20655,6 @@
 *://semicon-hub.tech/*
 *://senchimentarubodo.com/*
 *://sendai-startups.org/*
-*://sendgrid.net/*
 *://sensitive-changes.com/*
 *://sensitiveimages.com/*
 *://sensyu-expo.com/*
