@@ -758,6 +758,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ainofujichaku-concert2022.com^$document
 ||aiolih2q.virtual-na.org^$document
 ||aiolin.com^$document
+||airmore.ai^$document
 ||airnetic.space^$document
 ||airoiseisaku.base.shop^$document
 ||aisaika2022.com^$document
@@ -3975,6 +3976,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gadget-app.com^$document
 ||gadget-cafe.jp^$document
 ||gadget-choice.net^$document
+||gadget-souko.hatenablog.com^$document
 ||gadget888.hatenablog.com^$document
 ||gadgetech.jp^$document
 ||gadgetouch.com^$document
@@ -5617,6 +5619,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kachilogy.com^$document
 ||kachinet.jp^$document
 ||kadaidilli.com^$document
+||kadekura.com^$document
 ||kadisse.com^$document
 ||kae.me^$document
 ||kaeln.net^$document
@@ -5686,6 +5689,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kanpoucyayonchiyu.com^$document
 ||kanritools.com/blog^$document
 ||kansai-u.tameshiyo.me^$document
+||kansaman.hatenablog.com^$document
 ||kansuke.doorblog.jp^$document
 ||kantaiki0219.com^$document
 ||kantan-douga.site^$document
@@ -6613,6 +6617,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||makeyourbenefit.com^$document
 ||makianosaihu.com^$document
 ||makito.me^$document
+||mako1368.hatenablog.com^$document
 ||makoto5711.blog.jp^$document
 ||makotone.jp^$document
 ||makpro.cl^$document
@@ -6994,6 +6999,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie^$document
 ||microsoftstore.ru^$document
 ||midacy.jp^$document
+||midikainfo.hatenablog.com^$document
 ||midorikiryu-navi.com^$document
 ||midt.me^$document
 ||miduno.bandcamp.com^$document
@@ -7101,6 +7107,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-fc2ppv11.com^$document
 ||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
+||missav123.jp^$document
 ||missav2026-doujin.com^$document
 ||missav39.jp^$document
 ||missav51.jp^$document
@@ -7463,6 +7470,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nakao-co.jp^$document
 ||nakarashi.wpx.jp^$document
 ||nakasuga13.com^$document
+||nakaterux.hatenablog.com^$document
 ||nakayoshiblog.com^$document
 ||nakbrzpv.live^$document
 ||nako12.com^$document
@@ -7924,6 +7932,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/carreer^$document
 ||note.com/cc21257^$document
 ||note.com/chaen_channel^$document
+||note.com/chanto_shiraberu^$document
 ||note.com/chawanwabita^$document
 ||note.com/cheeky_thyme7377^$document
 ||note.com/chic_borage6931^$document
@@ -8446,6 +8455,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/super_iris9045^$document
 ||note.com/super_whale223^$document
 ||note.com/super_whale4189^$document
+||note.com/suzumaro^$document
 ||note.com/syashinsuki^$document
 ||note.com/syuroriiman^$document
 ||note.com/syuuchan_iroiro^$document
@@ -8466,6 +8476,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/tasty_human1981^$document
 ||note.com/tasty_okapi8736^$document
 ||note.com/tasty_rhino5561^$document
+||note.com/tatuya__y^$document
 ||note.com/tbola^$document
 ||note.com/teamo_kidzania/n/nb60ef983e453^$document
 ||note.com/techdaichi^$document
@@ -14034,6 +14045,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sudzfundraising.com^$document
 ||www.sugar-style.com^$document
 ||www.sugudeki-tateshina.jp^$document
+||www.sumaho-hikaku.com^$document
 ||www.sungrove.co.jp^$document
 ||www.sunlounge-go-ya-gym.com^$document
 ||www.sunshinecoast.surf^$document

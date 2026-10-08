@@ -1,15 +1,3 @@
-*://note.com/tatuya__y/*
-*://missav123.jp/*
-*://midikainfo.hatenablog.com/*
-*://kansaman.hatenablog.com/*
-*://kadekura.com/*
-*://www.sumaho-hikaku.com/*
-*://airmore.ai/*
-*://mako1368.hatenablog.com/*
-*://gadget-souko.hatenablog.com/*
-*://note.com/chanto_shiraberu/*
-*://note.com/suzumaro/*
-*://nakaterux.hatenablog.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11402,6 +11390,7 @@
 *://ainofujichaku-concert2022.com/*
 *://aiolih2q.virtual-na.org/*
 *://aiolin.com/*
+*://airmore.ai/*
 *://airnetic.space/*
 *://airoiseisaku.base.shop/*
 *://aisaika2022.com/*
@@ -14565,6 +14554,7 @@
 *://gadget-app.com/*
 *://gadget-cafe.jp/*
 *://gadget-choice.net/*
+*://gadget-souko.hatenablog.com/*
 *://gadget888.hatenablog.com/*
 *://gadgetech.jp/*
 *://gadgetouch.com/*
@@ -16186,6 +16176,7 @@
 *://kachilogy.com/*
 *://kachinet.jp/*
 *://kadaidilli.com/*
+*://kadekura.com/*
 *://kadisse.com/*
 *://kae.me/*
 *://kaeln.net/*
@@ -16253,6 +16244,7 @@
 *://kanpoucyayonchiyu.com/*
 *://kanritools.com/blog/*
 *://kansai-u.tameshiyo.me/*
+*://kansaman.hatenablog.com/*
 *://kansuke.doorblog.jp/*
 *://kantaiki0219.com/*
 *://kantan-douga.site/*
@@ -17164,6 +17156,7 @@
 *://makeyourbenefit.com/*
 *://makianosaihu.com/*
 *://makito.me/*
+*://mako1368.hatenablog.com/*
 *://makoto5711.blog.jp/*
 *://makotone.jp/*
 *://makpro.cl/*
@@ -17538,6 +17531,7 @@
 *://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
 *://midacy.jp/*
+*://midikainfo.hatenablog.com/*
 *://midorikiryu-navi.com/*
 *://midt.me/*
 *://miduno.bandcamp.com/*
@@ -17642,6 +17636,7 @@
 *://missav-fc2ppv11.com/*
 *://missav-fc2ppvjp01.com/*
 *://missav.com/*
+*://missav123.jp/*
 *://missav2026-doujin.com/*
 *://missav39.jp/*
 *://missav51.jp/*
@@ -17999,6 +17994,7 @@
 *://nakao-co.jp/*
 *://nakarashi.wpx.jp/*
 *://nakasuga13.com/*
+*://nakaterux.hatenablog.com/*
 *://nakayoshiblog.com/*
 *://nakbrzpv.live/*
 *://nako12.com/*
@@ -18451,6 +18447,7 @@
 *://note.com/carreer/*
 *://note.com/cc21257/*
 *://note.com/chaen_channel/*
+*://note.com/chanto_shiraberu/*
 *://note.com/chawanwabita/*
 *://note.com/cheeky_thyme7377/*
 *://note.com/chic_borage6931/*
@@ -18974,6 +18971,7 @@
 *://note.com/super_iris9045/*
 *://note.com/super_whale223/*
 *://note.com/super_whale4189/*
+*://note.com/suzumaro/*
 *://note.com/syashinsuki/*
 *://note.com/syuroriiman/*
 *://note.com/syuuchan_iroiro/*
@@ -18994,6 +18992,7 @@
 *://note.com/tasty_human1981/*
 *://note.com/tasty_okapi8736/*
 *://note.com/tasty_rhino5561/*
+*://note.com/tatuya__y/*
 *://note.com/tbola/*
 *://note.com/teamo_kidzania/n/nb60ef983e453
 *://note.com/techdaichi/*
@@ -24378,6 +24377,7 @@
 *://www.sudzfundraising.com/*
 *://www.sugar-style.com/*
 *://www.sugudeki-tateshina.jp/*
+*://www.sumaho-hikaku.com/*
 *://www.sungrove.co.jp/*
 *://www.sunlounge-go-ya-gym.com/*
 *://www.sunshinecoast.surf/*
