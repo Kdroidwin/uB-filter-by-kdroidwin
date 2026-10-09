@@ -1,4 +1,3 @@
-*://archifyi.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11897,6 +11896,7 @@
 *://arasuji-summary.com/*
 *://arc-ocean.jp/*
 *://arcanaapp.com/*
+*://archifyi.com/*
 *://archimedes-movie.jp/*
 *://archivando.jp/*
 *://archive.org/details/Office2016PermanentActivatorUltimate1.7*

@@ -1273,6 +1273,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||arasuji-summary.com^$document
 ||arc-ocean.jp^$document
 ||arcanaapp.com^$document
+||archifyi.com^$document
 ||archimedes-movie.jp^$document
 ||archivando.jp^$document
 ||archive.org/details/Office2016PermanentActivatorUltimate1.7^$document
