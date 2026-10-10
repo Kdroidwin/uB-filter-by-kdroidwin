@@ -1,3 +1,4 @@
+*://agi-labo.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
