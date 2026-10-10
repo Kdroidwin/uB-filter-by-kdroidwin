@@ -4291,6 +4291,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gmstar.ca^$document
 ||gnclhrkcaw.xyz^$document
 ||gns.hotline.su^$document
+||go-hoikushi.com^$document
 ||go-japan.cn^$document
 ||go-seahorses.bl.kuroco-img.app^$document
 ||go-to-zlibrary.com^$document
@@ -8421,6 +8422,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/sekinogen1^$document
 ||note.com/semisuke_life^$document
 ||note.com/shiba_inunosuke^$document
+||note.com/shigoraku_ai^$document
 ||note.com/shin_kon^$document
 ||note.com/shin_sasaki^$document
 ||note.com/shinko_joho_news^$document
@@ -9280,6 +9282,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pon-chie.com^$document
 ||ponblog.xyz^$document
 ||ponco-ponco.com^$document
+||ponflog.com^$document
 ||ponmitrend.com^$document
 ||ponpiece.com^$document
 ||ponpokopon0713.net^$document
@@ -10486,6 +10489,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||small-realization.com^$document
 ||smaneephand.com^$document
 ||smari-log.com^$document
+||smart-clear.jp^$document
 ||smart-enta.com^$document
 ||smart-items.xyz^$document
 ||smart-summary.seesaa.net^$document
@@ -11036,6 +11040,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tailuck.com^$document
 ||taimaninrpg.matomajor-games.com^$document
 ||taiofam.com^$document
+||tairusalon.com^$document
 ||taisan.blog^$document
 ||taisetsuzan-ultratrail.com^$document
 ||taitan-cookware.com^$document

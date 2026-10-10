@@ -1,8 +1,3 @@
-*://note.com/shigoraku_ai/*
-*://go-hoikushi.com/*
-*://smart-clear.jp/*
-*://ponflog.com/*
-*://tairusalon.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14872,6 +14867,7 @@
 *://gmstar.ca/*
 *://gnclhrkcaw.xyz/*
 *://gns.hotline.su/*
+*://go-hoikushi.com/*
 *://go-japan.cn/*
 *://go-seahorses.bl.kuroco-img.app/*
 *://go.cyhsu.xyz/*
@@ -18942,6 +18938,7 @@
 *://note.com/sekinogen1/*
 *://note.com/semisuke_life/*
 *://note.com/shiba_inunosuke/*
+*://note.com/shigoraku_ai/*
 *://note.com/shin_kon/*
 *://note.com/shin_sasaki/*
 *://note.com/shinko_joho_news/*
@@ -19795,6 +19792,7 @@
 *://pon-chie.com/*
 *://ponblog.xyz/*
 *://ponco-ponco.com/*
+*://ponflog.com/*
 *://ponmitrend.com/*
 *://ponpiece.com/*
 *://ponpokopon0713.net/*
@@ -20934,6 +20932,7 @@
 *://small-realization.com/*
 *://smaneephand.com/*
 *://smari-log.com/*
+*://smart-clear.jp/*
 *://smart-enta.com/*
 *://smart-items.xyz/*
 *://smart-summary.seesaa.net/*
@@ -21451,6 +21450,7 @@
 *://tailuck.com/*
 *://taimaninrpg.matomajor-games.com/*
 *://taiofam.com/*
+*://tairusalon.com/*
 *://taisan.blog/*
 *://taisetsuzan-ultratrail.com/*
 *://taitan-cookware.com/*
