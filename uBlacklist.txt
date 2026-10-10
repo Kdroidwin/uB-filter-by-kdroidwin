@@ -1,4 +1,3 @@
-*://ameblo.jp/share-it-gadget/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11567,6 +11566,7 @@
 *://ameblo.jp/plus2222/*
 *://ameblo.jp/reishiki0000/*
 *://ameblo.jp/salon-ym/*
+*://ameblo.jp/share-it-gadget/*
 *://ameblo.jp/targeteddamage/*
 *://ameblo.jp/techtell360/*
 *://ameblo.jp/teihenmachi/*

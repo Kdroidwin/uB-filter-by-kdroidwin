@@ -940,6 +940,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ameblo.jp/plus2222^$document
 ||ameblo.jp/reishiki0000^$document
 ||ameblo.jp/salon-ym^$document
+||ameblo.jp/share-it-gadget^$document
 ||ameblo.jp/targeteddamage^$document
 ||ameblo.jp/techtell360^$document
 ||ameblo.jp/teihenmachi^$document
