@@ -1,4 +1,3 @@
-*://agi-labo.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11331,6 +11330,7 @@
 *://aget.jp/*
 *://agey.life/*
 *://aggiprose.com/*
+*://agi-labo.com/*
 *://agn-na.org/*
 *://agoga.me/*
 *://ahaloshop.com/*

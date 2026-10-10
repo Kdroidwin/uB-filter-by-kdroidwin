@@ -695,6 +695,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aget.jp^$document
 ||agey.life^$document
 ||aggiprose.com^$document
+||agi-labo.com^$document
 ||agn-na.org^$document
 ||agoga.me^$document
 ||ahaloshop.com^$document
