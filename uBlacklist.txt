@@ -1,4 +1,3 @@
-*://koubaikichizo-create.github.io/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -16633,6 +16632,7 @@
 *://kotti.biz/*
 *://kottoceramica.com/*
 *://kou6000-kyoumiblog.com/*
+*://koubaikichizo-create.github.io/*
 *://kougei-expo-akita.com/*
 *://koumuin-work.com/*
 *://kousaku.chiikuji.com/*
