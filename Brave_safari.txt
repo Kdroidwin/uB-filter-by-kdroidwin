@@ -2569,6 +2569,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||daily-necessities.net^$document
 ||daily-tips-library.com^$document
 ||daily-trendy.com^$document
+||dailycue.site^$document
 ||dailynews24.jp^$document
 ||dailytopic.jp^$document
 ||daimarubb.com^$document
@@ -4652,6 +4653,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||haskey.xyz^$document
 ||hatibunme.com^$document
 ||hatima.doorblog.jp^$document
+||haveibeenpawned.com^$document
+||haveibeenpned.com^$document
 ||havespi.jp^$document
 ||hawkssoul.com^$document
 ||haxnode.net^$document

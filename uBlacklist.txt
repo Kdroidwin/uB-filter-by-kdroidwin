@@ -1,6 +1,3 @@
-*://haveibeenpawned.com/*
-*://haveibeenpned.com/*
-*://dailycue.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13160,6 +13157,7 @@
 *://daily-necessities.net/*
 *://daily-tips-library.com/*
 *://daily-trendy.com/*
+*://dailycue.site/*
 *://dailynews24.jp/*
 *://dailytopic.jp/*
 *://daimarubb.com/*
@@ -15227,6 +15225,8 @@
 *://haskey.xyz/*
 *://hatibunme.com/*
 *://hatima.doorblog.jp/*
+*://haveibeenpawned.com/*
+*://haveibeenpned.com/*
 *://havespi.jp/*
 *://hawkssoul.com/*
 *://haxnode.net/*
