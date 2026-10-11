@@ -1,6 +1,3 @@
-*://www.haveibeenpwnned.com/*
-*://ww547.haveibeenpawned.com/*
-*://intivesearch.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -15825,6 +15822,7 @@
 *://internetexpo.net/*
 *://inthadoor.com/*
 *://intilabs.com/*
+*://intivesearch.com/*
 *://intuit.me/*
 *://inuneko-media.com/*
 *://inutomo11.com/*
@@ -22680,6 +22678,7 @@
 *://ww38.vanced.app/*
 *://ww4.fmovies.co/*
 *://ww547.expo2025-personalagent.com/*
+*://ww547.haveibeenpawned.com/*
 *://ww9.fitgirl-repacks.xyz/*
 *://wwrbbuk.bar/*
 *://wwv-fmovies.com/*
@@ -23472,6 +23471,7 @@
 *://www.haruyukiworld.com/*
 *://www.hashi-okiraku.top/*
 *://www.haute-c.jp/*
+*://www.haveibeenpwnned.com/*
 *://www.haydarpasamun.org/*
 *://www.hb-consulting.jp/*
 *://www.hdojinkan.com/*

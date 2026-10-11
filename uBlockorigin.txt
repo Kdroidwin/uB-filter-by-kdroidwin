@@ -5261,6 +5261,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||internetexpo.net^$document
 ||inthadoor.com^$document
 ||intilabs.com^$document
+||intivesearch.com^$document
 ||intuit.me^$document
 ||inuneko-media.com^$document
 ||inutomo11.com^$document
@@ -12347,6 +12348,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ww38.vanced.app^$document
 ||ww4.fmovies.co^$document
 ||ww547.expo2025-personalagent.com^$document
+||ww547.haveibeenpawned.com^$document
 ||ww9.fitgirl-repacks.xyz^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
@@ -13142,6 +13144,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.haruyukiworld.com^$document
 ||www.hashi-okiraku.top^$document
 ||www.haute-c.jp^$document
+||www.haveibeenpwnned.com^$document
 ||www.haydarpasamun.org^$document
 ||www.hb-consulting.jp^$document
 ||www.hdojinkan.com^$document
