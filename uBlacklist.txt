@@ -1,3 +1,6 @@
+*://haveibeenpawned.com/*
+*://haveibeenpned.com/*
+*://dailycue.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
