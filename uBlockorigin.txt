@@ -4866,6 +4866,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomi-rawhentai.com^$document
 ||hitomi-rawhentai06.com^$document
 ||hitomi-vg.com^$document
+||hitomi.cloudfree.jp^$document
 ||hitomi.median-net.jp^$document
 ||hitomi.momonga-raw.com^$document
 ||hitomi.raw.cfbx.jp^$document

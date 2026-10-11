@@ -1,4 +1,3 @@
-*://hitomi.cloudfree.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -15439,6 +15438,7 @@
 *://hitomi-rawhentai.com/*
 *://hitomi-rawhentai06.com/*
 *://hitomi-vg.com/*
+*://hitomi.cloudfree.jp/*
 *://hitomi.median-net.jp/*
 *://hitomi.momonga-raw.com/*
 *://hitomi.raw.cfbx.jp/*
