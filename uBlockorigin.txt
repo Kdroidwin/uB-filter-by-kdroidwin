@@ -11847,6 +11847,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||usdeptreasury-gov.netlify.app^$document
 ||usern.me^$document
 ||usersuper.ru^$document
+||useusd.com^$document
 ||usimmigration-assistance.com^$document
 ||usj-joho.blog.ss-blog.jp^$document
 ||uslifeblog.com^$document
