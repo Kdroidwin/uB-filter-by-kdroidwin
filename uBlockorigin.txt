@@ -6284,7 +6284,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lemon-humming.com^$document
 ||lemonso-da.hatenablog.com^$document
 ||lenclosduruisseau.re^$document
-||les-koko.com^$document
 ||les.wpx.jp^$document
 ||lesac.ru^$document
 ||lestermods.com^$document
