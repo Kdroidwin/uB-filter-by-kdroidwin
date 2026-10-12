@@ -6461,6 +6461,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lowcostoutsource.com^$document
 ||lp-x-komon.vercel.app^$document
 ||lp.buzayookaki.com^$document
+||lp.nito1.com^$document
 ||lp.solomon-world.jp^$document
 ||lpro-pm4.com^$document
 ||lpro-pm6.com^$document
@@ -7799,6 +7800,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||niterune.com^$document
 ||nitflixapk.com^$document
 ||nithraplywoodandhardware.com^$document
+||nito1.com^$document
 ||niziero.net^$document
 ||nizipro.com^$document
 ||njforeclosurelist.com^$document
@@ -11242,6 +11244,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||the-fool-project.jp^$document
 ||the-greatest-dj-of-all-time.technobit.online^$document
 ||the-jet-sleeper.com^$document
+||the-neutral.buddica.jp^$document
 ||the-personal-gym.com^$document
 ||the-playhouse.jp^$document
 ||the-promised-neverland-movie.jp^$document

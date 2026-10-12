@@ -1,6 +1,3 @@
-*://lp.nito1.com/*
-*://nito1.com/*
-*://the-neutral.buddica.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -17006,6 +17003,7 @@
 *://lowcostoutsource.com/*
 *://lp-x-komon.vercel.app/*
 *://lp.buzayookaki.com/*
+*://lp.nito1.com/*
 *://lp.solomon-world.jp/*
 *://lpro-pm4.com/*
 *://lpro-pm6.com/*
@@ -18316,6 +18314,7 @@
 *://niterune.com/*
 *://nitflixapk.com/*
 *://nithraplywoodandhardware.com/*
+*://nito1.com/*
 *://niziero.net/*
 *://nizipro.com/*
 *://njforeclosurelist.com/*
@@ -21648,6 +21647,7 @@
 *://the-fool-project.jp/*
 *://the-greatest-dj-of-all-time.technobit.online/*
 *://the-jet-sleeper.com/*
+*://the-neutral.buddica.jp/*
 *://the-personal-gym.com/*
 *://the-playhouse.jp/*
 *://the-promised-neverland-movie.jp/*
