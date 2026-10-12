@@ -9138,6 +9138,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||petitmana.jp^$document
 ||petitwings.com^$document
 ||pewtalk.nl^$document
+||pfcj.site^$document
 ||pgpm.jp^$document
 ||phas.today^$document
 ||philadelphiaple.amebaownd.com^$document

@@ -1,4 +1,3 @@
-*://pfcj.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -19638,6 +19637,7 @@
 *://petitmana.jp/*
 *://petitwings.com/*
 *://pewtalk.nl/*
+*://pfcj.site/*
 *://pgpm.jp/*
 *://phas.today/*
 *://philadelphiaple.amebaownd.com/*
