@@ -1,6 +1,3 @@
-*://www.comikets.com/*
-*://fanza.ldblog.jp/*
-*://bougainvillea-sapporo.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12471,6 +12468,7 @@
 *://botebil.com/*
 *://boticaorganica.com/*
 *://botobo.ru/*
+*://bougainvillea-sapporo.jp/*
 *://bouncing-labo.com/*
 *://bousai.koriyama-fukushima.jp/*
 *://bousai.okinawa.jp/*
@@ -14204,6 +14202,7 @@
 *://fanza-news.com/*
 *://fanza.coideco.jp/*
 *://fanza.hentai-raw.com/*
+*://fanza.ldblog.jp/*
 *://fanzabooks.com/*
 *://fanzadensho.com/*
 *://fanzadlsite.wpx.jp/*
@@ -23084,6 +23083,7 @@
 *://www.columbia-fit.com/*
 *://www.comic-highway.com/*
 *://www.comicgum.com/*
+*://www.comikets.com/*
 *://www.comingnext.jp/*
 *://www.commufa.jp/*
 *://www.community-one.jp/*
