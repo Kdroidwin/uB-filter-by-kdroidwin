@@ -4289,6 +4289,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gltnub.live^$document
 ||glucks-web.co.jp^$document
 ||gluglu.jp^$document
+||glvsecurity.com^$document
 ||gmeetmeat.xyz^$document
 ||gmk.be^$document
 ||gmmfprc.cn^$document
