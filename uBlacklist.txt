@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://glvsecurity.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
 *://*.3deroge.com/*
