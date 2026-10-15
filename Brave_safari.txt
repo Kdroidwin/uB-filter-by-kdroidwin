@@ -2963,6 +2963,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinmm.dlold.net^$document
 ||doujinnews.com^$document
 ||doujinnooni.com^$document
+||doujinpost.wpx.jp^$document
 ||doujinraw.com^$document
 ||doujinraw.wew.jp^$document
 ||doujinrepublic.com^$document
@@ -4040,6 +4041,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gardasar.guru^$document
 ||garden^$document,domain=~eng.garden|~rickey.garden|~insect.garden|~imoto.garden|~nonohana.garden|~eaglegolf.garden|~nezu.garden|~yasuko.garden|~foglia.garden|~haircolor.garden|~officecafe.garden|~ezu.garden|~short-short.garden|~green-seek.garden|~ferrumbox.garden|~lotus.garden|~kanji.garden|~oniwa.garden|~sendai.garden|~estacion.garden|~radio.garden|~kamakuratorres.garden|~chachacha.garden|~hiro.garden|~att-home.garden|~jiro.garden|~goodlittle.garden|~poap.garden|~bordas.garden|~olly.garden|~salvage.garden|~design.garden|~plantae.garden|~prestige.garden|~maa.garden|~planter.garden|~gusta.garden|~patch.garden|~syntato.garden|~milwaukeebeer.garden|~social.garden|~mantis.garden|~staff.garden|~f168.garden|~toot.garden|~memex.garden|~boum.garden|~wobble.garden|~alices.garden|~cheekwood.garden|~solos.garden|~cyberlove.garden|~cast.garden|~coding.garden|~rose.garden|~zendesk.garden|~fedi.garden|~sunny.garden|~circles.garden|~untold.garden|~the.garden|~walworth.garden|~fieldmann.garden|~keywest.garden|~ellipse.garden|~manifold.garden|~hyperlink.garden|~palm.garden|~kingdom.garden|~smallsheds.garden|~jardinarium.garden|~common.garden|~labyrinth.garden|~mediterraneo.garden|~pointcloud.garden|~begma.garden|~garlic.garden|~tv.garden|~anita.garden|~fctv33hd.garden|~animes.garden|~dvdplay.garden|~moos.garden|~isaimini.garden|~pobreflixtv.garden|~lustmaza.garden|~coolmoviez.garden|~altadefinizionegratis.garden|~flow3r.garden|~plantura.garden|~shop.plantura.garden|~upstreamgallery.common.garden|~thisthewrongplacetodie.common.garden|~saito.garden|~beginners.garden|~glanta.garden|~zen.garden|~mastodon.garden
 ||gardenbest01.nyc3.cdn.digitaloceanspaces.com^$document
+||garumanga.wpx.jp^$document
 ||gascumuapa.com^$document
 ||gaspa-web.jp^$document
 ||gastrolife.net^$document
@@ -13967,6 +13969,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sentoukia.com^$document
 ||www.setesdal.info^$document
 ||www.sewellbedliningsinc.com^$document
+||www.sexy-maidgirl.cfbx.jp^$document
 ||www.sferadistribuzione.it/prize^$document
 ||www.sgb.net.cn^$document
 ||www.shakemablog.com^$document
