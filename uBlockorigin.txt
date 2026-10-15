@@ -3462,6 +3462,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromannga.net^$document
 ||eromanquestnavi.net^$document
 ||eromantantei.jp^$document
+||eromatome.erodougabox.cfbx.jp^$document
 ||eromethium365.com^$document
 ||eromix58movie.com^$document
 ||eromoku.com^$document
@@ -4897,6 +4898,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomiraw.com^$document
 ||hitomisiri.com^$document
 ||hitomissav.cloudfree.jp^$document
+||hitomissav02.com^$document
 ||hitomlaa.cloudfree.jp^$document
 ||hitononeko.com^$document
 ||hitorisanfan.com^$document
@@ -6158,6 +6160,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kurisurf.info^$document
 ||kuroaoki.com^$document
 ||kuroco.jp^$document
+||kuronekoadultblog.com^$document
 ||kuronekodesk.hatenablog.com^$document
 ||kuronekokusujun012.wixsite.com^$document
 ||kurosakikun-movie.com^$document
@@ -7120,6 +7123,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav-fc2ppv07.com^$document
 ||missav-fc2ppv10.com^$document
 ||missav-fc2ppv11.com^$document
+||missav-fc2ppv13.com^$document
 ||missav-fc2ppvjp01.com^$document
 ||missav.com^$document
 ||missav123.jp^$document
