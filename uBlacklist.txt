@@ -1,6 +1,3 @@
-*://deepseek.net/*
-*://deepseeks.org/*
-*://ninja-weekly-public.soloninjakun.workers.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13232,6 +13229,8 @@
 *://deepaksawant.org/*
 *://deepcoder.online/*
 *://deeps.me/*
+*://deepseek.net/*
+*://deepseeks.org/*
 *://deerspa.com/products/*
 *://deets.feedreader.com/*
 *://deeya.sn/*
@@ -18306,6 +18305,7 @@
 *://nikonikostudio.jp/*
 *://nilebasin.org/*
 *://nina.webapp.pink/*
+*://ninja-weekly-public.soloninjakun.workers.dev/*
 *://ninnintrends.com/*
 *://ninnkidoujinnavnyki.com/*
 *://ninohe-shakyo.jp/*

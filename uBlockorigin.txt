@@ -2640,6 +2640,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||deepaksawant.org^$document
 ||deepcoder.online^$document
 ||deeps.me^$document
+||deepseek.net^$document
+||deepseeks.org^$document
 ||deerspa.com/products^$document
 ||deets.feedreader.com^$document
 ||deeya.sn^$document
@@ -7789,6 +7791,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nikonikostudio.jp^$document
 ||nilebasin.org^$document
 ||nina.webapp.pink^$document
+||ninja-weekly-public.soloninjakun.workers.dev^$document
 ||ninnintrends.com^$document
 ||ninnkidoujinnavnyki.com^$document
 ||ninohe-shakyo.jp^$document
