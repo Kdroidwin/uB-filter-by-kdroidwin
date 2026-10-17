@@ -1,5 +1,3 @@
-*://morphe.jp.uptodown.com/*
-*://youtube-morphe.jp.aptoide.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -17866,6 +17864,7 @@
 *://morphe-app.com/*
 *://morphe-official.com/*
 *://morphe-youtube.ru.malavida.com/*
+*://morphe.jp.uptodown.com/*
 *://morpheapp.net/*
 *://morpheapp.software/*
 *://morphemanager.com/*
@@ -25073,6 +25072,7 @@
 *://youtube-lect.jp/*
 *://youtube-morphe.cn.aptoide.com/*
 *://youtube-morphe.en.aptoide.com/*
+*://youtube-morphe.jp.aptoide.com/*
 *://youtube-music.mundoperfecto.net/*
 *://youtube-revanced.apktodo.io/*
 *://youtube-revanced.jp.malavida.com/*

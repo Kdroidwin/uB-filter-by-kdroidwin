@@ -7335,6 +7335,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||morphe-app.com^$document
 ||morphe-official.com^$document
 ||morphe-youtube.ru.malavida.com^$document
+||morphe.jp.uptodown.com^$document
 ||morpheapp.net^$document
 ||morpheapp.software^$document
 ||morphemanager.com^$document
@@ -14752,6 +14753,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||youtube-lect.jp^$document
 ||youtube-morphe.cn.aptoide.com^$document
 ||youtube-morphe.en.aptoide.com^$document
+||youtube-morphe.jp.aptoide.com^$document
 ||youtube-music.mundoperfecto.net^$document
 ||youtube-revanced.apktodo.io^$document
 ||youtube-revanced.jp.malavida.com^$document
