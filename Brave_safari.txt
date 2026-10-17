@@ -1,8 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(Brave,Safari,Vivaldi)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-##.google-preferred-source-container
-##a[href*="google.com/preferences/source"]
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -147,7 +145,6 @@
 1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="tiktok.com/ug"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 a2zapk.io##[href^="https://beta-app-sprout.xyz"] > button
-androplus.jp##fieldset
 apkcombo.com##.apkcombo_mobile_300x250_bottom.apkcombo_desktop_300x250_right.ad-pss-bottom-right.ad-pss
 apkpure.com##.d-fast-download-game-one.fast-download-start-btn.btn
 apkpure.com##.fast-download-start-btn.btn
@@ -162,7 +159,6 @@ filespayouts.com##.cb-ad-box
 fp.no-sheep.org/services##.main
 h2testw.org##.entry-content::before { content: "これは偽サイト　Fake Site"; position: fixed !important; top: 10px !important; left: 10px !important; z-index: 999999 !important; font-size: 32px !important; color: #fff !important; background: #c00 !important; font-weight: 900 !important; padding: 8px 12px !important; border-radius: 6px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.5) !important; }
 hexload.com##.animated-button
-himebon.blog##.eye-catch-wrap
 holyseal.net##body::before:style(content:"これは2024年に他者にドロップキャッチされた偽サイトです。"; position:fixed !important; top:10px !important; left:10px !important; width:900px !important; max-width:90vw !important; z-index:2147483647 !important; font-size:28px !important; line-height:1.6 !important; color:white !important; background:#c00 !important; padding:20px 30px !important; font-weight:900 !important; border-radius:6px !important; box-sizing:border-box !important; white-space:normal !important;)
 jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
 jp.mercari.com##html:has(meta[name="description"][content*="Anti Spy Phone"])
@@ -200,19 +196,12 @@ nswpedia.com##.text-center.my-3 > div
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nswpedia.com##center
-nukieroge.com##a[href*="cv-measurement.com"]
-nukieroge.com##a[href*="hbox.jp"]
 nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
 romsns.com##.idb-btn
-sagirare.hatenablog.com##.hatenablog-entry.entry-content > div > [href^="https://www.infotop.jp/click.php"]
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
 socialxup.com##.lg\:hidden.sm\:mt-8.mt-6.order-\[40\] > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
 socialxup.com##.scrollbar-hide.overflow-y-auto.max-h-\[calc\(100vh-5rem\)\].top-16.sticky.flex-shrink-0.w-72.lg\:block.hidden > div > .space-y-1 > .hover\:bg-slate-50.transition-colors.shadow-sm.p-2.bg-white.border-slate-900.border-l-4.rounded-none.gap-2\.5.items-center.flex
-socialxup.com##a[data-track="sale_accounts_ad_inline_compact_click"]
-socialxup.com##a[href*="xdepot.link/products/"]
-socialxup.com##a[rel*="sponsored"]
-socialxup.com##div[class*="bg-[radial-gradient"]
 switch-roms.org##.code-block-1.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
 switchrom.net##.code-block-4.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
 tekunotes.com###text-31
@@ -226,12 +215,7 @@ thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applica
 thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
 uptodown.com##.active.xapk.download.button
 uptodown.com##.instructions-list
-www.gadget2ch.com###main > div.article-text-rss-box
-www.gadget2ch.com###page > .posts-inner
-www.gadget2ch.com###page > div.article-text-rss-box
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
-www.grayporn.org##.eye-catch-wrap
-www.mangalear.blog##.eye-catch-wrap
 www.missav-j.com###player-download-btn
 www.nijioma.blog##.eye-catch-wrap
 www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
@@ -6340,6 +6324,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lifetopiccom.com^$document
 ||lifunas.com^$document
 ||lightofhopealliance.org^$document
+||liginc.co.jp^$document
 ||ligshtshot.site^$document
 ||liguelabatt.com^$document
 ||lih.co.jp^$document
@@ -14549,6 +14534,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||xn--qckd9k4cxb.jp^$document
 ||xn--raw-o73b7joe.jp^$document
 ||xn--t8j4aa4n0jya5ppmn86v8fgvn6h1n6c.com^$document
+||xn--t8j4aa4nyhsgsjubwec3286neitd.com^$document
 ||xn--t8jwa5c5a4ox83wkr7axhya.com^$document
 ||xn--u8jvc1drbz972aywbk0by95ffo1aqm1c.com^$document
 ||xn--u9j432gnvi3ia422j.com^$document
