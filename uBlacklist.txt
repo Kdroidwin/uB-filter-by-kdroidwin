@@ -1,5 +1,3 @@
-*://programming-challenge.com/*
-*://support-mercari.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -19913,6 +19911,7 @@
 *://prograide.com/*
 *://programmercollege.jp/*
 *://programmierfrage.com/*
+*://programming-challenge.com/*
 *://programming-door.com/*
 *://progroup.pt/*
 *://prohack.ooaks.co.jp/*
@@ -21369,6 +21368,7 @@
 *://supo-tu-fan.com/*
 *://support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn/*
 *://support--office--com---z3a8dwww--hunan--gov--cn.ipv6.hunan.gov.cn/*
+*://support-mercari.com/*
 *://support.amzdata.cn/*
 *://support.apple.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://support.apple.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*

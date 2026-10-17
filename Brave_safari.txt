@@ -9405,6 +9405,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||programmerstart.com^$document
 ||programmerz.ru^$document
 ||programmierfrage.com^$document
+||programming-challenge.com^$document
 ||programming-door.com^$document
 ||programqa.com^$document
 ||progroup.pt^$document
@@ -10951,6 +10952,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||supo-tu-fan.com^$document
 ||support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn^$document
 ||support--office--com---z3a8dwww--hunan--gov--cn.ipv6.hunan.gov.cn^$document
+||support-mercari.com^$document
 ||support.amzdata.cn^$document
 ||support.apple.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||support.apple.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
