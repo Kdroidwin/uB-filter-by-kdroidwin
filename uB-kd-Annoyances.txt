@@ -4,3 +4,17 @@
 
 ##.google-preferred-source-container
 ##a[href*="google.com/preferences/source"]
+androplus.jp##fieldset
+www.gadget2ch.com###main > div.article-text-rss-box
+www.gadget2ch.com###page > .posts-inner
+www.gadget2ch.com###page > div.article-text-rss-box
+www.grayporn.org##.eye-catch-wrap
+www.mangalear.blog##.eye-catch-wrap
+himebon.blog##.eye-catch-wrap
+nukieroge.com##a[href*="cv-measurement.com"]
+nukieroge.com##a[href*="hbox.jp"]
+sagirare.hatenablog.com##.hatenablog-entry.entry-content > div > [href^="https://www.infotop.jp/click.php"]
+socialxup.com##a[data-track="sale_accounts_ad_inline_compact_click"]
+socialxup.com##a[href*="xdepot.link/products/"]
+socialxup.com##a[rel*="sponsored"]
+socialxup.com##div[class*="bg-[radial-gradient"]
