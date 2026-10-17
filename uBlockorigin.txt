@@ -4,6 +4,7 @@
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
