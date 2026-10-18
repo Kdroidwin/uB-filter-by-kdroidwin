@@ -14036,6 +14036,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.sora-ten.com^$document
 ||www.soratobuiruka.com^$document
 ||www.sound.xyz^$document
+||www.sourcenext.com/product/security/zero-super-security^$document
 ||www.sousacontabilidade.net^$document
 ||www.spacioclub.ru^$document
 ||www.speedsystem-jp.com^$document
