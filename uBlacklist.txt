@@ -1,3 +1,7 @@
+*://*.wwiqtest.com/*
+*://wwiqtest.com/*
+*://www.worldwide-iq-test.com/*
+*://worldwide-iq-test.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
