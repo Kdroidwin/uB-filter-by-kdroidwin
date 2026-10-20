@@ -12310,6 +12310,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||world-language-250.com^$document
 ||world.taobao.com^$document
 ||worldofwarships.ru^$document
+||worldwide-iq-test.com^$document
 ||wovenmsz.bizandleisure.com^$document
 ||wow-parfait.com^$document
 ||wow.live-ph.cc^$document
@@ -12359,6 +12360,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ww547.expo2025-personalagent.com^$document
 ||ww547.haveibeenpawned.com^$document
 ||ww9.fitgirl-repacks.xyz^$document
+||wwiqtest.com^$document
 ||wwpersonalitytest.com^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
@@ -14319,6 +14321,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.wizcase.com^$document
 ||www.wood365.cn^$document
 ||www.word-is-love.blog^$document
+||www.worldwide-iq-test.com^$document
 ||www.wowdiy.com^$document
 ||www.wpbackdoor.com^$document
 ||www.wps.com^$document

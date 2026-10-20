@@ -1,7 +1,3 @@
-*://*.wwiqtest.com/*
-*://wwiqtest.com/*
-*://www.worldwide-iq-test.com/*
-*://worldwide-iq-test.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -10907,6 +10903,7 @@
 *://*.wl.co/*
 *://*.ws/?a.*
 *://*.wujigu.com/*
+*://*.wwiqtest.com/*
 *://*.xbuba.com/*
 *://*.xiaohei.com/*
 *://*.xmobile-allagi.jp/*
@@ -22663,6 +22660,7 @@
 *://world-language-250.com/*
 *://world.taobao.com/*
 *://worldofwarships.ru/*
+*://worldwide-iq-test.com/*
 *://wovenmsz.bizandleisure.com/*
 *://wow-parfait.com/*
 *://wow.live-ph.cc/*
@@ -22710,6 +22708,7 @@
 *://ww547.expo2025-personalagent.com/*
 *://ww547.haveibeenpawned.com/*
 *://ww9.fitgirl-repacks.xyz/*
+*://wwiqtest.com/*
 *://wwpersonalitytest.com/*
 *://wwrbbuk.bar/*
 *://wwv-fmovies.com/*
@@ -24665,6 +24664,7 @@
 *://www.wizcase.com/*
 *://www.wood365.cn/*
 *://www.word-is-love.blog/*
+*://www.worldwide-iq-test.com/*
 *://www.wowdiy.com/*
 *://www.wpbackdoor.com/*
 *://www.writecream.com/*
