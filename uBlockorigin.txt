@@ -9848,6 +9848,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rins-rin-mei.blog.ss-blog.jp^$document
 ||rinx-mens.com^$document
 ||rio2016-live.com^$document
+||ripeff.jp^$document
 ||riptutorial.com^$document
 ||riraku-life.com^$document
 ||risazoo.com^$document
@@ -12358,6 +12359,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ww547.expo2025-personalagent.com^$document
 ||ww547.haveibeenpawned.com^$document
 ||ww9.fitgirl-repacks.xyz^$document
+||wwpersonalitytest.com^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
 ||www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn^$document
@@ -13048,6 +13050,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.gaimaki.com^$document
 ||www.gainamatsuri.jp^$document
 ||www.gajitime.com^$document
+||www.gallup.com^$document
 ||www.gameapkz.com^$document
 ||www.gamegadget.jp^$document
 ||www.gameloop.com^$document

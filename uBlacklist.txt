@@ -1,6 +1,3 @@
-*://wwpersonalitytest.com/*
-*://www.gallup.com/*
-*://ripeff.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -20341,6 +20338,7 @@
 *://rins-rin-mei.blog.ss-blog.jp/*
 *://rinx-mens.com/*
 *://rio2016-live.com/*
+*://ripeff.jp/*
 *://riraku-life.com/*
 *://risazoo.com/*
 *://rise-story.jp/*
@@ -22708,6 +22706,7 @@
 *://ww547.expo2025-personalagent.com/*
 *://ww547.haveibeenpawned.com/*
 *://ww9.fitgirl-repacks.xyz/*
+*://wwpersonalitytest.com/*
 *://wwrbbuk.bar/*
 *://wwv-fmovies.com/*
 *://www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn/*
@@ -23394,6 +23393,7 @@
 *://www.gaimaki.com/*
 *://www.gainamatsuri.jp/*
 *://www.gajitime.com/*
+*://www.gallup.com/*
 *://www.gameapkz.com/*
 *://www.gamegadget.jp/*
 *://www.gameloop.com/*
