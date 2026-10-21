@@ -1,6 +1,3 @@
-*://twr.mobi/*
-*://buibuidesu61.lsv.jp/*
-*://erobookdoujin.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12542,6 +12539,7 @@
 *://bugdpt.com/*
 *://buhidoh.blog.fc2.com/*
 *://buibuidesu.jpn.org/*
+*://buibuidesu61.lsv.jp/*
 *://bullbull11.com/*
 *://bulleteercustoms.in/*
 *://bunblog.work/*
@@ -13942,6 +13940,7 @@
 *://eroappgame.com/*
 *://eroavdouga.com/*
 *://eroazu.com/*
+*://erobookdoujin.com/*
 *://erobooker.com/*
 *://erobookjapan.com/*
 *://erobooks.makianosaihu.com/*
@@ -22131,6 +22130,7 @@
 *://twitter.com/zlib_official/*
 *://twitter.nuxt.xyz/*
 *://twn-rt.onelink.me/*
+*://twr.mobi/*
 *://twtwmatome.hatenablog.com/*
 *://txp.fxisvpiw.my/*
 *://tyerukun.com/*

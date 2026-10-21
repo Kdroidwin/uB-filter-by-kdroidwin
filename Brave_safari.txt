@@ -1917,6 +1917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bugdpt.com^$document
 ||buhidoh.blog.fc2.com^$document
 ||buibuidesu.jpn.org^$document
+||buibuidesu61.lsv.jp^$document
 ||bullbull11.com^$document
 ||bulleteercustoms.in^$document
 ||bunblog.work^$document
@@ -3334,6 +3335,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eroappgame.com^$document
 ||eroavdouga.com^$document
 ||eroazu.com^$document
+||erobookdoujin.com^$document
 ||erobooker.com^$document
 ||erobookjapan.com^$document
 ||erobooks.makianosaihu.com^$document
@@ -11731,6 +11733,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||twitterche*.pages.dev^$document
 ||twitterche*.pages.dev^$document
 ||twn-rt.onelink.me^$document
+||twr.mobi^$document
 ||twtwmatome.hatenablog.com^$document
 ||txp.fxisvpiw.my^$document
 ||tyerukun.com^$document
