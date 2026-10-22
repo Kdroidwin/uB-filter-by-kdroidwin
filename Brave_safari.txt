@@ -8263,6 +8263,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/mizuki_myrtle47^$document
 ||note.com/mizuu_note1^$document
 ||note.com/mnb196748^$document
+||note.com/mnishi41^$document
 ||note.com/mocchan^$document
 ||note.com/modern_knot7158^$document
 ||note.com/moeuhane22^$document
@@ -14618,6 +14619,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yahooco.jp^$document
 ||yaimamalife.com^$document
 ||yajiblog12150619.com^$document
+||yakan-hiko.com/kode-nishi.html^$document
 ||yakudati365.com^$document
 ||yakuhon1.com^$document
 ||yakuneba-ten.jp^$document
