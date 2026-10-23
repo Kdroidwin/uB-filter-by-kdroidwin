@@ -1,4 +1,3 @@
-*://githubstarboost.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14839,6 +14838,7 @@
 *://github.me/*
 *://github.net.cn/*
 *://github.phpd.cn/*
+*://githubstarboost.com/*
 *://gitlab-nas.nas-seoul.synology.me/*
 *://gitlab.52pay.top/*
 *://gitlab.agregatoreat.ru/*

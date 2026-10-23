@@ -4244,6 +4244,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github.me^$document
 ||github.net.cn^$document
 ||github.phpd.cn^$document
+||githubstarboost.com^$document
 ||gitlab-nas.nas-seoul.synology.me^$document
 ||gitlab.52pay.top^$document
 ||gitlab.agregatoreat.ru^$document
