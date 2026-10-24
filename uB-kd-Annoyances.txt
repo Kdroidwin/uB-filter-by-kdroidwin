@@ -10,6 +10,7 @@ www.gadget2ch.com###page > .posts-inner
 www.gadget2ch.com###page > div.article-text-rss-box
 www.grayporn.org##.eye-catch-wrap
 www.mangalear.blog##.eye-catch-wrap
+www.nijioma.blog##.eye-catch-wrap
 himebon.blog##.eye-catch-wrap
 nukieroge.com##a[href*="cv-measurement.com"]
 nukieroge.com##a[href*="hbox.jp"]
