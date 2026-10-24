@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 <br>
 
 
-- Block specific note by Kdroidwin
+-  Block specific note by Kdroidwin
 [購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt&title=Block%20specific%20note%20by%20Kdroidwin)
 ```
 https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt
@@ -103,6 +103,21 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 
 <br>
 <br>
+
+- uB-filter-by-kdroidwin(uBO&AdGuard) Annoyances
+[購読](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuB-filter-by-kdroidwin%2Frefs%2Fheads%2Fmain%2FuB-kd-Annoyances.txt&title=uB-filter-by-kdroidwin%28uBO%26AdGuard%29%20Annoyances) 
+
+```
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/uB-kd-Annoyances.txt
+```
+広告や迷惑要素などの要素をブロックします。セキュリティやプライバシー面においてはあまり関係がありません。
+
+<br>
+<br>
+
+- uB-filter-by-kdroidwin(uBO&AdGuard) expt
+[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt&title=uB-filter-by-kdroidwin-expt)
+
 
 - Kdroidwin_TrackingProtection_REV
 ```
@@ -123,9 +138,9 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果から該当サイトを非表示にします。
 
 <br>
-- uB-filter-by-kdroidwin(uBO&AdGuard) expt
 
-[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt&title=uB-filter-by-kdroidwin-expt)
+
+
 
 ```
 https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt
