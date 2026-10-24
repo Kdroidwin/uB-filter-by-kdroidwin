@@ -3583,6 +3583,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fal.cn^$document
 ||falconnetworks.cl^$document
 ||falconserp.com^$document
+||falenogroup.com^$document
 ||fambizblo.com^$document
 ||famfamblog.com^$document
 ||family-athome.com^$document
