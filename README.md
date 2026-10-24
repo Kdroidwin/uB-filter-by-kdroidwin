@@ -118,6 +118,12 @@ https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/ma
 - uB-filter-by-kdroidwin(uBO&AdGuard) expt
 [購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt&title=uB-filter-by-kdroidwin-expt)
 
+```
+https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt
+```
+ uB-filter-by-kdroidwin(uBO&AdGuard)と併用するフィルター ただし誤ブロックが多い。
+ 
+<br>
 
 - Kdroidwin_TrackingProtection_REV
 ```
@@ -142,10 +148,7 @@ uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果か�
 
 
 
-```
-https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/sites/uBlockOrigin-expt.txt
-```
- uB-filter-by-kdroidwin(uBO&AdGuard)と併用するフィルター ただし誤ブロックが多い。
+
 <br>
 
 <br>
