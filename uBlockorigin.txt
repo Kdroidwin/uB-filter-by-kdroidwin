@@ -3226,6 +3226,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||english.tameroutine.net^$document
 ||englishconversationcoaching.hatenablog.jp^$document
 ||englishosaru-officialsite.co.jp^$document
+||engram-axg.pages.dev^$document
 ||enhoko.com^$document
 ||enimiron.com^$document
 ||enishi-izumo.com^$document
@@ -4424,6 +4425,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
 ||growdeco.co.jp^$document
+||growser.org^$document
 ||grpasba.xyz^$document
 ||gsepn.net^$document
 ||gshade.org^$document

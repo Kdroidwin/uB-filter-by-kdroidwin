@@ -1,5 +1,3 @@
-*://engram-axg.pages.dev/*
-*://growser.org/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13836,6 +13834,7 @@
 *://english.tameroutine.net/*
 *://englishconversationcoaching.hatenablog.jp/*
 *://englishosaru-officialsite.co.jp/*
+*://engram-axg.pages.dev/*
 *://enhoko.com/*
 *://enimiron.com/*
 *://enishi-izumo.com/*
@@ -15018,6 +15017,7 @@
 *://groupbyte.ecstasybox.cfbx.jp/*
 *://groupie55.com/*
 *://growdeco.co.jp/*
+*://growser.org/*
 *://grpasba.xyz/*
 *://gsepn.net/*
 *://gshade.org/*

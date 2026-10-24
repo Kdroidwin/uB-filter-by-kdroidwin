@@ -217,7 +217,6 @@ uptodown.com##.active.xapk.download.button
 uptodown.com##.instructions-list
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
 www.missav-j.com###player-download-btn
-www.nijioma.blog##.eye-catch-wrap
 www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
@@ -3227,6 +3226,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||english.tameroutine.net^$document
 ||englishconversationcoaching.hatenablog.jp^$document
 ||englishosaru-officialsite.co.jp^$document
+||engram-axg.pages.dev^$document
 ||enhoko.com^$document
 ||enimiron.com^$document
 ||enishi-izumo.com^$document
@@ -4425,6 +4425,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||groupbyte.ecstasybox.cfbx.jp^$document
 ||groupie55.com^$document
 ||growdeco.co.jp^$document
+||growser.org^$document
 ||grpasba.xyz^$document
 ||gsepn.net^$document
 ||gshade.org^$document
