@@ -24,3 +24,4 @@ socialxup.com##a[href*="xdepot.link/products/"]
 socialxup.com##a[rel*="sponsored"]
 socialxup.com##div[class*="bg-[radial-gradient"]
 gigazine.net###sns-bar
+goldennews.blog.jp##.smp-sale-wrapper
