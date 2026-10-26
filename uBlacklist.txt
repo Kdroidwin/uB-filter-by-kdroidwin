@@ -1,3 +1,11 @@
+*://chaen.ai/*
+*://megurumoney.com/*
+*://type.jp/*
+*://play.google.com/store/apps/details?id=com.authy.authy*
+*://apps.apple.com/jp/app/twilio-authy/*
+*://apps.apple.com/*/app/twilio-authy/*
+*://mahoiku.jp/*
+*://prediksikeluaranku.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
