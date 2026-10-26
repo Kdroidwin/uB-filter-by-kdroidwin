@@ -1232,9 +1232,11 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||apprev.smt.docomo.ne.jp^$document
 ||apprimo.info^$document
 ||apps.apple.com/*/app/antutu-benchmark^$document
+||apps.apple.com/*/app/twilio-authy^$document
 ||apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja^$document
 ||apps.apple.com/il/app/netmirror-movies-series^$document
 ||apps.apple.com/jp/app/ivpn-vpn-for-privacy-security^$document
+||apps.apple.com/jp/app/twilio-authy^$document
 ||apps.kepanjeneyecenter.com^$document
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
 ||apps2app.com^$document
@@ -2083,6 +2085,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ch24.jp^$document
 ||cha-ta6.com^$document
 ||chachachalog.com^$document
+||chaen.ai^$document
 ||chain-of-entertainment.com^$document
 ||chainavi.cn^$document
 ||challebox.com^$document
@@ -6597,6 +6600,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||magnacartastopinew.com^$document
 ||magucha-blog.com^$document
 ||mahiru-afiri.com^$document
+||mahoiku.jp^$document
 ||mahoyaku.net^$document
 ||mahoyome-stage.jp^$document
 ||maidoerobooks.com^$document
@@ -6935,6 +6939,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||megumi344.com^$document
 ||megumi37.com^$document
 ||meguppechan.com^$document
+||megurumoney.com^$document
 ||megussan.com^$document
 ||mei-kei.com^$document
 ||meibun-jp.996w.cn^$document
@@ -9356,6 +9361,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||preairnutr.xyz^$document
 ||precious-johnnys.com^$document
 ||precure-miracleuniverse.com^$document
+||prediksikeluaranku.com^$document
 ||preferenceanimale.com^$document
 ||prefixplacement.com^$document
 ||premapro.com^$document
@@ -11741,6 +11747,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||twtwmatome.hatenablog.com^$document
 ||txp.fxisvpiw.my^$document
 ||tyerukun.com^$document
+||type.jp^$document
 ||tyubetyube.com^$document
 ||tyunntyunn1988.hatenadiary.jp^$document
 ||u-kaihatsu.jp^$document
