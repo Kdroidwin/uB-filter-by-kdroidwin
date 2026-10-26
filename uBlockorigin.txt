@@ -12746,7 +12746,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.churaumi.net^$document
 ||www.cilocala.cn^$document
 ||www.cinartesisatsuteknolojileri.com^$document
-||www.cinematoday.jp^$document
 ||www.cinnamon-hotel.com^$document
 ||www.cipmen.org//products^$document
 ||www.circlemap.jp^$document
