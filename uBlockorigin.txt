@@ -11624,6 +11624,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||trendjin.com^$document
 ||trendlyte.com^$document
 ||trendmainnow.com^$document
+||trendmicro.com^$document
 ||trendnews-2018.com^$document
 ||trendnews.tokyo^$document
 ||trendnewsinjapan.com^$document
@@ -14213,6 +14214,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.travelarrow.xyz^$document
 ||www.trend.chocolate-addict.com^$document
 ||www.trendingnews.tokyo^$document
+||www.trendmicro.com^$document
 ||www.trendy-life33.com^$document
 ||www.trenink.info^$document
 ||www.tricompany.ru^$document

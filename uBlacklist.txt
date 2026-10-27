@@ -1,5 +1,3 @@
-*://www.trendmicro.com/*
-*://trendmicro.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -22033,6 +22031,7 @@
 *://trendjin.com/*
 *://trendlyte.com/*
 *://trendmainnow.com/*
+*://trendmicro.com/*
 *://trendnews-2018.com/*
 *://trendnews.tokyo/*
 *://trendnewsinjapan.com/*
@@ -24562,6 +24561,7 @@
 *://www.travelarrow.xyz/*
 *://www.trend.chocolate-addict.com/*
 *://www.trendingnews.tokyo/*
+*://www.trendmicro.com/*
 *://www.trendy-life33.com/*
 *://www.trenink.info/*
 *://www.tricompany.ru/*
