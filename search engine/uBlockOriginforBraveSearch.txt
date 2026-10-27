@@ -13136,6 +13136,7 @@ search.brave.com##.snippet:has(a[href*="www.reddit.com/r/PiratedGames/comments/e
 search.brave.com##.snippet:has(a[href*="www.reddit.com/r/TLAUNCHER"])
 search.brave.com##.snippet:has(a[href*="www.reddyandreddy.law"])
 search.brave.com##.snippet:has(a[href*="www.redrabbitracers.com"])
+search.brave.com##.snippet:has(a[href*="www.refa.net"])
 search.brave.com##.snippet:has(a[href*="www.refresh-nexco.jp"])
 search.brave.com##.snippet:has(a[href*="www.regimeprojects.co.tz"])
 search.brave.com##.snippet:has(a[href*="www.reifuworks.com"])

@@ -13892,6 +13892,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.reddit.com/r/TLAUNCHER^$document
 ||www.reddyandreddy.law^$document
 ||www.redrabbitracers.com^$document
+||www.refa.net^$document
 ||www.refresh-nexco.jp^$document
 ||www.regimeprojects.co.tz^$document
 ||www.reifuworks.com^$document
