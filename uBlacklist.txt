@@ -1,9 +1,3 @@
-*://note.com/teba_eleven/*
-*://www.stickypassword.com/*
-*://strongboxsafe.com/*
-*://magicdelta.ai/*
-*://amaviser.com/*
-*://gadget-compare.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11530,6 +11524,7 @@
 *://amaken.top/*
 *://amaninmega-club.com/*
 *://amanioil.com/*
+*://amaviser.com/*
 *://amberdeer6769896.com/*
 *://ameblo.jp/64152966/*
 *://ameblo.jp/akiaki150/*
@@ -14580,6 +14575,7 @@
 *://gadget-app.com/*
 *://gadget-cafe.jp/*
 *://gadget-choice.net/*
+*://gadget-compare.com/*
 *://gadget-souko.hatenablog.com/*
 *://gadget888.hatenablog.com/*
 *://gadgetech.jp/*
@@ -17147,6 +17143,7 @@
 *://magi.camp/*
 *://magic-panda.com/*
 *://magical.tokyo/*
+*://magicdelta.ai/*
 *://magicwands1.com/*
 *://magisk-manager.malavida.com/*
 *://magisk-manager.softonic.ru/*
@@ -19043,6 +19040,7 @@
 *://note.com/tatuya__y/*
 *://note.com/tbola/*
 *://note.com/teamo_kidzania/n/nb60ef983e453
+*://note.com/teba_eleven/*
 *://note.com/techdaichi/*
 *://note.com/techpapa_lab/*
 *://note.com/tenorsharejp/*
@@ -21283,6 +21281,7 @@
 *://streamrental.com/*
 *://streamsaga.info/*
 *://strepgeroki.digital/*
+*://strongboxsafe.com/*
 *://strongcorner.net/*
 *://strufin.in/*
 *://strumskill.com/*
@@ -24439,6 +24438,7 @@
 *://www.starjohomagazine.com/*
 *://www.statewaterheatersme.com/*
 *://www.stc.rarait.com/*
+*://www.stickypassword.com/*
 *://www.store-zao.com/*
 *://www.stradvert.com/*
 *://www.studio-yh.jp/*

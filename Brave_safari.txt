@@ -881,6 +881,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||amaken.top^$document
 ||amaninmega-club.com^$document
 ||amanioil.com^$document
+||amaviser.com^$document
 ||amberdeer6769896.com^$document
 ||ameblo.jp/64152966^$document
 ||ameblo.jp/akiaki150^$document
@@ -3977,6 +3978,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gadget-app.com^$document
 ||gadget-cafe.jp^$document
 ||gadget-choice.net^$document
+||gadget-compare.com^$document
 ||gadget-souko.hatenablog.com^$document
 ||gadget888.hatenablog.com^$document
 ||gadgetech.jp^$document
@@ -6581,6 +6583,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||magi.camp^$document
 ||magic-panda.com^$document
 ||magical.tokyo^$document
+||magicdelta.ai^$document
 ||magicwands1.com^$document
 ||magisk-manager.malavida.com^$document
 ||magisk-manager.softonic.ru^$document
@@ -8502,6 +8505,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/tatuya__y^$document
 ||note.com/tbola^$document
 ||note.com/teamo_kidzania/n/nb60ef983e453^$document
+||note.com/teba_eleven^$document
 ||note.com/techdaichi^$document
 ||note.com/techpapa_lab^$document
 ||note.com/tenorsharejp^$document
@@ -10840,6 +10844,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||streamsaga.info^$document
 ||strepgeroki.digital^$document
 ||string.quest^$document
+||strongboxsafe.com^$document
 ||strongcorner.net^$document
 ||strufin.in^$document
 ||strumskill.com^$document
@@ -12746,7 +12751,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.churaumi.net^$document
 ||www.cilocala.cn^$document
 ||www.cinartesisatsuteknolojileri.com^$document
-||www.cinematoday.jp^$document
 ||www.cinnamon-hotel.com^$document
 ||www.cipmen.org//products^$document
 ||www.circlemap.jp^$document
@@ -14082,6 +14086,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.starjohomagazine.com^$document
 ||www.statewaterheatersme.com^$document
 ||www.stc.rarait.com^$document
+||www.stickypassword.com^$document
 ||www.store-zao.com^$document
 ||www.stradvert.com^$document
 ||www.studio-yh.jp^$document
