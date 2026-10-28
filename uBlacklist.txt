@@ -1,5 +1,3 @@
-*://businessonline.trendmicro.co.jp/*
-title/McAfee：/
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12567,6 +12565,7 @@ title/McAfee：/
 *://business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html*
 *://business.slot42.online/*
 *://businessgiftdepot.com/*
+*://businessonline.trendmicro.co.jp/*
 *://bustabitseller.com/*
 *://butai-gengo-danshi.com/*
 *://butter-delimmo.jp/*
@@ -25534,6 +25533,7 @@ title/IObit Uninstaller - Windows /
 title/LastPass Password Manager -/
 title/LastPass: /
 title/Lucida AI/
+title/McAfee：/
 title/Nekogram - Apps on/
 title/Nekogram - Apps/
 title/Nekogram - Google/

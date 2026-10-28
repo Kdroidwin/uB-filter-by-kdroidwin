@@ -1942,6 +1942,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html^$document
 ||business.slot42.online^$document
 ||businessgiftdepot.com^$document
+||businessonline.trendmicro.co.jp^$document
 ||bustabitseller.com^$document
 ||butai-gengo-danshi.com^$document
 ||butter-delimmo.jp^$document
