@@ -1,9 +1,3 @@
-title/ReFa ヘアケア｜/
-*://www.amazon.co.jp/stores/ReFa/*
-*://www.mtg.gr.jp/*
-*://hands.net/search/?q=refa*
-*://ginza.refa.net/*
-*://dfashion.docomo.ne.jp/brand/refa/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13299,6 +13293,7 @@ title/ReFa ヘアケア｜/
 *://dev.bimm.com/*
 *://devoted.base.shop/*
 *://deyar-sa.com/*
+*://dfashion.docomo.ne.jp/brand/refa/*
 *://dftvtrb.bar/*
 *://dfzmnriie.heidekevin.de/*
 *://dg.dojin.com/*
@@ -14802,6 +14797,7 @@ title/ReFa ヘアケア｜/
 *://gingin.biz/*
 *://ginsalo.com/*
 *://gintachan.com/*
+*://ginza.refa.net/*
 *://giorgiotruffleshop.com/*
 *://giphootchebs.net/*
 *://girl-boy-friends.com/*
@@ -15135,6 +15131,7 @@ title/ReFa ヘアケア｜/
 *://handigvlog1997.com/*
 *://handjp.poxnel.com/*
 *://handmade-park.com/blogs/find-garden/202406080955?srsltid=AfmBOopmgyzsJuZo3EsEctlhjCHQWgkyynwrp08oTVmP4UDqgFf54yAS*
+*://hands.net/search/?q=refa*
 *://handstampart.com/*
 *://handymikan.com/*
 *://hanesokunews.net/*
@@ -22895,6 +22892,7 @@ title/ReFa ヘアケア｜/
 *://www.amazon.co.jp/PC%E3%82%BD%E3%83%95%E3%83%88-iObit/*
 *://www.amazon.co.jp/dp/B0FR8LHL36*
 *://www.amazon.co.jp/stores/KINUJO*
+*://www.amazon.co.jp/stores/ReFa/*
 *://www.amazon.co.jp/stores/YA-MAN%E3%83%A4%E3%83%BC%E3%83%9E%E3%83%B3/*
 *://www.amazon.com/stores/KINUJO/*
 *://www.amigolibreria.com/*
@@ -24028,6 +24026,7 @@ title/ReFa ヘアケア｜/
 *://www.mqfdgqc.cn/*
 *://www.mskanak.com/*
 *://www.msweeneynantucket.com/*
+*://www.mtg.gr.jp/*
 *://www.mtgec.jp/*
 *://www.mtn-world.com/*
 *://www.murakami-keisuke.com/*
@@ -25551,6 +25550,7 @@ title/Official Temu App -/
 title/Pie Adblock - /
 title/Pie Adblock for Safari - /
 title/Plus Messenger - /
+title/ReFa ヘアケア｜/
 title/Revanced - Block Video Ads - /
 title/Revanced - Block Video Ads - G/
 title/Revanced - Block Video Ads - Google Play /
