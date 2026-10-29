@@ -25,3 +25,4 @@ socialxup.com##a[rel*="sponsored"]
 socialxup.com##div[class*="bg-[radial-gradient"]
 gigazine.net###sns-bar
 goldennews.blog.jp##.smp-sale-wrapper
+tamacoin.net##[href^="//ck.jp.ap.valuecommerce.com/servlet/referral"]
