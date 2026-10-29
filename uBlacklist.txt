@@ -1,3 +1,11 @@
+*://bioprogramming-club.jp/*
+*://store.shopping.yahoo.co.jp/bioprogramming/*
+*://item.rakuten.co.jp/bioprogramming/*
+title/【バイオプログラミング】/
+*://hair-children.jp/*
+*://shopping.yahoo.co.jp/category/1/29101/brand/*
+*://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F/*
+*://www.takashimaya.co.jp/beauty/product.html?p_cd=0002419044&sub_cd=001*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
