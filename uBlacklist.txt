@@ -1,13 +1,3 @@
-*://sotsual-anshin.com/*
-*://sotubook.com/*
-*://sotual.com/*
-*://sotukai.net/*
-*://takublo.net/*
-*://townwifi.jp/*
-title/タウンWiFi Wi-Fi利用で/
-title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
-*://cdnvidey.xxxxxxxx.jp/*
-*://xxxxxxxx.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12679,6 +12669,7 @@ title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 *://ccs-sakusei.onelink.me/*
 *://ccsggw.cn/*
 *://cdn.99kia.com/*
+*://cdnvidey.xxxxxxxx.jp/*
 *://cdnvideyco.ho-zuki.com/*
 *://ceagmq.jp/*
 *://ceapronutrdcongo.org/*
@@ -21109,7 +21100,11 @@ title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 *://soriolv.com/*
 *://sorteplus.net/*
 *://sota-001.com/*
+*://sotsual-anshin.com/*
+*://sotual.com/*
+*://sotubook.com/*
 *://sotuen.net/*
+*://sotukai.net/*
 *://soulflowertrain.com/*
 *://souljazzfunk.com/*
 *://soulkitchen758.jp/*
@@ -21571,6 +21566,7 @@ title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 *://taksiduraklari.xyz/*
 *://taku218.com/*
 *://takuanpiri.com/*
+*://takublo.net/*
 *://takudeli.com/*
 *://takulog2020.com/*
 *://takumiworld.xyz/*
@@ -22000,6 +21996,7 @@ title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 *://tourukaustoglee.net/*
 *://towakon.com/*
 *://townlife-aff.com/*
+*://townwifi.jp/*
 *://toy-box777.com/*
 *://toyama-asbb.com/*
 *://toyobaru.jp/*
@@ -25021,6 +25018,7 @@ title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 *://xxx.konan-connect.jp/*
 *://xxx.oz-bread.com/*
 *://xxx.report/*
+*://xxxxxxxx.jp/*
 *://xxxyuxxxka.com/*
 *://xyunyong257.workers.dev/*
 *://xyz-jp.org/*
@@ -25624,6 +25622,8 @@ title/アバスト（Avast）公式 /
 title/エポックタイムズ・ジャパン - Google Play /
 title/スキャンダル速報/
 title/スーパーコピー/
+title/タウンWiFi Wi-Fi利用で/
+title/タウンWiFiでポイ活！Wi-Fi利用がポイ活に/
 title/デトックスマッサージが人気/
 title/バンクで読める？/
 title/マンガアプリおすすめ27選を比較 /
