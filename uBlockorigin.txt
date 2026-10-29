@@ -4,6 +4,7 @@
 ||edepart.sogo-seibu.jp/category/cs060000?brand=001893$document
 ||dfashion.docomo.ne.jp/brand/refa$document
 ||hands.net/search/?q=refa&category=101001007$document
+||cdnvidey.$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
