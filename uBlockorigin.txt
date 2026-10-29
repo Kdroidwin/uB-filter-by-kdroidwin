@@ -1647,6 +1647,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||biochar.studiodavinci.rs^$document
 ||biohacklabperformance.com^$document
 ||biomedicalng.com^$document
+||bioprogramming-club.jp^$document
 ||bipblog.com^$document
 ||bird-daikanyama.online^$document
 ||birthday.sdl.com^$document
@@ -4502,6 +4503,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hai-kai.com^$document
 ||haibandvd.com^$document
 ||haikara-syokudo.jp^$document
+||hair-children.jp^$document
 ||hair^$doc,to=~cattleya.hair|~uppercutdeluxe.hair|~soeur.hair|~hibi.hair|~frames.hair|~dorado.hair|~kiari.hair|~merry.hair|~carne.hair|~jako.hair|~isshy.hair|~cutkozo.hair|~roost.hair|~rutile.hair|~boiboi.hair|~erucala.hair|~haru.hair|~relive.hair|~mic.hair|~remilio.hair|~shiozawa.hair|~kema.hair|~www.sisi.hair|~www.blanca.hair|~kami-byoin.hair|~soleil.hair|~and-b.hair|~cut-jun.hair|~azzurri.hair|~www.success.hair|~nuu.hair|~hairroom-union.hair|~www.mauve.hair|~www.fivestar.hair|~www.azto.hair|~c-and.hair|~yuit.hair|~www.coco-2023.hair|~www.plus-moi.hair|~melon.salo.hair|~filer.salo.hair|~www.toh.hair|~lucas.salo.hair|~rebirth.hair|~www.lovest-kyoto.hair|~www.kamikiriya-kuro.hair|~mine.salo.hair|~tender.hair|~www.tender.hair|~elmo.hair|~kanaeru.hair|~wim.hair|~hadient.hair|~maisha.hair|~smilecc.hair|~jav.hair
 ||hairandthere.frontwp.no^$document
 ||haisoku.jp^$document
@@ -5363,6 +5365,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||itecnote.com^$document
 ||itecnotes.com^$document
 ||itectec.com^$document
+||item.rakuten.co.jp/bioprogramming^$document
 ||item.rakuten.co.jp/electronshop^$document
 ||item.rakuten.co.jp/kinujo^$document
 ||item.rakuten.co.jp/norton^$document
@@ -10217,6 +10220,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sean-j.com^$document
 ||search.google.sky4k.top^$document
 ||search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3^$document
+||search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F^$document
 ||search.rakuten.co.jp/search/mall/IOBit^$document
 ||searcher.s--line.co.jp^$document
 ||seasea.xyz^$document
@@ -10417,6 +10421,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shoppersstop.com^$document
 ||shopping.tbs.co.jp^$document
 ||shopping.yahoo.co.jp/category/1/19247^$document
+||shopping.yahoo.co.jp/category/1/29101/brand^$document
 ||shoppingnet.online^$document
 ||short-net.org^$document
 ||short-sleeper.or.jp^$document
@@ -10863,6 +10868,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||store.makuake.com^$document
 ||store.neolive.co.jp^$document
 ||store.shopping.yahoo.co.jp/allkeyshopjapan^$document
+||store.shopping.yahoo.co.jp/bioprogramming^$document
 ||store.shopping.yahoo.co.jp/electron-everyone^$document
 ||store.shopping.yahoo.co.jp/norton^$document
 ||store.shopping.yahoo.co.jp/stellabeaute-ec^$document

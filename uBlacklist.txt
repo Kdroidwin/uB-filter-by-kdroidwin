@@ -1,11 +1,3 @@
-*://bioprogramming-club.jp/*
-*://store.shopping.yahoo.co.jp/bioprogramming/*
-*://item.rakuten.co.jp/bioprogramming/*
-title/【バイオプログラミング】/
-*://hair-children.jp/*
-*://shopping.yahoo.co.jp/category/1/29101/brand/*
-*://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F/*
-*://www.takashimaya.co.jp/beauty/product.html?p_cd=0002419044&sub_cd=001*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12286,6 +12278,7 @@ title/【バイオプログラミング】/
 *://biochar.studiodavinci.rs/*
 *://biohacklabperformance.com/*
 *://biomedicalng.com/*
+*://bioprogramming-club.jp/*
 *://bipblog.com/*
 *://bird-daikanyama.online/*
 *://birthday.sdl.com/*
@@ -15099,6 +15092,7 @@ title/【バイオプログラミング】/
 *://hai-kai.com/*
 *://haibandvd.com/*
 *://haikara-syokudo.jp/*
+*://hair-children.jp/*
 *://hairandthere.frontwp.no/*
 *://haisoku.jp/*
 *://haitenjp.com.cutestat.com/*
@@ -15948,6 +15942,7 @@ title/【バイオプログラミング】/
 *://itecnote.com/*
 *://itecnotes.com/*
 *://itectec.com/*
+*://item.rakuten.co.jp/bioprogramming/*
 *://item.rakuten.co.jp/electronshop/*
 *://item.rakuten.co.jp/kinujo/*
 *://item.rakuten.co.jp/norton/*
@@ -20695,6 +20690,7 @@ title/【バイオプログラミング】/
 *://sean-j.com/*
 *://search.google.sky4k.top/*
 *://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3/*
+*://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F/*
 *://search.rakuten.co.jp/search/mall/IOBit/*
 *://searcher.s--line.co.jp/*
 *://seasea.xyz/*
@@ -20890,6 +20886,7 @@ title/【バイオプログラミング】/
 *://shoppersstop.com/*
 *://shopping.tbs.co.jp/*
 *://shopping.yahoo.co.jp/category/1/19247/*
+*://shopping.yahoo.co.jp/category/1/29101/brand/*
 *://shoppingnet.online/*
 *://short-net.org/*
 *://short-sleeper.or.jp/*
@@ -21307,6 +21304,7 @@ title/【バイオプログラミング】/
 *://store.makuake.com/*
 *://store.neolive.co.jp/*
 *://store.shopping.yahoo.co.jp/allkeyshopjapan/*
+*://store.shopping.yahoo.co.jp/bioprogramming/*
 *://store.shopping.yahoo.co.jp/electron-everyone/*
 *://store.shopping.yahoo.co.jp/norton/*
 *://store.shopping.yahoo.co.jp/stellabeaute-ec/*
@@ -24531,6 +24529,7 @@ title/【バイオプログラミング】/
 *://www.takafullarabia.com/*
 *://www.takamatsu-webmuseum.jp/*
 *://www.takashidesu.work/*
+*://www.takashimaya.co.jp/beauty/product.html?p_cd=0002419044&sub_cd=001*
 *://www.takeuchitoshinobu.jp/*
 *://www.talentsguadalajara.com/*
 *://www.tamada-tatami.jp/*
@@ -25604,6 +25603,7 @@ title/【HOT】/
 title/【HOT，新品】/
 title/【※※※】/
 title/【】/
+title/【バイオプログラミング】/
 title/【楽天市場】加湿器 超音波/
 title/【正規品、中古】/
 title/【正規品、未開封品】/
