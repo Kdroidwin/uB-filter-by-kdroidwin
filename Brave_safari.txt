@@ -610,6 +610,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ad-nex.com^
 ||ad5a0.cn^$document
 ||adablog123.blog.fc2.com^$document
+||adam.jp^$document
 ||adathi-havicoco.com^$document
 ||adblock-browser.jp.uptodown.com^$document
 ||adblockbrowser.org^$document
@@ -1873,6 +1874,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||brand-website-alpha.vercel.app^$document
 ||branddax.com^$document
 ||brandjewelry.shop^$document
+||brandsecurity.gmo^$document
 ||brandsport.in^$document
 ||braviusvigorizante.com^$document
 ||bread-everyday.com^$document
@@ -2325,6 +2327,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cogl3d.org^$document
 ||coideco.jp^$document
 ||coin-media.jp^$document
+||coin.z.com^$document
 ||coindcx.pro^$document
 ||cojiyuki.com^$document
 ||cojlqcri.support^$document
@@ -7080,6 +7083,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mimichino.com^$document
 ||mimicle.com^$document
 ||mimiflow.com^$document
+||mimifuwacc.hatenablog.com/entry/2026/07/13^$document
 ||mimika-life.com^$document
 ||mimikkuma.com^$document
 ||mimosa-313.com^$document
@@ -10787,6 +10791,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sswfan.com^$document
 ||sswirables.com^$document
 ||st65.demo-samples-website.xyz^$document
+||stablecoin.z.com^$document
 ||stablepharmacy.com^$document
 ||stackfinder.net^$document
 ||stackguides.com^$document
@@ -12733,6 +12738,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.brain-s.com^$document
 ||www.brandnew-amy.com^$document
 ||www.brandycampcrew.com^$document
+||www.brantect.com^$document
 ||www.breguet.cn^$document
 ||www.breitbart.com^$document
 ||www.brenzebra.com^$document
@@ -15050,6 +15056,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||zdcspzvg.r.us-east-1.awstrack.me^$document
 ||ze-pa.net^$document
 ||zedpalindia.com^$document
+||zeibit.ai^$document
 ||zellijj.com^$document
 ||zemi.email^$document
 ||zen-seer.com^$document
