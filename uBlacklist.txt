@@ -1,3 +1,10 @@
+*://brandsecurity.gmo/*
+*://www.brantect.com/*
+*://zeibit.ai/*
+*://coin.z.com/*
+*://adam.jp/*
+*://stablecoin.z.com/*
+*://mimifuwacc.hatenablog.com/entry/2026/07/13/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
