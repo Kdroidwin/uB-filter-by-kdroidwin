@@ -3128,6 +3128,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ecsuchi.cn^$document
 ||eded-magazin.com^$document
 ||eden-emulator.com^$document
+||edenemu.com^$document
+||edenemulators.com^$document
 ||edepart.sogo-seibu.jp/category/cs060000?brand=001893$document
 ||ediflights.co.uk^$document
 ||edisontae.com^$document
@@ -7330,6 +7332,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||monolith-j.com^$document
 ||monologue-style.com^$document
 ||monosola.com^$document
+||monotive.jp^$document
 ||monpuran.com^$document
 ||monta-blog.net^$document
 ||montblancfa.com^$document
@@ -9067,6 +9070,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||p7fcbp7.r.ap-northeast-1.awstrack.me^$document
 ||pachi-media.com^$document
 ||pachimaga.com^$document
+||pachitou.com^$document
 ||pacific-meta.co.jp^$document
 ||padmaavat.jp^$document
 ||page131.blog.2nt.com^$document
@@ -11736,6 +11740,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tsurumifes.yokohama^$document
 ||tsutsusao.com^$document
 ||tsuzuri-uta.com^$document
+||ttensan.exblog.jp^$document
 ||ttf--koubo-jp.m17n.cn^$document
 ||tttmanga.lsv.jp^$document
 ||tube-navi.jp^$document
