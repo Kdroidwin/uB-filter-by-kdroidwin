@@ -1,3 +1,8 @@
+*://pachitou.com/*
+*://ttensan.exblog.jp/*
+*://monotive.jp/*
+*://edenemulators.com/*
+*://edenemu.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
