@@ -2906,6 +2906,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-free.avgle.blog^$document
 ||doujin-hiroba.com^$document
 ||doujin-hive.com^$document
+||doujin-hub.net^$document
 ||doujin-library.com^$document
 ||doujin-love.com^$document
 ||doujin-mangas.com^$document
@@ -4915,6 +4916,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomisiri.com^$document
 ||hitomissav.cloudfree.jp^$document
 ||hitomissav02.com^$document
+||hitomissav07.com^$document
 ||hitomlaa.cloudfree.jp^$document
 ||hitononeko.com^$document
 ||hitorisanfan.com^$document
