@@ -1,7 +1,3 @@
-*://note.com/ochyai/*
-*://varycue.jp/*
-*://dododo-doujin.com/*
-*://doujin-hentaicomic.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13427,6 +13423,7 @@
 *://docs.usbx.me/*
 *://doctor-assist.japan-entertainment.mhx.jp/*
 *://doctor-pie.com/*
+*://dododo-doujin.com/*
 *://dodongmynghesaigon.com/*
 *://doga-tanken.com/*
 *://doga.hikakujoho.com/*
@@ -13515,6 +13512,7 @@
 *://doujin-erokyonyu.adult-h.com/*
 *://doujin-eromanga.adult-h.com/*
 *://doujin-free.avgle.blog/*
+*://doujin-hentaicomic.com/*
 *://doujin-hiroba.com/*
 *://doujin-hive.com/*
 *://doujin-hub.net/*
@@ -18899,6 +18897,7 @@
 *://note.com/nrhdojin/*
 *://note.com/nukegala83/*
 *://note.com/nyam_stady/*
+*://note.com/ochyai/*
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
 *://note.com/omochi0014/*
@@ -22382,6 +22381,7 @@
 *://vanilla-boy.com/*
 *://variety-fan.com/*
 *://variety.hatenablog.com/*
+*://varycue.jp/*
 *://vasenuja.xyz/*
 *://vashifinancy.ru/*
 *://vazmedicalsos.com/*
