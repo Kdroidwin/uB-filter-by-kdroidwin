@@ -1,4 +1,3 @@
-*://note.com/sironeko_mind/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -19028,6 +19027,7 @@
 *://note.com/side_hustle_40/*
 *://note.com/sim_mobile/*
 *://note.com/simsmagadget/*
+*://note.com/sironeko_mind/*
 *://note.com/skkoto/*
 *://note.com/sknet_sougou*
 *://note.com/skt0302/*

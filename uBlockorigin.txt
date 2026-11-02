@@ -8495,6 +8495,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/side_hustle_40^$document
 ||note.com/sim_mobile^$document
 ||note.com/simsmagadget^$document
+||note.com/sironeko_mind^$document
 ||note.com/skkoto^$document
 ||note.com/sknet_sougou^$document
 ||note.com/skt0302^$document
