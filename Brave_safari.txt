@@ -9912,6 +9912,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ritsuto.jp^$document
 ||ritsuto.org^$document
 ||ritual-profi.ru^$document
+||rivo.vin^$document
 ||rizap.jp^$document
 ||rk91v2nf.r.us-east-1.awstrack.me^$document
 ||rkelsey.com^$document

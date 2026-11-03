@@ -1,4 +1,3 @@
-*://rivo.vin/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -20401,6 +20400,7 @@
 *://ritsuto.jp/*
 *://ritsuto.org/*
 *://ritual-profi.ru/*
+*://rivo.vin/*
 *://rizap.jp/*
 *://rk91v2nf.r.us-east-1.awstrack.me/*
 *://rkelsey.com/*
