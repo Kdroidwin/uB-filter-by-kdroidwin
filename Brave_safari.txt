@@ -374,6 +374,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||2ndweb.jp^$document
 ||2q8p4.cn^$document
 ||2tempo.shop^$document
+||2week.net^$document
 ||2xmlabs.com^$document
 ||3-ta.com^$document
 ||3.211.208.96^$document
@@ -14121,6 +14122,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.smshero.co^$document
 ||www.smshero.com^$document
 ||www.smshero.vip^$document
+||www.snapyt.app^$document
 ||www.so-le.net^$document
 ||www.soft222.com^$document
 ||www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml^$document

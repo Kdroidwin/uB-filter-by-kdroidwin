@@ -1,5 +1,3 @@
-*://www.snapyt.app/*
-*://2week.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11034,6 +11032,7 @@
 *://2ndweb.jp/*
 *://2q8p4.cn/*
 *://2tempo.shop/*
+*://2week.net/*
 *://2xmlabs.com/*
 *://3-ta.com/*
 *://3.211.208.96/*
@@ -24476,6 +24475,7 @@
 *://www.smshero.co/*
 *://www.smshero.com/*
 *://www.smshero.vip/*
+*://www.snapyt.app/*
 *://www.so-le.net/*
 *://www.soft222.com/*
 *://www.softpedia.com/*
