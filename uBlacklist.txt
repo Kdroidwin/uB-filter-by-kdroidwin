@@ -1,4 +1,5 @@
 *://www.snapyt.app/*
+*://2week.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
