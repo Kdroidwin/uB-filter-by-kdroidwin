@@ -10376,6 +10376,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||shinnyu1-guide.com^$document
 ||shinobinokuni.jp^$document
 ||shinobunbun.com^$document
+||shinonomemegu.com^$document
 ||shinorilog.com^$document
 ||shinr.info^$document
 ||shinshu-creative.jp^$document
@@ -13661,6 +13662,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.mikecar.co.th^$document
 ||www.mikuramall.com^$document
 ||www.milanoo.com/jp/c1109/1.html^$document
+||www.milky-holmes-ofc.com^$document
 ||www.mimarketingsolutions.in^$document
 ||www.mindjeweller.com^$document
 ||www.mine-univ-freelance.com^$document
