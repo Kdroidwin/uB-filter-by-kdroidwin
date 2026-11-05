@@ -1554,6 +1554,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bboy48.com^$document
 ||bbqsmokersshop.com^$document
 ||bbs-net.com^$document
+||bbssonline.jp^$document
 ||bby.me^$document
 ||bcqqvtlk.property^$document
 ||bcsredcross.com^$document
@@ -4724,6 +4725,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||help.cybozu.cn^$document
 ||help.nudge.works^$document
 ||help.totalav.com^$document
+||helpcenter.trendlife.com^$document
 ||helpcurenow.org^$document
 ||helpfulinfo-byrc.com^$document
 ||helporganisemyeverything.app^$document
@@ -5379,6 +5381,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||item.rakuten.co.jp/electronshop^$document
 ||item.rakuten.co.jp/kinujo^$document
 ||item.rakuten.co.jp/norton^$document
+||item.rakuten.co.jp/trendmicro^$document
 ||item.woomy.me^$document
 ||itemcube.jp^$document
 ||items.customlife.co.jp^$document
@@ -8542,6 +8545,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/tbola^$document
 ||note.com/teamo_kidzania/n/nb60ef983e453^$document
 ||note.com/teba_eleven^$document
+||note.com/tech_gear^$document
 ||note.com/techdaichi^$document
 ||note.com/techpapa_lab^$document
 ||note.com/tenorsharejp^$document
@@ -10058,6 +10062,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sa.com^$document,to=~sfec.sa.com|~sac.sa.com
 ||sa.rdy.jp^$document
 ||saabu.ba-koshi.com^$document
+||saas.imitsu.jp^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
 ||sac-a-main.org^$document
@@ -10235,6 +10240,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||seamaxastillero.com^$document
 ||sean-j.com^$document
 ||search.google.sky4k.top^$document
+||search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC^$document
 ||search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3^$document
 ||search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F^$document
 ||search.rakuten.co.jp/search/mall/IOBit^$document
@@ -10296,6 +10302,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||sergiolevinsky.com^$document
 ||serorino-hitorigoto.com^$document
 ||server2.jpware.com^$document
+||service.ocn.ne.jp/option/security/vb^$document
 ||services.awaisora.com^$document
 ||servletcentral.com^$document
 ||servpaypay.com^$document
@@ -12067,6 +12074,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||virtualmeetingsolutions.online^$document
 ||virtualviasa.top^$document
 ||virtusan.xyz^$document
+||virusbuster.jp^$document
 ||visasyst.com^$document
 ||vision-digital.co^$document
 ||visionvinylflooring.com^$document
@@ -12339,6 +12347,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||windows-activators.com^$document
 ||windows-and-office-iso-downloader-premium-2021-2-2.updatestar.com^$document
 ||windows-permanent-activator-ultimate.updatestar.com^$document
+||windows.rivovpn.com^$document
 ||windows10propermanentactivator.blogspot.com^$document
 ||windows64.net^$document
 ||windows7.cn^$document
@@ -12577,6 +12586,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.alqalmouninstitute.com^$document
 ||www.alqfvxf.cn^$document
 ||www.amazon.bygg199.top^$document
+||www.amazon.co.jp/%E3%80%90%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0%E7%89%88%E3%80%91%E3%80%90%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%95%E3%83%88-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-Android%E5%AF%BE%E5%BF%9C%E3%80%90PC-%E3%82%B9%E3%83%9E%E3%83%9B%E5%AF%BE%E5%BF%9C%E3%80%91-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3^$document
 ||www.amazon.co.jp/dp/4344042050^$document
 ||www.amazon.co.jp/PC%E3%82%BD%E3%83%95%E3%83%88-iObit^$document
 ||www.amazon.co.jp/shop/influencer-2b79c26a$document
@@ -12997,6 +13007,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.energie-biomasse.fr^$document
 ||www.enginez.jp^$document
 ||www.enigmasoftware.jp^$document
+||www.enjoy.jp/asp/vbm^$document
 ||www.enshadower.me^$document
 ||www.entame-disco.com^$document
 ||www.entameplus.jp^$document

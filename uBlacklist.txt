@@ -1,15 +1,3 @@
-*://note.com/tech_gear/*
-*://virusbuster.jp/*
-*://helpcenter.trendlife.com/*
-*://bbssonline.jp/*
-title/ウイルスバスター モバイル/
-*://saas.imitsu.jp/*
-*://www.amazon.co.jp/%E3%80%90%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0%E7%89%88%E3%80%91%E3%80%90%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%95%E3%83%88-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-Android%E5%AF%BE%E5%BF%9C%E3%80%90PC-%E3%82%B9%E3%83%9E%E3%83%9B%E5%AF%BE%E5%BF%9C%E3%80%91-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3/*
-*://item.rakuten.co.jp/trendmicro/*
-*://www.enjoy.jp/asp/vbm/*
-*://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC/*
-*://service.ocn.ne.jp/option/security/vb/*
-*://windows.rivovpn.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12198,6 +12186,7 @@ title/ウイルスバスター モバイル/
 *://bboy48.com/*
 *://bbqsmokersshop.com/*
 *://bbs-net.com/*
+*://bbssonline.jp/*
 *://bby.me/*
 *://bcsredcross.com/*
 *://bd.vizeo.eu/*
@@ -15324,6 +15313,7 @@ title/ウイルスバスター モバイル/
 *://help.cybozu.cn/*
 *://help.nudge.works/*
 *://help.totalav.com/*
+*://helpcenter.trendlife.com/*
 *://helpcurenow.org/*
 *://helpfulinfo-byrc.com/*
 *://helporganisemyeverything.app/*
@@ -15968,6 +15958,7 @@ title/ウイルスバスター モバイル/
 *://item.rakuten.co.jp/electronshop/*
 *://item.rakuten.co.jp/kinujo/*
 *://item.rakuten.co.jp/norton/*
+*://item.rakuten.co.jp/trendmicro/*
 *://item.woomy.me/*
 *://itemcube.jp/*
 *://items.customlife.co.jp/*
@@ -19086,6 +19077,7 @@ title/ウイルスバスター モバイル/
 *://note.com/tbola/*
 *://note.com/teamo_kidzania/n/nb60ef983e453
 *://note.com/teba_eleven/*
+*://note.com/tech_gear/*
 *://note.com/techdaichi/*
 *://note.com/techpapa_lab/*
 *://note.com/tenorsharejp/*
@@ -20549,6 +20541,7 @@ title/ウイルスバスター モバイル/
 *://sa-ta-mi.com/*
 *://sa.rdy.jp/*
 *://saabu.ba-koshi.com/*
+*://saas.imitsu.jp/*
 *://saburokuday.jp/*
 *://sabusuku.net/*
 *://sac-a-main.org/*
@@ -20717,6 +20710,7 @@ title/ウイルスバスター モバイル/
 *://seamaxastillero.com/*
 *://sean-j.com/*
 *://search.google.sky4k.top/*
+*://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC/*
 *://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3/*
 *://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC+4d+%E5%85%AC%E5%BC%8F/*
 *://search.rakuten.co.jp/search/mall/IOBit/*
@@ -20776,6 +20770,7 @@ title/ウイルスバスター モバイル/
 *://sergiolevinsky.com/*
 *://serorino-hitorigoto.com/*
 *://server2.jpware.com/*
+*://service.ocn.ne.jp/option/security/vb/*
 *://services.awaisora.com/*
 *://servletcentral.com/*
 *://servpaypay.com/*
@@ -22462,6 +22457,7 @@ title/ウイルスバスター モバイル/
 *://virtualmeetingsolutions.online/*
 *://virtualviasa.top/*
 *://virtusan.xyz/*
+*://virusbuster.jp/*
 *://visasyst.com/*
 *://vision-digital.co/*
 *://visionvinylflooring.com/*
@@ -22703,6 +22699,7 @@ title/ウイルスバスター モバイル/
 *://windows-activators.com/*
 *://windows-and-office-iso-downloader-premium-2021-2-2.updatestar.com/*
 *://windows-permanent-activator-ultimate.updatestar.com/*
+*://windows.rivovpn.com/*
 *://windows10propermanentactivator.blogspot.com/*
 *://windows64.net/*
 *://windows7.cn/*
@@ -22932,6 +22929,7 @@ title/ウイルスバスター モバイル/
 *://www.alqalmouninstitute.com/*
 *://www.alqfvxf.cn/*
 *://www.amazon.bygg199.top/*
+*://www.amazon.co.jp/%E3%80%90%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0%E7%89%88%E3%80%91%E3%80%90%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%95%E3%83%88-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-Android%E5%AF%BE%E5%BF%9C%E3%80%90PC-%E3%82%B9%E3%83%9E%E3%83%9B%E5%AF%BE%E5%BF%9C%E3%80%91-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3/*
 *://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84-JP18BK-%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/dp/B0FR8LHL36
 *://www.amazon.co.jp/Norton-%E3%80%90Amazon-co-jp*
 *://www.amazon.co.jp/PC%E3%82%BD%E3%83%95%E3%83%88-iObit/*
@@ -23354,6 +23352,7 @@ title/ウイルスバスター モバイル/
 *://www.energie-biomasse.fr/*
 *://www.enginez.jp/*
 *://www.enigmasoftware.jp/*
+*://www.enjoy.jp/asp/vbm/*
 *://www.enshadower.me/*
 *://www.entame-disco.com/*
 *://www.entameplus.jp/*
@@ -25663,6 +25662,7 @@ title/は無料で読める？海賊/
 title/を読む方法！最新刊も読める？/
 title/アバスト モバイル セキュリティ/
 title/アバスト（Avast）公式 /
+title/ウイルスバスター モバイル/
 title/エポックタイムズ・ジャパン - Google Play /
 title/スキャンダル速報/
 title/スーパーコピー/
