@@ -4773,6 +4773,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||herosms.io^$document
 ||herosms.vip^$document
 ||herozz.co.jp^$document
+||herp.careers/v1/fabius^$document
 ||hey-chenco.com^$document
 ||heyagasuki.com^$document
 ||hf.ru^$document
