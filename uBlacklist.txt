@@ -1,3 +1,4 @@
+*://herp.careers/v1/fabius/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
