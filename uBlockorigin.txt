@@ -15170,3 +15170,4 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@||esta.cbp.dhs.gov$document
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
+www.joysound.com#@#+js(prevent-addEventListener, DOMContentLoaded, ready)
