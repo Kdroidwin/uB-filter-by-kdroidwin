@@ -7077,6 +7077,7 @@ www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] >
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="namikyoto.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="namine-kairo.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="naminotes.com"][data-ved]:upward(3)
+www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="naminoueshoten.com"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="namiya-movie.jp"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="nanaco.onelink.me"][data-ved]:upward(3)
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class] > a[href*="nanadaru.net"][data-ved]:upward(3)

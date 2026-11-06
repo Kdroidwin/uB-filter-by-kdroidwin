@@ -1,4 +1,3 @@
-*://naminoueshoten.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -18084,6 +18083,7 @@
 *://namikyoto.com/*
 *://namine-kairo.jp/*
 *://naminotes.com/*
+*://naminoueshoten.com/*
 *://namiya-movie.jp/*
 *://nanaco.onelink.me/*
 *://nanadaru.net/*

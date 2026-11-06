@@ -7544,6 +7544,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||namikyoto.com^$document
 ||namine-kairo.jp^$document
 ||naminotes.com^$document
+||naminoueshoten.com^$document
 ||namiya-movie.jp^$document
 ||nanaco.onelink.me^$document
 ||nanadaru.net^$document
