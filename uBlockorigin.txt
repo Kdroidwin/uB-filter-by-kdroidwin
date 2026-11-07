@@ -216,6 +216,9 @@ thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/)
 uptodown.com##.active.xapk.download.button
 uptodown.com##.instructions-list
 www.google.*###main div > div[data-hveid]:not([class]) div[class] > div[class]:has-text(HOT ! )
+www.joysound.com#@#+js(set-constant, document.body.oncontextmenu, null, 3)
+www.joysound.com#@#+js(set-constant, document.body.oncopy, null, 3)
+www.joysound.com#@#+js(set-constant, document.body.onselectstart, null, 3)
 www.missav-j.com###player-download-btn
 www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
@@ -15170,6 +15173,3 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 @@||esta.cbp.dhs.gov$document
 @@||smbc-card.com^$document
 @@||www.mcafee.com/blogs^$document
-www.joysound.com#@#+js(set-constant, document.body.oncopy, null, 3)
-www.joysound.com#@#+js(set-constant, document.body.onselectstart, null, 3)
-www.joysound.com#@#+js(set-constant, document.body.oncontextmenu, null, 3)
