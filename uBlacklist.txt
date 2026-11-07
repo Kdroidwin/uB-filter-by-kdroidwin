@@ -1,4 +1,3 @@
-*://gofile-ero.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14922,6 +14921,7 @@
 *://goappsplay.com/*
 *://gobyou.jp/*
 *://gocmod.com/*
+*://gofile-ero.com/*
 *://gofile-pass.mystrikingly.com/*
 *://gofile-sns.com/*
 *://gofile.my.canva.site/*
