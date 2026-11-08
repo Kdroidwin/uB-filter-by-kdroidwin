@@ -1,7 +1,3 @@
-*://note.com/_maru_oo00/*
-*://seijyouikousatu.com/*
-*://oneworldventuresinc.com/*
-*://mnim.org/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -17779,6 +17775,7 @@
 *://mmoreshop.com/*
 *://mmsgbr.com/*
 *://mn.metaphase.cn/*
+*://mnim.org/*
 *://mnogosdelal.ru/*
 *://mnokiwami.com/*
 *://mntsigorta.com/*
@@ -18468,6 +18465,7 @@
 *://note.com/88gold88/*
 *://note.com/88shoukai/*
 *://note.com/_company/*
+*://note.com/_maru_oo00/*
 *://note.com/accha123/*
 *://note.com/acehaoreda11/n/n5b5727be25e2*
 *://note.com/addness_recruit/*
@@ -19419,6 +19417,7 @@
 *://onepiece-hq.com/*
 *://onestep.thick.jp/*
 *://onetouchceramic.com/*
+*://oneworldventuresinc.com/*
 *://ongab.ru/*
 *://ongaku-seikatsu.hateblo.jp/*
 *://ongakufan.net/*
@@ -20749,6 +20748,7 @@
 *://seijichishin.com/*
 *://seijikanews.com/*
 *://seijikanojoho.com/*
+*://seijyouikousatu.com/*
 *://seikaku-bon.jp/*
 *://seikasmemolog.com/*
 *://seikatsusha.tokyo/*

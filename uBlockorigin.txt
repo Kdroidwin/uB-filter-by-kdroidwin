@@ -7233,6 +7233,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||mmoreshop.com^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
+||mnim.org^$document
 ||mnogosdelal.ru^$document
 ||mnokiwami.com^$document
 ||mntsigorta.com^$document
@@ -7939,6 +7940,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/88gold88^$document
 ||note.com/88shoukai^$document
 ||note.com/_company^$document
+||note.com/_maru_oo00^$document
 ||note.com/accha123^$document
 ||note.com/addness_recruit^$document
 ||note.com/afy2525^$document
@@ -8894,6 +8896,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||onepiece-hq.com^$document
 ||onestep.thick.jp^$document
 ||onetouchceramic.com^$document
+||oneworldventuresinc.com^$document
 ||ongab.ru^$document
 ||ongaku-seikatsu.hateblo.jp^$document
 ||ongakufan.net^$document
@@ -10279,6 +10282,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||seijichishin.com^$document
 ||seijikanews.com^$document
 ||seijikanojoho.com^$document
+||seijyouikousatu.com^$document
 ||seika-riron.hatenablog.com^$document
 ||seikaku-bon.jp^$document
 ||seikasmemolog.com^$document
