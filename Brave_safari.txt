@@ -3495,6 +3495,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||erosummary.2chblog.jp^$document
 ||eroticdoujinhouse.com^$document
 ||erotiti.com^$document
+||eroweb-ranking.com^$document
 ||erp.nexessence.com^$document
 ||errorsfixing.com^$document
 ||ertwas.com^$document
@@ -4757,6 +4758,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hentai.konan-connect.jp^$document
 ||hentaidoujin.net^$document
 ||hentaihitomi.com^$document
+||hentairaw.cloudfree.jp^$document
 ||her-rose.com^$document
 ||heralbony-wall-art-museum.com^$document
 ||heraldsuites.com^$document
@@ -9686,6 +9688,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rawcomic8.wew.jp^$document
 ||rawdoujin.wew.jp^$document
 ||rawhentai.wpx.jp^$document
+||rawhitomi.cloudfree.jp^$document
 ||rawmanga.jp^$document
 ||rawmanga.wew.jp^$document
 ||rawmanga.wpx.jp^$document
