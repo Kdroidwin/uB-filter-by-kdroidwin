@@ -1,8 +1,6 @@
 ! Title: uB-filter-by-kdroidwin(uBO&AdGuard)
 ! Homepage: https://github.com/Kdroidwin/uB-filter-by-kdroidwin
 ! Expires: 2 hours (update frequency)
-||cdnvidy.$document
-||cdnvideyco.$document
 *click.php?key*type*age*$document
 *gad_source=*&gad_campaignid$document
 .*.cdn.digitaloceanspaces.com$document
@@ -2061,8 +2059,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cdn.99kia.com^$document
 ||cdnvidey.$document
 ||cdnvidey.xxxxxxxx.jp^$document
+||cdnvideyco.$document
 ||cdnvideyco.*.com^
 ||cdnvideyco.ho-zuki.com^$document
+||cdnvidy.$document
 ||ceagmq.jp^$document
 ||ceapronutrdcongo.org^$document
 ||cebidm8t.tambuntuition.com^$document
@@ -12136,6 +12136,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||voice-security.jp^$document
 ||voice.hnt.co.jp^$document
 ||voidcc.com^$document
+||volkswagendesign.com^$document
 ||vooe.ru^$document
 ||vook.vc^$document
 ||votum.ru^$document

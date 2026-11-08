@@ -2059,8 +2059,10 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||cdn.99kia.com^$document
 ||cdnvidey.$document
 ||cdnvidey.xxxxxxxx.jp^$document
+||cdnvideyco.$document
 ||cdnvideyco.*.com^
 ||cdnvideyco.ho-zuki.com^$document
+||cdnvidy.$document
 ||ceagmq.jp^$document
 ||ceapronutrdcongo.org^$document
 ||cebidm8t.tambuntuition.com^$document
@@ -12134,6 +12136,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||voice-security.jp^$document
 ||voice.hnt.co.jp^$document
 ||voidcc.com^$document
+||volkswagendesign.com^$document
 ||vooe.ru^$document
 ||vook.vc^$document
 ||votum.ru^$document
