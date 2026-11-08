@@ -1,6 +1,3 @@
-*://tfz.lpro-pm5.com/*
-*://lpro-pm5.com/*
-*://king-counter.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -16483,6 +16480,7 @@
 *://kin5150.com/*
 *://kindai.raku-uru.jp/*
 *://kineticharbor.com/*
+*://king-counter.com/*
 *://kingbraintech.com/*
 *://kingdom10.jp/*
 *://kingdomlegacyministries.org/*
@@ -17068,6 +17066,7 @@
 *://lp.nito1.com/*
 *://lp.solomon-world.jp/*
 *://lpro-pm4.com/*
+*://lpro-pm5.com/*
 *://lpro-pm6.com/*
 *://lps.nanoartmarket.com/*
 *://lqvaqpeq.com/*
@@ -21744,6 +21743,7 @@
 *://tevetamw.com/*
 *://texasoutlawsusa.com/*
 *://tfg-fc.net/*
+*://tfz.lpro-pm5.com/*
 *://tga.co.jp/*
 *://tgisb.education/*
 *://tgmnyih.digital/*

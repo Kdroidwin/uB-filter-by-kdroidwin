@@ -5914,6 +5914,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kin5150.com^$document
 ||kindai.raku-uru.jp^$document
 ||kineticharbor.com^$document
+||king-counter.com^$document
 ||kingbraintech.com^$document
 ||kingdom10.jp^$document
 ||kingdomlegacyministries.org^$document
@@ -6511,6 +6512,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||lp.nito1.com^$document
 ||lp.solomon-world.jp^$document
 ||lpro-pm4.com^$document
+||lpro-pm5.com^$document
 ||lpro-pm6.com^$document
 ||lps.nanoartmarket.com^$document
 ||lqvaqpeq.com^$document
@@ -11325,6 +11327,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tevetamw.com^$document
 ||texasoutlawsusa.com^$document
 ||tfg-fc.net^$document
+||tfz.lpro-pm5.com^$document
 ||tga.co.jp^$document
 ||tgisb.education^$document
 ||tgmnyih.digital^$document
