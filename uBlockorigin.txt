@@ -2780,6 +2780,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dlmarket.jp^$document
 ||dlold.net^$document
 ||dlounge.net^$document
+||dlrank.wpx.jp^$document
 ||dlsite-pro.adult-h.com^$document
 ||dlsite.estudiopepa.jp^$document
 ||dlsite.hrecords.jp^$document
@@ -2969,6 +2970,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujinhook.net^$document
 ||doujinichiba.com^$document
 ||doujinkan.com^$document
+||doujinlabo.jp^$document
 ||doujinlabo.net^$document
 ||doujinlink.com^$document
 ||doujinlive.net^$document
@@ -4926,6 +4928,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hitomin.wpx.jp^$document
 ||hitomiraw-doujin.com^$document
 ||hitomiraw-manga01.com^$document
+||hitomiraw.cloudfree.jp^$document
 ||hitomiraw.com^$document
 ||hitomisiri.com^$document
 ||hitomissav.cloudfree.jp^$document
@@ -7183,6 +7186,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||missav58.jp^$document
 ||missav59.jp^$document
 ||missav60.jp^$document
+||missav64.jp^$document
 ||missavhitomi.cloudfree.jp^$document
 ||missavtv.com^$document
 ||missfanzaav.com^$document
@@ -7320,6 +7324,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||momonga.hitomi-manga-hentai.com^$document
 ||momonga.humi.jp^$document
 ||momongamanga.livedoor.blog^$document
+||momongaraw.cloudfree.jp^$document
 ||momongaraw.jp^$document
 ||momongarawhitomi.jp^$document
 ||momongasan.com^$document
@@ -7563,6 +7568,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nanaehamanoyu.jp^$document
 ||nanairostar.com^$document
 ||nanakai-movie.jp^$document
+||nanaketa-lab.com^$document
 ||nanalucky.jp^$document
 ||nanameyomi-journal.com^$document
 ||nananamoe.com^$document
@@ -7800,6 +7806,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ngo-jvc.info^$document
 ||nh-sports.jp^$document
 ||nhaxephuonganhphanthiet.com^$document
+||nhentai-japan-only.net^$document
 ||nhk-jyoshi.club^$document
 ||nhrenshou.cn^$document
 ||ni.nogomi.ru^$document
@@ -9700,6 +9707,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rawmanga.wew.jp^$document
 ||rawmanga.wpx.jp^$document
 ||rawmangaraw.com^$document
+||rawmissav.cloudfree.jp^$document
 ||ray-terrace.co.jp/cheap-vpn^$document
 ||ray-terrace.co.jp^$document
 ||razy.online^$document
@@ -11534,6 +11542,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tokupine.com^$document
 ||tokutas.com^$document
 ||tokyo-ai-sch.com^$document
+||tokyo-anime-news.jp^$document
 ||tokyo-animetourism-2023.jp^$document
 ||tokyo-animetourism.jp^$document
 ||tokyo-city-girl.com^$document

@@ -1,12 +1,3 @@
-*://rawmissav.cloudfree.jp/*
-*://nanaketa-lab.com/*
-*://nhentai-japan-only.net/*
-*://dlrank.wpx.jp/*
-*://momongaraw.cloudfree.jp/*
-*://doujinlabo.jp/*
-*://tokyo-anime-news.jp/*
-*://hitomiraw.cloudfree.jp/*
-*://missav64.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -13392,6 +13383,7 @@
 *://dlmarket.jp/*
 *://dlold.net/*
 *://dlounge.net/*
+*://dlrank.wpx.jp/*
 *://dlsite-pro.adult-h.com/*
 *://dlsite.estudiopepa.jp/*
 *://dlsite.hrecords.jp/*
@@ -13580,6 +13572,7 @@
 *://doujinhook.net/*
 *://doujinichiba.com/*
 *://doujinkan.com/*
+*://doujinlabo.jp/*
 *://doujinlabo.net/*
 *://doujinlink.com/*
 *://doujinlive.net/*
@@ -15517,6 +15510,7 @@
 *://hitomin.wpx.jp/*
 *://hitomiraw-doujin.com/*
 *://hitomiraw-manga01.com/*
+*://hitomiraw.cloudfree.jp/*
 *://hitomiraw.com/*
 *://hitomisiri.com/*
 *://hitomissav.cloudfree.jp/*
@@ -17732,6 +17726,7 @@
 *://missav58.jp/*
 *://missav59.jp/*
 *://missav60.jp/*
+*://missav64.jp/*
 *://missavhitomi.cloudfree.jp/*
 *://missavtv.com/*
 *://missfanzaav.com/*
@@ -17867,6 +17862,7 @@
 *://momonga.hitomi-manga-hentai.com/*
 *://momonga.humi.jp/*
 *://momongamanga.livedoor.blog/*
+*://momongaraw.cloudfree.jp/*
 *://momongaraw.jp/*
 *://momongarawhitomi.jp/*
 *://momongasan.com/*
@@ -18106,6 +18102,7 @@
 *://nanaehamanoyu.jp/*
 *://nanairostar.com/*
 *://nanakai-movie.jp/*
+*://nanaketa-lab.com/*
 *://nanalucky.jp/*
 *://nanameyomi-journal.com/*
 *://nananamoe.com/*
@@ -18333,6 +18330,7 @@
 *://ngo-jvc.info/*
 *://nh-sports.jp/*
 *://nhaxephuonganhphanthiet.com/*
+*://nhentai-japan-only.net/*
 *://nhk-jyoshi.club/*
 *://nhrenshou.cn/*
 *://ni.nogomi.ru/*
@@ -20202,6 +20200,7 @@
 *://rawmanga.wew.jp/*
 *://rawmanga.wpx.jp/*
 *://rawmangaraw.com/*
+*://rawmissav.cloudfree.jp/*
 *://ray-terrace.co.jp/cheap-vpn/*
 *://razy.online/*
 *://rcc6kxk5.r.us-east-1.awstrack.me/*
@@ -21949,6 +21948,7 @@
 *://tokupine.com/*
 *://tokutas.com/*
 *://tokyo-ai-sch.com/*
+*://tokyo-anime-news.jp/*
 *://tokyo-animetourism-2023.jp/*
 *://tokyo-animetourism.jp/*
 *://tokyo-city-girl.com/*
