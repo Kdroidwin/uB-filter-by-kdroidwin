@@ -1,10 +1,3 @@
-*://campsiteno2.com/*
-*://kyoiku-plaza-chuo.tokyo/*
-*://e-renkei.net/*
-*://oita-wings.jp/*
-*://michi-info.fu-hot-web.jp/*
-*://www.miyagi-hatarakikatakaikaku.jp/*
-*://www.katsushikaku-kyufukin-r6.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12629,6 +12622,7 @@
 *://camp.trainocate.co.jp/*
 *://campanellafishing.shogic.xyz/*
 *://camplaurelcreek.com/*
+*://campsiteno2.com/*
 *://canaryc.com/*
 *://canayell.com/*
 *://cancam-model.net/*
@@ -13696,6 +13690,7 @@
 *://e-pin.jp/*
 *://e-pisco.geo.jp/*
 *://e-reikinet.jp/*
+*://e-renkei.net/*
 *://e-st.jp/*
 *://e025-subsc-bm.xyz/*
 *://e1ns.jp/*
@@ -16787,6 +16782,7 @@
 *://kxpe.xxasj.cn/*
 *://kxvfelo.cn/*
 *://kyiy.xxasj.cn/*
+*://kyoiku-plaza-chuo.tokyo/*
 *://kyokasho.ritsuto.org/*
 *://kyokyu.net/*
 *://kyonyu-legend.com/*
@@ -17606,6 +17602,7 @@
 *://micaesoft.com/*
 *://micdx.com/*
 *://micheleandjon.com/*
+*://michi-info.fu-hot-web.jp/*
 *://michibeauty.jp/*
 *://miciks.com/*
 *://microeducate.tech/*
@@ -19357,6 +19354,7 @@
 *://oioi-min.com/*
 *://oip.yongjoo.za.com/*
 *://oishiimomlife.com/*
+*://oita-wings.jp/*
 *://ojinabeblog.com/*
 *://ojisan-gyakushu.com/*
 *://ojitopi.com/*
@@ -23842,6 +23840,7 @@
 *://www.karzusp.net/*
 *://www.kashi-mo.com/*
 *://www.kashiba-jyougesuidou.nara.jp/*
+*://www.katsushikaku-kyufukin-r6.jp/*
 *://www.kawa.coffee/*
 *://www.kazenodenwa.com/*
 *://www.kaznao.com/*
@@ -24067,6 +24066,7 @@
 *://www.mitsuihightec.com/*
 *://www.mitsukerune.com/*
 *://www.mixim.site/*
+*://www.miyagi-hatarakikatakaikaku.jp/*
 *://www.miyamatakeru.com/*
 *://www.mizaninstitute.com/*
 *://www.mjp-game.jp/*

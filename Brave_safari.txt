@@ -2003,6 +2003,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||camp.trainocate.co.jp^$document
 ||campanellafishing.shogic.xyz^$document
 ||camplaurelcreek.com^$document
+||campsiteno2.com^$document
 ||canaryc.com^$document
 ||canayell.com^$document
 ||cancam-model.net^$document
@@ -3085,6 +3086,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||e-pin.jp^$document
 ||e-pisco.geo.jp^$document
 ||e-reikinet.jp^$document
+||e-renkei.net^$document
 ||e-st.jp^$document
 ||e-Tax.com^$document
 ||e-Tax.net^$document
@@ -6222,6 +6224,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kxpe.xxasj.cn^$document
 ||kxvfelo.cn^$document
 ||kyiy.xxasj.cn^$document
+||kyoiku-plaza-chuo.tokyo^$document
 ||kyokasho.ritsuto.org^$document
 ||kyokyu.net^$document
 ||kyonyu-legend.com^$document
@@ -7057,6 +7060,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||micaesoft.com^$document
 ||micdx.com^$document
 ||micheleandjon.com^$document
+||michi-info.fu-hot-web.jp^$document
 ||michibeauty.jp^$document
 ||miciks.com^$document
 ||microeducate.tech^$document
@@ -8825,6 +8829,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||oioi-min.com^$document
 ||oip.yongjoo.za.com^$document
 ||oishiimomlife.com^$document
+||oita-wings.jp^$document
 ||ojinabeblog.com^$document
 ||ojisan-gyakushu.com^$document
 ||ojitopi.com^$document
@@ -11929,6 +11934,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||update.7zip.cloud^$document
 ||updatestar.com^$document
 ||updays.me^$document
+||uploaderjp-full-archive.activetk.jp/dl/ujp-client-win-*.zip$document
 ||uprass.com^$document
 ||uprobrocher.ucoz.ru^$document
 ||upsellcdn.com^$document
@@ -13497,6 +13503,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.karzusp.net^$document
 ||www.kashi-mo.com^$document
 ||www.kashiba-jyougesuidou.nara.jp^$document
+||www.katsushikaku-kyufukin-r6.jp^$document
 ||www.kawa.coffee^$document
 ||www.kazenodenwa.com^$document
 ||www.kaznao.com^$document
@@ -13714,6 +13721,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.mitsuihightec.com^$document
 ||www.mitsukerune.com^$document
 ||www.mixim.site^$document
+||www.miyagi-hatarakikatakaikaku.jp^$document
 ||www.miyamatakeru.com^$document
 ||www.mizaninstitute.com^$document
 ||www.mjp-game.jp^$document
