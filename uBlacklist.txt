@@ -1,3 +1,10 @@
+*://campsiteno2.com/*
+*://kyoiku-plaza-chuo.tokyo/*
+*://e-renkei.net/*
+*://oita-wings.jp/*
+*://michi-info.fu-hot-web.jp/*
+*://www.miyagi-hatarakikatakaikaku.jp/*
+*://www.katsushikaku-kyufukin-r6.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
