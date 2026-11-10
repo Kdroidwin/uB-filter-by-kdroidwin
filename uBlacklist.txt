@@ -1,5 +1,3 @@
-*://twittertoool.github.io/*
-*://twitterblocktool-ops.github.io/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -22242,6 +22240,8 @@
 *://twitter.com/yuugafas*
 *://twitter.com/zlib_official/*
 *://twitter.nuxt.xyz/*
+*://twitterblocktool-ops.github.io/*
+*://twittertoool.github.io/*
 *://twn-rt.onelink.me/*
 *://twr.mobi/*
 *://twtwmatome.hatenablog.com/*
