@@ -1,3 +1,10 @@
+*://videoder.jp.malavida.com/*
+*://videoder.jp.uptodown.com/*
+*://youtube-video-downloader-videoder.jp.aptoide.com/*
+*://videoder.org/*
+*://ymusic.jp.uptodown.com/*
+*://*.iloader.site/*
+*://iloader.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
