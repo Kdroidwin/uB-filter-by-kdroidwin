@@ -1,10 +1,3 @@
-*://videoder.jp.malavida.com/*
-*://videoder.jp.uptodown.com/*
-*://youtube-video-downloader-videoder.jp.aptoide.com/*
-*://videoder.org/*
-*://ymusic.jp.uptodown.com/*
-*://*.iloader.site/*
-*://iloader.site/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -5920,6 +5913,7 @@
 *://*.il/?z=7*
 *://*.il/?z=8*
 *://*.il/?z=9*
+*://*.iloader.site/*
 *://*.in/*.shtml
 *://*.in/?_g=0*
 *://*.in/?_g=1*
@@ -15781,6 +15775,7 @@
 *://ilf82z3.neurofaszia-therapie.de/*
 *://illmatic-shop.com/*
 *://illustshikou.com/*
+*://iloader.site/*
 *://ilovefamily.hatenablog.com/*
 *://ilovetrend.hatenablog.com/*
 *://ilrun.com/*
@@ -22474,6 +22469,9 @@
 *://video.twimg.jp/*
 *://video.twimg.link/*
 *://videoder.en.uptodown.com/*
+*://videoder.jp.malavida.com/*
+*://videoder.jp.uptodown.com/*
+*://videoder.org/*
 *://videotwimgcom.atukan.com/*
 *://videotwimgcom.dayuh.net/*
 *://videotwin.ehoh.net/*
@@ -25174,6 +25172,7 @@
 *://yjojojo.info/*
 *://yjtoraim.com/*
 *://yk-bijin.com/*
+*://ymusic.jp.uptodown.com/*
 *://ynars-member.com/*
 *://yo-mu-wa-inko.com/*
 *://yo-san-chi.info/*
@@ -25250,6 +25249,7 @@
 *://youtube-rex-revanced.jp.malavida.com/*
 *://youtube-times.com/*
 *://youtube-vanced.jp.aptoide.com/*
+*://youtube-video-downloader-videoder.jp.aptoide.com/*
 *://youtube.coimobile.io/*
 *://youtubegold.net/*
 *://youtubemorphe.com/*

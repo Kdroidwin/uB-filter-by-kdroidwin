@@ -5200,6 +5200,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ilf82z3.neurofaszia-therapie.de^$document
 ||illmatic-shop.com^$document
 ||illustshikou.com^$document
+||iloader.site^$document
 ||ilovefamily.hatenablog.com^$document
 ||ilovetrend.hatenablog.com^$document
 ||ilrun.com^$document
@@ -12090,6 +12091,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||video.twimg.jp^$document
 ||video.twimg.link^$document
 ||videoder.en.uptodown.com^$document
+||videoder.jp.malavida.com^$document
+||videoder.jp.uptodown.com^$document
+||videoder.org^$document
 ||videoiwimgcom.$document
 ||videotwimgcom.atukan.com^$document
 ||videotwimgcom.dayuh.net^$document
@@ -14833,6 +14837,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yjojojo.info^$document
 ||yjtoraim.com^$document
 ||yk-bijin.com^$document
+||ymusic.jp.uptodown.com^$document
 ||ynars-member.com^$document
 ||yo-mu-wa-inko.com^$document
 ||yo-san-chi.info^$document
@@ -14912,6 +14917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||youtube-rex-revanced.jp.malavida.com^$document
 ||youtube-times.com^$document
 ||youtube-vanced.jp.aptoide.com^$document
+||youtube-video-downloader-videoder.jp.aptoide.com^$document
 ||youtube.coimobile.io^$document
 ||youtubegold.net^$document
 ||youtubemorphe.com^$document
