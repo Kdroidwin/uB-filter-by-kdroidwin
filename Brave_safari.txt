@@ -3882,6 +3882,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||freshgreenxcoatl.com^$document
 ||froebel-kan.tameshiyo.me^$document
 ||frog-kero.com^$document
+||frolicking-malasada-21a8dc.netlify.app^$document
 ||from0to1.jp^$document
 ||from48to100-lifeplan.com^$document
 ||fromation.co.jp^$document

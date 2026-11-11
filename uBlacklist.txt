@@ -1,4 +1,3 @@
-*://frolicking-malasada-21a8dc.netlify.app/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14475,6 +14474,7 @@
 *://freshgreenxcoatl.com/*
 *://froebel-kan.tameshiyo.me/*
 *://frog-kero.com/*
+*://frolicking-malasada-21a8dc.netlify.app/*
 *://from0to1.jp/*
 *://from48to100-lifeplan.com/*
 *://fromation.co.jp/*
