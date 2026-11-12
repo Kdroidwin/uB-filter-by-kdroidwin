@@ -4470,6 +4470,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||gsepn.net^$document
 ||gshade.org^$document
 ||gtvktae.cn^$document
+||guardphone-store.myshopify.com^$document
 ||guesswhat-blog.com^$document
 ||guguguusan.blog.jp^$document
 ||guguloo.xyz^$document
@@ -9728,6 +9729,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||rdy.jp^$document
 ||re-choineta.com^$document
 ||re-do.jp^$document
+||re-n-ai.com^$document
 ||re-tabushi.com^$document
 ||read-the-tale.com^$document
 ||readlabpro.com^$document
