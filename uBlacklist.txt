@@ -1,3 +1,5 @@
+*://re-n-ai.com/*
+*://guardphone-store.myshopify.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
