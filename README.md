@@ -155,7 +155,7 @@ uBlacklistを使用せずともuBlock OriginだけでSearXNGの検索結果か�
 <br>
 <br>
 
-# Brave Shields &Safariコンテンツブロッカー&1DM 用フィルターの種類
+# Safariコンテンツブロッカー&1DM 用フィルターの種類
 ```
 https://raw.githubusercontent.com/Kdroidwin/uB-filter-by-kdroidwin/refs/heads/main/Brave_safari.txt
 ```
