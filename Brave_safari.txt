@@ -4203,6 +4203,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||getmodsapk.com^$document
 ||getnews.jp^$document
 ||getonline-esta.com^$document
+||getqr.com^$document
 ||getsuaku.com^$document
 ||getuug.net^$document
 ||geumsz31.gabrans.com^$document
