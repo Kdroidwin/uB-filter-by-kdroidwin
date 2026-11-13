@@ -5873,6 +5873,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||ketchytune.com^$document
 ||ketiketidenki.com^$document
 ||keukenhulponline.nl^$document
+||key4dn.com^$document
 ||keyakizaka46matomemory.net^$document
 ||keyforum.kumamoto-u.org^$document
 ||kfcjapan.onelink.me^$document
@@ -6567,6 +6568,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||luxweavecarpets.com^$document
 ||lvyou168.cn^$document
 ||lynxinst.com^$document
+||lyricjp.com^$document
 ||lysaeqisk.melanie-reinecke.de^$document
 ||lzz-mall.com^$document
 ||m-artist.net^$document
@@ -10260,6 +10262,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||schwarzkain.com^$document
 ||science-gohan.com^$document
 ||scienceplus2ch.com^$document
+||scintillating-duckanoo-f19592.netlify.app^$document
 ||scottcomputersystems.com^$document
 ||scotthel.me^$document
 ||scrap-shop.online^$document
