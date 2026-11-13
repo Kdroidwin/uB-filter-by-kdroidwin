@@ -3946,6 +3946,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
 ||fun-frisco.co.jp^$document
+||funai.co.jp^$document
 ||funbox.wpx.jp^$document
 ||fund.lifeplay.co.jp^$document
 ||fundacionbuenasemilla.org^$document

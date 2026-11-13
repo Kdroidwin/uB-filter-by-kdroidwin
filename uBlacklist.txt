@@ -1,5 +1,3 @@
-*://*.funai.co.jp/*
-*://funai.co.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -3812,6 +3810,7 @@
 *://*.forese.life/*
 *://*.fr/index*.php//?*
 *://*.fromation.co.jp/*
+*://*.funai.co.jp/*
 *://*.gamecomplex.jp/*
 *://*.gamemodfree.com/*
 *://*.games/?t.*
@@ -14538,6 +14537,7 @@
 *://fumi2019.com/*
 *://fumienaffi.com/*
 *://fun-frisco.co.jp/*
+*://funai.co.jp/*
 *://funbox.wpx.jp/*
 *://fund.lifeplay.co.jp/*
 *://fundacionbuenasemilla.org/*
