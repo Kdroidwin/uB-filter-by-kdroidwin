@@ -1261,6 +1261,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
 ||aquabarricade.com^$document
+||ar-cdn.net^
 ||arakure.net^$document
 ||araou.jp^$document
 ||arasa-mama.com^$document
@@ -8953,6 +8954,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||opc3.bandom.info^$document
 ||openai-chatgpt.jp^$document
 ||openew.app^$document
+||openhouse-group.co.jp^$document
 ||opensea.io^$document
 ||opera-house.jp^$document
 ||oppai-sand.com^$document
@@ -11557,6 +11559,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||tokuphone.com^$document
 ||tokupine.com^$document
 ||tokutas.com^$document
+||tokutei.end2end.tech$all
 ||tokyo-ai-sch.com^$document
 ||tokyo-anime-news.jp^$document
 ||tokyo-animetourism-2023.jp^$document
