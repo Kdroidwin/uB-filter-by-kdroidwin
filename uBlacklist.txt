@@ -1,7 +1,3 @@
-*://kasemato.net/*
-*://2jiero-matome.net/*
-*://yomibako.com/*
-*://kugayamarugby.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11035,6 +11031,7 @@
 *://2d-ecstasy.com/*
 *://2ddvkfb.zbgraf16.pl/*
 *://2e5fg.com/*
+*://2jiero-matome.net/*
 *://2l.glitch.me/*
 *://2ndweb.jp/*
 *://2q8p4.cn/*
@@ -16351,6 +16348,7 @@
 *://karingi-kyushu58.com/*
 *://karlovackagimnazija.rs/*
 *://kart-ccf.jp/*
+*://kasemato.net/*
 *://kashimayunohana.jp/*
 *://kasiiyuyu.com/*
 *://kasimakadar.online/*
@@ -16752,6 +16750,7 @@
 *://kubis.ru/*
 *://kuchima.com/*
 *://kuchukuchu-tube.com/*
+*://kugayamarugby.jp/*
 *://kuibase.jp/*
 *://kujineta.biz/*
 *://kukurublog.com/*
@@ -25211,6 +25210,7 @@
 *://yolo-world.com/*
 *://yomcomi.com/*
 *://yomeno-tadaima.com/*
+*://yomibako.com/*
 *://yomidou.com/*
 *://yomikore.com/*
 *://yonayonafreedom.net/*

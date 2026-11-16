@@ -373,6 +373,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||2d-ecstasy.com^$document
 ||2ddvkfb.zbgraf16.pl^$document
 ||2e5fg.com^$document
+||2jiero-matome.net^$document
 ||2l.glitch.me^$document
 ||2ndlabo.com^$document
 ||2ndweb.jp^$document
@@ -5780,6 +5781,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||karingi-kyushu58.com^$document
 ||karlovackagimnazija.rs^$document
 ||kart-ccf.jp^$document
+||kasemato.net^$document
 ||kashimayunohana.jp^$document
 ||kasiiyuyu.com^$document
 ||kasimakadar.online^$document
@@ -6188,6 +6190,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kubis.ru^$document
 ||kuchima.com^$document
 ||kuchukuchu-tube.com^$document
+||kugayamarugby.jp^$document
 ||kuibase.jp^$document
 ||kujineta.biz^$document
 ||kukurublog.com^$document
@@ -14872,6 +14875,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||yolo-world.com^$document
 ||yomcomi.com^$document
 ||yomeno-tadaima.com^$document
+||yomibako.com^$document
 ||yomidou.com^$document
 ||yomikore.com^$document
 ||yomiuri.*^$document,to=~yomiuri.co.jp
