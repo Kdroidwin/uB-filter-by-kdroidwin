@@ -1198,6 +1198,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||app-info.xyz^$document
 ||app-liv.jp^$document
 ||app-loader.com^$document
+||app-store-get.com^$document
 ||app-story.net^$document
 ||app-tatsujin.com^$document
 ||app-valley.vip^$document

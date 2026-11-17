@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://app-store-get.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
 *://*.3deroge.com/*
@@ -11832,6 +11831,7 @@
 *://app-info.xyz/*
 *://app-liv.jp/*
 *://app-loader.com/*
+*://app-store-get.com/*
 *://app-story.net/*
 *://app-tatsujin.com/*
 *://app-valley.vip/*
