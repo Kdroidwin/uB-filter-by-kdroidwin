@@ -12666,6 +12666,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.angolanoar.online^$document
 ||www.animal-academy.jp^$document
 ||www.animatashop.jp^$document
+||www.animation-japan.net^$document
 ||www.anime-rating.com^$document
 ||www.animebugbodypillow.com^$document
 ||www.animespotsjp.com^$document

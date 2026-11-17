@@ -1,4 +1,3 @@
-*://www.animation-japan.net/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -23006,6 +23005,7 @@
 *://www.angolanoar.online/*
 *://www.animal-academy.jp/*
 *://www.animatashop.jp/*
+*://www.animation-japan.net/*
 *://www.anime-rating.com/*
 *://www.animebugbodypillow.com/*
 *://www.animespotsjp.com/*
