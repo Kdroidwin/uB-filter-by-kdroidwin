@@ -1,8 +1,3 @@
-*://apkpure.com/youtube-morphe/*
-*://morphe.en.uptodown.com/*
-*://boostlink.cc/*
-*://gofile.cc/*
-*://upld.cc/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11810,6 +11805,7 @@
 *://apkpure.com/graph-messenger/*
 *://apkpure.com/nekogram/*
 *://apkpure.com/revanced-extended/*
+*://apkpure.com/youtube-morphe/*
 *://apkpure.com/youtube-revanced/*
 *://apkpure.net/graph-messenger/*
 *://apkpure.net/happymod-2025/*
@@ -12479,6 +12475,7 @@
 *://books.makianosaihu.com/*
 *://booktakeaway.com/*
 *://bookwiz.me/*
+*://boostlink.cc/*
 *://boqxywd.art/*
 *://border-verse.jp/*
 *://borovena.com/*
@@ -14941,6 +14938,7 @@
 *://gofile-ero.com/*
 *://gofile-pass.mystrikingly.com/*
 *://gofile-sns.com/*
+*://gofile.cc/*
 *://gofile.my.canva.site/*
 *://gogomama.net/*
 *://gogozoromi.com/*
@@ -17950,6 +17948,7 @@
 *://morphe-app.com/*
 *://morphe-official.com/*
 *://morphe-youtube.ru.malavida.com/*
+*://morphe.en.uptodown.com/*
 *://morphe.jp.uptodown.com/*
 *://morpheapp.net/*
 *://morpheapp.software/*
@@ -22343,6 +22342,7 @@
 *://up10tion.jp/*
 *://update.7zip.cloud/*
 *://updays.me/*
+*://upld.cc/*
 *://uprass.com/*
 *://uprobrocher.ucoz.ru/*
 *://upsellcdn.com/*
