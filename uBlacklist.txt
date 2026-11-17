@@ -1,4 +1,3 @@
-*://halogen.jpn.org/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -15142,6 +15141,7 @@
 *://hal08.com/*
 *://halilibrahimoslo.online/*
 *://halnostyle.com/*
+*://halogen.jpn.org/*
 *://haluene.co.jp/*
 *://hamajira.com/*
 *://hamame.xyz/*

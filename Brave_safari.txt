@@ -4557,6 +4557,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hal08.com^$document
 ||halilibrahimoslo.online^$document
 ||halnostyle.com^$document
+||halogen.jpn.org^$document
 ||haluene.co.jp^$document
 ||hamajira.com^$document
 ||hamame.xyz^$document
