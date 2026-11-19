@@ -1,6 +1,3 @@
-*://aikoai.jp/*
-*://line-ero.com/*
-*://links-card.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11395,6 +11392,7 @@
 *://aijyou-syokusai.jp/*
 *://aikissingvideogenerator.org/*
 *://aikiu.online/*
+*://aikoai.jp/*
 *://aikru.com/*
 *://aikure.com/*
 *://aikuwabaratrio.com/*
@@ -16979,6 +16977,7 @@
 *://linadukkan.com/*
 *://linart.net/*
 *://lincdiiin.com/*
+*://line-ero.com/*
 *://line-hc.cc/*
 *://line-howtouse.net/*
 *://line-invite.xyunyong257.workers.dev/*
@@ -16996,6 +16995,7 @@
 *://link.photoprism.app/*
 *://link0plus-czdbb5cgd4bbebab.z01.azurefd.net/*
 *://linkmisty.com/*
+*://links-card.com/*
 *://links.giveawayoftheday.com/*
 *://linksnavi.com/*
 *://linktweet.com/*

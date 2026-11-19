@@ -741,6 +741,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||aijyou-syokusai.jp^$document
 ||aikissingvideogenerator.org^$document
 ||aikiu.online^$document
+||aikoai.jp^$document
 ||aikru.com^$document
 ||aikure.com^$document
 ||aikuwabaratrio.com^$document
@@ -6421,6 +6422,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||linadukkan.com^$document
 ||linart.net^$document
 ||lincdiiin.com^$document
+||line-ero.com^$document
 ||line-hc.cc^$document
 ||line-howtouse.net^$document
 ||line-invite.xyunyong257.workers.dev^$document
@@ -6439,6 +6441,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||link.photoprism.app^$document
 ||link0plus-czdbb5cgd4bbebab.z01.azurefd.net^$document
 ||linkmisty.com^$document
+||links-card.com^$document
 ||links.giveawayoftheday.com^$document
 ||linksnavi.com^$document
 ||linktweet.com^$document
