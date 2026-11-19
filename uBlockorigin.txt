@@ -450,6 +450,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||5865926.slot15.online^$document
 ||596san.com^$document
 ||597049310nov22.xn----7sbagngtnl2awfsm0m.xn--p1ai^$document
+||5ch-matome.click^$document
 ||5chmm.jp^$document
 ||5drdzhz.cn^$document
 ||5e9aa03810fbf7-staging-kaigishitu.g.kuroco-front.app^$document
@@ -1678,6 +1679,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||bitlord.jp.malavida.com^$document
 ||bitlord.jp.uptodown.com^$document
 ||bitlorddl.com^$document
+||bitly.pk^$document
 ||bitrefiil.com^$document
 ||bitrefillgift.com^$document
 ||bitregions.com^$document
@@ -8754,6 +8756,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nunnun-father.hatenablog.com^$document
 ||nupu-comic.com^$document
 ||nurse-ms.com^$document
+||nutrifishproduct.com^$document
 ||nutrizionisti-online.com^$document
 ||nuxyanblog.com^$document
 ||nvolanp07de43.xn--d1aby4ah.xn--p1ai^$document
@@ -9474,6 +9477,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||primasport.ru^$document
 ||prime1studio.shop^$document
 ||princefrequentbuyer.com^$document
+||printsport.ch^$document
 ||prism-life.com^$document
 ||privacyinthenetwork.com^$document
 ||privacyphoneaustralia.com.au^$document
@@ -10928,7 +10932,9 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||stillness.life^$document
 ||stitchzo.com^$document
 ||stlassh.com^$document
+||stock-cc.com^$document
 ||stock-marketech.com^$document
+||stock-mate.com^$document
 ||stockabl.com^$document
 ||stocks.ykoth-pro.com^$document
 ||stonefree130.com^$document
@@ -12001,6 +12007,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||usern.me^$document
 ||usersuper.ru^$document
 ||useusd.com^$document
+||ushort.org^$document
 ||usimmigration-assistance.com^$document
 ||usj-joho.blog.ss-blog.jp^$document
 ||uslifeblog.com^$document
@@ -13124,6 +13131,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document
+||www.essajamil.com^$document
 ||www.esta-application.com^$document
 ||www.estaofficial.org^$document
 ||www.esthe-lynx-ebisu.com^$document
