@@ -3476,6 +3476,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||eromanga0715q.site^$document
 ||eromanga0725i.website^$document
 ||eromanga0728j.online^$document
+||eromangachan.com^$document
 ||eromangadoujin.com^$document
 ||eromangagaga.wpx.jp^$document
 ||eromangaizum.com^$document

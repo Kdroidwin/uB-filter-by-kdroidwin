@@ -1,4 +1,3 @@
-*://eromangachan.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -14076,6 +14075,7 @@
 *://eromanga0715q.site/*
 *://eromanga0725i.website/*
 *://eromanga0728j.online/*
+*://eromangachan.com/*
 *://eromangadoujin.com/*
 *://eromangagaga.wpx.jp/*
 *://eromangaizum.com/*
