@@ -5503,6 +5503,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||japex.ru^$document
 ||jardinesjusto.com^$document
 ||jaropan.pages.dev^$document
+||jav-a.com^$document
 ||jav-mania.com^$document
 ||javelinmitsu.com^$document
 ||javten.com^$document
@@ -13131,6 +13132,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.eromanga-muryou-matome-hentai.net^$document
 ||www.eromanga-raw-muryou-9.net^$document
 ||www.eromangadoujin.com^$document
+||www.eromanradar.com^$document
 ||www.eroticladies.net^$document
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
