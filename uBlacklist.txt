@@ -1,3 +1,10 @@
+*://www.click-sec.com/*
+*://www.conoha.jp/*
+*://support.conoha.jp/*
+*://help.conoha.jp/*
+*://cp.conoha.jp/*
+*://sec-sso.click-sec.com/*
+*://www.paypaynejp.workers.dev/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
