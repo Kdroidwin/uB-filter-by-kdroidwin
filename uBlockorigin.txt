@@ -2485,6 +2485,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||couryier.us^$document
 ||covidtestinghuntingtonbeach.com^$document
 ||cozicozi.net^$document
+||cp.conoha.jp^$document
 ||cp.onamae.ne.jp^$document
 ||cpa.8na4zpze.com^$document
 ||cpr74.ru^$document
@@ -4749,6 +4750,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||help.adblockbrowser.org^$document
 ||help.camp-fire.jp^$document
 ||help.cocoloni.jp^$document
+||help.conoha.jp^$document
 ||help.cybozu.cn^$document
 ||help.nudge.works^$document
 ||help.totalav.com^$document
@@ -10307,6 +10309,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||searcher.s--line.co.jp^$document
 ||seasea.xyz^$document
 ||sebastianoarmelibattana.com^$document
+||sec-sso.click-sec.com^$document
 ||second.jyoho-library.com^$document
 ||second.ux-design.blog^$document
 ||secret-alone-time.com^$document
@@ -11096,6 +11099,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||support.avast.com^$document
 ||support.avg.com^$document
 ||support.caseplay.shop^$document
+||support.conoha.jp^$document
 ||support.google.com/youtube/thread/258637969^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
@@ -12913,6 +12917,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.claude-code-lab.com^$document
 ||www.clef-bxl.be^$document
 ||www.cleverconsulting.dk^$document
+||www.click-sec.com^$document
 ||www.clickcount.info^$document
 ||www.clicsoledade.online^$document
 ||www.clivespash.org^$document
@@ -12939,6 +12944,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.compassionatebehaviourcare.com^$document
 ||www.comuniarte.com^$document
 ||www.conceptbrands.net^$document
+||www.conoha.jp^$document
 ||www.construction-turkey.com^$document
 ||www.coolpreschool.com^$document
 ||www.coopeagir.com^$document
@@ -13927,6 +13933,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.path-pioneer.com^$document
 ||www.path2skills.com^$document
 ||www.paulklockedance.com^$document
+||www.paypaynejp.workers.dev^$document
 ||www.pc-wanda.com/spring-campaign^$document
 ||www.pcprotect.com^$document
 ||www.pekebatu.com^$document
