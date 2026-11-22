@@ -6106,6 +6106,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||kominamiyasuha.jp^$document
 ||komine-gangu.jp^$document
 ||komono.me^$document
+||komonohanbaiten.booth.pm^$document
 ||komugi-web.site^$document
 ||konan-connect.jp^$document
 ||konbun.jp^$document
