@@ -1,6 +1,3 @@
-*://takasaki-lab.booth.pm/*
-*://autoeditai.booth.pm/*
-*://moketa.booth.pm/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12064,6 +12061,7 @@
 *://auto01.wpx.jp/*
 *://autocosmeticsny.com/*
 *://autodesk.me/*
+*://autoeditai.booth.pm/*
 *://av-matome.jp/*
 *://av.matohub.net/*
 *://av1.manga119.com/*
@@ -17873,6 +17871,7 @@
 *://mogimikan.my.canva.site/*
 *://mogura-final.jp/*
 *://mogura-movie.com/*
+*://moketa.booth.pm/*
 *://mokugeki.hatenablog.com/*
 *://mola-k.com/*
 *://mollymam.com/*
@@ -21650,6 +21649,7 @@
 *://takara3.com/*
 *://takarazuka-life.com/*
 *://takasaki-iju.jp/*
+*://takasaki-lab.booth.pm/*
 *://takataka.jp/*
 *://takatarou.xyz/*
 *://take0820.gymnastics47.com/*
