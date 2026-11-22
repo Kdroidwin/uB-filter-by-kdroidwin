@@ -2852,6 +2852,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||dojin-raw.com^$document
 ||dojin-review-navi.com^$document
 ||dojin.holito-kouso.jp^$document
+||dojin.tanabo8933.workers.dev^$document
 ||dojin315.com^$document
 ||dojindb.net^$document
 ||dojinfanza.com^$document
@@ -4701,6 +4702,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||haruto-satou.com^$document
 ||harutone.com^$document
 ||harutonote.com^$document
+||harutoreputation.com^$document
 ||harutosahouweb.com^$document
 ||harutosatou.com^$document
 ||haryu-korea.net^$document
@@ -13029,6 +13031,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.displayexpo.jp^$document
 ||www.dj-adb.com^$document
 ||www.djengduedd.com^$document
+||www.dlsitedb.com^$document
 ||www.dm-s.co.jp^$document
 ||www.doctorgreen.com^$document
 ||www.dohc.ie^$document
@@ -13644,6 +13647,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.lifestorytown.jp^$document
 ||www.lighted.hk^$document
 ||www.limpin.jp^$document
+||www.linkdana.com^$document
 ||www.linkedin.cn^$document
 ||www.linker.ru^$document
 ||www.linn.amsterdam^$document
