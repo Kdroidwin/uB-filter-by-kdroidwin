@@ -394,7 +394,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||332408.gatecoin.online^$document
 ||3588kinmokusei.com^$document
 ||3599811.slot31.online^$document
-||360life.shinyusha.co.jp^$document
 ||360pindrop.com^$document
 ||360saburoku.com^$document
 ||365dni.top^$document
@@ -576,7 +575,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||abidaliawan.me^$document
 ||abiko-football.jp^$document
 ||abjp6579.tokyo^$document
-||abnb.me^$document
 ||about-the-person.com^$document
 ||aboutablonde.blog^$document
 ||abs7.ru^$document
@@ -1072,7 +1070,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||anotherstorysign.com^$document
 ||anponpan-anilog.hatenablog.jp^$document
 ||answer-id.com^$document
-||answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||antenatarou.warotamaker2.com^$document
 ||antenna.ai-gazoukan.com^$document
 ||antenna.jp^$document
@@ -2830,9 +2827,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||docs.getquicker.cn^$document
 ||docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw^$document
 ||docs.google.com/forms/d/e/1FAIpQLSfXZ7DCUFlCN_gsUq6ZbJDj8wyPE0byaTjU2Nh1mwFiBmx0qw^$document
-||docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn^$document
-||docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
-||docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||docs.usbx.me^$document
 ||doctor-assist.japan-entertainment.mhx.jp^$document
 ||doctor-pie.com^$document
@@ -2943,6 +2937,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-select.net^$document
 ||doujin-selection.com^$document
 ||doujin-share.com^$document
+||doujin-sharering.com^$document
 ||doujin-sokuhou.com^$document
 ||doujin-yakata.com^$document
 ||doujin.bkrb.net^$document
@@ -3838,7 +3833,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||fortelske.com^$document
 ||fortune-cafe.com^$document
 ||fortune-wind.com^$document
-||fortune.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||fortune7.co.jp^$document
 ||fortunecreators.biz^$document
 ||forum.blackrussia.online^$document
@@ -5083,11 +5077,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||hrfrqfu.cn^$document
 ||hs-partner.hamburg^$document
 ||htmi-training.com^$document
-||http--www--f-i-a--or--jp.proxy.xmmc.edu.cn^$document
-||http--wwwcms--pref--fukushima--jp.proxy.xmmc.edu.cn^$document
-||https--jp--ch--com.proxy.zghaq.gov.cn^$document
-||https--www--nihonkiin--or--jp.proxy.xuyi.gov.cn^$document
-||https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn^$document
 ||hu60.cn^$document
 ||huat.jp^$document
 ||hub-luv.com^$document
@@ -5483,7 +5472,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||jankara.me^$document
 ||janotraining.com^$document
 ||japamart.com^$document
-||japan-0-cnet-0-com.proxy.guilin.gov.cn^$document
 ||japan-claude.com^$document
 ||japan-doujin.itaspo.com^$document
 ||japan-expressvpn.com^$document
@@ -5500,7 +5488,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||japanero.jp^$document
 ||japanese-archery.hateblo.jp^$document
 ||japanese.cri.cn^$document
-||japanknowledge-com-443.webvpn.zisu.edu.cn^$document
 ||japanlivestream.com^$document
 ||japannewsnavi.com^$document
 ||japanshopping.org^$document
@@ -6338,7 +6325,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||leancrete.com^$document
 ||learn-lens.com^$document
 ||learn.corporate.ef.com^$document
-||learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||learn.slot42.online^$document
 ||learnandbless.com^$document
 ||learnandlearn.net^$document
@@ -7956,6 +7942,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nonnon-t.com^$document
 ||nonpipi.com^$document
 ||nonsateke.online^$document
+||nonstopdoujin.com^$document
 ||nontan-blog.com^$document
 ||nonzyoruno-miyazaki.jp^$document
 ||nordicsound.jp^$document
@@ -8085,6 +8072,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/dapper_boar1528^$document
 ||note.com/dapper_phlox8142^$document
 ||note.com/ddsatouattak^$document
+||note.com/dear_lupine813^$document
 ||note.com/dear_pipit1400^$document
 ||note.com/decoboco_sisters^$document
 ||note.com/deep_lupine8918^$document
@@ -9452,7 +9440,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pouchs.jp^$document
 ||poundtimes.com^$document
 ||powakitchen.site^$document
-||powerplatform.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||powertee.com^$document
 ||pp-crd.co^$document
 ||ppgo.org^$document
@@ -9642,6 +9629,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||quitoko.com^$document
 ||quizela.com^$document
 ||qulalimstella.com^$document
+||qunn.jp^$document
 ||qunque.work^$document
 ||quocardpay.onelink.me^$document
 ||qvdwmm1j.r.ap-northeast-1.awstrack.me^$document
@@ -11090,32 +11078,13 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||supjav-debut.com^$document
 ||supjav.jp^$document
 ||supo-tu-fan.com^$document
-||support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn^$document
-||support--office--com---z3a8dwww--hunan--gov--cn.ipv6.hunan.gov.cn^$document
 ||support-mercari.com^$document
 ||support.amzdata.cn^$document
-||support.apple.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
-||support.apple.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
-||support.apple.ex1.https.443.g2.ipv6.luan.gov.cn^$document
-||support.apple.ex1.https.443.g5.ipv6.czq.gov.cn^$document
-||support.apple.ex1.https.443.ipv6.cqust.edu.cn^$document
-||support.apple.ex1.https.443.ipv6.faw.com.cn^$document
-||support.apple.ex1.https.443.ipv6.yunfu.gov.cn^$document
 ||support.avast.com^$document
 ||support.avg.com^$document
 ||support.caseplay.shop^$document
 ||support.conoha.jp^$document
 ||support.google.com/youtube/thread/258637969^$document
-||support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
-||support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
-||support.microsoft.ex1.https.443.g10.ipv6.rongan.gov.cn^$document
-||support.microsoft.ex1.https.443.g3.ipv6.lbq.gov.cn^$document
-||support.microsoft.ex1.https.443.g5.ipv6.czq.gov.cn^$document
-||support.microsoft.ex1.https.443.g9.ipv6.luzhai.gov.cn^$document
-||support.microsoft.ex1.https.443.ipv6.faw.com.cn^$document
-||support.microsoft.ex1.https.443.ipv6.jiangmen.gov.cn^$document
-||support.microsoft.ex1.ipv6.cosl.com.cn^$document
-||support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn^$document
 ||support.millenvpn.jp^$document
 ||support.myqnapcloud.cn^$document
 ||support.qr-code-generator.com^$document
@@ -12539,12 +12508,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||wwpersonalitytest.com^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
-||www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn^$document
-||www--cn--emb-japan--go--jp.proxy.xmmc.edu.cn^$document
-||www--gaga--co--jp.proxy.shstvc.com.cn^$document
-||www-facultyfocus-ex1-https-443-g0.gues.edu.cn^$document
 ||www-https-*2026.pages.dev^
-||www-linkedin-com-443.webvpn.scu.edu.cn^$document
 ||www-westjr.rfrjxm.com^$document
 ||www-xbl*.pages.dev$doc
 ||www-xblock-checker2026.pages.dev^$document
@@ -12615,7 +12579,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.ad-quick.com^$document
 ||www.adachi-kiyoshi.com^$document
 ||www.addness.com^$document
-||www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn^$document
 ||www.adult-content-ranking.com^$document
 ||www.advancedpf.ca^$document
 ||www.aeltcc.org^$document
@@ -12727,8 +12690,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.appbank.net/app-rank/useful/vpn-app^$document
 ||www.appbank.net^$document
 ||www.appbrain.com^$document
-||www.apple.com.https.443.362d2d3a6e.a.proxy1.ipv6.xiangtan.gov.cn^$document
-||www.apple.ex1.https.443.ipv6.yunfu.gov.cn^$document
 ||www.apple.info^$document
 ||www.appps.jp^$document
 ||www.appsloveworld.com^$document
@@ -13753,11 +13714,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||www.micasaluxuries.com^$document
 ||www.michelesantarsiere.it^$document
 ||www.micolla.co.jp^$document
-||www.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
-||www.microsoft.ex1.https.443.g1.ipv6.liunan.gov.cn^$document
-||www.microsoft.ex1.https.443.g6.ipv6.rongshui.gov.cn^$document
-||www.microsoft.ex1.https.443.ipv6.zhuhai.gov.cn^$document
-||www.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn^$document
 ||www.microsofthup.ru^$document
 ||www.microsoftimagine.ru^$document
 ||www.microsoftstore.com.cn^$document

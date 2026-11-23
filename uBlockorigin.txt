@@ -2937,6 +2937,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||doujin-select.net^$document
 ||doujin-selection.com^$document
 ||doujin-share.com^$document
+||doujin-sharering.com^$document
 ||doujin-sokuhou.com^$document
 ||doujin-yakata.com^$document
 ||doujin.bkrb.net^$document
@@ -7941,6 +7942,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||nonnon-t.com^$document
 ||nonpipi.com^$document
 ||nonsateke.online^$document
+||nonstopdoujin.com^$document
 ||nontan-blog.com^$document
 ||nonzyoruno-miyazaki.jp^$document
 ||nordicsound.jp^$document
@@ -8070,6 +8072,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/dapper_boar1528^$document
 ||note.com/dapper_phlox8142^$document
 ||note.com/ddsatouattak^$document
+||note.com/dear_lupine813^$document
 ||note.com/dear_pipit1400^$document
 ||note.com/decoboco_sisters^$document
 ||note.com/deep_lupine8918^$document
@@ -9626,6 +9629,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||quitoko.com^$document
 ||quizela.com^$document
 ||qulalimstella.com^$document
+||qunn.jp^$document
 ||qunque.work^$document
 ||quocardpay.onelink.me^$document
 ||qvdwmm1j.r.ap-northeast-1.awstrack.me^$document
