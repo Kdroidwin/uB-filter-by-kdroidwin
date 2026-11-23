@@ -29,5 +29,7 @@ tamacoin.net##[href^="//ck.jp.ap.valuecommerce.com/servlet/referral"]
 ||s.yimg.jp/images/yjtop-app/promo/banner/*.png$image
 torrentfreak.com##.side-sponsors
 comingbird.yyyywaiwai.com##.footer
+usjreal.asumirai.info###fixedfooter
+music.apple.com##.svelte-r5lnk4.banner
 
 
