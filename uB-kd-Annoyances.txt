@@ -28,4 +28,6 @@ goldennews.blog.jp##.smp-sale-wrapper
 tamacoin.net##[href^="//ck.jp.ap.valuecommerce.com/servlet/referral"]
 ||s.yimg.jp/images/yjtop-app/promo/banner/*.png$image
 torrentfreak.com##.side-sponsors
+comingbird.yyyywaiwai.com##.footer
+
 
