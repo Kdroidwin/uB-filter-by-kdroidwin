@@ -10927,7 +10927,6 @@
 *://*.zhblog.net/*
 *://*.zhouni.net/*
 *://*/*index.php?main_page=product_info&products_id=*
-*://0-scholar-google-com.brum.beds.ac.uk/*
 *://009933.xyz/*
 *://01.futako.info/*
 *://03kurata01.com/*
@@ -11051,7 +11050,6 @@
 *://332408.gatecoin.online/*
 *://3588kinmokusei.com/*
 *://3599811.slot31.online/*
-*://360life.shinyusha.co.jp/*
 *://360pindrop.com/*
 *://360saburoku.com/*
 *://365dni.top/*
@@ -11231,7 +11229,6 @@
 *://abidaliawan.me/*
 *://abiko-football.jp/*
 *://abjp6579.tokyo/*
-*://abnb.me/*
 *://about-the-person.com/*
 *://aboutablonde.blog/*
 *://abs7.ru/*
@@ -11713,7 +11710,6 @@
 *://anotherstorysign.com/*
 *://anponpan-anilog.hatenablog.jp/*
 *://answer-id.com/*
-*://answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://antenatarou.warotamaker2.com/*
 *://antenna.ai-gazoukan.com/*
 *://antesquesemepase.com/*
@@ -13433,9 +13429,6 @@
 *://docs.demo.mschool.cn/*
 *://docs.getquicker.cn/*
 *://docs.google.com/forms/d/e/1FAIpQLScsVjxBbd6_SGCwedltUXKa5seuGv2yBGQ7cj-q68dkMdLmOw/*
-*://docs.microsoft.com.ipv6.dsjfzj.nanning.gov.cn/*
-*://docs.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
-*://docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://docs.usbx.me/*
 *://doctor-assist.japan-entertainment.mhx.jp/*
 *://doctor-pie.com/*
@@ -14431,7 +14424,6 @@
 *://fortelske.com/*
 *://fortune-cafe.com/*
 *://fortune-wind.com/*
-*://fortune.ex1.https.443.ipv6.cqust.edu.cn/*
 *://fortune7.co.jp/*
 *://fortunecreators.biz/*
 *://forum.blackrussia.online/*
@@ -15666,11 +15658,6 @@
 *://hrfrqfu.cn/*
 *://hs-partner.hamburg/*
 *://htmi-training.com/*
-*://http--www--f-i-a--or--jp.proxy.xmmc.edu.cn/*
-*://http--wwwcms--pref--fukushima--jp.proxy.xmmc.edu.cn/*
-*://https--jp--ch--com.proxy.zghaq.gov.cn/*
-*://https--www--nihonkiin--or--jp.proxy.xuyi.gov.cn/*
-*://https.support.apple.com.443z74d3.www.weinan.gov.cn.ipv6.weinan.gov.cn/*
 *://hu60.cn/*
 *://hub-luv.com/*
 *://hueyacces.com/*
@@ -16055,7 +16042,6 @@
 *://jankara.me/*
 *://janotraining.com/*
 *://japamart.com/*
-*://japan-0-cnet-0-com.proxy.guilin.gov.cn/*
 *://japan-claude.com/*
 *://japan-doujin.itaspo.com/*
 *://japan-expressvpn.com/*
@@ -16072,7 +16058,6 @@
 *://japanero.jp/*
 *://japanese-archery.hateblo.jp/*
 *://japanese.cri.cn/*
-*://japanknowledge-com-443.webvpn.zisu.edu.cn/*
 *://japanlivestream.com/*
 *://japannewsnavi.com/*
 *://japanshopping.org/*
@@ -16896,7 +16881,6 @@
 *://leancrete.com/*
 *://learn-lens.com/*
 *://learn.corporate.ef.com/*
-*://learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://learn.slot42.online/*
 *://learnandbless.com/*
 *://learnandlearn.net/*
@@ -19974,7 +19958,6 @@
 *://poundtimes.com/*
 *://povo.jp/service/nudge-data-bonus/
 *://powakitchen.site/*
-*://powerplatform.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://powertee.com/*
 *://pp-crd.co/*
 *://ppgo.org/*
@@ -21518,17 +21501,8 @@
 *://supjav-debut.com/*
 *://supjav.jp/*
 *://supo-tu-fan.com/*
-*://support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn/*
-*://support--office--com---z3a8dwww--hunan--gov--cn.ipv6.hunan.gov.cn/*
 *://support-mercari.com/*
 *://support.amzdata.cn/*
-*://support.apple.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
-*://support.apple.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
-*://support.apple.ex1.https.443.g2.ipv6.luan.gov.cn/*
-*://support.apple.ex1.https.443.g5.ipv6.czq.gov.cn/*
-*://support.apple.ex1.https.443.ipv6.cqust.edu.cn/*
-*://support.apple.ex1.https.443.ipv6.faw.com.cn/*
-*://support.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
 *://support.aternos.org/hc/*/articles/360050784692-TLauncher-Minecraft-Java-Edition*
 *://support.avast.com/*
 *://support.avg.com/*
@@ -21536,16 +21510,6 @@
 *://support.conoha.jp/*
 *://support.google.com/youtube/thread/169769517/youtube-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E5%8B%95%E7%94%BB-%E9%9D%9E%E8%A1%A8%E7%A4%BA?*
 *://support.google.com/youtube/thread/258637969/*
-*://support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
-*://support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
-*://support.microsoft.ex1.https.443.g10.ipv6.rongan.gov.cn/*
-*://support.microsoft.ex1.https.443.g3.ipv6.lbq.gov.cn/*
-*://support.microsoft.ex1.https.443.g5.ipv6.czq.gov.cn/*
-*://support.microsoft.ex1.https.443.g9.ipv6.luzhai.gov.cn/*
-*://support.microsoft.ex1.https.443.ipv6.faw.com.cn/*
-*://support.microsoft.ex1.https.443.ipv6.jiangmen.gov.cn/*
-*://support.microsoft.ex1.ipv6.cosl.com.cn/*
-*://support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn/*
 *://support.millenvpn.jp/*
 *://support.myqnapcloud.cn/*
 *://support.qr-code-generator.com/*
@@ -22880,11 +22844,6 @@
 *://wwpersonalitytest.com/*
 *://wwrbbuk.bar/*
 *://wwv-fmovies.com/*
-*://www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn/*
-*://www--cn--emb-japan--go--jp.proxy.xmmc.edu.cn/*
-*://www--gaga--co--jp.proxy.shstvc.com.cn/*
-*://www-facultyfocus-ex1-https-443-g0.gues.edu.cn/*
-*://www-linkedin-com-443.webvpn.scu.edu.cn/*
 *://www-westjr.rfrjxm.com/*
 *://www-xblock-checker2026.pages.dev/*
 *://www.011789.xyz/*
@@ -23066,8 +23025,6 @@
 *://www.appbank.net/*
 *://www.appbank.net/app-rank/useful/vpn-app*
 *://www.appbrain.com/*
-*://www.apple.com.https.443.362d2d3a6e.a.proxy1.ipv6.xiangtan.gov.cn/*
-*://www.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
 *://www.apple.info/*
 *://www.appps.jp/*
 *://www.appsloveworld.com/*
@@ -24097,11 +24054,6 @@
 *://www.micasita.fr/*.htm
 *://www.michelesantarsiere.it/*
 *://www.micolla.co.jp/*
-*://www.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
-*://www.microsoft.ex1.https.443.g1.ipv6.liunan.gov.cn/*
-*://www.microsoft.ex1.https.443.g6.ipv6.rongshui.gov.cn/*
-*://www.microsoft.ex1.https.443.ipv6.zhuhai.gov.cn/*
-*://www.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn/*
 *://www.microsofthup.ru/*
 *://www.microsoftimagine.ru/*
 *://www.microsoftstore.com.cn/*
