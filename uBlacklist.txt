@@ -1,3 +1,8 @@
+*://github.com/pingdotgg/*
+*://t3.codes/*
+*://t3code.org/*
+*://app.t3.codes/*
+*://note.com/kazu_t/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
