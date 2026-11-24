@@ -1,8 +1,3 @@
-*://github.com/pingdotgg/*
-*://t3.codes/*
-*://t3code.org/*
-*://app.t3.codes/*
-*://note.com/kazu_t/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -11843,6 +11838,7 @@
 *://app.lastpass.com/*
 *://app.sendright.jp/*
 *://app.sensortower.com/*
+*://app.t3.codes/*
 *://app.wefi.co/*
 *://app1r.com/*
 *://app4-ai.com/*
@@ -14874,6 +14870,7 @@
 *://github.com/nutterplayer7093/*
 *://github.com/parth56uygh/*
 *://github.com/pedrodg28/*
+*://github.com/pingdotgg/*
 *://github.com/revanced-apks/build-apps/*
 *://github.com/tehcneko/*
 *://github.com/thongthaibm/*
@@ -18788,6 +18785,7 @@
 *://note.com/kaz_kashiwagi/*
 *://note.com/kazu8a8/*
 *://note.com/kazu_feelin/*
+*://note.com/kazu_t/*
 *://note.com/kazumi_muraki/*
 *://note.com/kchan_blog/*
 *://note.com/kei_job/*
@@ -21578,6 +21576,8 @@
 *://t.spnews5.me/*
 *://t2-3d.jp/*
 *://t2m.io/*
+*://t3.codes/*
+*://t3code.org/*
 *://t3n.me/*
 *://ta-see.com/*
 *://taa-channel.com/*

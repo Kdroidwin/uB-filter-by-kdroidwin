@@ -1207,6 +1207,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||app.net27.cc/*.apk$document
 ||app.sendright.jp^$document
 ||app.sensortower.com^$document
+||app.t3.codes^$document
 ||app.wefi.co^$document
 ||app1r.com^$document
 ||app4-ai.com^$document
@@ -4277,6 +4278,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||github.com/nutterplayer7093^$document
 ||github.com/parth56uygh^$document
 ||github.com/pedrodg28^$document
+||github.com/pingdotgg^$document
 ||github.com/PolyMC^$document
 ||github.com/revanced-apks/build-apps^$document
 ||github.com/TabooPlanner^$document
@@ -8256,6 +8258,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu8a8^$document
 ||note.com/kazu_feelin^$document
+||note.com/kazu_t^$document
 ||note.com/kazumi_muraki^$document
 ||note.com/kchan_blog^$document
 ||note.com/kei_job^$document
@@ -11149,6 +11152,8 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||t.spnews5.me^$document
 ||t2-3d.jp^$document
 ||t2m.io^$document
+||t3.codes^$document
+||t3code.org^$document
 ||t3n.me^$document
 ||ta-see.com^$document
 ||taa-channel.com^$document
