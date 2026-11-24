@@ -53,8 +53,11 @@
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||pjt-knowledge.firebaseapp.com^
 ||dns.google^
+||stun.l.google.com^
+
 
 ||getlinkinfo.com^
+||xtracloud.net^
 
 ||appsflyer.com^
 ||appsflyersdk.com^
