@@ -1,11 +1,3 @@
-*://harutobook.com/*
-*://harutofisheries.com/*
-*://trip-navigate.com/*
-*://harutoevaluation.com/*
-*://recycle-hyouban.com/*
-*://bizharuto.com/*
-*://harutoteach.com/*
-*://marinesportsblog.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12334,6 +12326,7 @@
 *://biz.moneyforward.com/*
 *://biz.tunag.jp/*
 *://bizdatainsights.com/*
+*://bizharuto.com/*
 *://bizx.chatwork.com/*
 *://bizzapps.ru/*
 *://bjnnlxx.cn/*
@@ -15287,11 +15280,15 @@
 *://harurino.com/*
 *://harusan8.com/*
 *://haruto-satou.com/*
+*://harutobook.com/*
+*://harutoevaluation.com/*
+*://harutofisheries.com/*
 *://harutone.com/*
 *://harutonote.com/*
 *://harutoreputation.com/*
 *://harutosahouweb.com/*
 *://harutosatou.com/*
+*://harutoteach.com/*
 *://haryu-korea.net/*
 *://hasegen.com/*
 *://hasihirocap.com/*
@@ -17406,6 +17403,7 @@
 *://marimon5050.com/*
 *://marin-mattari-life.com/*
 *://marina-school.ru/*
+*://marinesportsblog.com/*
 *://maririnpoko.com/*
 *://marke-blog.com/*
 *://marketplacetec.com/*
@@ -20280,6 +20278,7 @@
 *://recommend-travel.com/*
 *://recommendationvod.com/*
 *://recovery-power123.com/*
+*://recycle-hyouban.com/*
 *://redautumn.art/*
 *://redbarnetungdom.dk/*
 *://redblade-movie.com/*
@@ -22182,6 +22181,7 @@
 *://triedp0s.ev0lverinc.com/*
 *://trinity-box.com/*
 *://trip-italy.com/*
+*://trip-navigate.com/*
 *://trivia-and-know-how-notes.com/*
 *://trivialicious.online/*
 *://trk.stylist.co.uk/*

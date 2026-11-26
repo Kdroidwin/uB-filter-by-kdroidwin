@@ -1698,6 +1698,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||biz.moneyforward.com^$document
 ||biz.tunag.jp^$document
 ||bizdatainsights.com^$document
+||bizharuto.com^$document
 ||bizx.chatwork.com^$document
 ||bizzapps.ru^$document
 ||bjnnlxx.cn^$document
@@ -4696,11 +4697,15 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||harurino.com^$document
 ||harusan8.com^$document
 ||haruto-satou.com^$document
+||harutobook.com^$document
+||harutoevaluation.com^$document
+||harutofisheries.com^$document
 ||harutone.com^$document
 ||harutonote.com^$document
 ||harutoreputation.com^$document
 ||harutosahouweb.com^$document
 ||harutosatou.com^$document
+||harutoteach.com^$document
 ||haryu-korea.net^$document
 ||hasegen.com^$document
 ||hasihirocap.com^$document
@@ -6852,6 +6857,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||marimon5050.com^$document
 ||marin-mattari-life.com^$document
 ||marina-school.ru^$document
+||marinesportsblog.com^$document
 ||maririnpoko.com^$document
 ||marke-blog.com^$document
 ||marketplacetec.com^$document
@@ -9780,6 +9786,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||recommend-travel.com^$document
 ||recommendationvod.com^$document
 ||recovery-power123.com^$document
+||recycle-hyouban.com^$document
 ||redautumn.art^$document
 ||redbarnetungdom.dk^$document
 ||redblade-movie.com^$document
@@ -11775,6 +11782,7 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||triedp0s.ev0lverinc.com^$document
 ||trinity-box.com^$document
 ||trip-italy.com^$document
+||trip-navigate.com^$document
 ||trivia-and-know-how-notes.com^$document
 ||trivialicious.online^$document
 ||trk.stylist.co.uk^$document
