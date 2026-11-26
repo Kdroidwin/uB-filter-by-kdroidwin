@@ -1,3 +1,11 @@
+*://harutobook.com/*
+*://harutofisheries.com/*
+*://trip-navigate.com/*
+*://harutoevaluation.com/*
+*://recycle-hyouban.com/*
+*://bizharuto.com/*
+*://harutoteach.com/*
+*://marinesportsblog.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
