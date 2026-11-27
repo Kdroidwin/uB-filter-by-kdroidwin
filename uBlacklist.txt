@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/amiotsuka/*
-*://www.amiotsuka.com/*
-*://arpokrat.com/*
-*://www.amiotsuka.com/*
-*://hundreds.co.jp/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
 *://*.3deroge.com/*
@@ -11947,6 +11942,7 @@
 *://arosyfuture.net/*
 *://around-topics.net/*
 *://aroundfortylife.net/*
+*://arpokrat.com/*
 *://arquidiocesisd.org/*
 *://arrow-steel-f4f.notion.site/*
 *://art.team-lab.cn/*
@@ -15685,6 +15681,7 @@
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
 *://humi.jp/*
+*://hundreds.co.jp/*
 *://hungryz.app/*
 *://hunting4gold.com/*
 *://hunyuanvideo.org/*
@@ -18540,6 +18537,7 @@
 *://note.com/amagitsune/*
 *://note.com/amasuki/*
 *://note.com/amazon_sale_now/*
+*://note.com/amiotsuka/*
 *://note.com/anatato_jp/*
 *://note.com/androiddimension/*
 *://note.com/androidgeek
@@ -23003,6 +23001,7 @@
 *://www.amazon.co.jp/stores/YA-MAN%E3%83%A4%E3%83%BC%E3%83%9E%E3%83%B3/*
 *://www.amazon.com/stores/KINUJO/*
 *://www.amigolibreria.com/*
+*://www.amiotsuka.com/*
 *://www.amjad.xyz/*
 *://www.amourinteriors.in/*
 *://www.analytiqs.io/*
