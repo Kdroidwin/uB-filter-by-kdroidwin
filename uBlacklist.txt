@@ -1,5 +1,3 @@
-*://doujinworks.net/*
-*://chiisanaimai.jp/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
@@ -12798,6 +12796,7 @@
 *://chii-memo.com/*
 *://chiiki-sousei.com/*
 *://chiirosan.com/*
+*://chiisanaimai.jp/*
 *://chikanyanta.com/*
 *://chikiyasuibuki1104.com/*
 *://chikiyumi12.com/*
@@ -13606,6 +13605,7 @@
 *://doujinsokuhou45.com/*
 *://doujinsukebeinu.com/*
 *://doujinwiki.com/*
+*://doujinworks.net/*
 *://doukaiko.jp/*
 *://doutera.com/*
 *://douyasu.blog.jp/*
