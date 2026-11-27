@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://note.com/amiotsuka/*
 *://www.amiotsuka.com/*
+*://arpokrat.com/*
+*://www.amiotsuka.com/*
 *://hundreds.co.jp/*
 *://*.16892.net/*
 *://*.2d-adb.com/*
