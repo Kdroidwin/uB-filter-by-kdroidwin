@@ -9324,7 +9324,6 @@ ziperto.com##button[style*="background-color: rgb(0, 191, 230)"]
 ||pirorinsensei.com^$document
 ||pistiloaccesorios.com^$document
 ||pittsburghdancexplosion.com^$document
-||pixabay.com^$document
 ||pixel-leaker.com^$document
 ||pixela.co.jp^$document
 ||pixelgamingrealm.com^$document
